@@ -25,63 +25,70 @@
             "title": [
                 "Whether there is a habit in the body?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that there is not a habit in the body. For, as the Commentator says (De Anima iii), \"a habit is that  whereby we act when we will.\" But bodily actions are not subject to the will, since they are natural. Therefore there can be no habit in the body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, all bodily dispositions are easy to change. But habit is a quality, difficult to change. Therefore no bodily disposition can be a habit."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, all bodily dispositions are subject to change. But change can only be in the third species of quality, which is divided against habit. Therefore there is no habit in the body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This objection runs in the sense of habit as a disposition to operation, and of those actions of the body which are from nature: but not in the sense of those actions which proceed from the soul, and the principle of which is the will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Bodily dispositions are not simply difficult to change on account of the changeableness of their bodily causes. But they may be difficult to change by comparison to such a subject, because, to wit, as long as such a subject endures, they cannot be removed; or because they are difficult to change, by comparison to other dispositions. But qualities of the soul are simply difficult to change, on account of the unchangeableness of the subject. And therefore he does not say that health which is difficult to change is a habit simply: but that it is \"as a habit,\" as we read in the Greek [*{isos hexin} (Categor. viii)]. On the other hand, the qualities of the soul are called habits simply."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Bodily dispositions which are in the first species of quality, as some maintained, differ from qualities of the third species, in this, that the qualities of the third species consist in some \"becoming\" and movement, as it were, wherefore they are called passions or passible qualities. But when they have attained to perfection (specific perfection, so to speak), they have then passed into the first species of quality. But Simplicius in his Commentary disapproves of this; for in this way heating would be in the third species, and heat in the first species of quality; whereas Aristotle puts heat in the third.",
                         "Wherefore Porphyrius, as Simplicius reports (Commentary), says that passion or passion-like quality, disposition and habit, differ in bodies by way of intensity and remissness. For when a thing receives heat in this only that it is being heated, and not so as to be able to give heat, then we have passion, if it is transitory; or passion-like quality if it is permanent. But when it has been brought to the point that it is able to heat something else, then it is a disposition; and if it goes so far as to be firmly fixed and to become difficult to change, then it will be a habit: so that disposition would be a certain intensity of passion or passion-like quality, and habit an intensity or disposition. But Simplicius disapproves of this, for such intensity and remissness do not imply diversity on the part of the form itself, but on the part of the diverse participation thereof by the subject; so that there would be no diversity among the species of quality. And therefore we must say otherwise that, as was explained above (Question [49], Article [2], ad 1), the adjustment of the passion-like qualities themselves, according to their suitability to nature, implies the notion of disposition: and so, when a change takes place in these same passion-like qualities, which are heat and cold, moisture and dryness, there results a change as to sickness and health. But change does not occur in regard to like habits and dispositions, primarily and of  themselves."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -101,62 +108,69 @@
             "title": [
                 "Whether the soul is the subject of habit in respect of its essence or in respect of its power?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that habit is in the soul in respect of its essence rather than in respect of its powers. For we speak of dispositions and habits in relation to nature, as stated above (Question [49], Article [2]). But nature regards the essence of the soul rather than the powers; because it is in respect of its essence that the soul is the nature of such a body and the form thereof. Therefore habits are in the soul in respect of its essence and not in respect of its powers."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, accident is not the subject of accident. Now habit is an accident. But the powers of the soul are in the genus of accident, as we have said in the FP, Question [77], Article [1], ad 5. Therefore habit is not in the soul in respect of its powers."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the subject is prior to that which is in the subject. But since habit belongs to the first species of quality, it is prior to power, which belongs to the second species. Therefore habit is not in a power of the soul as its subject."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The essence of the soul belongs to human nature, not as a subject requiring to be disposed to something further, but as a form and nature to which someone is disposed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Accident is not of itself the subject of accident. But since among accidents themselves there is a certain order, the subject, according as it is under one accident, is conceived as the subject of a further accident. In this way we say that one accident is the subject of another; as superficies is the subject of color, in which sense power is the subject of habit."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Habit takes precedence of power, according as it implies a disposition to nature: whereas power always implies a relation to operation, which is posterior, since nature is the principle of operation. But the habit whose subject is a power, does not imply relation to nature, but to operation. Wherefore it is posterior to power. Or, we may say that habit takes precedence of power, as the complete takes precedence of the incomplete, and as act takes precedence of potentiality. For act is naturally prior to potentiality, though potentiality is prior in order of generation and time, as stated in Metaph. vii, text. 17; ix, text. 13."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -175,63 +189,70 @@
             "title": [
                 "Whether there can be any habits in the powers of the sensitive parts?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that there cannot be any habits in the powers of the sensitive part. For as the nutritive power is an irrational part, so is the sensitive power. But there can be no habits in the powers of the nutritive part. Therefore we ought not to put any habit in the powers of the sensitive part."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the sensitive parts are common to us and the brutes. But there are not any habits in brutes: for in them there is no will, which is put in the definition of habit, as we have said above (Question [49], Article [3]). Therefore there are no habits in the sensitive powers."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the habits of the soul are sciences and virtues: and just as science is related to the apprehensive power, so it virtue related to the appetitive power. But in the sensitive powers there are no sciences: since science is of universals, which the sensitive powers cannot apprehend. Therefore, neither can there be habits of virtue in the sensitive part."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The powers of the nutritive part have not an inborn aptitude to obey the command of reason, and therefore there are no habits in them. But the sensitive powers have an inborn aptitude to obey the command of reason; and therefore habits can be in them: for in so far as they obey reason, in a certain sense they are said to be rational, as stated in Ethic. i, 13."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The sensitive powers of dumb animals do not act at the command of reason; but if they are left to themselves, such animals act from natural instinct: and so in them there are no habits ordained to operations. There are in them, however, certain dispositions in relation to nature, as health and beauty. But whereas by man's reason brutes are disposed by a sort of custom to do things in this or that way, so in this sense, to a certain extent, we can admit the existence of habits in dumb animals: wherefore Augustine says (Questions. lxxxiii, qu. 36): \"We find the most untamed beasts, deterred by fear of pain, from that wherein they took the keenest pleasure; and when this has become a custom in them, we say that they are tame and gentle.\" But the habit is incomplete, as to the use of the will, for they have not that power of using or of refraining, which seems to belong to the notion of habit: and therefore, properly speaking, there can be no habits in them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The sensitive appetite has an inborn aptitude to be moved by the rational appetite, as stated in De Anima iii, text. 57: but the rational powers of apprehension have an inborn aptitude to receive from the sensitive powers. And therefore it is more suitable that habits should be in the powers of sensitive appetite than in the powers of sensitive apprehension, since in the powers of sensitive appetite habits do not exist except according as they act at the command of the reason. And yet even in the interior powers of sensitive apprehension, we may admit of certain habits whereby man has a facility of memory, thought or imagination: wherefore also the Philosopher says (De Memor. et Remin. ii) that \"custom conduces much to a good memory\": the reason of which is that these powers also are moved to act at the command of the reason.",
                         "On the other hand the exterior apprehensive powers, as sight, hearing and the like, are not susceptible of habits, but are ordained to their fixed acts, according to the disposition of their nature, just as the members of the body, for there are no habits in them, but rather in the powers which command their movements."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -249,63 +270,70 @@
             "title": [
                 "Whether there is any habit in the intellect?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that there are no habits in the intellect. For habits are in conformity with operations, as stated above (Article [1]). But the operations of man are common to soul and body, as stated in De Anima i, text. 64. Therefore also are habits. But the intellect is not an act of the body (De Anima iii, text. 6).  Therefore the intellect is not the subject of a habit."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, whatever is in a thing, is there according to the mode of that in which it is. But that which is form without matter, is act only: whereas what is composed of form and matter, has potentiality and act at the same time. Therefore nothing at the same time potential and actual can be in that which is form only, but only in that which is composed of matter and form. Now the intellect is form without matter. Therefore habit, which has potentiality at the same time as act, being a sort of medium between the two, cannot be in the intellect; but only in the \"conjunction,\" which is composed of soul and body."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, habit is a disposition whereby we are well or ill disposed in regard to something, as is said (Metaph. v, text. 25). But that anyone should be well or ill disposed to an act of the intellect is due to some disposition of the body: wherefore also it is stated (De Anima ii, text. 94) that \"we observe men with soft flesh to be quick witted.\" Therefore the habits of knowledge are not in the intellect, which is separate, but in some power which is the act of some part of the body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Some said, as Simplicius reports in his Commentary on the Predicaments, that, since every operation of man is to a certain extent an operation of the \"conjunctum,\" as the Philosopher says (De Anima i, text. 64); therefore no habit is in the soul only, but in the \"conjunctum.\" And from this it follows that no habit is in the intellect, for the intellect is separate, as ran the argument, given above. But the argument is no cogent. For habit is not a disposition of the object to the power, but rather a disposition of the power to the object: wherefore the habit needs to be in that power which is principle of the act, and not in that which is compared to the power as its object.",
                         "Now the act of understanding is not said to be common to soul and body, except in respect of the phantasm, as is stated in De Anima, text. 66. But it is clear that the phantasm is compared as object to the passive intellect (De Anima iii, text. 3,39). Whence it follows that the intellective habit is chiefly on the part of the intellect itself; and not on the part of the phantasm, which is common to soul and body. And therefore we must say that the \"possible\" intellect is the subject of habit, which is in potentiality to many: and this belongs, above all, to the \"possible\" intellect. Wherefore the \"possible\" intellect is the subject of intellectual habits."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: As potentiality to sensible being belongs to corporeal matter, so potentiality to intellectual being belongs to the \"possible\" intellect. Wherefore nothing forbids habit to be in the \"possible\" intellect, for it is midway between pure potentiality and perfect act."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Because the apprehensive powers inwardly prepare their proper objects for the \"possible intellect,\" therefore it is by the good disposition of these powers, to which the good disposition of the body cooperates, that man is rendered apt to understand. And so in a secondary way the intellective habit can be in these powers. But principally it is in the \"possible\" intellect."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -324,62 +352,69 @@
             "title": [
                 "Whether any habit is in the will?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that there is not a habit in the will. For the habit which is in the intellect is the intelligible species, by means of which the intellect actually understands. But the will does not act by means of species. Therefore the will is not the subject of habit."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, no habit is allotted to the active intellect,  as there is to the \"possible\" intellect, because the former is an active power. But the will is above all an active power, because it moves all the powers to their acts, as stated above (Question [9], Article [1]). Therefore there is no habit in the will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, in the natural powers there is no habit, because, by reason of their nature, they are determinate to one thing. But the will, by reason of its nature, is ordained to tend to the good which reason directs. Therefore there is no habit in the will."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Even as in the intellect there is a species which is the likeness of the object; so in the will, and in every appetitive power there must be something by which the power is inclined to its object; for the act of the appetitive power is nothing but a certain inclination, as we have said above (Question [6], Article [4]; Question [22], Article [2]). And therefore in respect of those things to which it is inclined sufficiently by the nature of the power itself, the power needs no quality to incline it. But since it is necessary, for the end of human life, that the appetitive power be inclined to something fixed, to which it is not inclined by the nature of the power, which has a relation to many and various things, therefore it is necessary that, in the will and in the other appetitive powers, there be certain qualities to incline them, and these are called habits."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The active intellect is active only, and in no way passive. But the will, and every appetitive power, is both mover and moved (De Anima iii, text. 54). And therefore the comparison between them does not hold; for to be susceptible of habit belongs to that which is somehow in potentiality."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The will from the very nature of the power inclined to the good of the reason. But because this good is varied in many ways, the will needs to be inclined, by means of a habit, to some fixed good of the reason, in order that action may follow more promptly."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -397,62 +432,69 @@
             "title": [
                 "Whether there are habits in the angels?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that there are no habits in the angels. For Maximus, commentator of Dionysius (Coel. Hier. vii), says: \"It is not proper to suppose that there are intellectual (i.e. spiritual) powers in the divine intelligences (i.e. in the angels) after the manner of accidents, as in us: as though one were in the other as in a subject: for accident of any kind is foreign to them.\" But every habit is an accident. Therefore there are no habits in the angels."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, as Dionysius says (Coel. Hier. iv): \"The holy dispositions of the heavenly essences participate, above all other things, in God's goodness.\" But that which is of itself [per se] is prior to and more power than that which is by another [per aliud]. Therefore the angelic essences are perfected of themselves unto conformity with God, and therefore not by means of habits. And this seems to have been the reasoning of Maximus, who in the same passage adds: \"For if this were the case, surely their essence would not remain in itself, nor could it have been as far as possible deified of itself.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, habit is a disposition (Metaph. v, text. 25). But disposition, as is said in the same book, is \"the order of that which has parts.\" Since, therefore, angels are simple substances, it seems that there are no dispositions and habits in them."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This saying of Maximus must be understood of material habits and accidents."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: As to that which belongs to angels by their essence, they do not need a habit. But as they are not so far beings of themselves, as not to partake of Divine wisdom and goodness, therefore, so far as they need to partake of something from without, so far do they need to have habits."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: In angels there are no essential parts: but there are potential parts, in so far as their intellect is perfected by several species, and in so far as their will has a relation to several things."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

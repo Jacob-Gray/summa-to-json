@@ -29,73 +29,81 @@
             "title": [
                 "Whether almsgiving is an act of charity?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that almsgiving is not an act of charity. For without charity one cannot do acts of charity. Now it is possible to give alms without having charity, according to 1 Cor. 13:3: \"If I should distribute all my goods to feed the poor . . . and have not charity, it profiteth me nothing.\" Therefore  almsgiving is not an act of charity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, almsdeeds are reckoned among works of satisfaction, according to Dan. 4:24: \"Redeem thou thy sins with alms.\" Now satisfaction is an act of justice. Therefore almsgiving is an act of justice and not of charity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the offering of sacrifices to God is an act of religion. But almsgiving is offering a sacrifice to God, according to Heb. 13:16: \"Do not forget to do good and to impart, for by such sacrifices God's favor is obtained.\" Therefore almsgiving is not an act of charity, but of religion."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, the Philosopher says (Ethic. iv, l) that to give for a good purpose is an act of liberality. Now this is especially true of almsgiving. Therefore almsgiving is not an act of charity."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: An act of virtue may be taken in two ways: first materially, thus an act of justice is to do what is just; and such an act of virtue can be without the virtue, since many, without having the habit of justice, do what is just, led by the natural light of reason, or through fear, or in the hope of gain. Secondly, we speak of a thing being an act of justice formally, and thus an act of justice is to do what is just, in the same way as a just man, i.e. with readiness and delight, and such an act of virtue cannot be without the virtue.",
                         "Accordingly almsgiving can be materially without charity, but to give alms formally, i.e. for God's sake, with delight and readiness, and altogether as one ought, is not possible without charity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Nothing hinders the proper elicited act of one virtue being commanded by another virtue as commanding it and directing it to this other virtue's end. It is in this way that almsgiving is reckoned among works of satisfaction in so far as  pity for the one in distress is directed to the satisfaction for his sin; and in so far as it is directed to placate God, it has the character of a sacrifice, and thus it is commanded by religion.",
                         "Wherefore the Reply to the Third Objection is evident."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: Almsgiving belongs to liberality, in so far as liberality removes an obstacle to that act, which might arise from excessive love of riches, the result of which is that one clings to them more than one ought."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -113,9 +121,9 @@
             "title": [
                 "Whether the different kinds of almsdeeds are suitably enumerated?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
@@ -123,72 +131,81 @@
                         "Objection 1: It would seem that the different kinds of almsdeeds are unsuitably enumerated. For we reckon seven corporal almsdeeds, namely, to feed the hungry, to give drink to the thirsty, to clothe the naked, to harbor the harborless, to visit the sick, to ransom the captive, to bury the dead; all of which are expressed in the following verse: \"To visit, to quench, to feed, to ransom, clothe, harbor or bury.\"",
                         "Again we reckon seven spiritual alms, namely, to instruct the ignorant, to counsel the doubtful, to comfort the sorrowful, to reprove the sinner, to forgive injuries, to bear with those who trouble and annoy us, and to pray for all, which are all contained in the following verse: \"To counsel, reprove, console, to pardon, forbear, and to pray,\" yet so that counsel includes both advice and instruction.",
                         "And it seems that these various almsdeeds are unsuitably enumerated. For the purpose of almsdeeds is to succor our neighbor. But a dead man profits nothing by being buried, else Our Lord would not have spoken truly when He said (Mt. 10:28): \"Be not afraid of them who kill the body, and after that have no more that they can do.\" [*The quotation is from Lk. 12:4.] This explains why Our Lord, in enumerating the works of mercy, made no mention of the burial of the dead (Mt. 25:35,36). Therefore it seems that these almsdeeds are unsuitably enumerated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, as stated above (Article [1]), the purpose of giving alms is to relieve our neighbor's need. Now there are many needs of human life other than those mentioned above, for instance, a blind man needs a leader, a lame man needs someone to lean on, a poor man needs riches. Therefore these almsdeeds are unsuitably enumerated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, almsgiving is a work of mercy. But the reproof of the wrong-doer savors, apparently, of severity rather than of mercy. Therefore it ought not to be reckoned among the spiritual almsdeeds."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, almsgiving is intended for the supply of a defect. But no man is without the defect of ignorance in some matter or other. Therefore, apparently, each one ought to instruct  anyone who is ignorant of what he knows himself."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Burial does not profit a dead man as though his body could be capable of perception after death. In this sense Our Lord said that those who kill the body \"have no more that they can do\"; and for this reason He did not mention the burial of the dead with the other works of mercy, but those only which are more clearly necessary. Nevertheless it does concern the deceased what is done with his body: both that he may live in the memory of man whose respect he forfeits if he remain without burial, and as regards a man's fondness for his own body while he was yet living, a fondness which kindly persons should imitate after his death. It is thus that some are praised for burying the dead, as Tobias, and those who buried Our Lord; as Augustine says (De Cura pro Mort. iii)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: All other needs are reduced to these, for blindness and lameness are kinds of sickness, so that to lead the blind, and to support the lame, come to the same as visiting the sick. In like manner to assist a man against any distress that is due to an extrinsic cause comes to the same as the ransom of captives. And the wealth with which we relieve the poor is sought merely for the purpose of relieving the aforesaid needs: hence there was no reason for special mention of this particular need."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The reproof of the sinner, as to the exercise of the act of reproving, seems to imply the severity of justice, but, as to the intention of the reprover, who wishes to free a man from the evil of sin, it is an act of mercy and lovingkindness, according to Prov. 27:6: \"Better are the wounds of a friend, than the deceitful kisses of an enemy.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: Nescience is not always a defect, but only when it is about what one ought to know, and it is a part of almsgiving to supply this defect by instruction. In doing this however we should observe the due circumstances of persons, place and time, even as in other virtuous acts."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -207,63 +224,70 @@
             "title": [
                 "Whether corporal alms are of more account than spiritual alms?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that corporal alms are of more account than spiritual alms. For it is more praiseworthy to give an alms to one who is in greater want, since an almsdeed is to be praised because it relieves one who is in need. Now the body which is relieved by corporal alms, is by nature more needy than the spirit which is relieved by spiritual alms. Therefore corporal alms are of more account."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, an alms is less praiseworthy and meritorious if the kindness is compensated, wherefore Our Lord says (Lk. 14:12): \"When thou makest a dinner or a supper, call not thy neighbors who are rich, lest perhaps they also invite thee again. Now there is always compensation in spiritual almsdeeds, since he who prays for another, profits thereby, according to Ps. 34:13: \"My prayer shall be turned into my bosom: and he who teaches another, makes progress in knowledge, which cannot be said of corporal almsdeeds. Therefore corporal almsdeeds are of more account than spiritual almsdeeds."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, an alms is to be commended if the needy one is comforted by it: wherefore it is written (Job 31:20): \"If his sides have not blessed me,\" and the Apostle says to Philemon (verse 7): \"The bowels of the saints have been refreshed by thee, brother.\" Now a corporal alms is sometimes more welcome to a needy man than a spiritual alms. Therefore bodily almsdeeds are of more account than spiritual almsdeeds."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: It is better to give to one who is in greater want, other things being equal, but if he who is less needy is better, and is in want of better things, it is better to give to him: and it is thus in the case in point."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Compensation does not detract from merit and praise if it be not intended, even as human glory, if not intended, does not detract from virtue. Thus Sallust says of Cato (Catilin.), that \"the less he sought fame, the more he became famous\": and thus it is with spiritual almsdeeds.",
                         "Nevertheless the intention of gaining spiritual goods does not detract from merit, as the intention of gaining corporal goods."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The merit of an almsgiver depends on that in which the will of the recipient rests reasonably, and not on that in which it rests when it is inordinate."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -282,62 +306,69 @@
             "title": [
                 "Whether corporal almsdeeds have a spiritual effect?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that corporal almsdeeds have not a spiritual effect. For no effect exceeds its cause. But spiritual goods exceed corporal goods. Therefore corporal almsdeeds have no spiritual effect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the sin of simony consists in giving the corporal for the spiritual, and it is to be utterly avoided. Therefore one ought not to give alms in order to receive a spiritual effect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, to multiply the cause is to multiply the effect. If therefore corporal almsdeeds cause a spiritual effect, the greater the alms, the greater the spiritual profit, which is contrary to what we read (Lk. 21:3) of the widow who cast two brass mites into the treasury, and in Our Lord's own words \"cast in more than . . . all.\" Therefore bodily almsdeeds have no spiritual effect."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This argument considers corporal almsdeeds as to their substance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: He who gives an alms does rot intend to buy a spiritual thing with a corporal thing, for he knows that spiritual things infinitely surpass corporal things, but he intends to merit a spiritual fruit through the love of charity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The widow who gave less in quantity, gave more in proportion; and thus we gather that the fervor of her charity, whence corporal almsdeeds derive their spiritual efficacy, was greater."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -356,80 +387,89 @@
             "title": [
                 "Whether almsgiving is a matter of precept?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that almsgiving is not a matter of precept. For the counsels are distinct from the precepts. Now almsgiving is a matter of counsel, according to Dan. 4:24: \"Let my counsel be acceptable to the King; [Vulg.: 'to thee, and'] redeem thou thy sins with alms.\" Therefore almsgiving is not a matter of precept."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, it is lawful for everyone to use and to keep what is his own. Yet by keeping it he will not give alms. Therefore it is lawful not to give alms: and consequently almsgiving is not a matter of precept."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, whatever is a matter of precept binds the transgressor at some time or other under pain of mortal sin, because positive precepts are binding for some fixed time. Therefore, if almsgiving were a matter of precept, it would be possible to point to some fixed time when a man would commit a mortal sin unless he gave an alms. But it does not appear how this can be so, because it can always be deemed probable that the person in need can be relieved in some other way, and that what we would spend in almsgiving might be needful to ourselves either now or in some future time. Therefore it seems that almsgiving is not a matter of precept."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, every commandment is reducible to the precepts of the Decalogue. But these precepts contain no reference to almsgiving. Therefore almsgiving is not a matter of precept."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Daniel spoke to a king who was not subject to God's Law, wherefore such things as were prescribed by the Law which he did not profess, had to be counselled to him. Or he may have been speaking in reference to a case in which almsgiving was not a matter of precept."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The temporal goods which God grants us, are ours as to the ownership, but as to the use of them, they belong not to us alone but also to such others as we are able to succor out of what we have over and above our needs. Hence Basil says [*Hom. super Luc. xii, 18]: \"If you acknowledge them,\" viz. your temporal goods, \"as coming from God, is He unjust because He apportions them unequally? Why are you rich while another is poor, unless it be that you may have the merit of a good stewardship, and he the reward of patience? It is the hungry man's bread that you withhold, the naked man's cloak that you have stored away, the shoe of the  barefoot that you have left to rot, the money of the needy that you have buried underground: and so you injure as many as you might help.\" Ambrose expresses himself in the same way."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: There is a time when we sin mortally if we omit to give alms; on the part of the recipient when we see that his need is evident and urgent, and that he is not likely to be succored otherwise---on the part of the giver, when he has superfluous goods, which he does not need for the time being, as far as he can judge with probability. Nor need he consider every case that may possibly occur in the future, for this would be to think about the morrow, which Our Lord forbade us to do (Mt. 6:34), but he should judge what is superfluous and what necessary, according as things probably and generally occur."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: All succor given to our neighbor is reduced to the precept about honoring our parents. For thus does the Apostle interpret it (1 Tim. 4:8) where he says: \"Dutifulness* [Douay: 'Godliness'] is profitable to all things, having promise of the life that now is, and of that which is to come,\" and he says this because the precept about honoring our parents contains the promise, \"that thou mayest be longlived upon the land\" (Ex. 20:12): and dutifulness comprises all kinds of almsgiving. [*\"Pietas,\" whence our English word \"Piety.\" Cf. also inf. Question [101], Article [2].]"
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "counter": [
@@ -449,33 +489,37 @@
             "title": [
                 "Whether one ought to give alms out of what one needs?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that one ought not to give alms out of what one needs. For the order of charity should be observed not only as regards the effect of our benefactions but also as regards our interior affections. Now it is a sin to contravene the order of charity, because this order is a matter of precept. Since, then, the order of charity requires that a man should love himself more than his neighbor, it seems that he would sin if he deprived himself of what he needed, in order to succor his neighbor."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, whoever gives away what he needs himself, squanders his own substance, and that is to be a prodigal, according to the Philosopher (Ethic. iv, 1). But no sinful deed should be done. Therefore we should not give alms out of what we need."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the Apostle says (1 Tim. 5:8): \"If any man have not care of his own, and especially of those of his house, he hath denied the faith, and is worse than an infidel.\" Now if a man gives of what he needs for himself or for his charge, he seems to detract from the care he should have for himself or his charge. Therefore it seems that whoever gives alms from what he needs, sins gravely."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {},
@@ -496,62 +540,69 @@
             "title": [
                 "Whether one may give alms out of ill-gotten goods?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that one may give alms out of ill-gotten goods. For it is written (Lk. 16:9): \"Make unto you friends of the mammon of iniquity.\" Now mammon signifies riches. Therefore it is lawful to make unto oneself spiritual friends by giving alms out of ill-gotten riches."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, all filthy lucre seems to be ill-gotten. But the profits from whoredom are filthy lucre; wherefore it was forbidden (Dt. 23:18) to offer therefrom sacrifices or oblations to God: \"Thou shalt not offer the hire of a strumpet . . . in the house of . . . thy God.\" In like manner gains from games of chance are ill-gotten, for, as the Philosopher says (Ethic. iv, 1), \"we take such like gains from our friends to whom we ought rather to give.\" And most of all are the profits from simony ill-gotten, since thereby the Holy Ghost is wronged. Nevertheless out of such gains it is lawful to give alms. Therefore one may give alms out of ill-gotten goods."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, greater evils should be avoided more than lesser evils. Now it is less sinful to keep back another's property than to commit murder, of which a man is guilty if he fails to succor one who is in extreme need, as appears from the words of Ambrose who says (Cf. Canon Pasce dist. lxxxvi, whence the words, as quoted, are taken): \"Feed him that dies of hunger, if thou hast not fed him, thou hast slain him\". Therefore, in certain cases, it is lawful to give alms of ill-gotten goods."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As Augustine says (De Verb. Dom. 2), \"Some have misunderstood this saying of Our Lord, so as to take another's  property and give thereof to the poor, thinking that they are fulfilling the commandment by so doing. This interpretation must be amended. Yet all riches are called riches of iniquity, as stated in De Quaest. Ev. ii, 34, because \"riches are not unjust save for those who are themselves unjust, and put all their trust in them. Or, according to Ambrose in his commentary on Lk. 16:9, \"Make unto yourselves friends,\" etc., \"He calls mammon unjust, because it draws our affections by the various allurements of wealth.\" Or, because \"among the many ancestors whose property you inherit, there is one who took the property of others unjustly, although you know nothing about it,\" as Basil says in a homily (Hom. super Luc. A, 5). Or, all riches are styled riches \"of iniquity,\" i.e., of \"inequality,\" because they are not distributed equally among all, one being in need, and another in affluence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: We have already explained how alms may be given out of the profits of whoredom. Yet sacrifices and oblations were not made therefrom at the altar, both on account of the scandal, and through reverence for sacred things. It is also lawful to give alms out of the profits of simony, because they are not due to him who paid, indeed he deserves to lose them. But as to the profits from games of chance, there would seem to be something unlawful as being contrary to the Divine Law, when a man wins from one who cannot alienate his property, such as minors, lunatics and so forth, or when a man, with the desire of making money out of another man, entices him to play, and wins from him by cheating. In these cases he is bound to restitution, and consequently cannot give away his gains in alms. Then again there would seem to be something unlawful as being against the positive civil law, which altogether forbids any such profits. Since, however, a civil law does not bind all, but only those who are subject to that law, and moreover may be abrogated through desuetude, it follows that all such as are bound by these laws are bound to make restitution of such gains, unless perchance the contrary custom prevail, or unless a man win from one who enticed him to play, in which case he is not bound to restitution, because the loser does not deserve to be paid back: and yet he cannot lawfully keep what he has won, so long as that positive law is in force, wherefore in this case he ought to give it away in alms."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: All things are common property in a case of extreme necessity. Hence one who is in such dire straits may take another's goods in order to succor himself, if he can find no one who is willing to give him something. For the same reason a man may retain what belongs to another, and give alms thereof; or even take something if there be no other way of succoring the one who is in need. If however this be possible without danger, he must ask the owner's consent, and then succor the poor man who is in extreme necessity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -571,71 +622,79 @@
             "title": [
                 "Whether one who is under another's power can give alms?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that one who is under another's power can  give alms. For religious are under the power of their prelates to whom they have vowed obedience. Now if it were unlawful for them to give alms, they would lose by entering the state of religion, for as Ambrose [*The quotation is from the works of Ambrosiaster. Cf. Index to ecclesiastical authorities quoted by St. Thomas] says on 1 Tim. 4:8: \"'Dutifulness [Douay: 'godliness'] is profitable to all things': The sum total of the Christian religion consists in doing one's duty by all,\" and the most creditable way of doing this is to give alms. Therefore those who are in another's power can give alms."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, a wife is under her husband's power (Gn. 3:16). But a wife can give alms since she is her husband's partner; hence it is related of the Blessed Lucy that she gave alms without the knowledge of her betrothed [*\"Sponsus\" The matrimonial institutions of the Romans were so entirely different from ours that \"sponsus\" is no longer accurately rendered either \"husband\" or \"betrothed.\"] Therefore a person is not prevented from giving alms, by being under another's power."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the subjection of children to their parents is founded on nature, wherefore the Apostle says (Eph. 6:1): \"Children, obey your parents in the Lord.\" But, apparently, children may give alms out of their parents' property. For it is their own, since they are the heirs; wherefore, since they can employ it for some bodily use, it seems that much more can they use it in giving alms so as to profit their souls. Therefore those who are under another's power can give alms."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, servants are under their master's power, according to Titus 2:9: \"Exhort servants to be obedient to their masters.\" Now they may lawfully do anything that will profit their masters: and this would be especially the case if they gave alms for them. Therefore those who are under another's power can give alms."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: If a monk be dispensed through being commissioned by his superior, he can give alms from the property of his monaster, in accordance with the terms of his commission; but if he has no such dispensation, since he has nothing of his own, he cannot give alms without his abbot's permission either express or presumed for some probable reason: except in a case of extreme necessity, when it would be lawful for him to commit a theft in order to give an alms. Nor does it follow that he is worse off than before, because, as stated in De Eccles. Dogm. lxxi, \"it is a good thing to give one's property to the poor little by little, but it is better still to give all at once in order to follow Christ, and being freed from care, to be needy with Christ.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: A wife, who has other property besides her dowry which is for the support of the burdens of marriage, whether that property be gained by her own industry or by any other lawful means, can give alms, out of that property, without asking her husband's permission: yet such alms should be moderate, lest through giving too much she impoverish her husband. Otherwise she ought not to give alms without the express or presumed consent of her husband, except in cases of necessity as stated, in the case of a monk, in the preceding Reply. For though the wife be her husband's equal in the marriage act, yet in matters of housekeeping, the head of the woman is the man, as the Apostle says (1 Cor. 11:3). As regards Blessed Lucy, she had a betrothed, not a husband, wherefore she could give alms with her mother's consent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: What belongs to the children belongs also to the father: wherefore the child cannot give alms, except in such small quantity that one may presume the father to be willing: unless, perchance, the father authorize his child to dispose of any particular property. The same applies to servants. Hence the Reply to the Fourth Objection is clear."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [
@@ -654,62 +713,69 @@
             "title": [
                 "Whether one ought to give alms to those rather who are more closely united to us?"
             ],
+            "id": 9,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that one ought not to give alms to those rather who are more closely united to us. For it is written (Ecclus. 12:4,6): \"Give to the merciful and uphold not the sinner . . . Do good to the humble and give not to the ungodly.\" Now it happens sometimes that those who are closely united to us are sinful and ungodly. Therefore we ought not to give alms to them in preference to others."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, alms should be given that we may receive an eternal reward in return, according to Mt. 6:18: \"And thy Father Who seeth in secret, will repay thee.\" Now the eternal reward is gained chiefly by the alms which are given to the saints, according  to Lk. 16:9: \"Make unto you friends of the mammon of iniquity, that when you shall fail, they may receive you into everlasting dwellings, which passage Augustine expounds (De Verb. Dom. xxxv, 1): \"Who shall have everlasting dwellings unless the saints of God? And who are they that shall be received by them into their dwellings, if not those who succor them in their needs? Therefore alms should be given to the more holy persons rather than to those who are more closely united to us."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, man is more closely united to himself. But a man cannot give himself an alms. Therefore it seems that we are not bound to give alms to those who are most closely united to us."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: We ought not to help a sinner as such, that is by encouraging him to sin, but as man, that is by supporting his nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Almsdeeds deserve on two counts to receive an eternal reward. First because they are rooted in charity, and in this respect an almsdeed is meritorious in so far as it observes the order of charity, which requires that, other things being equal, we should, in preference, help those who are more closely connected with us. Wherefore Ambrose says (De Officiis i, 30): \"It is with commendable liberality that you forget not your kindred, if you know them to be in need, for it is better that you should yourself help your own family, who would be ashamed to beg help from others.\" Secondly, almsdeeds deserve to be rewarded eternally, through the merit of the recipient, who prays for the giver, and it is in this sense that Augustine is speaking."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Since almsdeeds are works of mercy, just as a man does not, properly speaking, pity himself, but only by a kind of comparison, as stated above (Question [30], Articles [1],2), so too, properly speaking, no man gives himself an alms, unless he act in another's person; thus when a man is appointed to distribute alms, he can take something for himself, if he be in want, on the same ground as when he gives to others."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "counter": [
@@ -727,63 +793,70 @@
             "title": [
                 "Whether alms should be given in abundance?"
             ],
+            "id": 10,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that alms should not be given in abundance. For we ought to give alms to those chiefly who are most closely connected with us. But we ought not to give to them in such a way that they are likely to become richer thereby, as Ambrose says (De Officiis i, 30). Therefore neither should we give abundantly to others."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Ambrose says (De Officiis i, 30): \"We should not lavish our wealth on others all at once, we should dole it out by degrees.\" But to give abundantly is to give lavishly. Therefore alms should not be given in abundance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the Apostle says (2 Cor. 8:13): \"Not that others should be eased,\" i.e. should live on you without working themselves, \"and you burthened,\" i.e. impoverished. But this would be the result if alms were given in abundance. Therefore we ought not to give alms abundantly."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 10
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This argument considers abundance of alms as exceeding the needs of the recipient."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The passage quoted considers abundance of alms on the part of the giver; but the sense is that God does not wish a man to lavish all his wealth at once, except when he changes his state of life, wherefore he goes on to say: \"Except we imitate Eliseus who slew his oxen and fed the poor with what he had, so that no household cares might keep him back\" (3 Kgs. 19:21)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: In the passage quoted the words, \"not that others should be eased or refreshed,\" refer to that abundance of alms  which surpasses the need of the recipient, to whom one should give alms not that he may have an easy life, but that he may have relief. Nevertheless we must bring discretion to bear on the matter, on account of the various conditions of men, some of whom are more daintily nurtured, and need finer food and clothing. Hence Ambrose says (De Officiis i, 30): \"When you give an alms to a man, you should take into consideration his age and his weakness; and sometimes the shame which proclaims his good birth; and again that perhaps he has fallen from riches to indigence through no fault of his own.\"",
                         "With regard to the words that follow, \"and you burdened,\" they refer to abundance on the part of the giver. Yet, as a gloss says on the same passage, \"he says this, not because it would be better to give in abundance, but because he fears for the weak, and he admonishes them so to give that they lack not for themselves.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 10
                 }
             },
             "counter": [

@@ -27,62 +27,69 @@
             "title": [
                 "Whether fraternal correction is an act of charity?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that fraternal correction is not an act of charity. For a gloss on Mt. 18:15, \"If thy brother shall offend against thee,\" says that \"a man should reprove his brother out of zeal for justice.\" But justice is a distinct virtue from charity. Therefore fraternal correction is an act, not of charity, but of justice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, fraternal correction is given by secret admonition. Now admonition is a kind of counsel, which is an act of prudence, for a prudent man is one who is of good counsel (Ethic. vi, 5). Therefore fraternal correction is an act, not of charity, but of prudence."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, contrary acts do not belong to the same virtue. Now it is an act of charity to bear with a sinner, according to Gal. 6:2: \"Bear ye one another's burdens, and so you shall fulfil the law of Christ,\" which is the law of charity. Therefore it seems that the correction of a sinning brother, which is contrary to bearing with him, is not an act of charity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This gloss speaks of the second correction which is an act of justice. Or if it speaks of the first correction, then it takes justice as denoting a general virtue, as we shall state further on (Question [58], Article [5]), in which sense again all \"sin is iniquity\" (1 Jn. 3:4), through being contrary to justice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: According to the Philosopher (Ethic. vi, 12), prudence regulates whatever is directed to the end, about which things counsel and choice are concerned. Nevertheless when, guided by prudence, we perform some action aright which is directed to the end of some virtue, such as temperance or fortitude, that action belongs chiefly to the virtue to whose end it is directed. Since, then, the admonition which is given in fraternal correction is directed to the removal of a brother's sin, which removal pertains to charity, it is evident that this admonition is chiefly an act of charity, which virtue commands it, so to speak, but secondarily an act of prudence, which executes and directs the action."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Fraternal correction is not opposed to forbearance with the weak, on the contrary it results from it. For a man bears with a sinner, in so far as he is not disturbed against him, and retains his goodwill towards him: the result being that he strives to make him do better."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -101,65 +108,71 @@
             "title": [
                 "Whether fraternal correction is a matter of precept?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that fraternal correction is not a matter of precept. For nothing impossible is a matter of precept, according to the saying of Jerome [*Pelagius, Expos. Symb. ad Damas]: \"Accursed be he who says that God has commanded any. thing impossible.\" Now it is written (Eccles. 7:14): \"Consider the works of God, that no man can correct whom He hath despised.\" Therefore fraternal correction is not a matter of precept."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, all the precepts of the Divine Law are reduced to the precepts of the Decalogue. But fraternal correction does not come under any precept of the Decalogue. Therefore it is not a matter of precept."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the omission of a Divine precept is a mortal sin, which has no place in a holy man. Yet holy and spiritual men are found to omit fraternal correction: since Augustine says (De Civ. Dei i, 9): \"Not only those of low degree, but also those of high position, refrain from reproving others, moved by a guilty cupidity, not by the claims of charity.\" Therefore fraternal correction is not a matter of precept."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, whatever is a matter of precept is something due. If, therefore, fraternal correction is a matter of precept, it is due to our brethren that we correct them when they sin. Now when a man owes anyone a material due, such as the payment of a sum of money, he must not be content that his creditor come to him, but he should seek him out, that he may pay him his due. Hence we should have to go seeking for those who need correction, in order that we might correct them; which appears to be inconvenient, both on account of the great number of sinners, for whose correction one man could not suffice, and because religious would have to leave the cloister in order to reprove men, which would be unbecoming. Therefore fraternal correction is not a matter of precept."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: In all good deeds man's action is not efficacious without the Divine assistance: and yet man must do what is in his power. Hence Augustine says (De Correp. et Gratia xv): \"Since we ignore who is predestined and who is not, charity should so guide our feelings, that we wish all to be saved.\" Consequently we ought to do our brethren the kindness of correcting them, with the hope of God's help."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: As stated above (Question [32], Article [5], ad 4), all the precepts about rendering service to our neighbor are reduced to the precept about the honor due to parents."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
@@ -168,16 +181,19 @@
                         "First, meritoriously, when out of charity one omits to correct someone. For Augustine says (De Civ. Dei i, 9): \"If a man refrains from chiding and reproving wrongdoers, because he awaits a suitable time for so doing, or because he fears lest, if he does so, they may become worse, or hinder, oppress, or turn away from the faith, others who are weak and need to be instructed in a life of goodness and virtue, this does not seem to result from covetousness, but to be counselled by charity.\"",
                         "Secondly, fraternal correction may be omitted in such a way that one commits a mortal sin, namely, \"when\" (as he says in the same passage) \"one fears what people may think, or lest one may suffer grievous pain or death; provided, however, that the mind is so dominated by such things, that it gives them the preference to fraternal charity.\" This would seem to be the case when a man reckons that he might probably withdraw some wrongdoer from sin, and yet omits to do so, through fear or covetousness.",
                         "Thirdly, such an omission is a venial sin, when through fear or covetousness, a man is loth to correct his brother's faults, and yet not to such a degree, that if he saw clearly that he could withdraw him from sin, he would still forbear from so doing, through fear or covetousness, because in his own mind he prefers  fraternal charity to these things. It is in this way that holy men sometimes omit to correct wrongdoers."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: We are bound to pay that which is due to some fixed and certain person, whether it be a material or a spiritual good, without waiting for him to come to us, but by taking proper steps to find him. Wherefore just as he that owes money to a creditor should seek him, when the time comes, so as to pay him what he owes, so he that has spiritual charge of some person is bound to seek him out, in order to reprove him for a sin. On the other hand, we are not bound to seek someone on whom to bestow such favors as are due, not to any certain person, but to all our neighbors in general, whether those favors be material or spiritual goods, but it suffices that we bestow them when the opportunity occurs; because, as Augustine says (De Doctr. Christ. i, 28), we must look upon this as a matter of chance. For this reason he says (De Verb. Dom. xvi, 1) that \"Our Lord warns us not to be listless in regard of one another's sins: not indeed by being on the lookout for something to denounce, but by correcting what we see\": else we should become spies on the lives of others, which is against the saying of Prov. 24:19: \"Lie not in wait, nor seek after wickedness in the house of the just, nor spoil his rest.\" It is evident from this that there is no need for religious to leave their cloister in order to rebuke evil-doers."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -195,62 +211,69 @@
             "title": [
                 "Whether fraternal correction belongs only to prelates?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that fraternal correction belongs to prelates alone. For Jerome [*Origen, Hom. vii in Joan.] says: \"Let priests endeavor to fulfil this saying of the Gospel: 'If thy brother sin against thee,'\" etc. Now prelates having charge of others were usually designated under the name of priests. Therefore it seems that fraternal correction belongs to prelates alone."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, fraternal correction is a spiritual alms. Now corporal almsgiving belongs to those who are placed above others in temporal matters, i.e. to the rich. Therefore fraternal correction belongs to those who are placed above others in spiritual matters, i.e. to prelates."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, when one man reproves another he moves him by his rebuke to something better. Now in the physical order the inferior is moved by the superior. Therefore in the order of virtue also, which follows the order of nature, it belongs to prelates alone to correct inferiors."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Even as regards that fraternal correction which is common to all, prelates have a grave responsibility, as Augustine says (De Civ. Dei i, 9): \"for just as a man ought to bestow temporal favors on those especially of whom he has temporal care, so too ought he to confer spiritual favors, such as correction, teaching and the like, on those who are entrusted to his spiritual care.\" Therefore Jerome does not mean that the precept of fraternal correction concerns priests only, but that it concerns them chiefly."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Just as he who has the means wherewith to give corporal assistance is rich in this respect, so he whose reason is gifted with a sane judgment, so as to be able to correct another's wrong-doing, is, in this respect, to be looked on as a superior."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Even in the physical order certain things act mutually on one another, through being in some respect higher than one another, in so far as each is somewhat in act, and somewhat in potentiality with regard to another. In like manner one man can correct another in so far as he has a sane judgment in a matter wherein the other sins, though he is not his superior simply."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -269,62 +292,69 @@
             "title": [
                 "Whether a mann is bound to correct his prelate?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that no man is bound to correct his prelate. For it is written (Ex. 19:12): \"The beast that shall touch the mount shall be stoned,\" [*Vulg.: 'Everyone that shall touch the mount, dying he shall die.'] and (2 Kgs. 6:7) it is related that the Lord struck Oza for touching the ark. Now the mount and the ark signify our prelates. Therefore prelates should not be corrected by their subjects."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, a gloss on Gal. 2:11, \"I withstood him to the face,\" adds: \"as an equal.\" Therefore, since a subject is not equal to his prelate, he ought not to correct him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, Gregory says (Moral. xxiii, 8) that \"one ought not to presume to reprove the conduct of holy men, unless one thinks better of oneself.\" But one ought not to think better of oneself than of one's prelate. Therefore one ought not to correct one's prelate."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: It would seem that a subject touches his prelate inordinately when he upbraids him with insolence, as also when he speaks ill of him: and this is signified by God's condemnation of those who touched the mount and the ark."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: To withstand anyone in public exceeds the mode of fraternal correction, and so Paul would not have withstood Peter then, unless he were in some way his equal as regards the defense of the faith. But one who is not an equal can reprove privately and respectfully. Hence the Apostle in writing to the Colossians (4:17) tells them to admonish their prelate: \"Say to Archippus: Fulfil thy ministry [*Vulg.: 'Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.' Cf. 2 Tim. 4:5].\" It must be observed, however, that if the faith were endangered, a subject ought to rebuke his prelate even publicly. Hence Paul, who was Peter's subject, rebuked him in public, on account of the imminent danger of scandal concerning faith, and, as the gloss of Augustine says on Gal. 2:11, \"Peter gave an example to superiors, that if at any time they should happen to stray from the straight path, they should not disdain to be reproved by their subjects.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: To presume oneself to be simply better than one's prelate, would seem to savor of presumptuous pride; but there is no presumption in thinking oneself better in some respect, because, in this life, no man is without some fault. We must also remember that when a man reproves his prelate charitably, it does not follow that he thinks himself any better, but merely that he offers his help to one who, \"being in the higher position among you, is therefore in  greater danger,\" as Augustine observes in his Rule quoted above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -343,33 +373,37 @@
             "title": [
                 "Whether a sinner ought to reprove a wrongdoer?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a sinner ought to reprove a wrongdoer. For no man is excused from obeying a precept by having committed a sin. But fraternal correction is a matter of precept, as stated above (Article [2]). Therefore it seems that a man ought not to forbear from such like correction for the reason that he has committed a sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, spiritual almsdeeds are of more account than corporal almsdeeds. Now one who is in sin ought not to abstain from administering corporal alms. Much less therefore ought he, on account of a previous sin, to refrain from correcting wrongdoers."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it is written (1 Jn. 1:8): \"If we say that we have no sin, we deceive ourselves.\" Therefore if, on account of a sin, a man is hindered from reproving his brother, there will be none to reprove the wrongdoer. But the latter proposition is unreasonable: therefore the former is also."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {},
@@ -391,62 +425,69 @@
             "title": [
                 "Whether one ought to forbear from correcting someone, through fear lest he become worse?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that one ought not to forbear from correcting someone through fear lest he become worse. For sin is weakness of the soul, according to Ps. 6:3: \"Have mercy on me, O Lord, for I am weak.\" Now he that has charge of a sick person, must not cease to take care of him, even if he be fractious or contemptuous, because then the danger is greater, as in the case of madmen. Much more, therefore should one correct a sinner, no matter how badly he takes it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, according to Jerome vital truths are not to be foregone on account of scandal. Now God's commandments are vital truths. Since, therefore, fraternal correction is a matter of precept, as stated above (Article [2]), it seems that it should not be foregone for fear of scandalizing the person to be corrected."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, according to the Apostle (Rm. 3:8) we should not do evil that good may come of it. Therefore, in like manner, good should not be omitted lest evil befall. Now fraternal correction is a good thing. Therefore it should not be omitted for fear lest the person corrected become worse."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The doctor uses force towards a madman, who is unwilling to submit to his treatment; and this may be compared with the correction administered by prelates, which has coercive power, but not with simple fraternal correction."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Fraternal correction is a matter of precept, in so far as it is an act of virtue, and it will be a virtuous act in so far as it is proportionate to the end. Consequently whenever it is a hindrance to the end, for instance when a man becomes worse through it, it is longer a vital truth, nor is it a matter precept."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Whatever is directed to end, becomes good through being directed to the end. Hence whenever fraternal correction hinders the end, namely the amendment of our brother, it is no longer good, so that when such a correction is omitted, good is not omitted lest evil should befall."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -465,98 +506,109 @@
             "title": [
                 "Whether the precept of fraternal correction demands that a private admonition should precede denunciation?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the precept of fraternal correction does not demand that a private admonition should precede denunciation. For, in works of charity, we should above all follow the example of God, according to Eph. 5:1,2: \"Be ye followers of God, as most dear children, and walk in love.\" Now God sometimes punishes a man for a sin, without previously warning him in secret. Therefore it seems that there is no need for a private admonition to precede denunciation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, according to Augustine (De Mendacio xv), we learn from the deeds of holy men how we ought to understand the  commandments of Holy Writ. Now among the deeds of holy men we find that a hidden sin is publicly denounced, without any previous admonition in private. Thus we read (Gn. 37:2) that \"Joseph accused his brethren to his father of a most wicked crime\": and (Acts 5:4,9) that Peter publicly denounced Ananias and Saphira who had secretly \"by fraud kept back the price of the land,\" without beforehand admonishing them in private: nor do we read that Our Lord admonished Judas in secret before denouncing him. Therefore the precept does not require that secret admonition should precede public denunciation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it is a graver matter to accuse than to denounce. Now one may go to the length of accusing a person publicly, without previously admonishing him in secret: for it is decided in the Decretal (Cap. Qualiter, xiv, De Accusationibus) that \"nothing else need precede accusation except inscription.\" [*The accuser was bound by Roman Law to endorse (se inscribere) the writ of accusation. The effect of this endorsement or inscription was that the accuser bound himself, if he failed to prove the accusation, to suffer the same punishment as the accused would have to suffer if proved guilty.] Therefore it seems that the precept does not require that a secret admonition should precede public denunciation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 },
                 "4": {
-                    "id": 4,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, it does not seem probable that the customs observed by religious in general are contrary to the precepts of Christ. Now it is customary among religious orders to proclaim this or that one for a fault, without any previous secret admonition. Therefore it seems that this admonition is not required by the precept."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 7
                 },
                 "5": {
-                    "id": 5,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 5: Further, religious are bound to obey their prelates. Now a prelate sometimes commands either all in general, or someone in particular, to tell him if they know of anything that requires correction. Therefore it would seem that they are bound to tell them this, even before any secret admonition. Therefore the precept does not require secret admonition before public denunciation."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Whatever is hidden, is known to God, wherefore hidden sins are to the judgment of God, just what public sins are to the judgment of man. Nevertheless God does rebuke sinners  sometimes by secretly admonishing them, so to speak, with an inward inspiration, either while they wake or while they sleep, according to Job 33:15-17: \"By a dream in a vision by night, when deep sleep falleth upon men . . . then He openeth the ears of men, and teaching instructeth them in what they are to learn, that He may withdraw a man from the things he is doing.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Our Lord as God knew the sin of Judas as though it were public, wherefore He could have made it known at once. Yet He did not, but warned Judas of his sin in words that were obscure. The sin of Ananias and Saphira was denounced by Peter acting as God's executor, by Whose revelation he knew of their sin. With regard to Joseph it is probable that he warned his brethren, though Scripture does not say so. Or we may say that the sin was public with regard to his brethren, wherefore it is stated in the plural that he accused \"his brethren.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: When there is danger to a great number of people, those words of Our Lord do not apply, because then thy brother does not sin against thee alone."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 },
                 "4": {
-                    "id": 4,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: Proclamations made in the chapter of religious are about little faults which do not affect a man's good name, wherefore they are reminders of forgotten faults rather than accusations or denunciations. If, however, they should be of such a nature as to injure our brother's good name, it would be contrary to Our Lord's precept, to denounce a brother's fault in this manner."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 7
                 },
                 "5": {
-                    "id": 5,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 5: A prelate is not to be obeyed contrary to a Divine precept, according to Acts 5:29: \"We ought to obey God rather then men.\" Therefore when a prelate commands anyone to tell him anything that he knows to need correction, the command rightly understood supports the safeguarding of the order of fraternal correction, whether the command be addressed to all in general, or to some particular individual. If, on the other hand, a prelate were to issue a command in express opposition to this order instituted by Our Lord, both would sin, the one commanding, and the one obeying him, as disobeying Our Lord's command. Consequently he ought not to be obeyed, because a prelate is not the judge of secret things, but God alone is, wherefore he has no power to command anything in respect of hidden matters, except in so far as they are made known through certain signs, as by ill-repute or suspicion; in which cases a prelate can command just as a judge, whether secular or ecclesiastical, can bind a man under oath to tell the truth."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 7
                 }
             },
             "counter": [
@@ -577,80 +629,89 @@
             "title": [
                 "Whether before the public denunciation witnesses ought to be brought forward?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that before the public denunciation witnesses ought not to be brought forward. For secret sins ought not to be made known to others, because by so doing \"a man would  betray his brother's sins instead of correcting them,\" as Augustine says (De Verb. Dom. xvi, 7). Now by bringing forward witnesses one makes known a brother's sin to others. Therefore in the case of secret sins one ought not to bring witnesses forward before the public denunciation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, man should love his neighbor as himself. Now no man brings in witnesses to prove his own secret sin. Neither therefore ought one to bring forward witnesses to prove the secret sin of our brother."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, witnesses are brought forward to prove something. But witnesses afford no proof in secret matters. Therefore it is useless to bring witnesses forward in such cases."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 33,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, Augustine says in his Rule that \"before bringing it to the notice of witnesses . . . it should be put before the superior.\" Now to bring a matter before a superior or a prelate is to tell the Church. Therefore witnesses should not be brought forward before the public denunciation."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Some have understood the order of fraternal correction to demand that we should first of all rebuke our brother secretly, and that if he listens, it is well; but if he listen not, and his sin be altogether hidden, they say that we should go no further in the matter, whereas if it has already begun to reach the ears of several by various signs, we ought to prosecute the matter, according to Our Lord's command. But this is contrary to what Augustine says in his Rule that \"we are bound to reveal\" a brother's sin, if it \"will cause a worse corruption in the heart.\" Wherefore we must say otherwise that when the secret admonition has been given once or several times, as long as there is probable hope of his amendment, we must continue to admonish him in private, but as soon as we are able to judge with any probability that the secret admonition is of no avail, we must take further steps, however secret the sin may be, and call witnesses, unless perhaps it were thought probable that this would not conduce to our brother's amendment, and that he would become worse: because on that account one ought to abstain altogether from correcting him, as stated above (Article [6])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: A man needs no witnesses that he may amend his own sin: yet they may be necessary that we may amend a brother's sin. Hence the comparison fails."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: There may be three reasons for citing witnesses. First, to show that the deed in question is a sin, as Jerome says: secondly, to prove that the deed was done, if repeated, as Augustine says (in his Rule): thirdly, \"to prove that the man who rebuked his brother, has done what he could,\" as Chrysostom says (Hom. in Matth. lx)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 33,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: Augustine means that the matter ought to be made known to the prelate before it is stated to the witnesses, in so far as the prelate is a private individual who is able to be of more use than others, but not that it is to be told him as to the Church, i.e. as holding the position of judge."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 }
             },
             "counter": [

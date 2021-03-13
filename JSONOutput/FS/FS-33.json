@@ -23,62 +23,69 @@
             "title": [
                 "Whether expansion is an effect of pleasure?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that expansion is not an effect of pleasure. For expansion seems to pertain more to love, according to the Apostle (2 Cor. 6:11): \"Our heart is enlarged.\" Wherefore it is written (Ps. 118:96) concerning the precept of charity: \"Thy commandment is exceeding broad.\" But pleasure is a distinct passion from love. Therefore expansion is not an effect of pleasure."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, when a thing expands it is enabled to receive more. But receiving pertains to desire, which is for something not yet possessed. Therefore expansion seems to belong to desire rather than to pleasure."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, contraction is contrary to expansion. But contraction seems to belong to pleasure, for the hand closes on that which we wish to grasp firmly: and such is the affection of appetite in regard to that which pleases it. Therefore expansion does not pertain to pleasure."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: In metaphorical expressions nothing hinders one and the same thing from being attributed to different things according to different likenesses. And in this way expansion pertains to love by reason of a certain spreading out, in so far as the affection of the lover spreads out to others, so as to care, not only for his own interests, but also for what concerns others. On the other hand expansion pertains to pleasure, in so far as a thing becomes more ample in itself so as to become more capacious."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Desire includes a certain expansion arising from the imagination of the thing desired; but this expansion increases at the presence of the pleasurable object: because the mind surrenders itself more to that object when it is already taking pleasure in it, than when it desires it before possessing it; since pleasure is the end of desire."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: He that takes pleasure in a thing holds it fast, by clinging to it with all his might: but he opens his heart to it that he may enjoy it perfectly."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether pleasure causes thirst or desire for itself?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that pleasure does not cause desire for itself. Because all movement ceases when repose is reached. But pleasure is, as it were, a certain repose of the movement of desire, as stated above (Question [23], Article [4]; Question [25], Article [2]). Therefore the movement of desire ceases when pleasure is reached. Therefore pleasure does not cause desire."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, a thing does not cause its contrary. But  pleasure is, in a way, contrary to desire, on the part of the object: since desire regards a good which is not yet possessed, whereas pleasure regards the good that is possessed. Therefore pleasure does not cause desire for itself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, distaste is incompatible with desire. But pleasure often causes distaste. Therefore it does not cause desire."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: When pleasure is perfect, then it includes complete rest; and the movement of desire, tending to what was not possessed, ceases. But when it is imperfect, then the desire, tending to what was not possessed, does not cease altogether."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: That which is possessed imperfectly, is possessed in one respect, and in another respect is not possessed. Consequently it may be the object of desire and pleasure at the same time."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Pleasures cause distaste in one way, desire in another, as stated above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,62 +186,69 @@
             "title": [
                 "Whether pleasure hinders the use of reason?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that pleasure does not hinder the use of reason. Because repose facilitates very much the due use of reason: wherefore the Philosopher says (Phys. vii, 3) that \"while we sit and rest, the soul is inclined to knowledge and prudence\"; and it is written (Wis. 8:16): \"When I go into my house, I shall repose myself with her,\" i.e. wisdom. But pleasure is a kind of repose. Therefore it helps rather than hinders the use of reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, things which are not in the same subject though they be contraries, do not hinder one another. But pleasure is in the appetitive faculty, while the use of reason is in the apprehensive power. Therefore pleasure does not hinder the use of reason."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, that which is hindered by another, seems to be moved, as it were, thereby. But the use of an apprehensive power moves pleasure rather than is moved by it: because it is the cause of pleasure. Therefore pleasure does not hinder the use of reason."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Bodily pleasure implies indeed repose of the appetite in the object of pleasure; which repose is sometimes contrary to reason; but on the part of the body it always implies alteration. And in respect of both points, it hinders the use of reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The powers of the appetite and of apprehension are indeed distinct parts, but belonging to the one soul. Consequently when the soul is very intent on the action of one part, it is hindered from attending to a contrary act of the other part."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The use of reason requires the due use of the imagination and of the other sensitive powers, which are exercised through a bodily organ. Consequently alteration in the body hinders the use of reason, because it hinders the act of the imagination and of the other sensitive powers."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -246,54 +267,60 @@
             "title": [
                 "Whether pleasure perfects operation?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that pleasure does not perfect operation. For every human operation depends on the use of reason. But  pleasure hinders the use of reason, as stated above (Article [3]). Therefore pleasure does not perfect, but weakens human operation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, nothing perfects itself or its cause. But pleasure is an operation (Ethic. vii, 12; x, 4), i.e. either in its essence or in its cause. Therefore pleasure does not perfect operation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 33,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, if pleasure perfects operation, it does so either as end, or as form, or as agent. But not as end; because operation is not sought for the sake of pleasure, but rather the reverse, as stated above (Question [4], Article [2]): nor as agent, because rather is it the operation that causes pleasure: nor again as form, because, according to the Philosopher (Ethic. x, 4), \"pleasure does not perfect operation, as a habit does.\" Therefore pleasure does not perfect operation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: It is not every pleasure that hinders the act of reason, but only bodily pleasure; for this arises, not from the act of reason, but from the act of the concupiscible faculty, which act is intensified by pleasure. On the contrary, pleasure that arises from the act of reason, strengthens the use of reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: As stated in Phys. ii, 3 two things may be causes of one another, if one be the efficient, the other the final cause. And in this way, operation is the efficient cause of pleasure, while pleasure perfects operation by way of final cause, as stated above.",
                         "The Reply to the Third Objection is evident for what has been said."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "counter": [

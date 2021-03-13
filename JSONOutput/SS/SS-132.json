@@ -24,62 +24,69 @@
             "title": [
                 "Whether the desire of glory is a sin?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that the desire of glory is not a sin. For no one sins in being likened to God: in fact we are commanded (Eph. 5:1): \"Be ye . . . followers of God, as most dear children.\" Now by seeking glory man seems to imitate God, Who seeks glory from men: wherefore it is written (Is. 43:6,7): \"Bring My sons from afar, and My daughters from the ends of the earth. And every one that calleth on My name, I have created him for My glory.\" Therefore the desire for glory is not a sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, that which incites a mar to do good is apparently not a sin. Now the desire of glory incites men to do good. For Tully says (De Tusc. Quaest. i) that \"glory inflames every man to strive his utmost\": and in Holy Writ glory is promised for good works, according to Rm. 2:7: \"To them, indeed, who according to patience in good work . . . glory and honor\" [*Vulg.: 'Who will render to every man according to his works, to them indeed who . . . seek glory and honor and incorruption, eternal life.']. Therefore the desire for glory is not a sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, Tully says (De Invent. Rhet. ii) that glory is \"consistent good report about a person, together with praise\": and this comes to the same as what Augustine says (Contra Maximin. iii), viz. that glory is, \"as it were, clear knowledge with praise.\" Now it is no sin to desire praiseworthy renown: indeed, it seems itself to call for praise, according to Ecclus. 41:15, \"Take care of a good name,\" and Rm. 12:17, \"Providing good things not only in the sight of God, but also in the sight of all men.\" Therefore the desire of vainglory is not a sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As Augustine says on Jn. 13:13, \"You call Me Master and Lord; and you say well\" (Tract. lviii in Joan.): \"Self-complacency is fraught with danger of one who has to beware of pride. But He Who is above all, however much He may praise Himself, does not uplift Himself. For knowledge of God is our need, not His: nor does any man know Him unless he be taught of Him Who knows.\" It is therefore evident that God seeks glory, not for His own sake, but for ours. In like manner a man may rightly seek his own glory for the good of others, according to Mt. 5:16, \"That they may see your good works, and glorify your Father Who is in heaven.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: That which we receive from God is not vain but true glory: it is this glory that is promised as a reward for good works, and of which it is written (2 Cor. 10:17,18): \"He that glorieth let him glory in the Lord, for not he who commendeth himself is approved, but he whom God commendeth.\" It is true that some are heartened to do works of virtue, through desire for human glory, as also through the desire for other earthly goods. Yet he is not truly virtuous who does virtuous deeds for the sake of human glory, as Augustine proves (De Civ. Dei v)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: It is requisite for man's perfection that he should know himself; but not that he should be known by others, wherefore it is not to be desired in itself. It may, however, be desired as being useful for something, either in order that God may be glorified by men, or that men may become better by reason of the good they know to be in another man, or in order that man, knowing by the testimony of others' praise the good which is in him, may himself strive to persevere therein and to become better. In this sense it is praiseworthy that a man should \"take care of his good name,\" and that he should \"provide good things in the sight of God and men\": but not that he should take an empty pleasure in human praise."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -99,62 +106,69 @@
             "title": [
                 "Whether vainglory is opposed to magnanimity?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that vainglory is not opposed to magnanimity.  For, as stated above (Article [1]), vainglory consists in glorying in things that are not, which pertains to falsehood; or in earthly and perishable things, which pertains to covetousness; or in the testimony of men, whose judgment is uncertain, which pertains to imprudence. Now these vices are not contrary to magnanimity. Therefore vainglory is not opposed to magnanimity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, vainglory is not, like pusillanimity, opposed to magnanimity by way of deficiency, for this seems inconsistent with vainglory. Nor is it opposed to it by way of excess, for in this way presumption and ambition are opposed to magnanimity, as stated above (Question [130], Article [2]; Question [131], Article [2]): and these differ from vainglory. Therefore vainglory is not opposed to magnanimity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, a gloss on Phil. 2:3, \"Let nothing be done through contention, neither by vainglory,\" says: \"Some among them were given to dissension and restlessness, contending with one another for the sake of vainglory.\" But contention [*Cf. Question [38]] is not opposed to magnanimity. Neither therefore is vainglory."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: To think so much of little things as to glory in them is itself opposed to magnanimity. Wherefore it is said of the magnanimous man (Ethic. iv) that honor is of little account to him. In like manner he thinks little of other things that are sought for honor's sake, such as power and wealth. Likewise it is inconsistent with magnanimity to glory in things that are not; wherefore it is said of the magnanimous man (Ethic. iv) that he cares more for truth than for opinion. Again it is incompatible with magnanimity for a man to glory in the testimony of human praise, as though he deemed this something great; wherefore it is said of the magnanimous man (Ethic. iv), that he cares not to be praised. And so, when a man looks upon little things as though they were great, nothing hinders this from being contrary to magnanimity, as well as to other virtues."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: He that is desirous of vainglory does in truth fall short of being magnanimous, because he glories in what the magnanimous man thinks little of, as stated in the preceding Reply. But if we consider his estimate, he is opposed to the magnanimous  man by way of excess, because the glory which he seeks is something great in his estimation, and he tends thereto in excess of his deserts."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As stated above (Question [127], Article [2], ad 2), the opposition of vices does not depend on their effects. Nevertheless contention, if done intentionally, is opposed to magnanimity: since no one contends save for what he deems great. Wherefore the Philosopher says (Ethic. iv, 3) that the magnanimous man is not contentious, because nothing is great in his estimation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,62 +186,69 @@
             "title": [
                 "Whether vainglory is a mortal sin?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that vainglory is a mortal sin. For nothing precludes the eternal reward except a mortal sin. Now vainglory precludes the eternal reward: for it is written (Mt. 6:1): \"Take heed, that you do not give justice before men, to be seen by them: otherwise you shall not have a reward of your Father Who is in heaven.\" Therefore vainglory is a mortal sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, whoever appropriates to himself that which is proper to God, sins mortally. Now by desiring vainglory, a man appropriates to himself that which is proper to God. For it is written (Is. 42:8): \"I will not give My glory to another,\" and (1 Tim. 1:17): \"To . . . the only God be honor and glory.\" Therefore vainglory is a mortal sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, apparently a sin is mortal if it be most dangerous and harmful. Now vainglory is a sin of this kind, because a gloss of Augustine on 1 Thess. 2:4, \"God, Who proveth our hearts,\" says: \"Unless a man war against the love of human glory he does not perceive its baneful power, for though it be easy for anyone not to desire praise as long as one does not get it, it is difficult not to take pleasure in it, when it is given.\" Chrysostom also says (Hom. xix in Matth.) that \"vainglory enters secretly, and robs us insensibly of all our inward possessions.\" Therefore vainglory is a mortal sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: No man, by sinning, merits eternal life: wherefore a virtuous deed loses its power to merit eternal life, if it be done for the sake of vainglory, even though that vainglory be not a mortal sin. On the other hand when a man loses the eternal reward simply through vainglory, and not merely in respect of one act, vainglory is a mortal sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Not every man that is desirous of vainglory, desires the excellence which belongs to God alone. For the glory due to God alone differs from the glory due to a virtuous or rich man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Vainglory is stated to be a dangerous sin, not only on account of its gravity, but also because it is a disposition to grave sins, in so far as it renders man presumptuous and too self-confident: and so it gradually disposes a man to lose his inward goods."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -247,62 +268,69 @@
             "title": [
                 "Whether vainglory is a capital vice?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that vainglory is not a capital vice. For a vice that always arises from another vice is seemingly not capital. But vainglory always arises from pride. Therefore vainglory is not a capital vice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, honor would seem to take precedence of glory, for this is its effect. Now ambition which is inordinate desire of honor is not a capital vice. Neither therefore is the desire of vainglory."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, a capital vice has a certain prominence. But vainglory seems to have no prominence, neither as a sin, because it is not always a mortal sin, nor considered as an appetible good, since human glory is apparently a frail thing, and is something outside man himself. Therefore vainglory is not a capital vice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: It is not impossible for a capital vice to arise from pride, since as stated above (in the body of the Article and FS, Question [84], Article [2]) pride is the queen and mother of all the vices."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Praise and honor, as stated above (Article [2]), stand in relation to glory as the causes from which it proceeds, so that glory is compared to them as their end. For the reason why a man loves to be honored and praised is that he thinks thereby to acquire a certain renown in the knowledge of others."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Vainglory stands prominent under the aspect of desirability, for the reason given above, and this suffices for it to be reckoned a capital vice. Nor is it always necessary for a capital vice to be a mortal sin; for mortal sin can arise from venial sin, inasmuch as venial sin can dispose man thereto."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -320,62 +348,69 @@
             "title": [
                 "Whether the daughters of vainglory are suitably reckoned to be disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and love of novelties?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that the daughters of vainglory are unsuitably reckoned to be \"disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and eccentricity [*Praesumptio novitatum, literally 'presumption of novelties'].\" For according to Gregory (Moral. xxiii) boastfulness is numbered among the species of pride. Now pride does not arise from vainglory, rather is it the other way about, as Gregory says (Moral. xxxi). Therefore boastfulness should not be reckoned among the daughters of vainglory."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, contention and discord seem to be the outcome chiefly of anger. But anger is a capital vice condivided with vainglory. Therefore it seems that they are not the daughters of vainglory."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, Chrysostom says (Hom. xix in Matth.) that vainglory is always evil, but especially in philanthropy, i.e. mercy. And yet this is nothing new, for it is an established custom among men. Therefore eccentricity should not be specially reckoned as a daughter of vainglory."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As stated above (Question [112], Article [1], ad 2), boasting is reckoned a kind of pride, as regards its interior cause, which is arrogance: but outward boasting, according to Ethic. iv, is directed sometimes to gain, but more often to glory and honor, and thus it is the result of vainglory."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Anger is not the cause of discord and contention, except in conjunction with vainglory, in that a man thinks it a glorious thing for him not to yield to the will and words of others."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 132,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Vainglory is reproved in connection with almsdeeds on account of the lack of charity apparent in one who prefers vainglory to the good of his neighbor, seeing that he does the latter for the sake of the former. But a man is not reproved for presuming to give alms as though this were something novel."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [

@@ -22,80 +22,89 @@
             "title": [
                 "Whether the happiness of the saints will be greater after the judgment than before?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the happiness of the saints will not be greater after the judgment than before. For the nearer a thing approaches to the Divine likeness, the more perfectly does it participate happiness. Now the soul is more like God when separated from the body than when united to it. Therefore its happiness is greater before being reunited to the body than after."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, power is more effective when it is united than when divided. Now the soul is more united when separated from the body than when it is joined to the body. Therefore it has then greater power for operation, and consequently has a more perfect share of happiness, since this consists in action [*Cf. FS, Question [3], Article [2]]."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, beatitude consists in an act of the speculative intellect. Now the intellect, in its act, makes no use of a bodily organ; and consequently by being reunited to the body the soul does not become capable of more perfect understanding. Therefore the soul's happiness is not greater after than before the judgment."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, nothing can be greater than the infinite, and  so the addition of the finite to the infinite does not result in something greater than the infinite by itself. Now the beatified soul before its reunion with the body is rendered happy by rejoicing in the infinite good, namely God; and after the resurrection of the body it will rejoice in nothing else except perhaps the glory of the body, and this is a finite good. Therefore their joy after the resumption of the body will not be greater than before."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The soul united to a glorified body is more like to God than when separated therefrom, in so far as when united it has more perfect being. For the more perfect a thing is the more it is like to God: even so the heart, the perfection of whose life consists in movement, is more like to God while in movement than while at rest, although God is never moved."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: A power which by its own nature is capable of being in matter is more effective when subjected in matter than when separated from matter, although absolutely speaking a power separate from matter is more effective."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Although in the act of understanding the soul does not make use of the body, the perfection of the body will somewhat conduce to the perfection of the intellectual operation in so far as through being united to a glorified body, the soul will be more perfect in its nature, and consequently more effective in its operation, and accordingly the good itself of the body will conduce instrumentally, as it were, to the operation wherein happiness consists: thus the Philosopher asserts (Ethic. i, 8,10) that external goods conduce instrumentally to the happiness of life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Although finite added to infinite does not make a greater thing, it makes more things, since finite and infinite are two things, while infinite taken by itself is one. Now the greater extent of joy regards not a greater thing but more things. Wherefore joy is increased in extent, through referring to God and to the body's glory, in comparison with the joy which referred to God. Moreover, the body's glory will conduce to the intensity of the joy that refers to God, in so far as it will conduce to the more perfect operation whereby the soul tends to God: since the more perfect is a becoming operation, the greater the delight [*Cf. FS, Question [32], Article [1]], as stated in Ethic. x, 8."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -114,62 +123,69 @@
             "title": [
                 "Whether the degrees of beatitude should be called mansions?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the degrees of beatitude should not be called mansions. For beatitude implies the notion of a reward: whereas mansion denotes nothing pertaining to a reward. Therefore the various degrees of beatitude should not be called mansions."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, mansion seemingly denotes a place. Now the  place where the saint will be beatified is not corporeal but spiritual, namely God Who is one. Therefore there is but one mansion: and consequently the various degrees of beatitude should not be called mansions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, as in heaven there will be men of various merits, so are there now in purgatory, and were in the limbo of the fathers. But various mansions are not distinguished in purgatory and limbo. Therefore in like manner neither should they be distinguished in heaven."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Mansion implies the notion of end and consequently of reward which is the end of merit."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Though there is one spiritual place, there are different degrees of approaching thereto: and the various mansions correspond to these."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Those who were in limbo or are now in purgatory have not yet attained to their end. Wherefore various mansions are not distinguished in purgatory or limbo, but only in heaven and hell, wherein is the end of the good and of the wicked."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -188,62 +204,69 @@
             "title": [
                 "Whether the various mansions are distinguished according to the  various degrees of charity?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the various mansions are not distinguished according to the various degrees of charity. For it is written (Mt. 25:15): \"He gave to every one according to his proper virtue [Douay: 'ability'].\" Now the proper ability of a thing is its natural power. Therefore the gifts also of grace and glory are distributed according to the different degrees of natural power."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is written (Ps. 61:12): \"Thou wilt render to every man according to his works.\" Now that which is rendered is the measure of beatitude. Therefore the degrees of beatitude are distinguished according to the diversity of works and not according to the diversity of charity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, reward is due to act and not to habit: hence \"it is not the strongest who are crowned but those who engage in the conflict\" (Ethic. i, 8) and \"he . . . shall not be [Vulg.: 'is not'] crowned except he strive lawfully.\" Now beatitude is a reward. Therefore the various degrees of beatitude will be according to the various degrees of works and not according to the various degrees of charity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: In this passage \"virtue\" denotes not the natural ability alone, but the natural ability together with the endeavour to obtain grace [*Cf. SS, Question [23], Article [8]]. Consequently virtue in this sense will be a kind of material disposition to the measure of grace and glory that one will receive. But charity is the formal complement of merit in relation to glory, and therefore the distinction of degrees in glory depends on the degrees of charity rather than on the degrees of the aforesaid virtue."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Works in themselves do not demand the payment of a reward, except as informed by charity: and therefore the various degrees of glory will be according to the various degrees of charity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Although the habit of charity or of any virtue whatever is not a merit to which a reward is due, it is none the less the principle and reason of merit in the act: and consequently according to its diversity is the diversity of rewards. This does not prevent our observing a certain degree of merit in the act considered generically, not indeed in relation to the essential reward which is joy in God, but in relation to some accidental reward, which is joy in some created good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [

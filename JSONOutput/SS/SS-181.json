@@ -23,63 +23,70 @@
             "title": [
                 "Whether all the actions of the moral virtues pertain to the active life?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the acts of the moral virtues do not all pertain to the active life. For seemingly the active life regards only our relations with other persons: hence Gregory says (Hom. xiv in Ezech.) that \"the active life is to give bread to the hungry,\" and after mentioning many things that regard our relations with other people he adds finally, \"and to give to each and every one whatever he needs.\" Now we are directed in our relations to others, not by all the acts of moral virtues, but only by those of justice and its parts, as stated above (Question [58], Articles [2],8; FS, Question [60], Articles [2],3). Therefore the acts of the moral virtues do not all pertain to the active life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Gregory says (Hom. xiv in Ezech.) that Lia who was blear-eyed but fruitful signifies the active life: which \"being occupied with work, sees less, and yet since it urges one's neighbor both by word and example to its imitation it begets a numerous offspring of good deeds.\" Now this would seem to belong to charity, whereby we love our neighbor, rather than to the moral virtues. Therefore seemingly the acts of moral virtue do not pertain to the active life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, as stated above (Question [180], Article [2]), the moral virtues dispose one to the contemplative life. Now disposition and perfection belong to the same thing. Therefore it would seem that the moral virtues do not pertain to the active life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The chief of the moral virtues is justice by which one man is directed in his relations towards another, as the  Philosopher proves (Ethic. v, 1). Hence the active life is described with reference to our relations with other people, because it consists in these things, not exclusively, but principally."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: It is possible, by the acts of all the moral virtues, for one to direct one's neighbor to good by example: and this is what Gregory here ascribes to the active life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Even as the virtue that is directed to the end of another virtue passes, as it were, into the species of the latter virtue, so again when a man makes use of things pertaining to the active life, merely as dispositions to contemplation, such things are comprised under the contemplative life. On the other hand, when we practice the works of the moral virtues, as being good in themselves, and not as dispositions to the contemplative life, the moral virtues belong to the active life.",
                         "It may also be replied, however, that the active life is a disposition to the contemplative life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,62 +105,69 @@
             "title": [
                 "Whether prudence pertains to the active life?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that prudence does not pertain to the active life. For just as the contemplative life belongs to the cognitive power, so the active life belongs to the appetitive power. Now prudence belongs not to the appetitive but to the cognitive power. Therefore prudence does not belong to the active life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Gregory says (Hom. xiv in Ezech.) that the \"active life being occupied with work, sees less,\" wherefore it is signified by Lia who was blear-eyed. But prudence requires clear eyes, so that one may judge aright of what has to be done. Therefore it seems that prudence does not pertain to the active life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, prudence stands between the moral and the intellectual virtues. Now just as the moral virtues belong to the active life, as stated above (Article [1]), so do the intellectual virtues pertain to the contemplative life. Therefore it would seem that prudence pertains neither to the active nor to the contemplative life, but to an intermediate kind of life, of which Augustine makes mention (De Civ. Dei xix, 2,3,19)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Moral works take their species from their end, as stated above (FS, Question [18], Articles [4],6), wherefore the knowledge pertaining to the contemplative life is that which has its end in the very knowledge of truth; whereas the knowledge of prudence, through having its end in an act of the appetitive power, belongs to the active life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: External occupation makes a man see less in intelligible things, which are separated from sensible objects with which the works of the active life are concerned. Nevertheless the external occupation of the active life enables a man to see more clearly in judging of what is to be done, which belongs to prudence, both on account of experience, and on account of the mind's attention, since \"brains avail when the mind is attentive\" as Sallust observes [*Bell. Catilin., LI]."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Prudence is said to be intermediate between the intellectual and the moral virtues because it resides in the same subject as the intellectual virtues, and has absolutely the same matter as the moral virtues. But this third kind of life is intermediate between the active and the contemplative life as regards the things about which it is occupied, because it is occupied sometimes with the contemplation of the truth, sometimes with eternal things."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,62 +186,69 @@
             "title": [
                 "Whether teaching is a work of the active or of the contemplative life?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that teaching is a work not of the active but of the contemplative life. For Gregory says (Hom. v in Ezech.) that \"the perfect who have been able to contemplate heavenly goods, at least through a glass, proclaim them to their brethren, whose minds they inflame with love for their hidden beauty.\" But this pertains to teaching. Therefore teaching is a work of the  contemplative life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, act and habit would seem to be referable to the same kind of life. Now teaching is an act of wisdom: for the Philosopher says (Metaph. i, 1) that \"to be able to teach is an indication of knowledge.\" Therefore since wisdom or knowledge pertain to the contemplative life, it would seem that teaching also belongs to the contemplative life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, prayer, no less than contemplation, is an act of the contemplative life. Now prayer, even when one prays for another, belongs to the contemplative life. Therefore it would seem that it belongs also to the contemplative life to acquaint another, by teaching him, of the truth we have meditated."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The authority quoted speaks expressly of doctrine as to its matter, in so far as it is concerned with the consideration and love of truth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Habit and act have a common object. Hence this argument clearly considers the matter of the interior concept. For it pertains to the man having wisdom and knowledge to be able to teach, in so far as he is able to express his interior concept in words, so as to bring another man to understand the truth."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: He who prays for another does nothing towards the man for whom he prays, but only towards God Who is the intelligible truth; whereas he who teaches another does something in his regard by external action. Hence the comparison fails."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -246,47 +267,51 @@
             "title": [
                 "Whether the active life remains after this life?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the active life remains after this life. For the acts of the moral virtues belong to the active life, as stated above (Article [1]). But the moral virtues endure after this life according to Augustine (De Trin. xiv, 9). Therefore the active life remains after this life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, teaching others belongs to the active life, as stated above (Article [3]). But in the life to come when \"we shall be like the angels,\" teaching will be possible: even as apparently it is in the angels of whom one \"enlightens, cleanses, and perfects\" [*Coel. Hier. iii, viii] another, which refers to the \"receiving of knowledge,\" according to Dionysius (Coel. Hier. vii). Therefore it would seem that the active life remains after this life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 181,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the more lasting a thing is in itself, the more is it able to endure after this life. But the active life is seemingly more lasting in itself: for Gregory says (Hom. v in Ezech.) that \"we can remain fixed in the active life, whereas we are nowise able to maintain an attentive mind in the contemplative life.\" Therefore the active life is much more able than the contemplative to endure after this life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As stated above (Question [136], Article [1], ad 1), the moral virtues will remain not as to those actions which are about the means, but as to the actions which are about the end. Such acts are those that conduce to the quiet of contemplation, which in the words quoted above Augustine denotes by \"rest,\" and this rest excludes not only outward disturbances but also the inward disturbance of the passions."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
@@ -294,16 +319,19 @@
                         "Reply to Objection 2: The contemplative life, as stated above (Question [180], Article [4]), consists chiefly in the contemplation of God, and as to this, one angel does not teach another, since according to Mt. 18:10, \"the little ones' angels,\" who belong to the lower order, \"always  see the face of the Father\"; and so, in the life to come, no man will teach another of God, but \"we shall\" all \"see Him as He is\" (1 Jn. 3:2). This is in keeping with the saying of Jeremias 31:34: \"They shall teach no more every man his neighbor . . . saying: Know the Lord: for all shall know me, from the least of them even to the greatest.\"",
                         "But as regards things pertaining to the \"dispensation of the mysteries of God,\" one angel teaches another by cleansing, enlightening, and perfecting him: and thus they have something of the active life so long as the world lasts, from the fact that they are occupied in administering to the creatures below them. This is signified by the fact that Jacob saw angels \"ascending\" the ladder---which refers to contemplation---and \"descending\" ---which refers to action. Nevertheless, as Gregory remarks (Moral. ii, 3), \"they do not wander abroad from the Divine vision, so as to be deprived of the joys of inward contemplation.\" Hence in them the active life does not differ from the contemplative life as it does in us for whom the works of the active life are a hindrance to contemplation.",
                         "Nor is the likeness to the angels promised to us as regards the administering to lower creatures, for this is competent to us not by reason of our natural order, as it is to the angels, but by reason of our seeing God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 181,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: That the durability of the active life in the present state surpasses the durability of the contemplative life arises not from any property of either life considered in itself, but from our own deficiency, since we are withheld from the heights of contemplation by the weight of the body. Hence Gregory adds (Moral. ii, 3) that \"the mind through its very weakness being repelled from that immense height recoils on itself.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

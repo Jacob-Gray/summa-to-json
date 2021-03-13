@@ -24,62 +24,69 @@
             "title": [
                 "Whether corporeal creatures are from God?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that corporeal creatures are not from God. For it is said (Eccles. 3:14): \"I have learned that all the works which God hath made, continue for ever.\" But visible bodies do not continue for ever, for it is said (2 Cor. 4:18): \"The things which are seen are temporal, but the things which are not seen are eternal.\" Therefore God did not make visible bodies."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, it is said (Gn. 1:31): \"God saw all things that He had made, and they were very good.\" But corporeal creatures are evil, since we find them harmful in many ways; as may be seen in serpents, in the sun's heat, and other things. Now a thing is called evil, in so far as it is harmful. Corporeal creatures, therefore, are not from God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, what is from God does not withdraw us from God, but leads us to Him. But corporeal creatures withdraw us from  God. Hence the Apostle (2 Cor. 4:18): \"While we look not at the things which are seen.\" Corporeal creatures, therefore, are not from God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: All the creatures of God in some respects continue for ever, at least as to matter, since what is created will never be annihilated, even though it be corruptible. And the nearer a creature approaches God, Who is immovable, the more it also is immovable. For corruptible creatures endure for ever as regards their matter, though they change as regards their substantial form. But incorruptible creatures endure with respect to their substance, though they are mutable in other respects, such as place, for instance, the heavenly bodies; or the affections, as spiritual creatures. But the Apostle's words, \"The things which are seen are temporal,\" though true even as regards such things considered in themselves (in so far as every visible creature is subject to time, either as to being or as to movement), are intended to apply to visible things in so far as they are offered to man as rewards. For such rewards, as consist in these visible things, are temporal; while those that are invisible endure for ever. Hence he said before (2 Cor. 4:17): \"It worketh for us . . . an eternal weight of glory.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Corporeal creatures according to their nature are good, though this good is not universal, but partial and limited, the consequence of which is a certain opposition of contrary qualities, though each quality is good in itself. To those, however, who estimate things, not by the nature thereof, but by the good they themselves can derive therefrom, everything which is harmful to themselves seems simply evil. For they do not reflect that what is in some way injurious to one person, to another is beneficial, and that even to themselves the same thing may be evil  in some respects, but good in others. And this could not be, if bodies were essentially evil and harmful."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Creatures of themselves do not withdraw us from God, but lead us to Him; for \"the invisible things of God are clearly seen, being understood by the things that are made\" (Rm. 1:20). If, then, they withdraw men from God, it is the fault of those who use them foolishly. Thus it is said (Wis. 14:11): \"Creatures are turned into a snare to the feet of the unwise.\" And the very fact that they can thus withdraw us from God proves that they came from Him, for they cannot lead the foolish away from God except by the allurements of some good that they have from Him."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,62 +104,69 @@
             "title": [
                 "Whether corporeal things were made on account of God's goodness?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that corporeal creatures were not made on account of God's goodness. For it is said (Wis. 1:14) that God \"created all things that they might be.\" Therefore all things were created for their own being's sake, and not on account of God's goodness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, good has the nature of an end; therefore the greater good in things is the end of the lesser good. But spiritual creatures are related to corporeal creatures, as the greater good to the lesser. Corporeal creatures, therefore, are created for the sake of spiritual creatures, and not on account of God's goodness."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, justice does not give unequal things except to the unequal. Now God is just: therefore inequality not created by God must precede all inequality created by Him. But an inequality not created by God can only arise from free-will, and consequently all inequality results from the different movements of free-will. Now, corporeal creatures are unequal to spiritual creatures. Therefore the former were made on account of movements of free-will, and not on account of God's goodness."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: In the very fact of any creature possessing being, it represents the Divine being and Its goodness. And, therefore, that God created all things, that they might have being, does not exclude that He created them for His own goodness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The proximate end does not exclude the ultimate end. Therefore that corporeal creatures were, in a manner, made for the sake of the spiritual, does not prevent their being made on account of God's goodness."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Equality of justice has its place in retribution, since equal rewards or punishments are due to equal merit or demerit. But this does not apply to things as at first instituted. For just as an architect, without injustice, places stones of the same kind in different parts of a building, not on account of any antecedent difference in the stones, but with a view to securing that perfection of the entire building, which could not be obtained except by the different positions of the stones; even so, God from  the beginning, to secure perfection in the universe, has set therein creatures of various and unequal natures, according to His wisdom, and without injustice, since no diversity of merit is presupposed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -171,62 +185,69 @@
             "title": [
                 "Whether corporeal creatures were produced by God through the medium of the angels?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that corporeal creatures were produced by God through the medium of the angels. For, as all things are governed by the Divine wisdom, so by it were all things made, according to Ps. 103:24 \"Thou hast made all things in wisdom.\" But \"it belongs to wisdom to ordain,\" as stated in the beginning of the Metaphysics (i, 2). Hence in the government of things the lower is ruled by the higher in a certain fitting order, as Augustine says (De Trin. iii, 4). Therefore in the production of things it was ordained that the corporeal should be produced by the spiritual, as the lower by the higher."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, diversity of effects shows diversity of causes, since like always produces like. It then all creatures, both spiritual and corporeal, were produced immediately by God, there would be no diversity in creatures, for one would not be further removed from God than another. But this is clearly false; for the Philosopher says that some things are corruptible because they are far removed from God (De Gen. et Corrup. ii, text. 59)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, infinite power is not required to produce a finite effect. But every corporeal thing is finite. Therefore, it could be, and was, produced by the finite power of spiritual creatures: for in suchlike beings there is no distinction between what is and what is possible: especially as no dignity befitting a nature is denied to that nature, unless it be in punishment of a fault."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: In the production of things an order exists, but not such that one creature is created by another, for that is impossible; but rather such that by the Divine wisdom diverse grades are constituted in creatures."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: God Himself, though one, has knowledge of many and different things without detriment to the simplicity of His nature, as has been shown above (Question [15], Article [2]); so that by His wisdom He is the cause of diverse things as known by Him, even as an artificer, by apprehending diverse forms, produces diverse works of art."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The amount of the power of an agent is measured not only by the thing made, but also by the manner of making it; for one and the same thing is made in one way by a higher power, in another by a lower. But the production of finite things, where nothing is presupposed as existing, is the work of infinite power, and, as such, can belong to no creature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -245,62 +266,69 @@
             "title": [
                 "Whether the forms of bodies are from the angels?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the forms of bodies come from the angels. For Boethius says (De Trin. i): \"From forms that are without matter come the forms that are in matter.\" But forms that are without matter are spiritual substances, and forms that are in matter are the forms of bodies. Therefore, the forms of bodies are from spiritual substances."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, all that is such by participation is reduced to that which is such by its essence. But spiritual substances are forms essentially, whereas corporeal creatures have forms by participation. Therefore the forms of corporeal things are derived from spiritual substances."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 65,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, spiritual substances have more power of causation than the heavenly bodies. But the heavenly bodies give form to things here below, for which reason they are said to cause generation and corruption. Much more, therefore, are material forms derived from spiritual substances."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: By immaterial forms Boethius understands the types of things in the mind of God. Thus the Apostle says (Heb. 11:3): \"By faith we understand that the world was framed by the Word of God; that from invisible things visible things might be made.\" But if by immaterial forms he understands the angels, we say that from them come material forms, not by emanation, but by motion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Forms received into matter are to be referred, not to self-subsisting forms of the same type, as the Platonists held, but either to intelligible forms of the angelic intellect, from which they proceed by movement, or, still higher, to the types in the Divine intellect, by which the seeds of forms are implanted in created things, that they may be able to be brought by movement into act."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 65,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The heavenly bodies inform earthly ones by movement, not by emanation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

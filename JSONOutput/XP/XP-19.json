@@ -25,62 +25,69 @@
             "title": [
                 "Whether the priest of the Law had the keys?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the priests of the Law had the keys. For the possession of the keys results from having orders. But they had orders since they were called priests. Therefore the priests of the Law had the keys."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, as the Master states (Sent. iv, D, 18), there are two keys, knowledge of discretion, and power of judgment. But the priests of the Law had authority for both of these: therefore they had the keys."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the priests of the Law had some power over the rest of the people, which power was not temporal, else the kingly power would not have differed from the priestly power. Therefore it was a spiritual power; and this is the key. Therefore they had the key."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The keys of the kingdom go with the priesthood whereby man is brought into the heavenly kingdom, but such was not the priesthood of Levi; hence it had the keys, not of heaven, but of an earthly tabernacle."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The priests of the Old Law had authority to discern and judge, but not to admit those they judged into heaven, but only into the shadow of heavenly things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: They had no spiritual power, since, by the sacraments of the Law, they cleansed men not from their sins but from irregularities, so that those who were cleansed by them could enter into a tabernacle which was \"made with hand.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -99,44 +106,49 @@
             "title": [
                 "Whether Christ had the key?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that Christ did not have the key. For the key goes with the character of order. But Christ did not have a character. Therefore He had not the key."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, Christ had power of \"excellence\" in the sacraments, so that He could produce the sacramental effect without the sacramental rite. Now the key is something sacramental. Therefore He needed no key, and it would have been useless to Him to have it."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: A character implies the notion of something derived from another, hence the power of the keys which we receive from Christ results from the character whereby we are conformed to Christ, whereas in Christ it results not from a character, but from the principal form."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The key, which Christ had was not sacramental, but the origin of the sacramental key."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -154,80 +166,89 @@
             "title": [
                 "Whether priests alone have the keys?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that not only priests have the keys. For Isidore says (Etym. vii, 12) that the \"doorkeepers have to tell the good from the bad, so as to admit the good and keep out the bad.\" Now this is the definition of the keys, as appears from what has been said (Question [17], Article [2]). Therefore not only priests but even doorkeepers have the keys."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the keys are conferred on priests when by being anointed they receive power from God. But kings of Christian peoples also receive power from God and are consecrated by being anointed. Therefore not only priests have the keys."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the priesthood is an order belonging to an individual person. But sometimes a number of people together seem to have the key, because certain Chapters can pass a sentence of excommunication, which pertains to the power of the keys. Therefore not only priests have the key."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, a woman is not capable of receiving the priesthood, since she is not competent to teach, according to the Apostle (1 Cor. 14:34). But some women (abbesses, for instance, who exercise a spiritual power over their subjects), seem to have the keys. Therefore not only priests have the keys."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The doorkeepers have the key for taking care of those things which are contained in a material temple, and they have to judge whether a person should be excluded from or admitted to that temple; which judgment they pronounce, not by their own authority, but in pursuance to the priest's judgment, so that they appear to be the administrators of the priestly power."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Kings have no power in spiritual matters, so that they do not receive the key of the heavenly kingdom. Their power is confined to temporal matters, and this too can only come to them from God, as appears from Rm. 13:1. Nor are they consecrated by the unction of a sacred order: their anointing is merely a sign that the excellence of their power comes down to them from Christ, and that, under Christ, they reign over the Christian people."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Just as in civil matters the whole power is sometimes vested in a judge, as in a kingdom, whereas sometimes it is vested in many exercising various offices but acting together with equal rights (Ethic. viii, 10,11), so too, spiritual jurisdiction may be exercised both by one alone, e.g. a bishop, and by many together, e.g. by a Chapter, and thus they have the key of jurisdiction, but they have not all together the key of order."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: According to the Apostle (1 Tim. 2:11; Titus 2:5), woman is in a state of subjection: wherefore she can have no spiritual jurisdiction, since the Philosopher also says (Ethic. viii) that it is a corruption of public life when the government comes into the hands of a woman. Consequently a woman has neither the key of order nor the key of jurisdiction. Nevertheless a certain use of the keys is allowed to women, such as the right to correct other women who are under them, on account of the danger that might threaten if men were to dwell under the same roof."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -246,44 +267,49 @@
             "title": [
                 "Whether holy men who are not priests have the keys?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that holy men, even those who are not priests, have the use of the keys. For loosing and binding, which are the effects of the keys, derive their efficacy from the merit of Christ's Passion. Now those are most conformed to Christ's Passion, who follow Christ, suffering by patience and other virtues. Therefore it seems that even if they have not the priestly order, they can bind and loose."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is written (Heb. 7:7): \"Without all contradiction, that which is less is blessed by the greater [Vulg.: 'better'].\" Now \"in spiritual matters,\" according to Augustine (De Trin. vi, 8), \"to be better is to be greater.\" Therefore those who  are better, i.e. who have more charity, can bless others by absolving them. Hence the same conclusion follows."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Just as between instrument and effect there is need or likeness, not of a similar form, but of aptitude in the instrument for the effect, so is it as regards the instrument and the principal agent. The former is the likeness between holy men and the suffering Christ, nor does it bestow on them the use of the keys."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Although a mere man cannot merit grace for another man condignly, yet the merit of one man can co-operate in the salvation of another. Hence there is a twofold blessing. One proceeds from a mere man, as meriting by his own act: this blessing can be conferred by any holy person in whom Christ dwells by His grace, in so far as he excels in goodness the person whom he blesses. The other blessing is when a man blesses, as applying a blessing instrumentally through the merit of Christ, and this requires excellence of order and not of virtue."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "counter": [
@@ -301,81 +327,90 @@
             "title": [
                 "Whether wicked priests have the use of the keys?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that wicked priests have not the use of the keys. For in the passage where the use of the keys is bestowed on the apostles (Jn. 20:22,23), the gift of the Holy Ghost is promised. But wicked men have not the Holy Ghost. Therefore they  have not the use of the keys."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, no wise king entrusts his enemy with the dispensation of his treasure. Now the use of the keys consists in dispensing the treasure of the King of heaven, Who is Wisdom itself. Therefore the wicked, who are His enemies on account of sin, have not the use of the keys."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, Augustine says (De Bapt. v, 21) that God \"gives the sacrament of grace even through wicked men, but grace itself only by Himself or through His saints.\" Hence He forgives sin by Himself, or by those who are members of the Dove. But the remission of sins is the use of the keys. Therefore sinners, who are not \"members of the Dove,\" have not the use of the keys."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, the prayer of a wicked priest cannot effect reconciliation, for, as Gregory says (Pastor. i, 11), \"if an unacceptable person is sent to intercede, anger is provoked to yet greater severity.\" But the use of the keys implies a kind of intercession, as appears in the form of absolution. Therefore wicked priests cannot use the keys effectively."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The gift of the Holy Ghost is requisite for the use of the keys, not as being indispensable for the purpose, but because it is unbecoming for the user to use them without it, though he that submits to them receives their effect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: An earthly king can be cheated and deceived in the matter of his treasure, and so he does not entrust his enemy with the dispensation thereof. But the King of heaven cannot be cheated, because all tends to His own glory, even the abuse of the keys by some, for He can make good come out of evil, and produce many good effects through evil men. Hence the comparison fails."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Augustine speaks of the remission of sins in so far as holy men co-operate therein, not by virtue of the keys, but  by merit of congruity. Hence He says that God confers the sacraments even through evil men, and among the other sacraments, absolution which is the use of the keys should be reckoned: but that through \"members of the Dove,\" i.e. holy men, He grants forgiveness of sins, in so far as He remits sins on account of their intercession.",
                         "We might also reply that by \"members of the Dove\" he means all who are not cut off from the Church, for those who receive the sacraments from them, receive grace, whereas those who receive the sacraments from those who are cut off from the Church, do not receive grace, because they sin in so doing, except in the case of Baptism, which, in cases of necessity, may be received even from one who is excommunicate."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: The prayer which the wicked priest proffers on his own account, is not efficacious: but that which he makes as a minister of the Church, is efficacious through the merit of Christ. Yet in both ways the priest's prayer should profit those who are subject to him."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "counter": [
@@ -394,62 +429,69 @@
             "title": [
                 "Whether those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys. For just as the power of the keys results from orders, so does the power of consecration. But the above cannot lose the use of the power of consecration, since if they do consecrate it is valid, though they sin in doing so. Therefore neither can they lose the use of the keys."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, any active spiritual power in one who has the use of his free-will can be exercised by him when he wills. Now the power of the keys remains in the aforesaid, for, since it is only conferred with orders, they would have to be reordained when they return to the Church. Therefore, since it is an active power, they can exercise it when they will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 19,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, spiritual grace is hindered by guilt more than by punishment. Now excommunication, suspension and degradation are punishments. Therefore, since a man does not lose the use of the keys on account of guilt, it seems that he does not lose it on account of the aforesaid."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The matter of the sacrament of the Eucharist, on which the priest exercises his power, is not a man but wheaten bread, and in Baptism, the matter is simply a man. Wherefore, just as, were a heretic to be without wheaten bread, he could not consecrate, so neither can a prelate absolve if he be deprived of his authority, yet he can baptize and consecrate, albeit to his own damnation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The assertion is true, provided matter be not lacking as it is in the case in point."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 19,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Sin, of itself, does not remove matter, as certain punishments do: so that punishment is a hindrance not because it is contrary to the effect, but for the reason stated."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

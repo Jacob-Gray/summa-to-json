@@ -27,62 +27,69 @@
             "title": [
                 "Whether the soul is a body?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the soul is a body. For the soul is the moving principle of the body. Nor does it move unless moved. First, because seemingly nothing can move unless it is itself moved, since nothing gives what it has not; for instance, what is not hot does not give heat. Secondly, because if there be anything that moves and is not moved, it must be the cause of eternal, unchanging movement, as we find proved Phys. viii, 6; and this does not appear to be the case in the movement of an animal, which is caused by the soul. Therefore the soul is a mover moved. But every mover moved is a body. Therefore the soul is a body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, all knowledge is caused by means of a likeness. But there can be no likeness of a body to an incorporeal thing. If, therefore, the soul were not a body, it could not have knowledge of corporeal things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, between the mover and the moved there must be contact. But contact is only between bodies. Since, therefore, the soul moves the body, it seems that the soul must be a body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: As everything which is in motion must be moved by something else, a process which cannot be prolonged indefinitely, we must allow that not every mover is moved. For, since to be moved is to pass from potentiality to actuality, the mover gives what it has to the thing moved, inasmuch as it causes it to be in act. But, as is shown in Phys. viii, 6, there is a mover which is altogether immovable, and not moved either essentially, or accidentally; and such a mover can cause an invariable movement. There is, however, another kind of mover, which, though not moved essentially, is moved accidentally; and for this reason it does not cause an invariable movement; such a mover, is the soul. There is, again, another mover, which is moved essentially---namely, the body. And because the philosophers of old believed that nothing existed but bodies, they maintained that every mover is moved; and that the  soul is moved directly, and is a body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The likeness of a thing known is not of necessity actually in the nature of the knower; but given a thing which knows potentially, and afterwards knows actually, the likeness of the thing known must be in the nature of the knower, not actually, but only potentially; thus color is not actually in the pupil of the eye, but only potentially. Hence it is necessary, not that the likeness of corporeal things should be actually in the nature of the soul, but that there be a potentiality in the soul for such a likeness. But the ancient philosophers omitted to distinguish between actuality and potentiality; and so they held that the soul must be a body in order to have knowledge of a body; and that it must be composed of the principles of which all bodies are formed in order to know all bodies."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: There are two kinds of contact; of \"quantity,\" and of \"power.\" By the former a body can be touched only by a body; by the latter a body can be touched by an incorporeal thing, which moves that body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -101,62 +108,69 @@
             "title": [
                 "Whether the human soul is something subsistent?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the human soul is not something subsistent. For that which subsists is said to be \"this particular thing.\" Now \"this particular thing\" is said not of the soul, but of that which is composed of soul and body. Therefore the soul is not something subsistent."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, everything subsistent operates. But the soul does not operate; for, as the Philosopher says (De Anima i, 4), \"to say that the soul feels or understands is like saying that the soul weaves or builds.\" Therefore the soul is not subsistent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if the soul were subsistent, it would have some operation apart from the body. But it has no operation apart from the body, not even that of understanding: for the act of understanding does not take place without a phantasm, which cannot exist apart from the body. Therefore the human soul is not something subsistent."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: \"This particular thing\" can be taken in two senses. Firstly, for anything subsistent; secondly, for that which subsists, and is complete in a specific nature. The former sense excludes the inherence of an accident or of a material form; the latter excludes also the imperfection of the part, so that a hand can be called \"this particular thing\" in the first sense, but not in the second. Therefore, as the human soul is a part of human nature, it can indeed be called \"this particular thing,\" in the first sense, as being something subsistent; but not in the second, for in this sense, what is composed of body and soul is said to be \"this particular thing.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Aristotle wrote those words as expressing not his own opinion, but the opinion of those who said that to understand is to be moved, as is clear from the context. Or we may reply that to operate \"per se\" belongs to what exists \"per se.\" But for a thing to exist \"per se,\" it suffices sometimes that it be not inherent, as an accident or a material form; even though it be part of something. Nevertheless, that is rightly said to subsist \"per se,\" which is neither inherent in the above sense, nor part of anything else. In this sense, the eye or the hand cannot be said to subsist \"per se\"; nor can it for that reason be said to operate \"per se.\" Hence the operation of the parts is through each part attributed to the whole. For we say that man sees with the eye, and feels with the hand, and not in the same sense as when we say that what is hot gives heat by its heat; for heat, strictly speaking, does not give heat. We may therefore say that the soul understands, as the eye sees; but it is more correct to say that man understands through the soul."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The body is necessary for the action of the intellect, not as its origin of action, but on the part of the object; for the phantasm is to the intellect what color is to the sight. Neither does such a dependence on the body prove the intellect to be non-subsistent; otherwise it would follow that an animal is non-subsistent, since it requires external objects of the senses in order to perform its act of perception."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -175,62 +189,69 @@
             "title": [
                 "Whether the souls of brute animals are subsistent?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the souls of brute animals are subsistent. For man is of the same 'genus' as other animals; and, as we have just shown (Article [2]), the soul of man is subsistent. Therefore the souls of other animals are subsistent."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the relation of the sensitive faculty to sensible objects is like the relation of the intellectual faculty to intelligible objects. But the intellect, apart from the body, apprehends intelligible objects. Therefore the sensitive faculty, apart from the body, perceives sensible objects. Therefore, since the souls of brute animals are sensitive, it follows that they are subsistent; just as the human intellectual soul is subsistent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the soul of brute animals moves the body. But the body is not a mover, but is moved. Therefore the soul of brute animals has an operation apart from the body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Although man is of the same \"genus\" as other animals, he is of a different \"species.\" Specific difference is derived from the difference of form; nor does every difference of  form necessarily imply a diversity of \"genus.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The relation of the sensitive faculty to the sensible object is in one way the same as that of the intellectual faculty to the intelligible object, in so far as each is in potentiality to its object. But in another way their relations differ, inasmuch as the impression of the object on the sense is accompanied with change in the body; so that excessive strength of the sensible corrupts sense; a thing that never occurs in the case of the intellect. For an intellect that understands the highest of intelligible objects is more able afterwards to understand those that are lower. If, however, in the process of intellectual operation the body is weary, this result is accidental, inasmuch as the intellect requires the operation of the sensitive powers in the production of the phantasms."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Motive power is of two kinds. One, the appetitive power, commands motion. The operation of this power in the sensitive soul is not apart from the body; for anger, joy, and passions of a like nature are accompanied by a change in the body. The other motive power is that which executes motion in adapting the members for obeying the appetite; and the act of this power does not consist in moving, but in being moved. Whence it is clear that to move is not an act of the sensitive soul without the body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -248,44 +269,49 @@
             "title": [
                 "Whether the soul is man?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the soul is man. For it is written (2 Cor. 4:16): \"Though our outward man is corrupted, yet the inward man is renewed day by day.\" But that which is within man is the soul. Therefore the soul is the inward man."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the human soul is a substance. But it is not a universal substance. Therefore it is a particular substance. Therefore it is a \"hypostasis\" or a person; and it can only be a human person. Therefore the soul is man; for a human person is a man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: According to the Philosopher (Ethic. ix, 8), a thing seems to be chiefly what is principle in it; thus what the governor of a state does, the state is said to do. In this way sometimes what is principle in man is said to be man; sometimes, indeed, the intellectual part which, in accordance with truth, is called the \"inward\" man; and sometimes the sensitive part with the body is called man in the opinion of those whose observation does not go beyond the senses. And this is called the \"outward\" man."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Not every particular substance is a hypostasis or a person, but that which has the complete nature of its species. Hence a hand, or a foot, is not called a hypostasis, or a person; nor, likewise, is the soul alone so called, since it is a part of the human species."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "counter": [
@@ -304,80 +330,89 @@
             "title": [
                 "Whether the soul is composed of matter and form?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the soul is composed of matter and form. For potentiality is opposed to actuality. Now, whatsoever things are in actuality participate of the First Act, which is God; by participation of Whom, all things are good, are beings, and are living things, as is clear from the teaching of Dionysius (Div. Nom. v). Therefore whatsoever things are in potentiality participate of the first potentiality. But the first potentiality is primary matter. Therefore, since the human soul is, after a manner, in potentiality; which appears from the fact that sometimes a man is potentially understanding; it seems that the human soul must participate of primary matter, as part of itself."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, wherever the properties of matter are found, there matter is. But the properties of matter are found in the soul---namely, to be a subject, and to be changed, for it is a subject to science, and virtue; and it changes from ignorance to  knowledge and from vice to virtue. Therefore matter is in the soul."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, things which have no matter, have no cause of their existence, as the Philosopher says Metaph. viii (Did. vii, 6). But the soul has a cause of its existence, since it is created by God. Therefore the soul has matter."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, what has no matter, and is a form only, is a pure act, and is infinite. But this belongs to God alone. Therefore the soul has matter."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The First Act is the universal principle of all acts; because It is infinite, virtually \"precontaining all things,\" as Dionysius says (Div. Nom. v). Wherefore things participate of It not as a part of themselves, but by diffusion of Its processions. Now as potentiality is receptive of act, it must be proportionate to act. But the acts received which proceed from the First Infinite Act, and are participations thereof, are diverse, so that there  cannot be one potentiality which receives all acts, as there is one act, from which all participated acts are derived; for then the receptive potentiality would equal the active potentiality of the First Act. Now the receptive potentiality in the intellectual soul is other than the receptive potentiality of first matter, as appears from the diversity of the things received by each. For primary matter receives individual forms; whereas the intelligence receives absolute forms. Hence the existence of such a potentiality in the intellectual soul does not prove that the soul is composed of matter and form."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: To be a subject and to be changed belong to matter by reason of its being in potentiality. As, therefore, the potentiality of the intelligence is one thing and the potentiality of primary matter another, so in each is there a different reason of subjection and change. For the intelligence is subject to knowledge, and is changed from ignorance to knowledge, by reason of its being in potentiality with regard to the intelligible species."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The form causes matter to be, and so does the agent; wherefore the agent causes matter to be, so far as it actualizes it by transmuting it to the act of a form. A subsistent form, however, does not owe its existence to some formal principle, nor has it a cause transmuting it from potentiality to act. So after the words quoted above, the Philosopher concludes, that in things composed of matter and form \"there is no other cause but that which moves from potentiality to act; while whatsoever things have no matter are simply beings at once.\" [*The Leonine edition has, \"simpliciter sunt quod vere entia aliquid.\" The Parma edition of St. Thomas's Commentary on Aristotle has, \"statim per se unum quiddam est . . . et ens quiddam.\"]"
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Everything participated is compared to the participator as its act. But whatever created form be supposed to subsist \"per se,\" must have existence by participation; for \"even life,\" or anything of that sort, \"is a participator of existence,\" as Dionysius says (Div. Nom. v). Now participated existence is limited by the capacity of the participator; so that God alone, Who is His own existence, is pure act and infinite. But in intellectual substances there is composition of actuality and potentiality, not, indeed, of matter and form, but of form and participated existence. Wherefore some say that they are composed of that \"whereby they are\" and that \"which they are\"; for existence itself is that by which a thing is."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "counter": [
@@ -396,62 +431,69 @@
             "title": [
                 "Whether the human soul is incorruptible?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the human soul is corruptible. For those things that have a like beginning and process seemingly have a like end. But the beginning, by generation, of men is like that of animals, for they are made from the earth. And the process of life is alike in both; because \"all things breathe alike, and man hath nothing more than the beast,\" as it is written (Eccles. 3:19).  Therefore, as the same text concludes, \"the death of man and beast is one, and the condition of both is equal.\" But the souls of brute animals are corruptible. Therefore, also, the human soul is corruptible."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, whatever is out of nothing can return to nothingness; because the end should correspond to the beginning. But as it is written (Wis. 2:2), \"We are born of nothing\"; which is true, not only of the body, but also of the soul. Therefore, as is concluded in the same passage, \"After this we shall be as if we had not been,\" even as to our soul."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, nothing is without its own proper operation. But the operation proper to the soul, which is to understand through a phantasm, cannot be without the body. For the soul understands nothing without a phantasm; and there is no phantasm without the body as the Philosopher says (De Anima i, 1). Therefore the soul cannot survive the dissolution of the body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Solomon reasons thus in the person of the foolish, as expressed in the words of Wisdom 2. Therefore the saying that man and animals have a like beginning in generation is true of the body; for all animals alike are made of earth. But it is not true of the soul. For the souls of brutes are produced by some power of the body; whereas the human soul is produced by God. To signify this it is written as to other animals: \"Let the earth bring forth the living soul\" (Gn. 1:24): while of man it is written (Gn. 2:7) that \"He breathed into his face the breath of life.\" And so in the last chapter of Ecclesiastes (12:7) it is concluded: \"(Before) the dust return into its earth from whence it was; and the spirit return to God Who gave it.\" Again the process of life is alike as to the body, concerning which it is written (Eccles. 3:19): \"All things breathe alike,\" and (Wis. 2:2), \"The breath in our nostrils is smoke.\" But the process is not alike of the soul; for man is intelligent, whereas animals are not. Hence it is false to say: \"Man has nothing more than beasts.\" Thus death comes to both alike as to the body, by not as to the soul."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: As a thing can be created by reason, not of a passive potentiality, but only of the active potentiality of the Creator, Who can produce something out of nothing, so when we say that a thing can be reduced to nothing, we do not imply in the creature a potentiality to non-existence, but in the Creator the power of ceasing to sustain existence. But a thing is said to be corruptible because there is in it a potentiality to non-existence."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: To understand through a phantasm is the proper operation of the soul by virtue of its union with the body. After separation from the body it will have another mode of understanding, similar to other substances separated from bodies, as will appear later on (Question [89], Article [1])."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -470,62 +512,69 @@
             "title": [
                 "Whether the soul is of the same species as an angel?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the soul is of the same species as an angel. For each thing is ordained to its proper end by the nature of its species, whence is derived its inclination for that  end. But the end of the soul is the same as that of an angel---namely, eternal happiness. Therefore they are of the same species."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the ultimate specific difference is the noblest, because it completes the nature of the species. But there is nothing nobler either in an angel or in the soul than their intellectual nature. Therefore the soul and the angel agree in the ultimate specific difference: therefore they belong to the same species."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, it seems that the soul does not differ from an angel except in its union with the body. But as the body is outside the essence of the soul, it seems that it does not belong to its species. Therefore the soul and angel are of the same species."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: This argument proceeds from the proximate and natural end. Eternal happiness is the ultimate and supernatural end."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The ultimate specific difference is the noblest because it is the most determinate, in the same way as actuality is nobler than potentiality. Thus, however, the intellectual faculty is not the noblest, because it is indeterminate and common to many degrees of intellectuality; as the sensible faculty is common to many degrees in the sensible nature. Hence, as all sensible things are not of one species, so neither are all intellectual things of one species."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The body is not of the essence of the soul; but the soul by the nature of its essence can be united to the body, so that, properly speaking, not the soul alone, but the \"composite,\" is the species. And the very fact that the soul in a certain way requires the body for its operation, proves that the soul is endowed with a grade of intellectuality inferior to that of an angel, who is not united to a body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [

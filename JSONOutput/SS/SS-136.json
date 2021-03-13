@@ -24,62 +24,69 @@
             "title": [
                 "Whether patience is a virtue?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that patience is not a virtue. For the virtues are most perfect in heaven, as Augustine says (De Trin. xiv). Yet patience is not there, since no evils have to be borne there, according to Is. 49:10 and Apoc. 7:16, \"They shall not hunger nor thirst, neither shall the heat nor the sun strike them.\" Therefore patience is not a virtue."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, no virtue can be found in the wicked, since virtue it is \"that makes its possessor good.\" Yet patience is sometimes found in wicked men; for instance, in the covetous, who bear many evils patiently that they may amass money, according to Eccles. 5:16, \"All the days of his life he eateth in darkness, and in many cares, and in misery and in sorrow.\" Therefore patience is not a virtue."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the fruits differ from the virtues, as stated above (FS, Question [70], Article [1], ad 3). But patience is reckoned among the fruits (Gal. 5:22). Therefore patience is not a virtue."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The moral virtues do not remain in heaven as regards the same act that they have on the way, in relation, namely, to the goods of the present life, which will not remain in heaven: but they will remain in their relation to the end, which will be in heaven. Thus justice will not be in heaven in relation to buying and selling and other matters pertaining to the present life, but it will remain in the point of being subject to God. In like manner the act of patience, in heaven, will not consist in bearing things, but in enjoying the goods to which we had aspired by suffering. Hence Augustine says (De Civ. Dei xiv) that \"patience itself will not be in heaven, since there is no need for it except where evils have to be borne: yet that which we shall obtain by patience will be eternal.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: As Augustine says (De Patientia ii; v) \"properly speaking those are patient who would rather bear evils without inflicting them, than inflict them without bearing them. As for those who bear evils that they may inflict evil, their patience is neither marvelous nor praiseworthy, for it is no patience at all: we may marvel at their hardness of heart, but we must refuse to call them patient.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As stated above (FS, Question [11], Article [1]), the very notion of fruit denotes pleasure. And works of virtue afford pleasure in themselves, as stated in Ethic. i, 8. Now the names of the virtues are wont to be applied to their acts. Wherefore patience as a habit is a virtue. but as to the pleasure which its act affords, it is reckoned a fruit, especially in this, that patience safeguards the mind from being overcome by sorrow."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,63 +104,70 @@
             "title": [
                 "Whether patience is the greatest of the virtues?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that patience is the greatest of the virtues. For in every genus that which is perfect is the greatest. Now \"patience hath a perfect work\" (James 1:4). Therefore patience is the greatest of the virtues."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, all the virtues are directed to the good of the soul. Now this seems to belong chiefly to patience; for it is written (Lk. 21:19): \"In your patience you shall possess your souls.\" Therefore patience is the greatest of the virtues."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, seemingly that which is the safeguard and cause of other things is greater than they are. But according to Gregory (Hom. xxxv in Evang.) \"patience is the root and safeguard of all the virtues.\" Therefore patience is the greatest of the virtues."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Patience is said to have a perfect work in bearing hardships: for these give rise first to sorrow, which is moderated by patience; secondly, to anger, which is moderated by meekness; thirdly, to hatred, which charity removes; fourthly, to unjust injury, which justice forbids. Now that which removes the principle is the most perfect.",
                         "Yet it does not follow, if patience be more perfect in this respect, that it is more perfect simply."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Possession denotes undisturbed ownership; wherefore man is said to possess his soul by patience, in so far as it removes by the root the passions that are evoked by hardships and disturb the soul."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Patience is said to be the root and safeguard of all the virtues, not as though it caused and preserved them directly, but merely because it removes their obstacles."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -171,62 +185,69 @@
             "title": [
                 "Whether it is possible to have patience without grace?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that it is possible to have patience without grace. For the more his reason inclines to a thing, the more is it possible for the rational creature to accomplish it. Now it is more reasonable to suffer evil for the sake of good than for the sake of evil. Yet some suffer evil for evil's sake, by their own virtue and without the help of grace; for Augustine says (De Patientia iii) that \"men endure many toils and sorrows for the sake of the things they love sinfully.\" Much more, therefore, is it possible for man, without the help of grace, to bear evil for the sake of good, and this is to be truly patient."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, some who are not in a state of grace have more abhorrence for sinful evils than for bodily evils: hence some heathens are related to have endured many hardships rather than betray their country or commit some other misdeed. Now this is to be truly patient. Therefore it seems that it is possible to have patience without the help of grace."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it is quite evident that some go through much trouble and pain in order to regain health of the body. Now the health of the soul is not less desirable than bodily health. Therefore in like manner one may, without the help of grace, endure many evils for the health of the soul, and this is to be truly patient."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The inclination of reason would prevail in human nature in the state of integrity. But in corrupt nature the inclination of concupiscence prevails, because it is dominant in man. Hence man is more prone to bear evils for the sake of goods in which the concupiscence delights here and now, than to endure evils for the sake of goods to come, which are desired in accordance with reason: and yet it is this that pertains to true patience."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The good of a social virtue [*Cf. FS, Question [61], Article [5]] is commensurate with human nature; and consequently the human will can tend thereto without the help of sanctifying grace, yet not without the help of God's grace [*Cf. FS, Question [109], Article [2]]. On the other hand, the good of grace is supernatural, wherefore man cannot tend thereto by a natural virtue. Hence the comparison fails."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Even the endurance of those evils which a man bears for the sake of his body's health, proceeds from the love a man naturally has for his own flesh. Hence there is no comparison between this endurance and patience which proceeds from a supernatural love."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -245,63 +266,70 @@
             "title": [
                 "Whether patience is a part of fortitude?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that patience is not a part of fortitude. For a thing is not part of itself. Now patience is apparently the same as fortitude: because, as stated above (Question [123], Article [6]), the proper act of fortitude is to endure; and this belongs also to patience. For it is stated in the Liber Sententiarum Prosperi [*The quotation is from St. Gregory, Hom. xxxv in Evang.] that \"patience consists in enduring evils inflicted by others.\" Therefore patience is not a part of fortitude."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, fortitude is about fear and daring, as stated above (Question [123], Article [3]), and thus it is in the irascible. But patience seems to be about sorrow, and consequently would seem to be in the concupiscible. Therefore patience is not a part of fortitude but of temperance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the whole cannot be without its part. Therefore if patience is a part of fortitude, there can be no fortitude without patience. Yet sometimes a brave man does not endure evils patiently, but even attacks the person who inflicts the evil. Therefore patience is not a part of fortitude."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: It belongs to fortitude to endure, not anything indeed, but that which is most difficult to endure, namely dangers of death: whereas it may pertain to patience to endure any kind of evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The act of fortitude consists not only in holding fast to good against the fear of future dangers, but also in not failing through sorrow or pain occasioned by things present; and it  is in the latter respect that patience is akin to fortitude. Yet fortitude is chiefly about fear, which of itself evokes flight which fortitude avoids; while patience is chiefly about sorrow, for a man is said to be patient, not because he does not fly, but because he behaves in a praiseworthy manner by suffering [patiendo] things which hurt him here and now, in such a way as not to be inordinately saddened by them. Hence fortitude is properly in the irascible, while patience is in the concupiscible faculty.",
                         "Nor does this hinder patience from being a part of fortitude, because the annexing of virtue to virtue does not regard the subject, but the matter or the form. Nevertheless patience is not to be reckoned a part of temperance, although both are in the concupiscible, because temperance is only about those sorrows that are opposed to pleasures of touch, such as arise through abstinence from pleasures of food and sex: whereas patience is chiefly about sorrows inflicted by other persons. Moreover it belongs to temperance to control these sorrows besides their contrary pleasures: whereas it belongs to patience that a man forsake not the good of virtue on account of such like sorrows, however great they be."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: It may be granted that patience in a certain respect is an integral part of justice, if we consider the fact that a man may patiently endure evils pertaining to dangers of death; and it is from this point of view that the objection argues. Nor is it inconsistent with patience that a man should, when necessary, rise up against the man who inflicts evils on him; for Chrysostom [*Homily v. in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says on Mt. 4:10, \"Begone Satan,\" that \"it is praiseworthy to be patient under our own wrongs, but to endure God's wrongs patiently is most wicked\": and Augustine says in a letter to Marcellinus (Ep. cxxxviii) that \"the precepts of patience are not opposed to the good of the commonwealth, since in order to ensure that good we fight against our enemies.\" But in so far as patience regards all kinds of evils, it is annexed to fortitude as secondary to principal virtue."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -319,54 +347,60 @@
             "title": [
                 "Whether patience is the same as longanimity? [*Longsuffering. It is necessary to preserve the Latin word, on account of the comparison with magnanimity.]"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that patience is the same as longanimity. For Augustine says (De Patientia i) that \"we speak of patience in God, not as though any evil made Him suffer, but because He awaits the wicked, that they may be converted.\" Wherefore it is written (Ecclus. 5:4): \"The Most High is a patient rewarder.\" Therefore it seems that patience is the same as longanimity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the same thing is not contrary to two things. But impatience is contrary to longanimity, whereby one awaits a delay: for one is said to be impatient of delay, as of other evils. Therefore it seems that patience is the same as longanimity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, just as time is a circumstance of wrongs endured, so is place. But no virtue is distinct from patience on the score of place. Therefore in like manner longanimity which takes count of time, in so far as a person waits for a long time, is not distinct from patience."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 136,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: On the contrary, a gloss [*Origen, Comment. in Ep. ad Rom. ii] on Rm. 2:4, \"Or despisest thou the riches of His goodness, and patience, and longsuffering?\" says: \"It seems that longanimity differs from patience, because those who offend from weakness rather than of set purpose are said to be borne with longanimity: while those who take a deliberate delight in their crimes are said to be borne patiently.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "replies": {
                 "3": {
-                    "id": 3,
                     "question": 136,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: That which is a long way off as to place, though distant from us, is not simply distant from things in nature, as that which is a long way off in point of time: hence the comparison fails. Moreover, what is remote as to place offers no difficulty save in the point of time, since what is placed a long way from us is a long time coming to us.",
                         "We grant the fourth argument. We must observe, however, that the reason for the difference assigned by this gloss is that it is hard to bear with those who sin through weakness, merely because they persist a long time in evil, wherefore it is said that they are borne with longanimity: whereas the very fact of sinning through pride seems to be unendurable; for which reason those who sin through pride are stated to be borne with patience."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [],

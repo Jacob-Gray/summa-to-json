@@ -25,44 +25,49 @@
             "title": [
                 "Whether every priest can excommunicate?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that every priest can excommunicate. For excommunication is an act of the keys. But every priest has the keys. Therefore every priest can excommunicate."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is a greater thing to loose and bind in the tribunal of penance than in the tribunal of judgment. But every priest can loose and bind his subjects in the tribunal of Penance. Therefore every priest can excommunicate his subjects."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Excommunication is an act of the keys not directly, but with respect to the external judgment. The sentence of excommunication, however, though it is promulgated by an external verdict, still, as it belongs somewhat to the entrance to the kingdom, in so far as the Church Militant is the way to the Church Triumphant, this jurisdiction whereby a man is competent to excommunicate, can be called a key. It is in this sense that some distinguish between the key of orders, which all priests have, and the key of jurisdiction in the tribunal of judgment, which none have but the judges of the external tribunal. Nevertheless God bestowed both on Peter (Mt. 16:19), from whom they are derived by others, whichever of them they have."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Parish priests have jurisdiction indeed over their subjects, in the tribunal of conscience, but not in the judicial tribunal, for they cannot summons them in contentious cases. Hence they cannot excommunicate, but they can absolve them in the tribunal of Penance. And though the tribunal of Penance is higher, yet more solemnity is requisite in the judicial tribunal, because therein it is necessary to make satisfaction not only to God but also to man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "counter": [
@@ -80,44 +85,49 @@
             "title": [
                 "Whether those who are not priests can excommunicate?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that those who are not priests cannot excommunicate. Because excommunication is an act of the keys, as stated in Sent. iv, D, 18. But those who are not priests have not the keys. Therefore they cannot excommunicate."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, more is required for excommunication than for absolution in the tribunal of Penance. But one who is not a priest cannot absolve in the tribunal of Penance. Neither therefore can he excommunicate."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Though they have not the key of orders, they have the key of jurisdiction."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: These two are related to one another as something exceeding and something exceeded [*Cf. Article [1], a[2]; Question [24], Article [1], ad 1], and consequently one of them may be within the competency of someone while the other is not."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -135,44 +145,49 @@
             "title": [
                 "Whether a man who is excommunicated or suspended can excommunicate another?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that one who is excommunicated or suspended can excommunicate another. For such a one has lost neither orders nor jurisdiction, since neither is he ordained anew when he is absolved, nor is his jurisdiction renewed. But excommunication requires nothing more than orders or jurisdiction. Therefore even one who is excommunicated or suspended can excommunicate."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further. it is a greater thing to consecrate the body of Christ than to excommunicate. But such persons can consecrate. Therefore they can excommunicate."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although an excommunicated or suspended person does not lose his jurisdiction, yet he does lose its use."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The power of consecration results from the power of the character which is indelible, wherefore, from the very fact that a man has the character of order, he can always consecrate, though not always lawfully. It is different with the power of excommunication which results from jurisdiction, for this can be taken away and bound."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "counter": [
@@ -190,62 +205,69 @@
             "title": [
                 "Whether a man can excommunicate himself, his equal, or his superior?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a man can excommunicate himself, his equal, or his superior. For an angel of God was greater than Paul, according to Mt. 11:11: \"He that is lesser in the kingdom of heaven is greater then he, a greater\" than whom \"hath not risen among men that are born of women.\" Now Paul excommunicated an angel from heaven (Gal. 1:8). Therefore a man can excommunicate his superior."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, sometimes a priest pronounces a general excommunication for theft or the like. But it might happen that he, or his equal, or a superior has done such things. Therefore a man can excommunicate himself, his equal, or a superior."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, a man can absolve his superior or his equal in the tribunal of Penance, as when a bishop confesses to his subject, or one priest confesses venial sins to another. Therefore it seems that a man may also excommunicate his superior, or his equal."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The Apostle is speaking hypothetically, i.e. supposing an angel were to sin, for in that case he would not be higher than the Apostle, but lower. Nor is it absurd that, if the antecedent of a conditional sentence be impossible, the consequence be impossible also."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: In that case no one would be excommunicated, since no man has power over his peer."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Loosing and binding in the tribunal of confession affects our relation to God only, in Whose sight a man from being above another sinks below him through sin; while on the other hand excommunication is the affair of an external tribunal in which a man does not forfeit his superiority on account of sin. Hence there is no comparison between the two tribunals. Nevertheless, even in the tribunal of confession, a man cannot absolve himself, or his superior, or his equal, unless the power to do so be committed to him. This does not apply to venial sins, because they can be remitted through any sacraments which confer grace, hence remission of venial sins follows the power of orders."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -263,35 +285,39 @@
             "title": [
                 "Whether a sentence of excommunication can be passed on a body of men?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that sentence of excommunication can be passed on a body of men. Because it is possible for a number of people to be united together in wickedness. Now when a man is obstinate in his wickedness he should be excommunicated. Therefore a body of men can be excommunicated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the most grievous effect of an excommunication is privation of the sacraments of the Church. But sometimes a whole country is laid under an interdict. Therefore a body of people can be excommunicated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Suspension is not so great a punishment as excommunication, since those who are suspended are not deprived of the prayers of the Church, as the excommunicated are. Wherefore a man can be suspended without having committed a sin himself, just as a whole kingdom is laid under an interdict on account of the king's crime. Hence there is no comparison between excommunication and suspension."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "counter": [
@@ -310,44 +336,49 @@
             "title": [
                 "Whether a man can be excommunicated who is already under sentence of excommunication?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a man who is already under sentence of excommunication cannot be excommunicated any further. For the Apostle says (1 Cor. 5:12): \"What have I to do to judge them that are without?\" Now those who are excommunicated are already outside the Church. Therefore the Church cannot exercise any further judgment on them, so as to excommunicate them again."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, excommunication is privation of divine things and of the communion of the faithful. But when a man has been deprived of a thing, he cannot be deprived of it again. Therefore one who is excommunicated cannot be excommunicated again"
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The Apostle is speaking of heathens and of other unbelievers who have no (sacramental) character, whereby they are numbered among the people of God. But since the baptismal character whereby a man is numbered among God's people, is indelible, one who is baptized always belongs to the Church in some way, so that the Church is always competent to sit in judgment on him."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Although privation does not receive more or less in itself, yet it can, as regards its cause. In this way an excommunication can be repeated, and a man who has been excommunicated several times is further from the Church's prayers than one who has been excommunicated only once."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "counter": [

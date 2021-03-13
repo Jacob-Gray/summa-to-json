@@ -23,62 +23,69 @@
             "title": [
                 "Whether we may say that Christ is subject to the Father?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that we may not say that Christ was subject to the Father. For everything subject to the Father is a creature, since, as is said in De Eccles. Dogm. iv, \"in the Trinity there is no dependence or subjection.\" But we cannot say simply that Christ is a creature, as was stated above (Question [16], Article [8]). Therefore we cannot say simply that Christ is subject to God the Father."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, a thing is said to be subject to God when it is subservient to His dominion. But we cannot attribute subservience to the human nature of Christ; for Damascene says (De Fide Orth. iii, 21): \"We must bear in mind that we may not call it\" (i.e. Christ's human nature) \"a servant; for the words 'subservience' and 'domination' are not names of the nature, but of relations, as the words 'paternity' and 'filiation.'\" Hence Christ in His human nature is not subject to God the Father."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it is written (1 Cor. 15:28): \"And when all things shall be subdued unto Him, then the Son also Himself shall be subject unto Him that put all things under Him.\" But, as is written (Heb. 2:8): \"We see not as yet all things subject to Him.\" Hence He is not yet subject to the Father, Who has subjected all things to Him."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As we are not to understand that Christ is a creature simply, but only in His human nature, whether this qualification be added or not, as stated above (Question [16], Article [8]), so also  we are to understand that Christ is subject to the Father not simply but in His human nature, even if this qualification be not added; and yet it is better to add this qualification in order to avoid the error of Arius, who held the Son to be less than the Father."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The relation of subservience and dominion is based upon action and passion, inasmuch as it belongs to a servant to be moved by the will of his master. Now to act is not attributed to the nature as agent, but to the person, since \"acts belong to supposita and to singulars,\" according to the Philosopher (Metaph. i, 1). Nevertheless action is attributed to the nature as to that whereby the person or hypostasis acts. Hence, although the nature is not properly said to rule or serve, yet every hypostasis or person may be properly said to be ruling or serving in this or that nature. And in this way nothing prevents Christ being subject or servant to the Father in human nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Augustine says (De Trin. i, 8): \"Christ will give the kingdom to God and the Father, when He has brought the faithful, over whom He now reigns by faith, to the vision,\" i.e. to see the essence common to the Father and the Son: and then He will be totally subject to the Father not only in Himself, but also in His members by the full participation of the Godhead. And then all things will be fully subject to Him by the final accomplishment of His will concerning them; although even now all things are subject to Him as regards His power, according to Mt. 28:18: \"All power is given to Me in heaven and in earth.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,63 +103,70 @@
             "title": [
                 "Whether Christ is subject to Himself?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ is not subject to Himself. For Cyril says in a synodal letter which the Council of Ephesus (Part I, ch. xxvi) received: \"Christ is neither servant nor master of Himself. It is foolish, or rather impious, to think or say this.\" And Damascene says the same (De Fide Orth. iii, 21): \"The one Being, Christ, cannot be the servant or master of Himself.\" Now Christ is said to be the servant of the Father inasmuch as He is subject to Him. Hence Christ is not subject to Himself."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, servant has reference to master. Now nothing has a relation to itself, hence Hilary says (De Trin. vii) that nothing is like or equal to itself. Hence Christ cannot be said to be the servant of Himself, and consequently to be subject to Himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, \"as the rational soul and flesh are one man; so God and man are one Christ,\" as Athanasius says (Symb. Fid.). Now man is not said to be subject to himself or servant to himself or greater than himself because his body is subject to his soul. Therefore, Christ is not said to be subject to Himself because His Manhood is subject to His Godhead."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Cyril and Damascene deny that Christ is the head of Himself inasmuch as this implies a plurality of supposita, which is required in order that anyone may be the master of another."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Simply speaking it is necessary that the master and the servant should be distinct; yet a certain notion of mastership and subservience may be preserved inasmuch as the same one is master of Himself in different respects."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: On account of the divers parts of man, one of which is superior and the other inferior, the Philosopher says (Ethic. v, 11) that there is justice between a man and himself inasmuch as the irascible and concupiscible powers obey reason. Hence this way a man may be said to be subject and subservient to Himself as regards His different parts.",
                         "To the other arguments, the reply is clear from what has been said. For Augustine asserts that the Son is less than, or subject to, Himself in His human nature, and not by a diversity of supposita."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

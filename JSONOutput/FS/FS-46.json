@@ -28,62 +28,69 @@
             "title": [
                 "Whether anger is a special passion?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that anger is not a special passion. For the irascible power takes its name from anger [ira]. But there are several passions in this power, not only one. Therefore anger is not one special passion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, to every special passion there is a contrary passion; as is evident by going through them one by one. But no passion is contrary to anger, as stated above (Question [23], Article [3]). Therefore anger is not a special passion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, one special passion does not include another. But anger includes several passions: since it accompanies sorrow, pleasure, and hope, as the Philosopher states (Rhet. ii, 2). Therefore anger is not a special passion."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The irascible power takes its name from \"ira\" [anger], not because every movement of that power is one of anger; but because all its movements terminate in anger; and because, of all these movements, anger is the most patent."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: From the very fact that anger is caused by contrary passions, i.e. by hope, which is of good, and by sorrow, which is of evil, it includes in itself contrariety: and consequently it has no contrary outside itself. Thus also in mixed colors there is no contrariety, except that of the simple colors from which they are made."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Anger includes several passions, not indeed as a genus includes several species; but rather according to the inclusion of cause and effect."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -102,33 +109,37 @@
             "title": [
                 "Whether the object of anger is good or evil?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the object of anger is evil. For Gregory of Nyssa says [*Nemesius, De Nat. Hom. xxi.] that anger is \"the sword-bearer of desire,\" inasmuch, to wit, as it assails whatever obstacle stands in the way of desire. But an obstacle has the character of evil. Therefore anger regards evil as its object."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, anger and hatred agree in their effect, since  each seeks to inflict harm on another. But hatred regards evil as its object, as stated above (Question [29], Article [1]). Therefore anger does also."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, anger arises from sorrow; wherefore the Philosopher says (Ethic. viii, 6) that \"anger acts with sorrow.\" But evil is the object of sorrow. Therefore it is also the object of anger."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {},
@@ -150,62 +161,69 @@
             "title": [
                 "Whether anger is in the concupiscible faculty?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that anger is in the concupiscible faculty. For Cicero says (De Quaest. Tusc. iv, 9) that anger is a kind of \"desire.\" But desire is in the concupiscible faculty. Therefore anger is too."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Augustine says in his Rule, that \"anger grows into hatred\": and Cicero says (De Quaest. Tusc. iv, 9) that \"hatred is inveterate anger.\" But hatred, like love, is a concupiscible passion. Therefore anger is in the concupiscible faculty."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Damascene (De Fide Orth. ii, 16) and Gregory of Nyssa [*Nemesius, De Nat. Hom. xxi.] say that \"anger is made up of sorrow and desire.\" Both of these are in the concupiscible faculty. Therefore anger is a concupiscible passion."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Cicero gives the name of desire to any kind of craving for a future good, without discriminating between that which is arduous and that which is not. Accordingly he reckons anger as a kind of desire, inasmuch as it is a desire of vengeance. In this sense, however, desire is common to the irascible and concupiscible faculties."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Anger is said to grow into hatred, not as though the same passion which at first was anger, afterwards becomes hatred by becoming inveterate; but by a process of causality. For anger when it lasts a long time engenders hatred."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Anger is said to be composed of sorrow and desire, not as though they were its parts, but because they are its causes: and it has been said above (Question [25], Article [2]) that the concupiscible passions are the causes of the irascible passions."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -223,62 +241,69 @@
             "title": [
                 "Whether anger requires an act of reason?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that anger does not require an act of reason. For, since anger is a passion, it is in the sensitive appetite. But the sensitive appetite follows an apprehension, not of reason, but of the sensitive faculty. Therefore anger does not require an act of reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, dumb animals are devoid of reason: and yet they are seen to be angry. Therefore anger does not require an act of reason."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, drunkenness fetters the reason; whereas it is conducive to anger. Therefore anger does not require an act of reason."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The movement of the appetitive power may follow an act of reason in two ways. In the first way, it follows the reason in so far as the reason commands: and thus the will follows reason, wherefore it is called the rational appetite. In another way, it follows reason in so far as the reason denounces, and thus anger follows reason. For the Philosopher says (De Problem. xxviii, 3) that \"anger follows reason, not in obedience to reason's command, but as a result of reason's denouncing the injury.\" Because the sensitive appetite is subject to the reason, not immediately but through the will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Dumb animals have a natural instinct imparted to them by the Divine Reason, in virtue of which they are gifted with movements, both internal and external, like unto rational movements, as stated above (Question [40], Article [3])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: As stated in Ethic. vii, 6, \"anger listens somewhat to reason\" in so far as reason denounces the injury inflicted, \"but listens not perfectly,\" because it does not observe the rule of reason as to the measure of vengeance. Anger, therefore, requires an act of reason; and yet proves a hindrance to reason. Wherefore the Philosopher says (De Problem. iii, 2,27) that whose who are very drunk, so as to be incapable of the use of reason, do not get angry: but those who are slightly drunk, do get angry, through being still able, though hampered, to form a judgment of reason."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -296,62 +321,69 @@
             "title": [
                 "Whether anger is more natural than desire?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that anger is not more natural than desire. Because it is proper to man to be by nature a gentle animal. But \"gentleness is contrary to anger,\" as the Philosopher states (Rhet. ii, 3). Therefore anger is no more natural than desire, in fact it seems to be altogether unnatural to man."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, reason is contrasted with nature: since those things that act according to reason, are not said to act according to nature. Now \"anger requires an act of reason, but desire does not,\" as stated in Ethic. vii, 6. Therefore desire is more natural than anger."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, anger is a craving for vengeance: while desire is a craving for those things especially which are pleasant to the touch, viz. for pleasures of the table and for sexual pleasures. But these things are more natural to man than vengeance. Therefore desire is more natural than anger."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: We may consider in man both the natural temperament on the part of the body, and the reason. On the part of the bodily temperament, a man, considered specifically, does not naturally excel others either in anger or in any other passion, on account of the moderation of his temperament. But other animals, for as much as their temperament recedes from this moderation and approaches to an extreme disposition, are naturally disposed to some excess of passion, such as the lion in daring, the hound in anger, the hare in fear, and so forth. On the part of reason, however, it is natural to man, both to be angry and to be gentle: in so far as reason somewhat causes anger, by denouncing the injury which causes anger; and somewhat appeases anger, in so far as the angry man \"does not listen perfectly to the command of reason,\" as stated above (Article [4], ad 3)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Reason itself belongs to the nature of man: wherefore from the very fact that anger requires an act of reason, it follows that it is, in a manner, natural to man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument regards anger and desire on the part of the object."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -370,63 +402,70 @@
             "title": [
                 "Whether anger is more grievous than hatred?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that anger is more grievous than hatred. For it is written (Prov. 27:4) that \"anger hath no mercy, nor fury when it breaketh forth.\" But hatred sometimes has mercy. Therefore anger is more grievous than hatred."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, it is worse to suffer evil and to grieve for it, than merely to suffer it. But when a man hates, he is contented if the object of his hatred suffer evil: whereas the angry man is not satisfied unless the object of his anger know it and be aggrieved thereby, as the Philosopher says (Rhet. ii, 4). Therefore, anger is more grievous than hatred."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, a thing seems to be so much the more firm according as more things concur to set it up: thus a habit is all the more settled through being caused by several acts. But anger is caused by the concurrence of several passions, as stated above (Article [1]): whereas hatred is not. Therefore anger is more settled and  more grievous than hatred."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: In anger and hatred two points may be considered: namely, the thing desired, and the intensity of the desire. As to the thing desired, anger has more mercy than hatred has. For since hatred desires another's evil for evil's sake, it is satisfied with no particular measure of evil: because those things that are desired for their own sake, are desired without measure, as the Philosopher states (Polit. i, 3), instancing a miser with regard to riches. Hence it is written (Ecclus. 12:16): \"An enemy . . . if he find an opportunity, will not be satisfied with blood.\" Anger, on the other hand, seeks evil only under the aspect of a just means of vengeance. Consequently when the evil inflicted goes beyond the measure of justice according to the estimate of the angry man, then he has mercy. Wherefore the Philosopher says (Rhet. ii, 4) that \"the angry man is appeased if many evils befall, whereas the hater is never appeased.\"",
                         "As to the intensity of the desire, anger excludes mercy more than hatred does; because the movement of anger is more impetuous, through the heating of the bile. Hence the passage quoted continues: \"Who can bear the violence of one provoked?\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: As stated above, an angry man wishes evil to someone, in so far as this evil is a means of just vengeance. Now vengeance is wrought by the infliction of a punishment: and the nature of punishment consists in being contrary to the will, painful, and inflicted for some fault. Consequently an angry man desires this, that the person whom he is hurting, may feel it and be in pain, and know that this has befallen him on account of the harm he has done the other. The hater, on the other hand, cares not for all this, since he desires another's evil as such. It is not  true, however, that an evil is worse through giving pain: because \"injustice and imprudence, although evil,\" yet, being voluntary, \"do not grieve those in whom they are,\" as the Philosopher observes (Rhet. ii, 4)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: That which proceeds from several causes, is more settled when these causes are of one kind: but it may be that one cause prevails over many others. Now hatred ensues from a more lasting cause than anger does. Because anger arises from an emotion of the soul due to the wrong inflicted; whereas hatred ensues from a disposition in a man, by reason of which he considers that which he hates to be contrary and hurtful to him. Consequently, as passion is more transitory than disposition or habit, so anger is less lasting than hatred; although hatred itself is a passion ensuing from this disposition. Hence the Philosopher says (Rhet. ii, 4) that \"hatred is more incurable than anger.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -444,62 +483,69 @@
             "title": [
                 "Whether anger is only towards those to whom one has an obligation of justice?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that anger is not only towards those to whom one has an obligation of justice. For there is no justice between man and irrational beings. And yet sometimes one is angry with irrational beings; thus, out of anger, a writer throws away his pen, or a rider strikes his horse. Therefore anger is not only towards those to whom one has an obligation of justice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, \"there is no justice towards oneself . . . nor is there justice towards one's own\" (Ethic. v, 6). But sometimes a man is angry with himself; for instance, a penitent, on account of his sin; hence it is written (Ps. 4:5): \"Be ye angry and sin not.\" Therefore anger is not only towards those with whom one has a relation of justice."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, justice and injustice can be of one man towards an entire class, or a whole community: for instance, when the state injures an individual. But anger is not towards a class but only towards an individual, as the Philosopher states (Rhet. ii, 4). Therefore properly speaking, anger is not towards those with whom one is in relation of justice or injustice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: As stated above (Article [4], ad 2), anger, though it  follows an act of reason, can nevertheless be in dumb animals that are devoid of reason, in so far as through their natural instinct they are moved by their imagination to something like rational action. Since then in man there is both reason and imagination, the movement of anger can be aroused in man in two ways. First, when only his imagination denounces the injury: and, in this way, man is aroused to a movement of anger even against irrational and inanimate beings, which movement is like that which occurs in animals against anything that injures them. Secondly, by the reason denouncing the injury: and thus, according to the Philosopher (Rhet. ii, 3), \"it is impossible to be angry with insensible things, or with the dead\": both because they feel no pain, which is, above all, what the angry man seeks in those with whom he is angry: and because there is no question of vengeance on them, since they can do us no harm."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: As the Philosopher says (Ethic. v, 11), \"metaphorically speaking there is a certain justice and injustice between a man and himself,\" in so far as the reason rules the irascible and concupiscible parts of the soul. And in this sense a man is said to be avenged on himself, and consequently, to be angry with himself. But properly, and in accordance with the nature of things, a man is never angry with himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The Philosopher (Rhet. ii, 4) assigns as one difference between hatred and anger, that \"hatred may be felt towards a class, as we hate the entire class of thieves; whereas anger is directed only towards an individual.\" The reason is that hatred arises from our considering a quality as disagreeing with our disposition; and this may refer to a thing in general or in particular. Anger, on the other hand, ensues from someone having injured us by his action. Now all actions are the deeds of individuals: and consequently anger is always pointed at an individual. When the whole state hurts us, the whole state is reckoned as one individual [*Cf. Question [29], Article [6]]."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -517,62 +563,69 @@
             "title": [
                 "Whether the species of anger are suitably assigned?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that Damascene (De Fide Orth. ii, 16) unsuitably assigns three species of anger---\"wrath,\" \"ill-will\" and \"rancor.\" For no genus derives its specific differences from accidents. But these three are diversified in respect of an accident: because \"the beginning of the movement of anger is called wrath {cholos}, if anger continue it is called ill-will {menis}; while rancor {kotos} is anger waiting for an opportunity of vengeance.\" Therefore these are not different species of anger."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Cicero says (De Quaest. Tusc. iv, 9) that \"excandescentia [irascibility] is what the Greeks call {thymosis}, and is a kind of anger that arises and subsides intermittently\"; while according to Damascene {thymosis}, is the same as the Greek {kotos} [rancor]. Therefore {kotos} does not bide its time for taking vengeance, but in course of time spends itself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Gregory (Moral. xxi, 4) gives three degrees of anger, namely, \"anger without utterance, anger with utterance, and anger with perfection of speech,\" corresponding to the three degrees mentioned by Our Lord (Mt. 5:22): \"Whosoever is angry with his brother\" [thus implying \"anger without utterance\"], and then, \"whosoever shall say to his brother, 'Raca'\" [implying \"anger with utterance yet without full expression\"], and lastly, \"whosoever shall say 'Thou fool'\" [where we have \"perfection of speech\"]. Therefore Damascene's division is imperfect, since it takes no account of utterance."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: All those things which give anger some kind of perfection are not altogether accidental to anger; and consequently nothing prevents them from causing a certain specific difference thereof."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Irascibility, which Cicero mentions, seems to pertain to the first species of anger, which consists in a certain quickness of temper, rather than to rancor [furor]. And there is no reason why the Greek {thymosis}, which is denoted by the Latin \"furor,\" should not signify both quickness to anger, and firmness of purpose in being avenged."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 46,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: These degrees are distinguished according to various effects of anger; and not according to degrees of perfection in the very movement of anger."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [

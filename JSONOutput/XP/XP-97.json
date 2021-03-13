@@ -27,54 +27,60 @@
             "title": [
                 "Whether in hell the damned are tormented by the sole punishment of fire?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that in hell the damned are tormented by the sole punishment of fire; because Mt. 25:41, where their condemnation is declared, mention is made of fire only, in the words: \"Depart from Me, you cursed, into everlasting fire.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, even as the punishment of purgatory is due to venial sin, so is the punishment of hell due to mortal sin. Now no other punishment but that of fire is stated to be in purgatory, as appears from the words of 1 Cor. 3:13: \"The fire shall try every man's work, of what sort it is.\" Therefore neither in hell will there be a punishment other than of fire."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, variety of punishment affords a respite, as when one passes from heat to cold. But we can admit no respite in the damned. Therefore there will not be various punishments, but that of fire alone."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: It is because fire is most painful, through its abundance of active force, that the name of fire is given to any torment if it be intense.",
                         "Reply to Objection 2: The punishment of purgatory is not intended chiefly to torment but to cleanse: wherefore it should be inflicted by fire alone which is above all possessed of cleansing power. But the punishment of the damned is not directed to their cleansing. Consequently the comparison fails."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The damned will pass from the most intense heat to the most intense cold without this giving them any respite: because they will suffer from external agencies, not by the transmutation of their body from its original natural disposition, and the contrary passion affording a respite by restoring an equable or moderate temperature, as happens now, but by a spiritual action, in the same way as sensible objects act on the senses being perceived by impressing the organ with their forms according to their spiritual and not their material being."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -93,44 +99,49 @@
             "title": [
                 "Whether the worm of the damned is corporeal?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the worm by which the damned are tormented is corporeal. Because flesh cannot be tormented by a spiritual worm. Now the flesh of the damned will be tormented by a worm: \"He will give fire and worms into their flesh\" (Judith 16:21), and: \"The vengeance on the flesh of the ungodly is fire and worms\" (Ecclus. 7:19). Therefore that worm will be corporeal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, Augustine says (De Civ. Dei xxi, 9): . . . \"Both, namely fire and worm, will be the punishment of the body.\" Therefore, etc."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The very souls of the damned are called their flesh for as much as they were subject to the flesh. Or we may reply that the flesh will be tormented by the spiritual worm, according as the afflictions of the soul overflow into the body, both here and hereafter."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Augustine speaks by way of comparison. For he does not wish to assert absolutely that this worm is material, but that it is better to say that both are to be understood materially, than that both should be understood only in a spiritual sense: for then the damned would suffer no bodily pain. This is clear to anyone that examines the context of his words in this passage."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -148,24 +159,27 @@
             "title": [
                 "Whether the weeping of the damned will be corporeal?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the weeping of the damned will be corporeal. For a gloss on Lk. 13:28, \"There will be weeping,\" says that \"the weeping with which our Lord threatens the wicked is a proof of the resurrection of the body.\" But this would not be the case if that weeping were merely spiritual. Therefore, etc."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the pain of the punishment corresponds to the pleasure of the sin, according to Apoc. 18:7: \"As much as she hath glorified herself and lived in delicacies, so much torment and sorrow give ye to her.\" Now sinners had internal and external pleasure in their sin. Therefore they will also have external weeping."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {},
@@ -185,33 +199,37 @@
             "title": [
                 "Whether the damned are in material darkness?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the damned are not in material darkness. For commenting on Job 10:22, \"But everlasting horror dwelleth,\" Gregory says (Moral. ix): \"Although that fire will give no light for comfort, yet, that it may torment the more it does give light for a purpose, for by the light of its flame the wicked will see their followers whom they have drawn thither from the world.\" Therefore the darkness there is not material."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the damned see their own punishment, for this increases their punishment. But nothing is seen without light. Therefore there is no material darkness there."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, there the damned will have the power of sight after being reunited to their bodies. But this power would be useless to them unless they see something. Therefore, since nothing is seen unless it be in the light, it would seem that they are not in absolute darkness."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {},
@@ -235,62 +253,69 @@
             "title": [
                 "Whether the fire of hell will be corporeal?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the fire of hell whereby the bodies of the damned will be tormented will not be corporeal. For Damascene says (De Fide Orth. iv): The devil, and \"demons, and his men\" [*Cf. 2 Thess. 2:3: \"And the man of sin be revealed, the son of perdition.\"], namely Antichrist, \"together with the ungodly and sinners will be cast into everlasting fire, not material fire, such as that which we have, but such as God knoweth.\" Now everything corporeal is material. Therefore the fire of hell will not be corporeal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the souls of the damned when severed from their bodies are cast into hell fire. But Augustine says (Gen. ad lit. xii, 32): \"In my opinion the place to which the soul is committed after death is spiritual and not corporeal.\" Therefore, etc."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, corporeal fire in the mode of its action does not follow the mode of guilt in the person who is burned at the stake, rather does it follow the mode of humid and dry: for in the same corporeal fire we see both good and wicked suffer. But the fire of hell, in its mode of torture or action, follows the mode of guilt in the person punished; wherefore Gregory says (Dial. iv, 63): \"There is indeed but one hell fire, but it does not torture all sinners equally. For each one will suffer as much pain according as his guilt deserves.\" Therefore this fire will not be  corporeal."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Damascene does not absolutely deny that this fire is material, but that it is material as our fire, since it differs from ours in some of its properties. We may also reply that since that fire does not alter bodies as to their matter, but acts on them for their punishment by a kind of spiritual action, it is for this reason that it is stated not to be material, not as regards its substance, but as to its punitive effect on bodies and, still more, on souls."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The assertion of Augustine may be taken in this way, that the place whither souls are conveyed after death be described as incorporeal, in so far as the soul is there, not corporeally, i.e. as bodies are in a place, but in some other spiritual way, as angels are in a place. Or we may reply that Augustine is expressing an opinion without deciding the point, as he often does in those books."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: That fire will be the instrument of Divine justice inflicting punishment. Now an instrument acts not only by its own power and in its own way, but also by the power of the principal agent, and as directed thereby. Wherefore although fire is not able, of its own power, to torture certain persons more or less, according to the measure of sin, it is able to do so nevertheless in so far as its action is regulated by the ordering of Divine justice: even so the fire of the furnace is regulated by the forethought of the smith, according as the effect of his art requires."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -309,80 +334,89 @@
             "title": [
                 "Whether the fire of hell is of the same species as ours?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that this fire is not of the same species as the corporeal fire which we see. For Augustine says (De Civ. Dei xx, 16): \"In my opinion no man knows of what kind is the everlasting fire, unless the Spirit of God has revealed it to  anyone.\" But all or nearly all know the nature of this fire of ours. Therefore that fire is not of the same species as this."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, Gregory commenting on Job 10:26, \"A fire that is not kindled shall devour him,\" says (Moral. xv): \"Bodily fire needs bodily fuel in order to become fire; neither can it be except by being kindled, nor live unless it be renewed. On the other hand the fire of hell, since it is a bodily fire, and burns in a bodily way the wicked cast therein, is neither kindled by human endeavor, nor kept alive with fuel, but once created endures unquenchably; at one and the same time it needs no kindling, and lacks not heat.\" Therefore it is not of the same nature as the fire that we see."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the everlasting and the corruptible differ essentially, since they agree not even in genus, according to the Philosopher (Metaph. x). But this fire of ours is corruptible, whereas the other is everlasting: \"Depart from Me, you cursed, into everlasting fire\" (Mt. 25:41). Therefore they are not of the same nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, it belongs to the nature of this fire of ours to give light. But the fire of hell gives no light, hence the saying of Job 18:5: \"Shall not the light of the wicked be extinguished?\" Therefore . . . as above."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Augustine is speaking of that fire with regard to its matter, and not with regard to its nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: This fire of ours is kept alive with fuel, and is kindled by man, because it is introduced into a foreign matter by art and force. But that other fire needs no fuel to keep it alive, because either it subsists in its own matter, or is in a foreign matter, not by force but by nature from an intrinsic principle. Wherefore it is kindled not by man but by God, Who fashioned its nature. This is the meaning of the words of Isaias (30:33): \"The breath of the Lord is as a torrent of brimstone kindling it.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Even as the bodies of the damned will be of the same species as now, although now they are corruptible, whereas then they will be incorruptible, both by the ordering of Divine justice, and on account of the cessation of the heavenly movement, so is it with the fire of hell whereby those bodies will be punished."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: To give light does not belong to fire according to any mode of existence, since in its own matter it gives no light; wherefore it does not shine in its own sphere according to the philosophers: and in like manner in certain foreign matters it does not shine, as when it is in an opaque earthly substance such as sulphur. The same happens also when its brightness is obscured by thick smoke. Wherefore that the fire of hell gives no light is not sufficient proof of its being of a different species."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 6
                 }
             },
             "counter": [
@@ -401,80 +435,89 @@
             "title": [
                 "Whether the fire of hell is beneath the earth?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that this fire is not beneath the earth. For it is said of the damned (Job 18:18), \"And God shall remove him out of the globe [Douay: 'world'].\" Therefore the fire whereby the damned will be punished is not beneath the earth but outside the globe."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, nothing violent or accidental can be everlasting. But this fire will be in hell for ever. Therefore it will be there, not by force but naturally. Now fire cannot be under the earth save by violence. Therefore the fire of hell is not beneath the earth."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, after the day of judgment the bodies of all the damned will be tormented in hell. Now those bodies will fill a place. Consequently, since the multitude of the damned will be exceeding great, for \"the number of fools is infinite\" (Eccles. 1:15), the space containing that fire must also be exceeding great. But it would seem unreasonable to say that there is so great a hollow within the earth, since all the parts of the earth naturally  tend to the center. Therefore that fire will not be beneath the earth."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, \"By what things a man sinneth, by the same also he is tormented\" (Wis. 11:17). But the wicked have sinned on the earth. Therefore the fire that punishes them should not be under the earth."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The words of Job, \"God shall remove him out of the globe,\" refer to the surface of the earth [*\"De orbe terrarum,\" which might be rendered \"from the land of the living.\"], i.e. from this world. This is how Gregory expounds it (Moral. xiv) where he says: \"He is removed from the globe when, at the coming of the heavenly judge, he is taken away from this world wherein he now prides himself in his wickedness.\" Nor does globe here signify the universe, as though the place of punishment were outside the whole universe."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Fire continues in that place for all eternity by the ordering of Divine justice although according to its nature an element cannot last for ever outside its own place, especially if things were to remain in this state of generation and corruption. The fire there will be of the very greatest heat, because its heat will be all gathered together from all parts, through being surrounded on all sides by the cold of the earth."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Hell will never lack sufficient room to admit the bodies of the damned: since hell is accounted one of the three things that \"never are satisfied\" (Prov. 30:15,16). Nor is it unreasonable that God's power should maintain within the bowels of the earth a hollow great enough to contain all the bodies of the damned."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: It does not follow of necessity that \"by what things a man sinneth, by the same also he is tormented,\" except as regards the principal instruments of sin: for as much as man having sinned in soul and body will be punished in both. But it does not follow that a man will be punished in the very place where he sinned, because the place due to the damned is other from that due to wayfarers. We may also reply that these words refer to the punishments inflicted on man on the way: according as each sin has its corresponding punishment, since \"inordinate love is its own punishment,\" as Augustine states (Confess. i, 12)."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 7
                 }
             },
             "counter": [

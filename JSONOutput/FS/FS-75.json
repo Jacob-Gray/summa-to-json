@@ -23,62 +23,69 @@
             "title": [
                 "Whether sin has a cause?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sin has no cause. For sin has the nature of evil, as stated above (Question [71], Article [6]). But evil has no cause, as Dionysius says (Div. Nom. iv). Therefore sin has no cause."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, a cause is that from which something follows of necessity. Now that which is of necessity, seems to be no sin, for every sin is voluntary. Therefore sin has no cause."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, if sin has a cause, this cause is either good or evil. It is not a good, because good produces nothing but good, for \"a good tree cannot bring forth evil fruit\" (Mt. 7:18). Likewise neither can evil be the cause of sin, because the evil of punishment is a sequel to sin, and the evil of guilt is the same as sin. Therefore sin has no cause."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Sin signifies not only the privation of good, which privation is its inordinateness, but also the act which is the subject of that privation, which has the nature of evil: and how this evil has a cause, has been explained."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: If this definition is to be verified in all cases, it must be understood as applying to a cause which is sufficient and not impeded. For it happens that a thing is the sufficient cause of something else, and that the effect does not follow of necessity, on account of some supervening impediment: else it would follow that all things happen of necessity, as is proved in Metaph. vi, text. 5. Accordingly, though sin has a cause, it does not follow that this is a necessary cause, since its effect can be impeded."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: As stated above, the will in failing to apply the rule of reason or of the Divine law, is the cause of sin. Now the fact of not applying the rule of reason or of the Divine law, has not in itself the nature of evil, whether of punishment or of guilt, before it is applied to the act. Wherefore accordingly, evil is not the cause of the first sin, but some good lacking some other good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether sin has an internal cause?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sin has no internal cause. For that which is within a thing is always in it. If therefore sin had an internal cause, man would always be sinning, since given the cause, the effect follows."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, a thing is not its own cause. But the internal movements of a man are sins. Therefore they are not the cause of sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, whatever is within man is either natural or voluntary. Now that which is natural cannot be the cause of sin, for sin is contrary to nature, as Damascene states (De Fide Orth. ii, 3; iv, 21); while that which is voluntary, if it be inordinate, is already a sin. Therefore nothing intrinsic can be the cause of the first sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: That which is within a thing as its natural power, is always in it: but that which is within it, as the internal act of the appetitive or apprehensive power, is not always in it. Now the power of the will is the potential cause of sin, but is made actual by the preceding movements, both of the sensitive part, in the first place, and afterwards, of the reason. For it is because a thing is proposed as appetible to the senses, and because the appetite is inclined, that the reason sometimes fails to consider the due rule, so that the will produces the act of sin. Since therefore the movements that precede it are not always actual, neither is man always actually sinning."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: It is not true that all the internal acts belong to the substance of sin, for this consists principally in the act of the will; but some precede and some follow the sin itself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: That which causes sin, as a power produces its act, is natural; and again, the movement of the sensitive part, from which sin follows, is natural sometimes, as, for instance, when anyone sins through appetite for food. Yet sin results in being unnatural from the very fact that the natural rule fails, which man, in accord with his nature, ought to observe."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -170,62 +184,69 @@
             "title": [
                 "Whether sin has an external cause?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sin has no external cause. For sin is a voluntary act. Now voluntary acts belong to principles that are within us, so that they have no external cause. Therefore sin has no external cause."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, as nature is an internal principle, so is the will. Now in natural things sin can be due to no other than an internal cause; for instance, the birth of a monster is due to the corruption of some internal principle. Therefore in the moral order, sin can arise from no other than an internal cause. Therefore it has no external cause."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, if the cause is multiplied, the effect is multiplied. Now the more numerous and weighty the external inducements to sin are, the less is a man's inordinate act imputed to him as a sin. Therefore nothing external is a cause of sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: From the very fact that the external motive causes of sin do not lead to sin sufficiently and necessarily, it follows that it remains in our power to sin or not to sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The fact that sin has an internal cause does not prevent its having an external cause; for nothing external is a cause of sin, except through the medium of the internal cause, as stated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: If the external causes inclining to sin be multiplied, the sinful acts are multiplied, because they incline to the sinful act in both greater numbers and greater frequency. Nevertheless the character of guilt is lessened, since this depends on the act being voluntary and in our power."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -243,62 +264,69 @@
             "title": [
                 "Whether one sin is a cause of another?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that one sin cannot be the cause of another. For there are four kinds of cause, none of which will fit in with one sin causing another. Because the end has the character of good; which is inconsistent with sin, which has the character of evil. In like manner neither can a sin be an efficient cause, since \"evil is not an efficient cause, but is weak and powerless,\" as Dionysius declares (Div. Nom. iv). The material and formal cause seems to have no place except in natural bodies, which are composed of matter and form. Therefore sin cannot have either a material or a formal cause."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, \"to produce its like belongs to a perfect thing,\" as stated in Meteor. iv, 2 [*Cf. De Anima ii.]. But sin is essentially something imperfect. Therefore one sin cannot be a cause of another."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, if one sin is the cause of a second sin, in the same way, yet another sin will be the cause of the first, and thus we go on indefinitely, which is absurd. Therefore one sin is not the cause of another."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Sin, in so far as it is inordinate, has the  character of evil; but, in so far as it is an act, it has some good, at least apparent, for its end: so that, as an act, but not as being inordinate, it can be the cause, both final and efficient, of another sin. A sin has matter, not \"of which\" but \"about which\" it is: and it has its form from its end. Consequently one sin can be the cause of another, in respect of the four kinds of cause, as stated above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Sin is something imperfect on account of its moral imperfection on the part of its inordinateness. Nevertheless, as an act it can have natural perfection: and thus it can be the cause of another sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 75,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Not every cause of one sin is another sin; so there is no need to go on indefinitely: for one may come to one sin which is not caused by another sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

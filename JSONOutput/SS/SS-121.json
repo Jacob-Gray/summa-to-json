@@ -21,62 +21,69 @@
             "title": [
                 "Whether piety is a gift?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 121,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that piety is not a gift. For the gifts differ from the virtues, as stated above (FS, Question [68], Article [1]). But piety is a virtue, as stated above (Question [101], Article [3]). Therefore piety is not a gift."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 121,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the gifts are more excellent than the virtues,  above all the moral virtues, as above (FS, Question [68], Article [8]). Now among the parts of justice religion is greater than piety. Therefore if any part of justice is to be accounted a gift, it seems that religion should be a gift rather than piety."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 121,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the gifts and their acts remain in heaven, as stated above (FS, Question [68], Article [6]). But the act of piety cannot remain in heaven: for Gregory says (Moral. i) that \"piety fills the inmost recesses of the heart with works of mercy\": and so there will be no piety in heaven since there will be no unhappiness [*Cf. Question [30], Article [1]]. Therefore piety is not a gift."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 121,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The piety that pays duty and worship to a father in the flesh is a virtue: but the piety that is a gift pays this to God as Father."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 121,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: To pay worship to God as Creator, as religion does, is more excellent than to pay worship to one's father in the flesh, as the piety that is a virtue does. But to pay worship to God as Father is yet more excellent than to pay worship to God as Creator and Lord. Wherefore religion is greater than the virtue of piety: while the gift of piety is greater than religion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 121,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As by the virtue of piety man pays duty and worship not only to his father in the flesh, but also to all his kindred on account of their being related to his father so by the gift of piety he pays worship and duty not only to God, but also to all men on account of their relationship to God. Hence it belongs to piety to honor the saints, and not to contradict the Scriptures whether one understands them or not, as Augustine says (De Doctr. Christ. ii). Consequently it also assists those who are in a state of unhappiness. And although this act has no place in heaven, especially after the Day of Judgment, yet piety will exercise its principal act, which is to revere God with filial affection: for it is then above all that this act will be fulfilled, according to Wis. 5:5, \"Behold how they are numbered among the children of God.\" The saints will also mutually honor one another. Now, however, before the Judgment Day, the saints have pity on those also who are  living in this unhappy state."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -94,53 +101,59 @@
             "title": [
                 "Whether the second beatitude, \"Blessed are the meek,\" corresponds to the gift of piety?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 121,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that the second beatitude, \"Blessed are the meek,\" does not correspond to the gift of piety. For piety is the gift corresponding to justice, to which rather belongs the fourth beatitude, \"Blessed are they that hunger and thirst after justice,\" or the fifth beatitude, \"Blessed are the merciful,\" since as stated above (Article [1], Objection [3]), the works of mercy belong to piety. Therefore the second beatitude does not pertain to the gift of piety."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 121,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the gift of piety is directed by the gift of knowledge, which is united to it in the enumeration of the gifts (Is. 11). Now direction and execution extend to the same matter. Since, then, the third beatitude, \"Blessed are they that mourn,\" corresponds to the gift of knowledge, it seems that the second beatitude corresponds to piety."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 121,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the fruits correspond to the beatitudes and gifts, as stated above (FS, Question [70], Article [2]). Now among the fruits, goodness and benignity seem to agree with piety rather than mildness, which pertains to meekness. Therefore the second beatitude does not correspond to the gift of piety."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 121,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Taking the beatitudes and gifts according to their proper natures, the same beatitude must needs correspond to knowledge and piety: but taking them according to their order, different beatitudes correspond to them, although a certain congruity may be observed, as stated above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 121,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: In the fruits goodness and benignity may be directly ascribed to piety; and mildness indirectly in so far as it removes obstacles to acts of piety, as stated above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

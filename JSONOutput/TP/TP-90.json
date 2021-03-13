@@ -24,62 +24,69 @@
             "title": [
                 "Whether Penance should be assigned any parts?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that parts should not be assigned to Penance. For it is the Divine power that works our salvation most secretly in the sacraments. Now the Divine power is one and simple. Therefore Penance, being a sacrament, should have no parts assigned to it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Penance is both a virtue and a sacrament. Now no parts are assigned to it as a virtue, since virtue is a habit, which is a simple quality of the mind. In like manner, it seems that parts should not be assigned to Penance as a sacrament, because no parts are assigned to Baptism and the other sacraments. Therefore no parts at all should be assigned to Penance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the matter of Penance is sin, as stated above (Question [84], Article [2]). But no parts are assigned to sin. Neither, therefore, should parts be assigned to Penance."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Every sacrament is something simple by reason of the Divine power, which operates therein: but the Divine power is so great that it can operate both through one and through many, and by reason of these many, parts may be assigned to a particular sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Parts are not assigned to penance as a virtue: because the human acts of which there are several in penance, are related to the habit of virtue, not as its parts, but as its effects. It follows, therefore, that parts are assigned to Penance as a sacrament, to which the human acts are related as matter: whereas in the other sacraments the matter does not consist of human acts, but of some one external thing, either simple, as water or oil, or compound, as chrism, and so parts are not assigned to the other sacraments."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Sins are the remote matter of Penance, inasmuch, to wit, as they are the matter or object of the human acts, which are the proper matter of Penance as a sacrament."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,81 +105,90 @@
             "title": [
                 "Whether contrition, confession, and satisfaction are fittingly assigned as parts of Penance?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that contrition, confession, and satisfaction are not fittingly assigned as parts of Penance. For contrition is in the heart, and so belongs to interior penance; while confession consists of words, and satisfaction in deeds; so that the two latter belong to interior penance. Now interior penance is not a sacrament, but only exterior penance which is perceptible by the senses. Therefore these three parts are not fittingly assigned to the sacrament of Penance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, grace is conferred in the sacraments of the New Law, as stated above (Question [62], Articles [1],3). But no grace is conferred in satisfaction. Therefore satisfaction is not part of a sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the fruit of a thing is not the same as its part. But satisfaction is a fruit of penance, according to Lk. 3:8: \"Bring forth . . . fruits worthy of penance.\" Therefore it is not a part of Penance."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, Penance is ordained against sin. But sin can be completed merely in the thought by consent, as stated in the FS, Question [72], Article [7]: therefore Penance can also. Therefore confession in word and satisfaction in deed should not be reckoned as parts of Penance."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Contrition, as to its essence, is in the heart, and belongs to interior penance; yet, virtually, it belongs to exterior penance, inasmuch as it implies the purpose of confessing and making satisfaction."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Satisfaction confers grace, in so far as it is in man's purpose, and it increases grace, according as it is accomplished, just as Baptism does in adults, as stated above (Question [68], Article [2]; Question [69], Article [8])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Satisfaction is a part of Penance as a sacrament, and a fruit of penance as a virtue."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: More things are required for good, \"which proceeds from a cause that is entire,\" than for evil, \"which results from each single defect,\" as Dionysius states (Div. Nom.  iv). And thus, although sin is completed in the consent of the heart, yet the perfection of Penance requires contrition of the heart, together with confession in word and satisfaction in deed.",
                         "The Reply to the Fifth Objection is clear from what has been said."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -191,62 +207,69 @@
             "title": [
                 "Whether these three are integral parts of Penance?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that these three are not integral parts of Penance. For, as stated above (Question [84], Article [3]), Penance is ordained against sin. But sins of thought, word, and deed are the subjective and not integral parts of sin, because sin is predicated of each one of them. Therefore in Penance also, contrition in thought, confession in word, and satisfaction in deed are not integral parts."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, no integral part includes within itself another that is condivided with it. But contrition includes both confession and satisfaction in the purpose of amendment. Therefore they are not integral parts."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, a whole is composed of its integral parts, taken at the same time and equally, just as a line is made up of its parts. But such is not the case here. Therefore these are not integral parts of Penance."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Sin forasmuch as it is an evil, can be completed in one single point, as stated above (Article [2], ad 4); and so the sin which is completed in thought alone, is a special kind of sin. Another species is the sin that is completed in thought and word: and yet a third species is the sin that is completed in thought,  word, and deed; and the quasi-integral parts of this last sin, are that which is in thought, that which is in word, and that which is in deed. Wherefore these three are the integral parts of Penance, which is completed in them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: One integral part can include the whole, though not as to its essence: because the foundation, in a way, contains virtually the whole building. In this way contrition includes virtually the whole of Penance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: All integral parts have a certain relation of order to one another: but some are only related as to position, whether in sequence as the parts of an army, or by contact, as the parts of a heap, or by being fitted together, as the parts of a house, or by continuation, as the parts of a line; while some are related, in addition, as to power, as the parts of an animal, the first of which is the heart, the others in a certain order being dependent on one another: and thirdly some are related in the order of time: as the parts of time and movement. Accordingly the parts of Penance are related to one another in the order of power and time, since they are actions, but not in the order of position, since they do not occupy a place."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -264,62 +287,69 @@
             "title": [
                 "Whether Penance is fittingly divided into penance before Baptism, penance for mortal sins, and penance for venial sins?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that penance is unfittingly divided into penance before Baptism, penance for mortal, and penance for venial sins. For Penance is the second plank after shipwreck, as stated above (Question [84], Article [6]), while Baptism is the first. Therefore that which precedes Baptism should not be called a species of penance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, that which can destroy the greater, can destroy the lesser. Now mortal sin is greater than venial; and penance which regards mortal sins regards also venial sins. Therefore they should not be considered as different species of penance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, just as after Baptism man commits venial and mortal sins, so does he before Baptism. If therefore penance for venial sins is distinct from penance for mortal sins after Baptism, in like manner they should be distinguished before Baptism. Therefore penance is not fittingly divided into these species."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The penance which precedes Baptism is not a sacrament, but an act of virtue disposing one to that sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The penance which washes away mortal sins, washes away venial sins also, but the converse does not hold. Wherefore these two species of penance are related to one another as perfect and imperfect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Before Baptism there are no venial sins without mortal sins. And since a venial sin cannot be remitted without mortal sin, as stated above (Question [87], Article [4]), before Baptism, penance for mortal sins is not distinct from penance for venial sins."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

@@ -23,62 +23,69 @@
             "title": [
                 "Whether relation is the same as person?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that in God relation is not the same as person. For when things are identical, if one is multiplied the others are multiplied. But in one person there are several relations; as in the person of the Father there is paternity and common spiration. Again, one relation exists in two person, as common spiration in the Father and in the Son. Therefore relation is not the same as person."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, according to the Philosopher (Phys. iv, text. 24), nothing is contained by itself. But relation is in the person; nor can it be said that this occurs because they are identical, for otherwise relation would be also in the essence. Therefore relation, or property, is not the same as person in God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, when several things are identical, what is predicated of one is predicated of the others. But all that is predicated of a Person is not predicated of His property. For we  say that the Father begets; but not that the paternity is begetting. Therefore property is not the same as person in God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Person and property are really the same, but differ in concept. Consequently, it does not follow that if one is multiplied, the other must also be multiplied. We must, however, consider that in God, by reason of the divine simplicity, a twofold real identity exists as regards what in creatures are distinct. For, since the divine simplicity excludes the composition of matter and form, it follows that in God the abstract is the same as the concrete, as \"Godhead\" and \"God.\" And as the divine simplicity excludes the composition of subject and accident, it follows that whatever is attributed to God, is His essence Itself; and so, wisdom and power are the same in God, because they are both in the divine essence. According to this twofold identity, property in God is the same person. For personal properties are the same as the persons because the abstract and the concrete are the same in God; since they are the subsisting persons themselves, as paternity is the Father Himself, and filiation is the Son, and procession is the Holy Ghost. But the non-personal properties are the same as the persons according to the other reason of identity, whereby whatever is attributed to God is His own essence. Thus, common spiration is the same as the person of the Father, and the person of the Son; not that it is one self-subsisting person; but that as there is one essence in the two persons, so also there is one property in the two persons, as above explained (Question [30], Article [2])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The properties are said to be in the essence, only by mode of identity; but in the persons they exist by mode of identity, not merely in reality, but also in the mode of signification; as the form exists in its subject. Thus the properties determine and distinguish the persons, but not the essence."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Notional participles and verbs signify the notional acts: and acts belong to a \"suppositum.\" Now, properties are not designated as \"supposita,\" but as forms of \"supposita.\" And so their mode of signification is against notional participles and verbs being predicated of the properties."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,80 +104,89 @@
             "title": [
                 "Whether the persons are distinguished by the relations?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the persons are not distinguished by the relations. For simple things are distinct by themselves. But the persons are supremely simple. Therefore they are distinguished by themselves, and not by the relation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, a form is distinguished only in relation to its genus. For white is distinguished from black only by quality. But \"hypostasis\" signifies an individual in the genus of substance. Therefore the hypostases cannot be distinguished by relations."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, what is absolute comes before what is relative. But the distinction of the divine persons is the primary distinction. Therefore the divine persons are not distinguished by the relations."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, whatever presupposes distinction cannot be the first principle of distinction. But relation presupposes distinction, which comes into its definition; for a relation is essentially what is towards another. Therefore the first distinctive principle in God cannot be relation."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The persons are the subsisting relations themselves. Hence it is not against the simplicity of the divine persons for them to be distinguished by the relations."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The divine persons are not distinguished as regards being, in which they subsist, nor in anything absolute, but only as regards something relative. Hence relation suffices for  their distinction."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The more prior a distinction is, the nearer it approaches to unity; and so it must be the least possible distinction. So the distinction of the persons must be by that which distinguishes the least possible; and this is by relation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Relation presupposes the distinction of the subjects, when it is an accident; but when the relation is subsistent, it does not presuppose, but brings about distinction. For when it is said that relation is by nature to be towards another, the word \"another\" signifies the correlative which is not prior, but simultaneous in the order of nature."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -191,62 +207,69 @@
             "title": [
                 "Whether the hypostases remain if the relations are mentally abstracted from the persons?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the hypostases remain if the properties or relations are mentally abstracted from the persons. For that to which something is added, may be understood when the addition is taken away; as man is something added to animal which can be understood if rational be taken away. But person is something added to hypostasis; for person is \"a hypostasis distinguished by a property of dignity.\" Therefore, if a personal property be taken away from a person, the hypostasis remains."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, that the Father is Father, and that He is someone, are not due to the same reason. For as He is the Father by paternity, supposing He is some one by paternity, it would follow that the Son, in Whom there is not paternity, would not be \"someone.\" So when paternity is mentally abstracted from the Father, He still remains \"someone\"---that is, a hypostasis. Therefore, if property be removed from person, the hypostasis remains."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, Augustine says (De Trin. v, 6): \"Unbegotten is not the same as Father; for if the Father had not begotten the Son, nothing would prevent Him being called unbegotten.\" But if He had not begotten the Son, there would be no paternity in Him. Therefore, if paternity be removed, there still remains the hypostasis of the Father as unbegotten."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Person does not add to hypostasis a distinguishing property absolutely, but a distinguishing property  of dignity, all of which must be taken as the difference. Now, this distinguishing property is one of dignity precisely because it is understood as subsisting in a rational nature. Hence, if the distinguishing property be removed from the person, the hypostasis no longer remains; whereas it would remain were the rationality of the nature removed; for both person and hypostasis are individual substances. Consequently, in God the distinguishing relation belongs essentially to both."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: By paternity the Father is not only Father, but is a person, and is \"someone,\" or a hypostasis. It does not follow, however, that the Son is not \"someone\" or a hypostasis; just as it does not follow that He is not a person."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Augustine does not mean to say that the hypostasis of the Father would remain as unbegotten, if His paternity were removed, as if innascibility constituted and distinguished the hypostasis of the Father; for this would be impossible, since \"being unbegotten\" says nothing positive and is only a negation, as he himself says. But he speaks in a general sense, forasmuch as not every unbegotten being is the Father. So, if paternity be removed, the hypostasis of the Father does not remain in God, as distinguished from the other persons, but only as distinguished from creatures; as the Jews understand it."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -267,62 +290,69 @@
             "title": [
                 "Whether the properties presuppose the notional acts?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the notional acts are understood before the properties. For the Master of the Sentences says (Sent. i, D, xxvii) that \"the Father always is, because He is ever begetting the Son.\" So it seems that generation precedes paternity in the order of intelligence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, in the order of intelligence every relation presupposes that on which it is founded; as equality presupposes quantity. But paternity is a relation founded on the action of generation. Therefore paternity presupposes generation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 40,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, active generation is to paternity as nativity is to filiation. But filiation presupposes nativity; for the Son is so called because He is born. Therefore paternity also presupposes generation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: When the Master says that \"because He begets, He is Father,\" the term \"Father\" is taken as meaning relation only, but not as signifying the subsisting person; for then it would be necessary to say conversely that because He is Father He begets."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: This objection avails of paternity as a relation, but not as constituting a person."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 40,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Nativity is the way to the person of the Son; and so, in the order of intelligence, it precedes filiation, even as constituting the person of the Son. But active generation signifies a proceeding from the person of the Father; wherefore it presupposes the personal property of the Father."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

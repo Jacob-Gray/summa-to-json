@@ -21,62 +21,69 @@
             "title": [
                 "Whether disobedience is a mortal sin?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 105,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that disobedience is not a mortal sin. For every sin is a disobedience, as appears from Ambrose's definition given above (Question [104], Article [2], Objection [1]). Therefore if disobedience were a mortal sin, every sin would be mortal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 105,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Gregory says (Moral. xxxi) that disobedience is born of vainglory. But vainglory is not a mortal sin. Neither therefore is disobedience."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 105,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, a person is said to be disobedient when he does not fulfil a superior's command. But superiors often issue so many commands that it is seldom, if ever, possible to fulfil them. Therefore if disobedience were a mortal sin, it would follow that man cannot avoid mortal sin, which is absurd. Wherefore disobedience is not a mortal sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 105,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The definition given by Ambrose refers to mortal sin, which has the character of perfect sin. Venial sin is not disobedience, because it is not contrary to a precept, but beside it. Nor again is every mortal sin disobedience, properly and essentially, but only when one contemns a precept, since moral acts take their species from the end. And when a thing is done contrary to a precept, not in contempt of the precept, but with some other purpose, it is not a sin of disobedience except materially, and belongs formally to another species of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 105,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Vainglory desires display of excellence. And since it seems to point to a certain excellence that one be not subject to another's command, it follows that disobedience arises from vainglory. But there is nothing to hinder mortal sin from arising out of venial sin, since venial sin is a disposition to mortal."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 105,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: No one is bound to do the impossible: wherefore if a superior makes a heap of precepts and lays them upon his subjects, so that they are unable to fulfil them, they are excused from sin. Wherefore superiors should refrain from making a multitude of precepts."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -95,62 +102,69 @@
             "title": [
                 "Whether disobedience is the most grievous of sins?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 105,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that disobedience is the most grievous of sins. For it is written (1 Kgs. 15:23): \"It is like the sin of witchcraft to rebel, and like the crime of idolatry to refuse to obey.\" But idolatry is the most grievous of sins, as stated above (Question [94], Article [3]). Therefore disobedience is the most grievous of sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 105,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the sin against the Holy Ghost is one that removes the obstacles of sin, as stated above (Question [14], Article [2]). Now disobedience makes a man contemn a precept which, more than anything, prevents a man from sinning. Therefore disobedience is a sin against the Holy Ghost, and consequently is the most grievous of sins."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 105,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the Apostle says (Rm. 5:19) that \"by the disobedience of one man, many were made sinners.\" Now the cause is seemingly greater than its effect. Therefore disobedience seems to be a more grievous sin than the others that are caused thereby."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 105,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This comparison of Samuel is one, not of equality  but of likeness, because disobedience redounds to the contempt of God just as idolatry does, though the latter does so more."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 105,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Not every disobedience is sin against the Holy Ghost, but only that which obstinacy is added: for it is not the contempt of any obstacle to sin that constitutes sin against the Holy Ghost, else the contempt of any good would be a sin against the Holy Ghost, since any good may hinder a man from committing sin. The sin against the Holy Ghost consists in the contempt of those goods which lead directly to repentance and the remission of sins."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 105,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The first sin of our first parent, from which sin was transmitted to a men, was not disobedience considered as a special sin, but pride, from which then man proceeded to disobey. Hence the Apostle in these words seems to take disobedience in its relation to every sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

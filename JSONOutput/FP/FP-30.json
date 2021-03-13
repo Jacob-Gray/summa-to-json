@@ -23,80 +23,89 @@
             "title": [
                 "Whether there are several persons in God?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that there are not several persons in God. For person is \"the individual substance of a rational nature.\" If then there are several persons in God, there must be several  substances; which appears to be heretical."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Plurality of absolute properties does not make a distinction of persons, either in God, or in ourselves. Much less therefore is this effected by a plurality of relations. But in God there is no plurality but of relations (Question [28], Article [3]). Therefore there cannot be several persons in God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, Boethius says of God (De Trin. i), that \"this is truly one which has no number.\" But plurality implies number. Therefore there are not several persons in God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, where number is, there is whole and part. Thus, if in God there exist a number of persons, there must be whole and part in God; which is inconsistent with the divine simplicity."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The definition of \"person\" includes \"substance,\" not as meaning the essence, but the \"suppositum\" which is made clear by the addition of the term \"individual.\" To signify the substance thus understood, the Greeks use the name \"hypostasis.\" So, as we say, \"Three persons,\" they say \"Three hypostases.\" We are not, however, accustomed to say Three substances, lest we be understood to mean three essences or natures, by reason of the equivocal signification of the term."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The absolute properties in God, such as goodness and wisdom, are not mutually opposed; and hence, neither are they really distinguished from each other. Therefore, although they subsist, nevertheless they are not several subsistent realities---that is, several persons. But the absolute properties in creatures do not subsist, although they are really distinguished from each other, as whiteness and sweetness; on the other hand, the relative properties in God subsist, and are really distinguished from each other (Question [28], Article [3]). Hence the plurality of persons in God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The supreme unity and simplicity of God exclude every kind of plurality of absolute things, but not plurality of relations. Because relations are predicated relatively, and thus the relations do not import composition in that of which they are predicated, as Boethius teaches in the same book."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Number is twofold, simple or absolute, as two and three and four; and number as existing in things numbered, as two men and two horses. So, if number in God is taken absolutely or abstractedly, there is nothing to prevent whole and part from being in Him, and thus number in Him is only in our way of understanding; forasmuch as number regarded apart from things numbered exists only in the intellect. But if number be taken as it is in the things numbered, in that sense as existing in creatures, one is part of two, and two of three, as one man is part of two men, and two of three; but this does not apply to God, because the Father is of the same magnitude as the whole Trinity, as we shall show further on (Question [42], Articles [1], 4)."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -114,98 +123,109 @@
             "title": [
                 "Whether there are more than three persons in God?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that there are more than three persons in God. For the plurality of persons in God arises from the plurality of the relative properties as stated above (Article [1]). But there are four relations in God as stated above (Question [28], Article [4]), paternity, filiation, common spiration, and procession. Therefore there are four persons in God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: The nature of God does not differ from His will more than from His intellect. But in God, one person proceeds from the will, as love; and another proceeds from His nature, as Son. Therefore another proceeds from His intellect, as Word, besides the one Who proceeds from His nature, as Son; thus again it follows that there are not only three persons in God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the more perfect a creature is, the more interior operations it has; as a man has understanding and will beyond other animals. But God infinitely excels every creature. Therefore in God not only is there a person proceeding from the will, and another from the intellect, but also in an infinite number of ways. Therefore there are an infinite number of persons in God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, it is from the infinite goodness of the Father that He communicates Himself infinitely in the production of a divine person. But also in the Holy Ghost is infinite goodness. Therefore the Holy Ghost produces a divine person; and that person another; and so to infinity."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 5: Further, everything within a determinate number is measured, for number is a measure. But the divine persons are immense, as we say in the Creed of Athanasius: \"The Father is immense, the Son is immense, the Holy Ghost is immense.\" Therefore the persons are not contained within the number three."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Although there are four relations in God, one of them, spiration, is not separated from the person of the Father and of the Son, but belongs to both; thus, although it is a relation, it is not called a property, because it does not belong to only one person; nor is it a personal relation---i.e. constituting a person. The three relations---paternity, filiation, and procession---are called personal properties, constituting as it were the persons; for paternity is the person of the Father, filiation is the person of the Son, procession is the person of the Holy Ghost proceeding."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: That which proceeds by way of intelligence, as word, proceeds according to similitude, as also that which proceeds by way of nature; thus, as above explained (Question [27], Article [3]), the procession of the divine Word is the very same as generation by way of nature. But love, as such, does not proceed as the similitude of that whence it proceeds; although in God love is co-essential as being divine; and therefore the procession of love is not called generation in God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: As man is more perfect than other animals, he has more intrinsic operations than other animals, because his perfection is something composite. Hence the angels, who are more perfect and more simple, have fewer intrinsic operations than man, for they have no imagination, or feeling, or the like. In God there  exists only one real operation---that is, His essence. How there are in Him two processions was above explained (Question [27], Articles [1],4)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: This argument would prove if the Holy Ghost possessed another goodness apart from the goodness of the Father; for then if the Father produced a divine person by His goodness, the Holy Ghost also would do so. But the Father and the Holy Ghost have one and the same goodness. Nor is there any distinction between them except by the personal relations. So goodness belongs to the Holy Ghost, as derived from another; and it belongs to the Father, as the principle of its communication to another. The opposition of relation does not allow the relation of the Holy Ghost to be joined with the relation of principle of another divine person; because He Himself proceeds from the other persons who are in God."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 5: A determinate number, if taken as a simple number, existing in the mind only, is measured by one. But when we speak of a number of things as applied to the persons in God, the notion of measure has no place, because the magnitude of the three persons is the same (Question [42], Articles [1],4), and the same is not measured by the same."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "counter": [
@@ -223,63 +243,70 @@
             "title": [
                 "Whether the numeral terms denote anything real in God?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the numeral terms denote something real in God. For the divine unity is the divine essence. But every number is unity repeated. Therefore every numeral term in God signifies the essence; and therefore it denotes something real in God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, whatever is said of God and of creatures, belongs to God in a more eminent manner than to creatures. But the numeral terms denote something real in creatures; therefore much more so in God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if the numeral terms do not denote anything real in God, and are introduced simply in a negative and removing sense, as plurality is employed to remove unity, and unity to remove plurality; it follows that a vicious circle results, confusing the mind and obscuring the truth; and this ought not to be. Therefore it must be said that the numeral terms denote something real in God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: One, as it is a transcendental, is wider and more general than substance and relation. And so likewise is multitude; hence in God it may mean both substance and relation, according to the context. Still, the very signification of such names adds a  negation of division, beyond substance and relation; as was explained above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Multitude, which denotes something real in creatures, is a species of quantity, and cannot be used when speaking of God: unlike transcendental multitude, which adds only indivision to those of which it is predicated. Such a kind of multitude is applicable to God.",
                         "It must be observed, nevertheless, that the opposite arguments do not sufficiently prove the point advanced. Although the idea of solitude is excluded by plurality, and the plurality of gods by unity, it does not follow that these terms express this signification alone. For blackness is excluded by whiteness; nevertheless, the term whiteness does not signify the mere exclusion of blackness."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: \"One\" does not exclude multitude, but division, which logically precedes one or multitude. Multitude does not remove unity, but division from each of the individuals which compose the multitude. This was explained when we treated of the divine unity (Question [11], Article [2])."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -301,62 +328,69 @@
             "title": [
                 "Whether this term \"person\" can be common to the three persons?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that this term \"person\" cannot be common to the three persons. For nothing is common to the three persons but the essence. But this term \"person\" does not signify the essence directly. Therefore it is not common to all three."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the common is the opposite to the incommunicable. But the very meaning of person is that it is incommunicable; as appears from the definition given by Richard of St. Victor (Question [29], Article [3], ad 4). Therefore this term \"person\" is not common to all the three persons."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 30,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if the name \"person\" is common to the three, it is common either really, or logically. But it is not so really; otherwise the three persons would be one person; nor again is it so logically; otherwise person would be a universal. But in God there is neither universal nor particular; neither genus nor species, as we proved above (Question [3], Article [5]). Therefore this term 'person' is not common to the three."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: This argument is founded on a real community."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Although person is incommunicable, yet the mode itself of incommunicable existence can be common to many."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 30,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Although this community is logical and not real, yet it does not follow that in God there is universal or particular, or genus, or species; both because neither in human affairs is the community of person the same as community of genus or species; and because the divine persons have one being; whereas genus and species and every other universal are predicated of many which differ in being."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

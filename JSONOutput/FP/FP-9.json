@@ -21,62 +21,69 @@
             "title": [
                 "Whether God is altogether immutable?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 9,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that God is not altogether immutable. For whatever moves itself is in some way mutable. But, as Augustine says (Gen. ad lit viii, 20), \"The Creator Spirit moves Himself neither by time, nor by place.\" Therefore God is in some way mutable."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 9,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, it is said of Wisdom, that \"it is more mobile than all things active [Vulg.'mobilior']\" (Wis. 7:24). But God is wisdom itself; therefore God is movable."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 9,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, to approach and to recede signify movement. But these are said of God in Scripture, \"Draw nigh to God and He will draw nigh to you\" (James 4:8). Therefore God is mutable."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 9,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Augustine there speaks in a similar way to Plato, who said that the first mover moves Himself; calling every operation a movement, even as the acts of understanding, and willing, and loving, are called movements. Therefore because God understands and loves Himself, in that respect they said that God moves Himself, not, however, as movement and change belong to a thing existing in potentiality, as we now speak of change and movement."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 9,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Wisdom is called mobile by way of similitude, according as it diffuses its likeness even to the outermost of things; for nothing can exist which does not proceed from the divine wisdom by way of some kind of imitation, as from the first effective and formal principle; as also works of art proceed from the wisdom of the artist. And so in the same way, inasmuch as the similitude of the divine wisdom proceeds in degrees from the highest things, which participate more fully of its likeness, to the lowest things which participate of it in a lesser degree, there is said to be a kind of procession and movement of the divine wisdom to things; as when we say that the sun proceeds to the earth, inasmuch as the ray of light touches the earth. In this way Dionysius (Coel. Hier. i) expounds the matter, that every procession of the divine manifestation comes to us from the movement of the Father of light."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 9,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: These things are said of God in Scripture metaphorically. For as the sun is said to enter a house, or to go out, according as its rays reach the house, so God is said to approach to us, or to recede from us, when we receive the influx of His goodness, or decline from Him."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -94,62 +101,69 @@
             "title": [
                 "Whether to be immutable belongs to God alone?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 9,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that to be immutable does not belong to God alone. For the Philosopher says (Metaph. ii) that \"matter is in everything which is moved.\" But, according to some, certain created substances, as angels and souls, have not matter. Therefore to be immutable does not belong to God alone."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 9,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, everything in motion moves to some end. What therefore has already attained its ultimate end, is not in motion. But some creatures have already attained to their ultimate end; as all the blessed in heaven. Therefore some creatures are immovable."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 9,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, everything which is mutable is variable. But forms are invariable; for it is said (Sex Princip. i) that \"form is essence consisting of the simple and invariable.\" Therefore it does not belong to God alone to be immutable."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 9,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: This objection proceeds from mutability as regards substantial or accidental being; for philosophers treated of such movement."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 9,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The good angels, besides their natural endowment of immutability of being, have also immutability of election by divine power; nevertheless there remains in them mutability as regards place."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 9,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Forms are called invariable, forasmuch as they cannot be subjects of variation; but they are subject to variation because by them their subject is variable. Hence it is clear that they vary in so far as they are; for they are not called beings as though they were the subject of being, but because through them something has being."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

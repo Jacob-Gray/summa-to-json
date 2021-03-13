@@ -27,53 +27,59 @@
             "title": [
                 "Whether the separated soul can understand anything?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the soul separated from the body can understand nothing at all. For the Philosopher says (De Anima i, 4) that \"the understanding is corrupted together with its interior principle.\" But by death all human interior principles are corrupted. Therefore also the intellect itself is corrupted."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the human soul is hindered from understanding when the senses are tied, and by a distracted imagination, as explained above (Question [84], Articles [7],8). But death destroys the senses and imagination, as we have shown above (Question [77], Article [8]). Therefore after death the soul understands nothing."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if the separated soul can understand, this must be by means of some species. But it does not understand by means of innate species, because it has none such; being at first \"like a tablet on which nothing is written\": nor does it understand by species abstracted from things, for it does not then possess organs of sense and imagination which are necessary for the abstraction of species: nor does it understand by means of species,  formerly abstracted and retained in the soul; for if that were so, a child's soul would have no means of understanding at all: nor does it understand by means of intelligible species divinely infused, for such knowledge would not be natural, such as we treat of now, but the effect of grace. Therefore the soul apart from the body understands nothing."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The Philosopher's words carefully examined will show that he said this on the previous supposition that understanding is a movement of body and soul as united, just as  sensation is, for he had not as yet explained the difference between intellect and sense. We may also say that he is referring to the way of understanding by turning to phantasms. This is also the meaning of the second objection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The separated soul does not understand by way of innate species, nor by species abstracted then, nor only by species retained, and this the objection proves; but the soul in that state understands by means of participated species arising from the influence of the Divine light, shared by the soul as by other separate substances; though in a lesser degree. Hence as soon as it ceases to act by turning to corporeal (phantasms), the soul turns at once to the superior things; nor is this way of knowledge unnatural, for God is the author of the influx of both of the light of grace and of the light of nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -94,62 +100,69 @@
             "title": [
                 "Whether the separated soul understands separate substances?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the separated soul does not understand separate substances. For the soul is more perfect when joined to the body than when existing apart from it, being an essential part of human nature; and every part of a whole is more perfect when it exists in that whole. But the soul in the body does not understand separate substances as shown above (Question [88], Article [1]). Therefore much less is it able to do so when apart from the body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, whatever is known is known either by its presence or by its species. But separate substances cannot be known to the soul by their presence, for God alone can enter into the soul; nor by means of species abstracted by the soul from an angel, for an angel is more simple than a soul. Therefore the separated soul cannot at all understand separate substances."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, some philosophers said that the ultimate happiness of man consists in the knowledge of separate substances. If, therefore, the separated soul can understand separate substances, its happiness would be secured by its separation alone; which cannot be reasonably be said."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The separated soul is, indeed, less perfect considering its nature in which it communicates with the nature of the body: but it has a greater freedom of intelligence, since the weight and care of the body is a clog upon the clearness of its intelligence in the present life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The separated soul understands the angels by means of divinely impressed ideas; which, however, fail to give perfect knowledge of them, forasmuch as the nature of the soul is inferior to that of an angel."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Man's ultimate happiness consists not in the knowledge of any separate substances; but in the knowledge of God, Who is seen only by grace. The knowledge of other separate substances if perfectly understood gives great happiness---not final and ultimate happiness. But the separated soul does not understand them perfectly, as was shown above in this article."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -167,62 +180,69 @@
             "title": [
                 "Whether the separated soul knows all natural things?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the separated soul knows all natural things. For the types of all natural things exist in separate substances. Therefore, as separated souls know separate substances, they also know all natural things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, whoever understands the greater intelligible, will be able much more to understand the lesser intelligible. But the separated soul understands immaterial substances, which are in the highest degree of intelligibility. Therefore much more can it understand all natural things which are in a lower degree of intelligibility."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Even an angel does not understand all natural things through his substance, but through certain species, as stated above (Question [87], Article [1]). So it does not follow that the soul knows all natural things because it knows separate substances after a fashion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: As the soul separated from the body does not perfectly understand separate substances, so neither does it know all natural things perfectly; but it knows them confusedly, as above explained in this article."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Isidore speaks of the knowledge of the future which neither angels, nor demons, nor separated souls, know except so far as future things pre-exist in their causes or are known by Divine revelation. But we are here treating of the knowledge of natural things."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Knowledge acquired here by study is proper and perfect; the knowledge of which we speak is confused. Hence it does not follow that to study in order to learn is useless."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -240,62 +260,69 @@
             "title": [
                 "Whether the separated soul knows singulars?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the separated soul does not know singulars. For no cognitive power besides the intellect remains in the separated soul, as is clear from what has been said above (Question [77], Article [8]). But the intellect cannot know singulars, as we have shown (Question [86], Article [1]). Therefore the separated soul cannot know singulars."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the knowledge of the singular is more determinate than knowledge of the universal. But the separated soul has no determinate knowledge of the species of natural things, therefore much less can it know singulars."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if it knew the singulars, yet not by sense, for the same reason it would know all singulars. But it does not know all singulars. Therefore it knows none."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The intellect does not know the singular by way of abstraction; neither does the separated soul know it thus; but as explained above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The knowledge of the separated soul is confined to those species or individuals to which the soul has some kind of determinate relation, as we have said."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The separated soul has not the same relation to all singulars, but one relation to some, and another to others. Therefore there is not the same reason why it should know all singulars."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -313,80 +340,89 @@
             "title": [
                 "Whether the habit of knowledge here acquired remains in the separated soul?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the habit of knowledge acquired in this life does not remain in the soul separated from the body: for the Apostle says: \"Knowledge shall be destroyed\" (1 Cor. 13:8)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, some in this world who are less good enjoy knowledge denied to others who are better. If, therefore, the habit of knowledge remained in the soul after death, it would follow that some who are less good would, even in the future life, excel some who are better; which seems unreasonable."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, separated souls will possess knowledge by influence of the Divine light. Supposing, therefore, that knowledge here acquired remained in the separated soul, it would follow that two forms of the same species would co-exist in the same subject which cannot be."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, the Philosopher says (Praedic. vi, 4,5), that \"a habit is a quality hard to remove: yet sometimes knowledge is destroyed by sickness or the like.\" But in this life there is no change so thorough as death. Therefore it seems that the habit of knowledge is destroyed by death."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The Apostle is not speaking of knowledge as a habit, but as to the act of knowing; and hence he says, in proof of the assertion quoted, \"Now, I know in part.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: As a less good man may exceed a better man in bodily stature, so the same kind of man may have a habit of knowledge in the future life which a better man may not have. Such knowledge, however, cannot be compared with the other prerogatives enjoyed by the better man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: These two kinds of knowledge are not of the same species, so there is no impossibility."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: This objection considers the corruption of knowledge on the part of the sensitive powers."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "counter": [
@@ -406,62 +442,69 @@
             "title": [
                 "Whether the act of knowledge acquired here remains in the separated soul?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the act of knowledge here acquired does not remain in the separated soul. For the Philosopher says (De Anima i, 4), that when the body is corrupted, \"the soul neither remembers nor loves.\" But to consider what is previously known is an act of memory. Therefore the separated soul cannot retain an act of knowledge here acquired."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, intelligible species cannot have greater power in the separated soul than they have in the soul united to the body. But in this life we cannot understand by intelligible species without turning to phantasms, as shown above (Question [84], Article [7]). Therefore the separated soul cannot do so, and thus it cannot understand at all by intelligible species acquired in this life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the Philosopher says (Ethic. ii, 1), that \"habits produce acts similar to those whereby they are acquired.\" But the habit of knowledge is acquired here by acts of the intellect turning to phantasms: therefore it cannot produce any other acts. These acts, however, are not adapted to the separated soul. Therefore the soul in the state of separation cannot produce any act of knowledge acquired in this life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The Philosopher speaks of remembrance, according as memory belongs to the sensitive part, but not as belonging in a way to the intellect, as explained above (Question [79], Article [6])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The different mode of intelligence is produced by the different state of the intelligent soul; not by diversity of species."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The acts which produce a habit are like the acts caused by that habit, in species, but not in mode. For example, to do just things, but not justly, that is, pleasurably, causes the habit of political justice, whereby we act pleasurably. (Cf. Aristotle, Ethic. v, 8: Magn. Moral. i, 34)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -479,62 +522,69 @@
             "title": [
                 "Whether local distance impedes the knowledge in the separated soul?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that local distance impedes the separated soul's knowledge. For Augustine says (De Cura pro Mort. xiii), that \"the souls of the dead are where they cannot know what is done here.\" But they know what is done among themselves. Therefore local distance impedes the knowledge in the separated soul."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Augustine says (De Divin. Daemon. iii), that \"the demon's rapidity of movement enables them to tell things unknown to us.\" But agility of movement would be useless in that respect unless their knowledge was impeded by local distance; which, therefore, is a much greater hindrance to the knowledge of the separated soul, whose nature is inferior to the demon's."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, as there is distance of place, so is there distance of time. But distance of time impedes knowledge in the separated soul, for the soul is ignorant of the future. Therefore it seems that distance of place also impedes its knowledge."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Augustine says that the souls of the departed cannot see what is done here, not because they are 'there,' as if impeded by local distance; but for some other cause, as we shall explain (Article [8])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Augustine speaks there in accordance with the opinion that demons have bodies naturally united to them, and so have sensitive powers, which require local distance. In the same book he expressly sets down this opinion, though apparently rather by way of narration than of assertion, as we may gather from De Civ. Dei xxi, 10."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The future, which is distant in time, does not actually exist, and therefore is not knowable in itself, because so far as a thing falls short of being, so far does it fall short of being knowable. But what is locally distant exists actually, and is knowable in itself. Hence we cannot argue from distance of time to distance of place."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -552,62 +602,69 @@
             "title": [
                 "Whether separated souls know that takes place on earth?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that separated souls know what takes place on earth; for otherwise they would have no care for it, as they have, according to what Dives said (Lk. 16:27,28), \"I have five brethren . . . he may testify unto them, lest they also come into the place of torments.\" Therefore separated souls know what passes on earth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the dead often appear to the living, asleep or awake, and tell them of what takes place there; as Samuel appeared to Saul (1 Kgs. 28:11). But this could not be unless they knew what takes place here. Therefore they know what takes place on earth."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, separated souls know what happens among themselves. If, therefore, they do not know what takes place among  us, it must be by reason of local distance; which has been shown to be false (Article [7])."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The souls of the departed may care for the living, even if ignorant of their state; just as we care for the dead by pouring forth prayer on their behalf, though we are ignorant of their state. Moreover, the affairs of the living can be made known to them not immediately, but the souls who pass hence thither, or by angels and demons, or even by \"the revelation of the Holy Ghost,\" as Augustine says in the same book."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: That the dead appear to the living in any way whatever is either by the special dispensation of God; in order that the souls of the dead may interfere in affairs of the living---and this is to be accounted as miraculous. Or else such apparitions occur through the instrumentality of bad or good angels, without the knowledge of the departed; as may likewise happen when the living appear, without their own knowledge, to others living, as Augustine says in the same book. And so it may be said of Samuel that he appeared through Divine revelation; according to Ecclus. 46:23, \"he slept, and told the king the end of his life.\" Or, again, this apparition was procured by the demons; unless, indeed, the authority of Ecclesiasticus be set aside through not being received by the Jews as canonical Scripture."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: This kind of ignorance does not proceed from the obstacle of local distance, but from the cause mentioned above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [

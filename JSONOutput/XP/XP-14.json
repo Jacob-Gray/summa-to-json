@@ -24,62 +24,69 @@
             "title": [
                 "Whether a man can satisfy for one sin without satisfying for another?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a man can satisfy for one sin without satisfying for another. Because when several things are not connected together one can be taken away without another. Now sins are not connected together, else whoever had one would have them all. Therefore one sin can be expiated by satisfaction, without another."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, God is more merciful than man. But man accepts the payment of one debt without the payment of another. Therefore God accepts satisfaction for one sin without the other."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, as stated in the text (Sent. iv, D, 15), \"satisfaction is to uproot the causes of sin, and give no opening to the suggestions thereof.\" Now this can be done with regard to one sin and not another, as when a mall curbs his lust and perseveres in covetousness. Therefore we can make satisfaction for one sin without satisfying for another."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: As sins are not connected together in some single one, a man can incur one without incurring another; whereas all sins are remitted by reason of one same thing, so that the remissions of various sins are connected together. Consequently satisfaction cannot be made for one and not for another."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: When a man is under obligation to another by reason of a debt, the only inequality between them is that which is opposed to justice, so that for restitution nothing further is required than that the equality of justice should be reinstated, and this can be done in respect of one debt without another. But when the obligation is based on an offense, there is inequality not only of justice but also of friendship, so that for the offense to be removed by satisfaction, not only must the equality of justice be restored by the payment of a punishment equal to the offense, but also the equality of friendship must be reinstated, which is impossible so long as an obstacle to friendship remains."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: By its weight, one sin drags us down to another, as Gregory says (Moral. xxv): so that when a man holds to one sin, he does not sufficiently cut himself off from the causes of further sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,80 +105,89 @@
             "title": [
                 "Whether, when deprived of charity, a man can make satisfaction for sins for which he was previously contrite?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that if a man fall into sin after being contrite for all his sins, he can, now that he has lost charity, satisfy for his other sins which were already pardoned him through his contrition. For Daniel said to Nabuchodonosor (Dan. 4:24): \"Redeem thou thy sins with alms.\" Yet he was still a sinner, as is shown by his subsequent punishment. Therefore a man can make satisfaction while in a state of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, \"Man knoweth not whether he be worthy of love or hatred\" (Eccles. 9:1). If therefore one cannot make satisfaction unless one be in a state of charity, it would be impossible to know whether one had made satisfaction, which would be unseemly."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, a man's entire action takes its form from the intention which he had at the beginning. But a penitent is in a state of charity when he begins to repent. Therefore his whole subsequent satisfaction will derive its efficacy from the charity which quickens his intention."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, satisfaction consists in a certain  equalization of guilt to punishment. But these things can be equalized even in one who is devoid of charity. Therefore, etc."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Daniel's advice meant that he should give up sin and repent, and so make satisfaction by giving alms."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Even as man knows not for certain whether he had charity when making satisfaction, or whether he has it now, so too he knows not for certain whether he made full satisfaction: wherefore it is written (Ecclus. 5:5): \"Be not without fear about sin forgiven.\" And yet man need not, on account of that fear, repeat the satisfaction made, if he is not conscious of a mortal sin. For although he may not have expiated his punishment by that satisfaction, he does not incur the guilt of omission through neglecting to make satisfaction; even as he who receives the Eucharist without being conscious of a mortal sin of which he is guilty, does not incur the guilt of receiving unworthily."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: His intention was interrupted by his subsequent sin, so that it gives no virtue to the works done after that sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Sufficient equalization is impossible both as to the Divine acceptation and as to equivalence: so that the argument proves nothing."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -191,62 +207,69 @@
             "title": [
                 "Whether previous satisfaction begins to avail after man is restored to charity?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that when a man has recovered charity his previous satisfaction begins to avail, because a gloss on Lev. 25:25, \"If thy brother being impoverished,\" etc., says that \"the fruit of a man's good works should be counted from the time when he sinned.\" But they would not be counted, unless they derived some efficacy from his subsequent charity. Therefore they begin to avail after he recovers charity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, as the efficacy of satisfaction is hindered by sin, so the efficacy of Baptism is hindered by insincerity. Now Baptism begins to avail when insincerity ceases. Therefore satisfaction begins to avail when sin is taken away."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, if a man is given as a penance for the sins he has committed, to fast for several days, and then, after falling again into sin, he completes his penance, he is not told, when he goes to confession a second time, to fast once again. But he would be told to do so, if he did not fulfill his duty of satisfaction by them. Therefore his previous works become valid unto satisfaction, through his subsequent repentance."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This means that the fruits are reckoned, not from the time when he was first in sin, but from the time when he ceased to sin, when, to wit, he was last in sin; unless he was contrite as soon as he had sinned, and did many good actions before he confessed. Or we may say that the greater the contrition the more it alleviates the punishment, and the more good actions a man does while in sin, the more he disposes himself to the grace of contrition, so that it is probable that he owes a smaller debt of punishment. For this reason the priest should use discretion in taking them into account, so as to give him a lighter penance, according as he finds him better disposed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Baptism imprints a character on the soul, whereas satisfaction does not. Hence on the advent of charity, which removes both insincerity and sin, it causes Baptism to have its effect, whereas it does not do this for satisfaction. Moreover Baptism confers justification in virtue of the deed [ex opere operato] which is not man's deed but God's, wherefore it does not become a lifeless deed as satisfaction does, which is a deed of man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Sometimes satisfaction is such as to leave an effect in the person who makes satisfaction, even after the act of satisfaction has been done; thus fasting leaves the body weak, and almsdeeds result in a diminution of a person's substance, and so on. In such cases there is no need to repeat the works of satisfaction if they have been done while in a state of sin, because through penance they are acceptable to God in the result they leave behind. But when a work of satisfaction leaves behind no effect in the person that does satisfaction, it needs to be repeated, as in the case of prayer and so forth. Interior works, since they pass away altogether, are nowise quickened, and must be repeated."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -265,53 +288,59 @@
             "title": [
                 "Whether works done without charity merit any, at least temporal, good?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that works done without charity merit some, at least a temporal, good. For as punishment is to the evil act, so is reward to a good act. Now no evil deed is unpunished by God the just judge. Therefore no good deed is unrewarded, and so every good deed merits some good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, reward is not given except for merit. Now some reward is given for works done without charity, wherefore it is written (Mt. 6:2,5,16) of those who do good actions for the sake of human glory, that \"they have received their reward.\" Therefore those works merit some good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, if there be two men both in sin, one of whom does many deeds that are good in themselves and in their circumstances, while the other does none, they are not equally near to the reception of good things from Gods else the latter need not be advised to do any good deeds. Now he that is nearer to God receives more of His good things. Therefore the former, on account of his good works, merits some good from God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: As the Philosopher states (Ethic. viii, 14), since no matter what a son may do, he can never give back to his father the equal of what he has received from him a father can never become his son's debtor: and much less can man make God his debtor on account of equivalence of work. Consequently no work of ours can merit a reward by reason of its measure of goodness, but it can by reason of charity, which makes friends hold their possessions in common. Therefore, no matter how good a work may be, if it be done without charity, it does not give man a claim to receive anything from God. On the other hand, an evil deed deserves an equivalent punishment according to the measure of its malice, because no evil has been done to us on the part of God, like the good which He has done. Therefore, although an evil deed deserves condign punishment, nevertheless a good deed without charity does not merit condign reward."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2:and 3: These arguments consider merit of congruity; while the other arguments consider merit of condignity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "counter": [
@@ -330,33 +359,37 @@
             "title": [
                 "Whether the aforesaid works avail for the mitigation of the pains  of hell?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the aforesaid works do not avail for the mitigation of the pains of hell. For the measure of punishment in hell will answer to the measure of guilt. But works done without charity do not diminish the measure of guilt. Neither, therefore, do they lessen the pains of hell."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the pain of hell, though infinite in duration, is nevertheless finite in intensity. Now anything finite is done away with by finite subtraction. If therefore works done without charity canceled any of the punishment due for sins, those works might be so numerous, that the pain of hell would be done away with altogether: which is false."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 14,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the suffrages of the Church are more efficacious than works done without charity. But, according to Augustine (Enchiridion cx), \"the suffrages of the Church do not profit the damned in hell.\" Much less therefore are those pains mitigated by works done without charity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {},

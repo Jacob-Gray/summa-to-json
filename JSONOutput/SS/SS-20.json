@@ -23,62 +23,69 @@
             "title": [
                 "Whether despair is a sin?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that despair is not a sin. For every sin includes conversion to a mutable good, together with aversion from the immutable good, as Augustine states (De Lib. Arb. ii, 19). But despair includes no conversion to a mutable good. Therefore it is not a sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, that which grows from a good root, seems to be no sin, because \"a good tree cannot bring forth evil fruit\" (Mt. 7:18). Now despair seems to grow from a good root, viz. fear of God, or from horror at the greatness of one's own sins. Therefore  despair is not a sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, if despair were a sin, it would be a sin also for the damned to despair. But this is not imputed to them as their fault but as part of their damnation. Therefore neither is it imputed to wayfarers as their fault, so that it is not a sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: In every mortal sin there is, in some way, aversion from the immutable good, and conversion to a mutable good, but not always in the same way. Because, since the theological virtues have God for their object, the sins which are contrary to them, such as hatred of God, despair and unbelief, consist principally in aversion from the immutable good; but, consequently, they imply conversion to a mutable good, in so far as the soul that is a deserter from God, must necessarily turn to other things. Other sins, however, consist principally in conversion to a mutable good, and, consequently, in aversion from the immutable good: because the fornicator intends, not to depart from God, but to enjoy carnal pleasure, the result of which is that he departs from God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: A thing may grow from a virtuous root in two ways: first, directly and on the part of the virtue itself; even as an act proceeds from a habit: and in this way no sin can grow from a virtuous root, for in this sense Augustine declared (De Lib. Arb. ii, 18,19) that \"no man makes evil use of virtue.\" Secondly, a thing proceeds from a virtue indirectly, or is occasioned by a virtue, and in this way nothing hinders a sin proceeding from a  virtue: thus sometimes men pride themselves of their virtues, according to Augustine (Ep. ccxi): \"Pride lies in wait for good works that they may die.\" In this way fear of God or horror of one's own sins may lead to despair, in so far as man makes evil use of those good things, by allowing them to be an occasion of despair."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The damned are outside the pale of hope on account of the impossibility of returning to happiness: hence it is not imputed to them that they hope not, but it is a part of their damnation. Even so, it would be no sin for a wayfarer to despair of obtaining that which he had no natural capacity for obtaining, or which was not due to be obtained by him; for instance, if a physician were to despair of healing some sick man, or if anyone were to despair of ever becoming rich."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,54 +103,60 @@
             "title": [
                 "Whether there can be despair without unbelief?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there can be no despair without unbelief. For the certainty of hope is derived from faith; and so long as the cause remains the effect is not done away. Therefore a man cannot lose the certainty of hope, by despairing, unless his faith be removed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, to prefer one's own guilt to God's mercy and goodness, is to deny the infinity of God's goodness and mercy, and so savors of unbelief. But whoever despairs, prefers his own guilt to the Divine mercy and goodness, according to Gn. 4:13: \"My iniquity is greater than that I may deserve pardon.\" Therefore whoever despairs, is an unbeliever."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, whoever falls into a condemned heresy, is an unbeliever. But he that despairs seems to fall into a condemned heresy, viz. that of the Novatians, who say that there is no pardon for sins after Baptism. Therefore it seems that whoever despairs, is an unbeliever."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The effect is done away, not only when the first cause is removed, but also when the secondary cause is removed. Hence the movement of hope can be done away, not only by the removal of the universal estimate of faith, which is, so to say, the first cause of the certainty of hope, but also by the removal of the particular estimate, which is the secondary cause, as it were."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: If anyone were to judge, in universal, that God's mercy is not infinite, he would be an unbeliever. But he who despairs judges not thus, but that, for him in that state, on account of some particular disposition, there is no hope of the Divine mercy.",
                         "The same answer applies to the Third Objection, since the Novatians denied, in universal, that there is remission of sins in the Church."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -161,33 +174,37 @@
             "title": [
                 "Whether despair is the greatest of sins?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that despair is not the greatest of sins. For there can be despair without unbelief, as stated above (Article [2]). But unbelief is the greatest of sins because it overthrows the foundation of the spiritual edifice. Therefore despair is not the greatest of sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, a greater evil is opposed to a greater good, as the Philosopher states (Ethic. viii, 10). But charity is greater than hope, according to 1 Cor. 13:13. Therefore hatred of God is a greater sin than despair."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, in the sin of despair there is nothing but inordinate aversion from God: whereas in other sins there is not only inordinate aversion from God, but also an inordinate conversion. Therefore the sin of despair is not more but less grave than other sins."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {},
@@ -208,53 +225,59 @@
             "title": [
                 "Whether despair arises from sloth?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that despair does not arise from sloth. Because different causes do not give rise to one same effect. Now despair of the future life arises from lust, according to Gregory (Moral. xxxi, 45). Therefore it does not arise from sloth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, just as despair is contrary to hope, so is sloth contrary to spiritual joy. But spiritual joy arises from hope, according to Rm. 12:12, \"rejoicing in hope.\" Therefore sloth  arises from despair, and not vice versa."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, contrary effects have contrary causes. Now hope, the contrary of which is despair, seems to proceed from the consideration of Divine favors, especially the Incarnation, for Augustine says (De Trin. xiii, 10): \"Nothing was so necessary to raise our hope, than that we should be shown how much God loves us. Now what greater proof could we have of this than that God's Son should deign to unite Himself to our nature?\" Therefore despair arises rather from the neglect of the above consideration than from sloth."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: According to the Philosopher (Rhet. i, 11), just as hope gives rise to joy, so, when a man is joyful he has greater hope: and, accordingly, those who are sorrowful fall the more easily into despair, according to 2 Cor. 2:7: \"Lest . . . such an one be swallowed up by overmuch sorrow.\" Yet, since the object of hope is good, to which the appetite tends naturally, and which it shuns, not naturally but only on account of some supervening obstacle, it follows that, more directly, hope gives birth to joy, while on the contrary despair is born of sorrow."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: This very neglect to consider the Divine favors arises from sloth. For when a man is influenced by a certain  passion he considers chiefly the things which pertain to that passion: so that a man who is full of sorrow does not easily think of great and joyful things, but only of sad things, unless by a great effort he turn his thoughts away from sadness."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

@@ -25,63 +25,70 @@
             "title": [
                 "Whether the natural law is a habit?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the natural law is a habit. Because, as the Philosopher says (Ethic. ii, 5), \"there are three things in the soul: power, habit, and passion.\" But the natural law is not one of the soul's powers: nor is it one of the passions; as we may see by going through them one by one. Therefore the natural law is a habit."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Basil [*Damascene, De Fide Orth. iv, 22] says that the conscience or \"synderesis is the law of our mind\"; which can only apply to the natural law. But the \"synderesis\" is a habit, as was shown in the FP, Question [79], Article [12]. Therefore the natural law is a habit."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the natural law abides in man always, as will be shown further on (Article [6]). But man's reason, which the law regards, does not always think about the natural law. Therefore the natural law is not an act, but a habit."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The Philosopher proposes there to discover the genus of virtue; and since it is evident that virtue is a principle of action, he mentions only those things which are principles of human acts, viz. powers, habits and passions. But there are other things in the soul besides these three: there are acts; thus \"to will\" is in the one that wills; again, things known are in the knower; moreover its own natural properties are in the soul, such as immortality and the like."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: \"Synderesis\" is said to be the law of our mind, because it is a habit containing the precepts of the natural law, which are the first principles of human actions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument proves that the natural law is held habitually; and this is granted.",
                         "To the argument advanced in the contrary sense we reply that sometimes a man is unable to make use of that which is in him habitually, on account of some impediment: thus, on account of sleep, a man is unable to use the habit of science. In like manner, through the deficiency of his age, a child cannot use the habit of understanding of principles, or the natural law, which is in him habitually."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -100,62 +107,69 @@
             "title": [
                 "Whether the natural law contains several precepts, or only one?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the natural law contains, not several precepts, but one only. For law is a kind of precept, as stated above (Question [92], Article [2]). If therefore there were many precepts of the natural law, it would follow that there are also many natural laws."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the natural law is consequent to human nature. But human nature, as a whole, is one; though, as to its parts, it is manifold. Therefore, either there is but one precept of the law of nature, on account of the unity of nature as a whole; or there are many, by reason of the number of parts of human nature. The result would be that even things relating to the inclination of the concupiscible faculty belong to the natural law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, law is something pertaining to reason, as stated above (Question [90], Article [1]). Now reason is but one in man. Therefore there is only one precept of the natural law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: All these precepts of the law of nature have the character of one natural law, inasmuch as they flow from one first precept."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: All the inclinations of any parts whatsoever of human nature, e.g. of the concupiscible and irascible parts, in so far as they are ruled by reason, belong to the natural law, and are reduced to one first precept, as stated above: so that the precepts of the natural law are many in themselves, but are based on one common foundation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Although reason is one in itself, yet it directs all things regarding man; so that whatever can be ruled by reason, is contained under the law of reason."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -175,62 +189,69 @@
             "title": [
                 "Whether all acts of virtue are prescribed by the natural law?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that not all acts of virtue are prescribed by the natural law. Because, as stated above (Question [90], Article [2]) it is essential to a law that it be ordained to the common good. But some acts of virtue are ordained to the private good of the individual, as is evident especially in regards to acts of temperance. Therefore not all acts of virtue are the subject of natural law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, every sin is opposed to some virtuous act. If therefore all acts of virtue are prescribed by the natural law, it seems to follow that all sins are against nature: whereas this applies to certain special sins."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, those things which are according to nature are  common to all. But acts of virtue are not common to all: since a thing is virtuous in one, and vicious in another. Therefore not all acts of virtue are prescribed by the natural law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Temperance is about the natural concupiscences of food, drink and sexual matters, which are indeed ordained to the natural common good, just as other matters of law are ordained to the moral common good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: By human nature we may mean either that which is proper to man---and in this sense all sins, as being against reason, are also against nature, as Damascene states (De Fide Orth. ii, 30): or we may mean that nature which is common to man and other animals; and in this sense, certain special sins are said to be against nature; thus contrary to sexual intercourse, which is natural to all animals, is unisexual lust, which has received the special name of the unnatural crime."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument considers acts in themselves. For it is owing to the various conditions of men, that certain acts are virtuous for some, as being proportionate and becoming to them, while they are vicious for others, as being out of proportion to them."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -248,62 +269,69 @@
             "title": [
                 "Whether the natural law is the same in all men?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the natural law is not the same in all. For it is stated in the Decretals (Dist. i) that \"the natural law is that which is contained in the Law and the Gospel.\" But this  is not common to all men; because, as it is written (Rm. 10:16), \"all do not obey the gospel.\" Therefore the natural law is not the same in all men."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, \"Things which are according to the law are said to be just,\" as stated in Ethic. v. But it is stated in the same book that nothing is so universally just as not to be subject to change in regard to some men. Therefore even the natural law is not the same in all men."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, as stated above (Articles [2],3), to the natural law belongs everything to which a man is inclined according to his nature. Now different men are naturally inclined to different things; some to the desire of pleasures, others to the desire of honors, and other men to other things. Therefore there is not one natural law for all."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The meaning of the sentence quoted is not that whatever is contained in the Law and the Gospel belongs to the natural law, since they contain many things that are above nature; but that whatever belongs to the natural law is fully contained in them. Wherefore Gratian, after saying that \"the natural law is what is contained in the Law and the Gospel,\" adds at once, by way of example, \"by which everyone is commanded to do to others as he would be done by.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The saying of the Philosopher is to be understood of things that are naturally just, not as general principles, but as conclusions drawn from them, having rectitude in the majority of cases, but failing in a few."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: As, in man, reason rules and commands the other powers, so all the natural inclinations belonging to the other powers must needs be directed according to reason. Wherefore it is universally right for all men, that all their inclinations should be directed according to reason."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -323,62 +351,69 @@
             "title": [
                 "Whether the natural law can be changed?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the natural law can be changed. Because on Ecclus. 17:9, \"He gave them instructions, and the law of life,\" the gloss says: \"He wished the law of the letter to be written, in order to correct the law of nature.\" But that which is  corrected is changed. Therefore the natural law can be changed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the slaying of the innocent, adultery, and theft are against the natural law. But we find these things changed by God: as when God commanded Abraham to slay his innocent son (Gn. 22:2); and when he ordered the Jews to borrow and purloin the vessels of the Egyptians (Ex. 12:35); and when He commanded Osee to take to himself \"a wife of fornications\" (Osee 1:2). Therefore the natural law can be changed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Isidore says (Etym. 5:4) that \"the possession of all things in common, and universal freedom, are matters of natural law.\" But these things are seen to be changed by human laws. Therefore it seems that the natural law is subject to change."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The written law is said to be given for the correction of the natural law, either because it supplies what was wanting to the natural law; or because the natural law was perverted in the hearts of some men, as to certain matters, so that they esteemed those things good which are naturally evil; which perversion stood in need of correction."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: All men alike, both guilty and innocent, die the death of nature: which death of nature is inflicted by the power of God on account of original sin, according to 1 Kgs. 2:6: \"The Lord killeth and maketh alive.\" Consequently, by the command of God, death can be inflicted on any man, guilty or innocent, without any injustice whatever. In like manner adultery is intercourse with another's wife; who is allotted to him by the law emanating from God. Consequently intercourse with any woman, by the command of God, is neither adultery nor fornication. The same applies to theft, which is the taking of another's property. For whatever is taken by the command of God, to Whom all things belong, is not  taken against the will of its owner, whereas it is in this that theft consists. Nor is it only in human things, that whatever is commanded by God is right; but also in natural things, whatever is done by God, is, in some way, natural, as stated in the FP, Question [105], Article [6], ad 1."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: A thing is said to belong to the natural law in two ways. First, because nature inclines thereto: e.g. that one should not do harm to another. Secondly, because nature did not bring in the contrary: thus we might say that for man to be naked is of the natural law, because nature did not give him clothes, but art invented them. In this sense, \"the possession of all things in common and universal freedom\" are said to be of the natural law, because, to wit, the distinction of possessions and slavery were not brought in by nature, but devised by human reason for the benefit of human life. Accordingly the law of nature was not changed in this respect, except by addition."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -397,62 +432,69 @@
             "title": [
                 "Whether the law of nature can be abolished from the heart of man?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the natural law can be abolished from the heart of man. Because on Rm. 2:14, \"When the Gentiles who have not the law,\" etc. a gloss says that \"the law of righteousness, which sin had blotted out, is graven on the heart of man when he is restored by grace.\" But the law of righteousness is the law of nature. Therefore the law of nature can be blotted out."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the law of grace is more efficacious than the law of nature. But the law of grace is blotted out by sin. Much more therefore can the law of nature be blotted out."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, that which is established by law is made just. But many things are enacted by men, which are contrary to the law of nature. Therefore the law of nature can be abolished from the heart of man."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Sin blots out the law of nature in particular cases, not universally, except perchance in regard to the secondary precepts of the natural law, in the way stated above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Although grace is more efficacious than nature, yet nature is more essential to man, and therefore more enduring."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 94,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument is true of the secondary precepts of the natural law, against which some legislators have framed certain enactments which are unjust."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

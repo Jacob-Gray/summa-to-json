@@ -21,62 +21,69 @@
             "title": [
                 "Whether love is the cause of fear?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 43,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that love is not the cause of fear. For that which leads to a thing is its cause. But \"fear leads to the love of charity\" as Augustine says on the canonical epistle of John (Tract. ix). Therefore fear is the cause of love, and not conversely."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 43,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the Philosopher says (Rhet. ii, 5) that \"those are feared most from whom we dread the advent of some evil.\" But the dread of evil being caused by someone, makes us hate rather than love him. Therefore fear is caused by hate rather than by love."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 43,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, it has been stated above (Question [42], Article [3]) that those things which occur by our own doing are not fearful. But that which we do from love, is done from our inmost heart. Therefore fear is not caused by love."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 43,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: As stated above (Question [42], Article [1]), fear, of itself and in the first place, regards the evil from which it recoils as being contrary to some loved good: and thus fear, of itself, is born of love. But, in the second place, it regards the cause from which that evil ensues: so that sometimes, accidentally, fear gives rise to love; in so far as, for instance, through fear of God's punishments, man keeps His commandments, and thus begins to hope, while hope leads to love, as stated above (Question [40], Article [7])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 43,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: He, from whom evil is expected, is indeed hated at first; but afterwards, when once we begin to hope for good from him, we begin to love him. But the good, the contrary evil of which is feared, was loved from the beginning."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 43,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument is true of that which is the efficient cause of the evil to be feared: whereas love causes fear by way of material disposition, as stated above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -95,62 +102,69 @@
             "title": [
                 "Whether defect is the cause of fear?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 43,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that defect is not a cause of fear. Because those who are in power are very much feared. But defect is contrary to power. Therefore defect is not a cause of fear."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 43,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the defect of those who are already being executed is extreme. But such like do not fear as stated in Rhet. ii, 5. Therefore defect is not a cause of fear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 43,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, contests arise from strength not from defect. But \"those who contend fear those who contend with them\" (Rhet. ii, 5). Therefore defect is not a cause of fear."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 43,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This argument is true of the cause of fear, on the part of the efficient cause."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 43,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Those who are already being executed, are actually suffering from a present evil; wherefore their defect exceeds the measure of fear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 43,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Those who contend with one another are afraid, not on account of the power which enables them to contend: but on account of the lack of power, owing to which they are not confident of victory."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

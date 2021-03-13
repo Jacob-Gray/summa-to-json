@@ -25,45 +25,50 @@
             "title": [
                 "Whether the female sex is an impediment to receiving Orders?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the female sex is no impediment to receiving Orders. For the office of prophet is greater than the office of priest, since a prophet stands midway between God and priests, just as the priest does between God and people. Now the office of prophet was sometimes granted to women, as may be gathered from 4 Kgs. 22:14. Therefore the office of priest also may be competent to them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, just as Order pertains to a kind of pre-eminence, so does a position of authority as well as martyrdom and the religious state. Now authority is entrusted to women in the New Testament, as in the case of abbesses, and in the Old Testament, as in the case of Debbora, who judged Israel (Judges 2). Moreover martyrdom and the religious life are also befitting to them. Therefore the Orders of the Church are also competent to them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the power of orders is founded in the soul. But sex is not in the soul. Therefore difference in sex makes no difference to the reception of Orders."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Prophecy is not a sacrament but a gift of God. Wherefore there it is not the signification, but only the thing which is necessary. And since in matters pertaining to the soul woman does not differ from man as to the thing (for sometimes a woman is found to be better than many men as regards the soul), it follows that she can receive the gift of prophecy and the like, but not the sacrament of Orders.",
                         "And thereby appears the Reply to the Second and Third Objections. However, as to abbesses, it is said that they have not ordinary authority, but delegated as it were, on account of the danger of men and women living together. But Debbora exercised authority in temporal, not in priestly matters, even as now woman may have temporal power."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 }
             },
             "counter": [
@@ -82,62 +87,69 @@
             "title": [
                 "Whether boys and those who lack the use of reason can receive Orders?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that boys and those who lack the use of reason cannot receive Orders. For, as stated in the text (Sent. iv, D, 25), the sacred canons have appointed a certain fixed age in those who receive Orders. But this would not be if boys could receive the sacrament of Orders. Therefore, etc."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the sacrament of Orders ranks above the sacrament of matrimony. Now children and those who lack the use of reason cannot contract matrimony. Neither therefore can they receive Orders."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, act and power are in the same subject, according to the Philosopher (De Somn. et Vigil. i). Now the act of Orders requires the use of reason. Therefore the power of Orders does also."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: As stated in the Article, not all that is necessary for the lawfulness of a sacrament is required for its validity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The cause of matrimony is consent, which cannot be without the use of reason. Whereas in the reception of Orders no act is required on the part of the recipients since no act on their part is expressed in their consecration. Hence there is no comparison."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Act and power are in the same subject; yet sometimes a power, such as the free-will, precedes its act; and thus it is in the case in point."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -156,98 +168,109 @@
             "title": [
                 "Whether the state of slavery is an impediment to receiving Orders?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the state of slavery is not an impediment to receiving Orders. For corporal subjection is not incompatible with spiritual authority. But in a slave there is corporal subjection. Therefore he is not hindered from receiving the spiritual authority which is given in orders."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, that which is an occasion for humility should not be an impediment to the reception of a sacrament. Now such is slavery, for the Apostle counsels a man, if possible, rather to remain in slavery (1 Cor. 7:21). Therefore it should not hinder him from being raised to Orders."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, it is more disgraceful for a cleric to become a slave than for a slave to be made a cleric. Yet a cleric may lawfully be sold as a slave; for a bishop of Nola, Paulinus, to wit, sold himself as a slave as related by Gregory (Dial. iii). Much more therefore can a slave be made a cleric."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: On the contrary, It would seem that it is an impediment to the validity of the sacrament. For a woman, on account of her subjection, cannot receive the sacrament of Orders. But greater still is the subjection in a slave; since woman was not given to man as his handmaid (for which reason she was not made from his feet). Therefore neither can a slave receive this sacrament."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, a man, from the fact that he receives an Order, is bound to minister in that Order. But he cannot at the same time serve his carnal master and exercise his spiritual ministry. Therefore it would seem that he cannot receive Orders, since the master must be indemnified."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The reception of spiritual power involves also an obligation to certain bodily actions, and consequently it is hindered by bodily subjection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: A man may take an occasion for humility from many other things which do not prove a hindrance to the exercise of Orders."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The blessed Paulinus did this out of the abundance of his charity, being led by the spirit of God; as was proved by the result of his action, since by his becoming a slave, many of his flock were freed from slavery. Hence we must not draw a conclusion from this particular instance, since \"where the spirit  of the Lord is, there is liberty\" (2 Cor. 3:17)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: The sacramental signs signify by reason of their natural likeness. Now a woman is a subject by her nature, whereas a slave is not. Hence the comparison fails."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: If he be ordained, his master knowing and not dissenting, by this very fact he becomes a freedman. But if his master be in ignorance, the bishop and he who presented him are bound to pay the master double the slave's value, if they knew him to be a slave. Otherwise if the slave has possessions of his own, he is bound to buy his freedom, else he would have to return to the bondage of his master, notwithstanding the impossibility of his exercising his Order."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 }
             },
             "counter": [],
@@ -263,62 +286,69 @@
             "title": [
                 "Whether a man should be debarred from receiving Orders on account of homicide?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a man ought not to be debarred from receiving Orders on account of homicide. Because our Orders originated with the office of the Levites, as stated in the previous Distinction (Sent. iv, D, 24). But the Levites consecrated their hands by shedding the blood of their brethren (Ex. 32:29). Therefore neither should anyone in the New Testament be debarred from receiving Orders on account of the shedding of blood."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, no one should be debarred from a sacrament on account of an act of virtue. Now blood is sometimes shed for justice' sake, for instance by a judge; and he who has the office would sin if he did not shed it. Therefore he is not hindered on that account from receiving Orders."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, punishment is not due save for a fault. Now sometimes a person commits homicide without fault, for instance by defending himself, or again by mishap. Therefore he ought not to incur the punishment of irregularity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The Old Law inflicted the punishment of blood, whereas the New Law does not. Hence the comparison fails between  the ministers of the Old Testament and those of the New, which is a sweet yoke and a light burden (Mt. 11:30)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Irregularity is incurred not only on account of sin, but chiefly on account of a person being unfit to administer the sacrament of the Eucharist. Hence the judge and all who take part with him in a cause of blood, are irregular, because the shedding of blood is unbecoming to the ministers of that sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: No one does a thing without being the cause thereof, and in man this is something voluntary. Hence he who by mishap slays a man without knowing that it is a man, is not called a homicide, nor does he incur irregularity (unless he was occupying himself in some unlawful manner, or failed to take sufficient care, since in this case the slaying becomes somewhat voluntary). But this is not because he is not in fault, since irregularity is incurred even without fault. Wherefore even he who in a particular case slays a man in self-defense without committing a sin, is none the less irregular [*St. Thomas is speaking according to the canon law of his time. This is no longer the case now.]."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -336,44 +366,49 @@
             "title": [
                 "Whether those of illegitimate birth should be debarred from receiving Orders?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that those who are of illegitimate birth should not be debarred from receiving Orders. For the son should not bear the iniquity of the father (Ezech. 18:20); and yet he would if this were an impediment to his receiving Orders. Therefore, etc."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, one's own fault is a greater impediment than the fault of another. Now unlawful intercourse does not always debar a man from receiving Orders. Therefore neither should he be debarred by the unlawful intercourse of his father."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Irregularity is not a punishment due for sin. Hence it is clear that those who are of illegitimate birth do not  bear the iniquity of their father through being irregular."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: What a man does by his own act can be removed by repentance and by a contrary act; not so the things which are from nature. Hence the comparison fails between sinful act and sinful origin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "counter": [
@@ -391,24 +426,27 @@
             "title": [
                 "Whether lack of members should be an impediment?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a man ought not to be debarred from receiving Orders on account of a lack of members. For one who is afflicted should not receive additional affliction. Therefore a man ought not to be deprived of the degree of Orders on account of his suffering a bodily defect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, integrity of discretion is more necessary for the act of orders than integrity of body. But some can be ordained before the years of discretion. Therefore they can also be ordained though deficient in body."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "replies": {},

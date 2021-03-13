@@ -27,98 +27,109 @@
             "title": [
                 "Whether evil is a nature?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that evil is a nature. For every genus is a nature. But evil is a genus; for the Philosopher says (Praedic. x) that \"good and evil are not in a genus, but are genera of other things.\" Therefore evil is a nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, every difference which constitutes a species is a nature. But evil is a difference constituting a species of morality; for a bad habit differs in species from a good habit, as liberality from illiberality. Therefore evil signifies a nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, each extreme of two contraries is a nature. But evil and good are not opposed as privation and habit, but as contraries, as the Philosopher shows (Praedic. x) by the fact that between good and evil there is a medium, and from evil there can be a return to good. Therefore evil signifies a nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, what is not, acts not. But evil acts, for it corrupts good. Therefore evil is a being and a nature."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 5: Further, nothing belongs to the perfection of the universe except what is a being and a nature. But evil belongs to the perfection of the universe of things; for Augustine says (Enchir. 10,11) that the \"admirable beauty of the universe is made up of all things. In which even what is called evil, well ordered and in its place, is the eminent commendation of what is good.\" Therefore evil is a nature."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Aristotle speaks there according to the opinion of Pythagoreans, who thought that evil was a kind of nature; and therefore they asserted the existence of the genus of good and  evil. For Aristotle, especially in his logical works, brings forward examples that in his time were probable in the opinion of some philosophers. Or, it may be said that, as the Philosopher says (Metaph. iv, text 6), \"the first kind of contrariety is habit and privation,\" as being verified in all contraries; since one contrary is always imperfect in relation to another, as black in relation to white, and bitter in relation to sweet. And in this way good and evil are said to be genera not simply, but in regard to contraries; because, as every form has the nature of good, so every privation, as such, has the nature of evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Good and evil are not constitutive differences except in morals, which receive their species from the end, which is the object of the will, the source of all morality. And because good has the nature of an end, therefore good and evil are specific differences in moral things; good in itself, but evil as the absence of the due end. Yet neither does the absence of the due end by itself constitute a moral species, except as it is joined to the undue end; just as we do not find the privation of the substantial form in natural things, unless it is joined to another form. Thus, therefore, the evil which is a constitutive difference in morals is a certain good joined to the privation of another good; as the end proposed by the intemperate man is not the privation of the good of reason, but the delight of sense without the order of reason. Hence evil is not a constitutive difference as such, but by reason of the good that is annexed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: This appears from the above. For the Philosopher speaks there of good and evil in morality. Because in that respect, between good and evil there is a medium, as good is considered as something rightly ordered, and evil as a thing not only out of right order, but also as injurious to another. Hence the Philosopher says (Ethic. iv, i) that a \"prodigal man is foolish, but not evil.\" And from this evil in morality, there may be a return to good, but not from any sort of evil, for from blindness there is no return to sight, although blindness is an evil."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: A thing is said to act in a threefold sense. In one way, formally, as when we say that whiteness makes white; and in that sense evil considered even as a privation is said to corrupt good, forasmuch as it is itself a corruption or privation of good. In another sense a thing is said to act effectively, as when a painter makes a wall white. Thirdly, it is said in the sense of the final cause, as the end is said to effect by moving the efficient cause. But in these two ways evil does not effect anything of itself, that is, as a privation, but by virtue of the good annexed to it. For every action comes from some form; and everything which is desired as an end, is a perfection. And therefore, as Dionysius says (Div. Nom. iv): \"Evil does not act, nor is it desired, except by virtue of some good joined to it: while of itself it is nothing definite, and beside the scope of our will and intention.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 5: As was said above, the parts of the universe are  ordered to each other, according as one acts on the other, and according as one is the end and exemplar of the other. But, as was said above, this can only happen to evil as joined to some good. Hence evil neither belongs to the perfection of the universe, nor does it come under the order of the same, except accidentally, that is, by reason of some good joined to it."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "counter": [
@@ -136,62 +147,69 @@
             "title": [
                 "Whether evil is found in things?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that evil is not found in things. For whatever is found in things, is either something, or a privation of something, that is a \"not-being.\" But Dionysius says (Div. Nom. iv) that \"evil is distant from existence, and even more distant from non-existence.\" Therefore evil is not at all found in things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, \"being\" and \"thing\" are convertible. If therefore evil is a being in things, it follows that evil is a thing, which is contrary to what has been said (Article [1])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, \"the white unmixed with black is the most white,\" as the Philosopher says (Topic. iii, 4). Therefore also the good unmixed with evil is the greater good. But God makes always what is best, much more than nature does. Therefore in things made by God there is no evil."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Evil is distant both from simple being and from simple \"not-being,\" because it is neither a habit nor a pure negation, but a privation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: As the Philosopher says (Metaph. v, text 14), being is twofold. In one way it is considered as signifying the entity of a thing, as divisible by the ten \"predicaments\"; and in  that sense it is convertible with thing, and thus no privation is a being, and neither therefore is evil a being. In another sense being conveys the truth of a proposition which unites together subject and attribute by a copula, notified by this word \"is\"; and in this sense being is what answers to the question, \"Does it exist?\" and thus we speak of blindness as being in the eye; or of any other privation. In this way even evil can be called a being. Through ignorance of this distinction some, considering that things may be evil, or that evil is said to be in things, believed that evil was a positive thing in itself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: God and nature and any other agent make what is best in the whole, but not what is best in every single part, except in order to the whole, as was said above (Question [47], Article [2]). And the whole itself, which is the universe of creatures, is all the better and more perfect if some things in it can fail in goodness, and do sometimes fail, God not preventing this. This happens, firstly, because \"it belongs to Providence not to destroy, but to save nature,\" as Dionysius says (Div. Nom. iv); but it belongs to nature that what may fail should sometimes fail; secondly, because, as Augustine says (Enchir. 11), \"God is so powerful that He can even make good out of evil.\" Hence many good things would be taken away if God permitted no evil to exist; for fire would not be generated if air was not corrupted, nor would the life of a lion be preserved unless the ass were killed. Neither would avenging justice nor the patience of a sufferer be praised if there were no injustice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -210,80 +228,89 @@
             "title": [
                 "Whether evil is in good as in its subject?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that evil is not in good as its subject. For good is something that exists. But Dionysius says (Div. Nom. iv, 4) that \"evil does not exist, nor is it in that which exists.\" Therefore, evil is not in good as its subject."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, evil is not a being; whereas good is a being. But \"non-being\" does not require being as its subject. Therefore, neither does evil require good as its subject."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, one contrary is not the subject of another. But good and evil are contraries. Therefore, evil is not in good as in its subject."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, the subject of whiteness is called white. Therefore also the subject of evil is evil. If, therefore, evil is in good as in its subject, it follows that good is evil, against what is said (Is. 5:20): \"Woe to you who call evil good, and good evil!\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Dionysius means that evil is not in existing things as a part, or as a natural property of any existing thing."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: \"Not-being,\" understood negatively, does not require a subject; but privation is negation in a subject, as the Philosopher says (Metaph. iv, text 4), and such \"not-being\" is an evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Evil is not in the good opposed to it as in its subject, but in some other good, for the subject of blindness is not \"sight,\" but \"animal.\" Yet, it appears, as Augustine says (Enchiridion 13), that the rule of dialectics here fails, where it is laid down that contraries cannot exist together. But this is to be taken as referring to good and evil in general, but not in reference to any particular good and evil. For white and black, sweet and bitter, and the like contraries, are only considered as contraries in a special sense, because they exist in some determinate genus; whereas good enters into every genus. Hence one good can coexist with the privation of another good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: The prophet invokes woe to those who say that good as such is evil. But this does not follow from what is said above, as is clear from the explanation given."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -302,63 +329,70 @@
             "title": [
                 "Whether evil corrupts the whole good?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that evil corrupts the whole good. For one contrary is wholly corrupted by another. But good and evil are contraries. Therefore evil corrupts the whole good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Augustine says (Enchiridion 12) that \"evil  hurts inasmuch as it takes away good.\" But good is all of a piece and uniform. Therefore it is wholly taken away by evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, evil, as long as it lasts, hurts, and takes away good. But that from which something is always being removed, is at some time consumed, unless it is infinite, which cannot be said of any created good. Therefore evil wholly consumes good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The good which is opposed to evil is wholly taken away; but other goods are not wholly removed, as said above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The aforesaid aptitude is a medium between subject and act. Hence, where it touches act, it is diminished by evil; but where it touches the subject, it remains as it was. Therefore, although good is like to itself, yet, on account of its relation to different things, it is not wholly, but only partially taken away."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Some, imagining that the diminution of this kind of good is like the diminution of quantity, said that just as the continuous is infinitely divisible, if the division be made in an ever same proportion (for instance, half of half, or a third of a third), so is it in the present case. But this explanation does not avail here. For when in a division we keep the same proportion, we continue to subtract less and less; for half of half is less than half of the whole. But a second sin does not necessarily diminish the above mentioned aptitude less than a preceding sin, but perchance either equally or more.",
                         "Therefore it must be said that, although this aptitude is a finite thing, still it may be so diminished infinitely, not \"per se,\" but accidentally; according as the contrary dispositions are also increased infinitely, as explained above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -380,80 +414,89 @@
             "title": [
                 "Whether evil is adequately divided into pain* and fault?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that evil is not adequately divided into pain and fault. For every defect is a kind of evil. But in all creatures there is the defect of not being able to preserve their own existence, which nevertheless is neither a pain nor a fault. Therefore evil is inadequately divided into pain and fault."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, in irrational creatures there is neither fault nor pain; but, nevertheless, they have corruption and defect, which are evils. Therefore not every evil is a pain or a fault."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, temptation is an evil, but it is not a fault; for \"temptation which involves no consent, is not a sin, but an occasion for the exercise of virtue,\" as is said in a gloss on 2 Cor. 12; not is it a pain; because temptation precedes the fault, and the pain follows afterwards. Therefore, evil is not sufficiently divided into pain and fault."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: On the contrary, It would seem that this division is superfluous: for, as Augustine says (Enchiridion 12), a thing is evil \"because it hurts.\" But whatever hurts is penal. Therefore every evil comes under pain."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Because evil is the privation of good, and not a mere negation, as was said above (Article [3]), therefore not every defect of good is an evil, but the defect of the good which is naturally due. For the want of sight is not an evil in a stone, but it is an evil in an animal; since it is against the nature of a stone to see. So, likewise, it is against the nature of a creature to be preserved in existence by itself, because existence and conservation come from one and the same source. Hence this kind of defect is not an evil as regards a creature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Pain and fault do not divide evil absolutely considered, but evil that is found in voluntary things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Temptation, as importing provocation to evil, is always an evil of fault in the tempter; but in the one tempted it is not, properly speaking, a fault; unless through the temptation some change is wrought in the one who is tempted; for thus is the action of the agent in the patient. And if the tempted is changed to evil by the tempter he falls into fault."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: In answer to the opposite argument, it must be said that the very nature of pain includes the idea of injury to the agent in himself, whereas the idea of fault includes the idea of injury to the agent in his operation; and thus both are contained in evil, as including the idea of injury."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "counter": [],
@@ -469,62 +512,69 @@
             "title": [
                 "Whether pain has the nature of evil more than fault has?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that pain has more of evil than fault.  For fault is to pain what merit is to reward. But reward has more good than merit, as its end. Therefore pain has more evil in it than fault has."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, that is the greater evil which is opposed to the greater good. But pain, as was said above (Article [5]), is opposed to the good of the agent, while fault is opposed to the good of the action. Therefore, since the agent is better than the action, it seems that pain is worse than fault."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the privation of the end is a pain consisting in forfeiting the vision of God; whereas the evil of fault is privation of the order to the end. Therefore pain is a greater evil than fault."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Although fault results in pain, as merit in reward, yet fault is not intended on account of the pain, as merit is for the reward; but rather, on the contrary, pain is brought about so that the fault may be avoided, and thus fault is worse than pain."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The order of action which is destroyed by fault is the more perfect good of the agent, since it is the second perfection, than the good taken away by pain, which is the first perfection."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 48,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Pain and fault are not to be compared as end and order to the end; because one may be deprived of both of these in some way, both by fault and by pain; by pain, accordingly as a man is removed from the end and from the order to the end; by fault, inasmuch as this privation belongs to the action which is not ordered to its due end."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

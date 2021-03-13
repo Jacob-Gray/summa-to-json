@@ -21,63 +21,70 @@
             "title": [
                 "Whether there can be virtue and vice in connection with outward apparel?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 169,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there cannot be virtue and vice in connection with outward apparel. For outward adornment does not belong to us by nature, wherefore it varies according to different times and places. Hence Augustine says (De Doctr. Christ. iii, 12) that \"among the ancient Romans it was scandalous for one to wear a cloak with sleeves and reaching to the ankles, whereas now it is scandalous for anyone hailing from a reputable place to be without them.\" Now according to the Philosopher (Ethic. ii, 1) there is in us a natural aptitude for the virtues. Therefore there is no virtue or vice about such things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 169,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, if there were virtue and vice in connection with outward attire, excess in this matter would be sinful. Now excess in outward attire is not apparently sinful, since even the ministers of the altar use most precious vestments in the sacred ministry. Likewise it would seem not to be sinful to be lacking in this, for it is said in praise of certain people (Heb. 11:37): \"They wandered about in sheepskins and in goatskins.\" Therefore it seems that there cannot be virtue and vice in this matter."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 169,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, every virtue is either theological, or moral, or intellectual. Now an intellectual virtue is not conversant with matter of this kind, since it is a perfection regarding the knowledge of truth. Nor is there a theological virtue connected therewith, since that has God for its object; nor are any of the moral virtues enumerated by the Philosopher (Ethic. ii, 7), connected with it. Therefore it seems that there cannot be virtue and vice in connection with this kind of attire."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 169,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Although outward attire does not come from nature, it belongs to natural reason to moderate it; so that we are naturally inclined to be the recipients of the virtue that moderates outward raiment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 169,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Those who are placed in a position of dignity, or again the ministers of the altar, are attired in more costly apparel than others, not for the sake of their own glory, but to indicate the excellence of their office or of the Divine worship: wherefore this is not sinful in them. Hence Augustine says (De Doctr. Christ. iii, 12): \"Whoever uses outward things in such a way as to exceed the bounds observed by the good people among whom he dwells, either signifies something by so doing, or is guilty of sin, inasmuch as he uses these things for sensual pleasure or ostentation.\"",
                         "Likewise there may be sin on the part of deficiency: although it is not always a sin to wear coarser clothes than other people. For, if this be done through ostentation or pride, in order to set oneself above others, it is a sin of superstition; whereas, if this be done to tame the flesh, or to humble the spirit, it belongs to the virtue of temperance. Hence Augustine says (De Doctr. Christ. iii, 12): \"Whoever uses transitory things with greater restraint than is customary with those among whom he dwells, is either temperate or superstitious.\" Especially, however, is the use of coarse raiment befitting to those who by word and example urge others to repentance, as did the prophets of whom the Apostle is speaking in the passage quoted. Wherefore a gloss on Mt. 3:4, says: \"He who preaches penance, wears the garb of penance.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 169,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: This outward apparel is an indication of man's estate; wherefore excess, deficiency, and mean therein, are referable to the virtue of truthfulness, which the Philosopher (Ethic. ii, 7) assigns to deeds and words, which are indications of something connected with man's estate."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,81 +105,90 @@
             "title": [
                 "Whether the adornment of women is devoid of mortal sin?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 169,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the adornment of women is not devoid of mortal sin. For whatever is contrary to a precept of the Divine law is a mortal sin. Now the adornment of women is contrary to a  precept of the Divine law; for it is written (1 Pt. 3:3): \"Whose,\" namely women's, \"adorning, let it not be the outward plaiting of the hair, or the wearing of gold, or the putting on of apparel.\" Wherefore a gloss of Cyprian says: \"Those who are clothed in silk and purple cannot sincerely put on Christ: those who are bedecked with gold and pearls and trinkets have forfeited the adornments of mind and body.\" Now this is not done without a mortal sin. Therefore the adornment of women cannot be devoid of mortal sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 169,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Cyprian says (De Habit. Virg.): \"I hold that not only virgins and widows, but also wives and all women without exception, should be admonished that nowise should they deface God's work and fabric, the clay that He has fashioned, with the aid of yellow pigments, black powders or rouge, or by applying any dye that alters the natural features.\" And afterwards he adds: \"They lay hands on God, when they strive to reform what He has formed. This is an assault on the Divine handiwork, a distortion of the truth. Thou shalt not be able to see God, having no longer the eyes that God made, but those the devil has unmade; with him shalt thou burn on whose account thou art bedecked.\" But this is not due except to mortal sin. Therefore the adornment of women is not devoid of mortal sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 169,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, just as it is unbecoming for a woman to wear man's clothes, so is it unbecoming for her to adorn herself inordinately. Now the former is a sin, for it is written (Dt. 22:5): \"A woman shall not be clothed with man's apparel, neither shall a man use woman's apparel.\" Therefore it seems that also the excessive adornment of women is a mortal sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 169,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: On the contrary, If this were true it would seem that the makers of these means of adornment sin mortally."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 169,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As a gloss says on this passage, \"The wives of those who were in distress despised their husbands, and decked themselves that they might please other men\": and the Apostle forbids this. Cyprian is speaking in the same sense; yet he does not forbid married women to adorn themselves in order to please their husbands, lest the latter be afforded an occasion of sin with other women. Hence the Apostle says (1 Tim. 2:9): \"Women . . . in ornate [Douay: 'decent'] apparel, adorning themselves with modesty and sobriety, not with plaited hair, or gold, or pearls, or costly attire\": whence we are given to understand that women are not forbidden to adorn themselves soberly and moderately but to do so excessively, shamelessly, and immodestly."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 169,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Cyprian is speaking of women painting themselves: this is a kind of falsification, which cannot be devoid of sin. Wherefore Augustine says (Ep. ccxlv ad Possid.): \"To dye oneself with paints in order to have a rosier or a paler complexion is a lying counterfeit. I doubt whether even their husbands are willing to be deceived by it, by whom alone\" (i.e. the husbands) \"are they to be permitted, but not ordered, to adorn themselves.\" However, such painting does not always involve a mortal sin, but only when it is done for the sake of sensuous pleasure or in contempt of God, and it is to like cases that Cyprian refers.",
                         "It must, however, be observed that it is one thing to counterfeit a beauty one has not, and another to hide a disfigurement arising from some cause such as sickness or the like. For this is lawful, since according to the Apostle (1 Cor. 12:23), \"such as we think to be the less honorable members of the body, about these we put more abundant honor.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 169,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As stated in the foregoing Article, outward apparel should be consistent with the estate of the person, according to the general custom. Hence it is in itself sinful for a woman to wear man's clothes, or vice versa; especially since this may be a cause of sensuous pleasure; and it is expressly forbidden in the Law (Dt. 22) because the Gentiles used to practice this change of attire for the purpose of idolatrous superstition. Nevertheless this may be done sometimes without sin on account of some necessity, either in order to hide oneself from enemies, or through lack of other clothes, or for some similar motive."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 169,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: In the case of an art directed to the production of goods which men cannot use without sin, it follows that the workmen sin in making such things, as directly affording others an occasion of sin; for instance, if a man were to make idols or anything pertaining to idolatrous worship. But in the case of an art the products of which may be employed by man either for a good or for an evil use, such as swords, arrows, and the like, the practice of such an art is not sinful. These alone should be called arts; wherefore Chrysostom says [*Hom. xlix super Matth.]: \"The name of art should be applied to those only which contribute towards and produce necessaries and mainstays of life.\" In the case of an art that produces things which for the most part some people put to an evil use, although such arts are not unlawful in themselves, nevertheless, according to the teaching of Plato, they should be extirpated from the State by the governing authority. Accordingly, since women may lawfully adorn themselves, whether to maintain the fitness of their estate, or even by adding something thereto, in order to please their husbands, it follows that those who make such means of adornment do not sin in the practice of their art, except perhaps by inventing means that are superfluous and fantastic. Hence Chrysostom says (Super Matth.) that \"even the shoemakers' and clothiers' arts stand in need of restraint, for they have lent their art to lust, by abusing its needs, and debasing art by art.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [],

@@ -23,62 +23,69 @@
             "title": [
                 "Whether the multitude and distinction of things come from God?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the multitude and distinction of things does not come from God. For one naturally always makes one. But God is supremely one, as appears from what precedes (Question [11], Article [4]). Therefore He produces but one effect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the representation is assimilated to its exemplar. But God is the exemplar cause of His effect, as was said above (Question [44], Article [3]). Therefore, as God is one, His effect is one only, and not diverse."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the means are proportional to the end. But the  end of the creation is one---viz. the divine goodness, as was shown above (Question [44], Article [4]). Therefore the effect of God is but one."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The natural agent acts by the form which makes it what it is, and which is only one in one thing; and therefore its effect is one only. But the voluntary agent, such as God is, as was shown above (Question [19], Article [4]), acts by an intellectual form. Since, therefore, it is not against God's unity and simplicity to understand many things, as was shown above (Question [15], Article [2]), it follows that, although He is one, He can make many things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: This reason would apply to the representation which reflects the exemplar perfectly, and which is multiplied by reason of matter only; hence the uncreated image, which is perfect, is only one. But no creature represents the first exemplar perfectly, which is the divine essence; and, therefore, it can be represented by many things. Still, according as ideas are called exemplars, the plurality of ideas corresponds in the divine mind to the plurality of things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: In speculative things the medium of demonstration, which demonstrates the conclusion perfectly, is one only; whereas probable means of proof are many. Likewise when operation is concerned, if the means be equal, so to speak, to the end, one only is sufficient. But the creature is not such a means to its end, which is God; and hence the multiplication of creatures is necessary."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -101,62 +108,69 @@
             "title": [
                 "Whether the inequality of things is from God?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the inequality of things is not from God. For it belongs to the best to produce the best. But among things that are best, one is not greater than another. Therefore, it belongs to God, Who is the Best, to make all things equal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, equality is the effect of unity (Metaph. v, text 20). But God is one. Therefore, He has made all things equal."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, it is the part of justice to give unequal to unequal things. But God is just in all His works. Since, therefore, no inequality of things is presupposed to the operation whereby He  gives being to things, it seems that He has made all things equal."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: It is part of the best agent to produce an effect which is best in its entirety; but this does not mean that He makes every part of the whole the best absolutely, but in proportion to the whole; in the case of an animal, for instance, its goodness would be taken away if every part of it had the dignity of an eye. Thus, therefore, God also made the universe to be best as a whole, according to the mode of a creature; whereas He did not make each single creature best, but one better than another. And therefore we find it said of each creature, \"God saw the light that it was good\" (Gn. 1:4); and in like manner of each one of the rest. But of all together it is said, \"God saw all the things that He had made, and they were very good\" (Gn. 1:31)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The first effect of unity is equality; and then comes multiplicity; and therefore from the Father, to Whom, according to Augustine (De Doctr. Christ. i, 5), is appropriated unity, the Son proceeds to Whom is appropriated equality, and then from Him the creature proceeds, to which belongs inequality; but nevertheless even creatures share in a certain equality---namely, of proportion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: This is the argument that persuaded Origen: but it holds only as regards the distribution of rewards, the inequality of which is due to unequal merits. But in the constitution of things there is no inequality of parts through any preceding inequality, either of merits or of the disposition of the matter; but inequality comes from the perfection of the whole. This appears also in works done by art; for the roof of a house differs from the foundation, not because it is made of other material; but in order that the house may be made perfect of different parts, the artificer seeks different material; indeed, he would make such material if he could."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -175,62 +189,69 @@
             "title": [
                 "Whether there is only one world?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that there is not only one world, but many. Because, as Augustine says (Questions. 83, qu. 46), it is unfitting to say that God has created things without a reason. But for the same reason He created one, He could create many, since His power is not limited to the creation of one world; but rather it is infinite, as was shown above (Question [25], Article [2]). Therefore God has produced many worlds."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, nature does what is best and much more does God. But it is better for there to be many worlds than one, because many good things are better than a few. Therefore many worlds have been made by God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 47,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, everything which has a form in matter can be multiplied in number, the species remaining the same, because multiplication in number comes from matter. But the world has a  form in matter. Thus as when I say \"man\" I mean the form, and when I say \"this man,\" I mean the form in matter; so when we say \"world,\" the form is signified, and when we say \"this world,\" the form in the matter is signified. Therefore there is nothing to prevent the existence of many worlds."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: This reason proves that the world is one because all things must be arranged in one order, and to one end. Therefore from the unity of order in things Aristotle infers (Metaph. xii, text 52) the unity of God governing all; and Plato (Tim.), from the unity of the exemplar, proves the unity of the world, as the thing designed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: No agent intends material plurality as the end forasmuch as material multitude has no certain limit, but of itself tends to infinity, and the infinite is opposed to the notion of end. Now when it is said that many worlds are better than one, this has reference to material order. But the best in this sense is not the intention of the divine agent; forasmuch as for the same reason it might be said that if He had made two worlds, it would be better if He had made three; and so on to infinite."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 47,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The world is composed of the whole of its matter. For it is not possible for there to be another earth than this one, since every earth would naturally be carried to this central one, wherever it was. The same applies to the other bodies which are part of the world."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [

@@ -25,62 +25,69 @@
             "title": [
                 "Whether evil is the cause and object of hatred?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that evil is not the object and cause of hatred. For everything that exists, as such, is good. If therefore evil be the object of hatred, it follows that nothing but the lack of something can be the object of hatred: which is clearly untrue."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, hatred of evil is praise-worthy; hence (2 Macc 3:1) some are praised for that \"the laws were very well kept, because of the godliness of Onias the high-priest, and the hatred of their souls [Douay: 'his soul'] had no evil.\" If, therefore, nothing but evil be the object of hatred, it would follow that all hatred is commendable: and this is clearly false."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the same thing is not at the same time both good and evil. But the same thing is lovable and hateful to different subjects. Therefore hatred is not only of evil, but also of good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Being, as such, has not the aspect of repugnance but only of fittingness; because being is common to all things. But being, inasmuch as it is this determinate being, has an aspect of repugnance to some determinate being. And in this way, one being is hateful to another, and is evil; though not in itself, but by comparison with something else."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Just as a thing may be apprehended as good, when it is not truly good; so a thing may be apprehended as evil, whereas it is not truly evil. Hence it happens sometimes that neither hatred of evil nor love of good is good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: To different things the same thing may be lovable or hateful: in respect of the natural appetite, owing to one and the same thing being naturally suitable to one thing, and naturally unsuitable to another: thus heat is becoming to fire and unbecoming to water: and in respect of the animal appetite, owing to one and the same thing being apprehended by one as good, by another as bad."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,62 +105,69 @@
             "title": [
                 "Whether love is a cause of hatred?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that love is not a cause of hatred. For \"the opposite members of a division are naturally simultaneous\" (Praedic. x). But love and hatred are opposite members of a division, since they are contrary to one another. Therefore they are naturally simultaneous. Therefore love is not the cause of hatred."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, of two contraries, one is not the cause of the other. But love and hatred are contraries. Therefore love is not the cause of hatred."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, that which follows is not the cause of that  which precedes. But hatred precedes love, seemingly: since hatred implies a turning away from evil, whereas love implies a turning towards good. Therefore love is not the cause of hatred."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The opposite members of a division are sometimes naturally simultaneous, both really and logically; e.g. two species of animal, or two species of color. Sometimes they are simultaneous logically, while, in reality, one precedes, and causes the other; e.g. the species of numbers, figures and movements. Sometimes they are not simultaneous either really or logically; e.g. substance and accident; for substance is in reality the cause of accident; and being is predicated of substance before it is predicated of accident, by a priority of reason, because it is not predicated of accident except inasmuch as the latter is in substance. Now love and hatred are naturally simultaneous, logically but not really. Wherefore nothing hinders love from being the cause of hatred."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Love and hatred are contraries if considered in respect of the same thing. But if taken in respect of contraries, they are not themselves contrary, but consequent to one another: for it amounts to the same that one love a certain thing, or that one hate its contrary. Thus love of one thing is the cause of one's hating its contrary."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: In the order of execution, the turning away from one term precedes the turning towards the other. But the reverse is the case in the order of intention: since approach to one term is the reason for turning away from the other. Now the appetitive movement belongs rather to the order of intention than to that of execution. Wherefore love precedes hatred: because each is an appetitive movement."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -171,33 +185,37 @@
             "title": [
                 "Whether hatred is stronger than love?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that hatred is stronger than love. For Augustine says (Questions. 83, qu. 36): \"There is no one who does not flee from pain, more than he desires pleasure.\" But flight from pain pertains to hatred; while desire for pleasure belongs to love. Therefore hatred is stronger than love."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the weaker is overcome by the stronger. But love is overcome by hatred: when, that is to say, love is turned into hatred. Therefore hatred is stronger than love."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the emotions of the soul are shown by their effects. But man insists more on repelling what is hateful, than on seeking what is pleasant: thus also irrational animals refrain from pleasure for fear of the whip, as Augustine instances (Questions. 83, qu. 36). Therefore hatred is stronger than love."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {},
@@ -219,53 +237,59 @@
             "title": [
                 "Whether a man can hate himself?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that a man can hate himself. For it is written (Ps. 10:6): \"He that loveth iniquity, hateth his own soul.\" But many love iniquity. Therefore many hate themselves."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, him we hate, to whom we wish and work evil. But sometimes a man wishes and works evil to himself, e.g. a man who kills himself. Therefore some men hate themselves."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Boethius says (De Consol. ii) that \"avarice makes a man hateful\"; whence we may conclude that everyone hates a miser. But some men are misers. Therefore they hate themselves."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: No man wills and works evil to himself, except he apprehend it under the aspect of good. For even they who kill themselves, apprehend death itself as a good, considered as putting an end to some unhappiness or pain."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The miser hates something accidental to himself, but not for that reason does he hate himself: thus a sick man hates his sickness for the very reason that he loves himself. Or we may say that avarice makes man hateful to others, but not to himself. In fact, it is caused by inordinate self-love, in respect of which, man desires temporal goods for himself more than he should."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -285,53 +309,59 @@
             "title": [
                 "Whether a man can hate the truth?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that a man cannot hate the truth. For good, true, and being are convertible. But a man cannot hate good. Neither, therefore, can he hate the truth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, \"All men have a natural desire for knowledge,\" as stated in the beginning of the Metaphysics i, 1. But knowledge is only of truth. Therefore truth is naturally desired and loved. But that which is in a thing naturally, is always in it. Therefore no man can hate the truth."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the Philosopher says (Rhet. ii, 4) that \"men love those who are straightforward.\" But there can be no other motive for this save truth. Therefore man loves the truth naturally. Therefore he cannot hate it."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The knowledge of truth is lovable in itself:  hence Augustine says that men love it when it enlightens. But accidentally, the knowledge of truth may become hateful, in so far as it hinders one from accomplishing one's desire."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The reason why we love those who are straightforward is that they make known the truth, and the knowledge of the truth, considered in itself, is a desirable thing."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -350,62 +380,69 @@
             "title": [
                 "Whether anything can be an object of universal hatred?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that a thing cannot be an object of universal hatred. Because hatred is a passion of the sensitive appetite, which is moved by an apprehension in the senses. But the senses cannot apprehend the universal. Therefore a thing cannot be an object of universal hatred."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, hatred is caused by disagreement; and where there is disagreement, there is nothing in common. But the notion of universality implies something in common. Therefore nothing can be the object of universal hatred."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the object of hatred is evil. But \"evil is in things, and not in the mind\" (Metaph. vi, 4). Since therefore the universal is in the mind only, which abstracts the universal from the particular, it would seem that hatred cannot have a universal object."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The senses do not apprehend the universal, as such: but they apprehend something to which the character of universality is given by abstraction."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: That which is common to all cannot be a reason of hatred. But nothing hinders a thing from being common to many, and at variance with others, so as to be hateful to them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 29,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument considers the universal under the aspect of universality: and thus it does not come under the sensitive apprehension or appetite."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

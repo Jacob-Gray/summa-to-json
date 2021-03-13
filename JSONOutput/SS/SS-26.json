@@ -32,63 +32,70 @@
             "title": [
                 "Whether there is order in charity?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there is no order in charity. For charity is a virtue. But no order is assigned to the other virtues. Neither, therefore, should any order be assigned to charity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, just as the object of faith is the First Truth, so is the object of charity the Sovereign Good. Now no order is appointed for faith, but all things are believed equally. Neither, therefore, ought there to be any order in charity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, charity is in the will: whereas ordering belongs, not to the will, but to the reason. Therefore no order should be ascribed to charity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Charity tends towards the last end considered as last end: and this does not apply to any other virtue, as stated above (Question [23], Article [6]). Now the end has the character of principle in matters of appetite and action, as was shown above (Question [23], Article [7], ad 2; FS, Article [1], ad 1). Wherefore charity, above all, implies relation to the First Principle, and consequently, in charity above all, we find an order in reference to the First Principle."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Faith pertains to the cognitive power, whose operation depends on the thing known being in the knower. On the other hand, charity is in an appetitive power, whose operation consists in the soul tending to things themselves. Now order is to be found in things themselves, and flows from them into our knowledge. Hence order is more appropriate to charity than to faith.",
                         "And yet there is a certain order in faith, in so far as it is chiefly about God, and secondarily about things referred to God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Order belongs to reason as the faculty that orders, and to the appetitive power as to the faculty which is ordered. It is in this way that order is stated to be in charity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -106,62 +113,69 @@
             "title": [
                 "Whether God ought to be loved more than our neighbor?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that God ought not to be loved more than our neighbor. For it is written (1 Jn. 4:20): \"He that loveth not his brother whom he seeth, how can he love God, Whom he seeth not?\" Whence it seems to follow that the more a thing is visible the more lovable it is, since loving begins with seeing, according to Ethic. ix, 5,12. Now God is less visible than our neighbor. Therefore He is less lovable, out of charity, than our neighbor."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, likeness causes love, according to Ecclus. 13:19: \"Every beast loveth its like.\" Now man bears more likeness to his neighbor than to God. Therefore man loves his neighbor, out of charity, more than he loves God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, what charity loves in a neighbor, is God, according to Augustine (De Doctr. Christ. i, 22,27). Now God is not greater in Himself than He is in our neighbor. Therefore He is not more to be loved in Himself than in our neighbor. Therefore we ought not to love God more than our neighbor."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: A thing is a cause of love in two ways: first, as being the reason for loving. In this way good is the cause of love, since each thing is loved according to its measure of goodness. Secondly, a thing causes love, as being a way to acquire love. It is in this way that seeing is the cause of loving, not as though a thing were lovable according as it is visible, but because by seeing a thing we are led to love it. Hence it does not follow that what is more visible is more lovable, but that as an object of love we meet with it before others: and that is the sense of the  Apostle's argument. For, since our neighbor is more visible to us, he is the first lovable object we meet with, because \"the soul learns, from those things it knows, to love what it knows not,\" as Gregory says in a homily (In Evang. xi). Hence it can be argued that, if any man loves not his neighbor, neither does he love God, not because his neighbor is more lovable, but because he is the first thing to demand our love: and God is more lovable by reason of His greater goodness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The likeness we have to God precedes and causes the likeness we have to our neighbor: because from the very fact that we share along with our neighbor in something received from God, we become like to our neighbor. Hence by reason of this likeness we ought to love God more than we love our neighbor."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Considered in His substance, God is equally in all, in whomsoever He may be, for He is not lessened by being in anything. And yet our neighbor does not possess God's goodness equally with God, for God has it essentially, and our neighbor by participation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -180,62 +194,69 @@
             "title": [
                 "Whether out of charity, man is bound to love God more than himself?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that man is not bound, out of charity, to love God more than himself. For the Philosopher says (Ethic. ix, 8) that \"a man's friendly relations with others arise from his friendly relations with himself.\" Now the cause is stronger than its effect. Therefore man's friendship towards himself is greater than his friendship for anyone else. Therefore he ought to love himself more than God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, one loves a thing in so far as it is one's own good. Now the reason for loving a thing is more loved than the thing itself which is loved for that reason, even as the principles which are the reason for knowing a thing are more known. Therefore man loves himself more than any other good loved by him. Therefore he does not love God more than himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, a man loves God as much as he loves to enjoy God. But a man loves himself as much as he loves to enjoy God; since this is the highest good a man can wish for himself. Therefore man is not bound, out of charity, to love God more than himself."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The Philosopher is speaking of friendly relations towards another person in whom the good, which is the object of friendship, resides in some restricted way; and not of friendly relations with another in whom the aforesaid good resides in totality."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The part does indeed love the good of the whole, as becomes a part, not however so as to refer the good of the whole to itself, but rather itself to the good of the whole."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: That a man wishes to enjoy God pertains to that love of God which is love of concupiscence. Now we love God with the love of friendship more than with the love of concupiscence, because the Divine good is greater in itself, than our share of good in enjoying Him. Hence, out of charity, man simply loves God more than himself."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -254,62 +275,69 @@
             "title": [
                 "Whether our of charity, man ought to love himself more than his neighbor?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a man ought not, out of charity, to love himself more than his neighbor. For the principal object of charity is God, as stated above (Article [2]; Question [25], Articles [1],12). Now sometimes our neighbor is more closely united to God than we are ourselves. Therefore we ought to love such a one more than ourselves."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the more we love a person, the more we avoid injuring him. Now a man, out of charity, submits to injury for his neighbor's sake, according to Prov. 12:26: \"He that neglecteth a loss for the sake of a friend, is just.\" Therefore a man ought, out of charity, to love his neighbor more than himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it is written (1 Cor. 13:5) \"charity seeketh not its own.\" Now the thing we love most is the one whose good we seek most. Therefore a man does not, out of charity, love himself more than his neighbor."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The love of charity takes its quantity not only from its object which is God, but also from the lover, who is the man that has charity, even as the quantity of any action depends in some way on the subject. Wherefore, though a better neighbor is nearer to God, yet because he is not as near to the man who has charity, as this man is to himself, it does not follow that a man is bound to love his neighbor more than himself."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: A man ought to bear bodily injury for his friend's sake, and precisely in so doing he loves himself more as regards his spiritual mind, because it pertains to the perfection of virtue, which is a good of the mind. In spiritual matters, however, man ought not to suffer injury by sinning, in order to free his neighbor from sin, as stated above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As Augustine says in his Rule (Ep. ccxi), the saying, \"'charity seeks not her own,' means that it prefers the common to the private good.\" Now the common good is always more lovable to the individual than his private good, even as the good of the whole is more lovable to the part, than the latter's own partial good, as stated above (Article [3])."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -328,62 +356,69 @@
             "title": [
                 "Whether a man ought to love his neighbor more than his own body?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a man is not bound to love his neighbor more than his own body. For his neighbor includes his neighbor's body. If therefore a man ought to love his neighbor more than his own body, it follows that he ought to love his neighbor's body more than his own."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, a man ought to love his own soul more than his neighbor's, as stated above (Article [4]). Now a man's own body is nearer to his soul than his neighbor. Therefore we ought to love our body more than our neighbor."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, a man imperils that which he loves less for the sake of what he loves more. Now every man is not bound to imperil his own body for his neighbor's safety: this belongs to the perfect, according to Jn. 15:13: \"Greater love than this no man hath, that a man lay down his life for his friends.\" Therefore a man is not bound, out of charity, to love his neighbor more than his own body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: According to the Philosopher (Ethic. ix, 8) a thing seems to be that which is predominant in it: so that when we say that we ought to love our neighbor more than our own body, this refers to his soul, which is his predominant part."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Our body is nearer to our soul than our neighbor, as regards the constitution of our own nature: but as regards the participation of happiness, our neighbor's soul is more closely associated with our own soul, than even our own body is."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Every man is immediately concerned with the care of his own body, but not with his neighbor's welfare, except perhaps in cases of urgency: wherefore charity does not necessarily require a man to imperil his own body for his neighbor's welfare, except in a case where he is under obligation to do so and if a man of his own accord offer himself for that purpose, this belongs to the perfection of charity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -401,63 +436,70 @@
             "title": [
                 "Whether we ought to love one neighbor more than another?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that we ought not to love one neighbor more than another. For Augustine says (De Doctr. Christ. i, 28): \"One ought to love all men equally. Since, however, one cannot do good to all, we ought to consider those chiefly who by reason of place, time or any other circumstance, by a kind of chance, are more closely united to us.\" Therefore one neighbor ought not to be loved more than another."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, where there is one and the same reason for loving several, there should be no inequality of love. Now there is one and the same reason for loving all one's neighbors, which reason is God, as Augustine states (De Doctr. Christ. i, 27). Therefore we ought to love all our neighbors equally."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, to love a man is to wish him good things, as the Philosopher states (Rhet. ii, 4). Now to all our neighbors we wish an equal good, viz. everlasting life. Therefore we ought to love all our neighbors equally."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Love can be unequal in two ways: first on the part of the good we wish our friend. In this respect we love all men equally out of charity: because we wish them all one same generic good, namely everlasting happiness. Secondly love is said to be greater through its action being more intense: and in this way we ought not to love all equally.",
                         "Or we may reply that we have unequal love for certain persons in two ways: first, through our loving some and not loving others. As regards beneficence we are bound to observe this inequality, because we cannot do good to all: but as regards benevolence, love ought not to be thus unequal. The other inequality arises from our loving some more than others: and Augustine does not mean to exclude the latter inequality, but the former, as is evident from what he says of beneficence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Our neighbors are not all equally related to God; some are nearer to Him, by reason of their greater goodness, and those we ought, out of charity, to love more than those who are not so near to Him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: This argument considers the quantity of love on the part of the good which we wish our friends."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -477,62 +519,69 @@
             "title": [
                 "Whether we ought to love those who are better more those who are more closely united us?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that we ought to love those who are better more than those who are more closely united to us. For that which is in no way hateful seems more lovable than that which is hateful for some reason: just as a thing is all the whiter for having less black mixed with it. Now those who are connected with us are hateful for some reason, according to Lk. 14:26: \"If any man come to Me, and hate not his father,\" etc. On the other hand good men are not hateful for any reason. Therefore it seems that we ought to love those who are better more than those who are more closely connected with us."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, by charity above all, man is likened to God. But God loves more the better man. Therefore man also, out of charity, ought to love the better man more than one who is more closely united to him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, in every friendship that ought to be loved most which has most to do with the foundation of that friendship: for, by natural friendship we love most those who are connected with us by nature, our parents for instance, or our children. Now the friendship of charity is founded upon the fellowship of  happiness, which has more to do with better men than with those who are more closely united to us. Therefore, out of charity, we ought to love better men more than those who are more closely connected with us."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: We are commanded to hate, in our kindred, not their kinship, but only the fact of their being an obstacle between us and God. In this respect they are not akin but hostile to us, according to Micah 7:6: \"A men's enemies are they of his own household.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Charity conforms man to God proportionately, by making man comport himself towards what is his, as God does towards what is His. For we may, out of charity, will certain things as becoming to us which God does not will, because it becomes Him not to will them, as stated above (FS, Question [19], Article [10]), when we were treating of the goodness of the will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Charity elicits the act of love not only as regards the object, but also as regards the lover, as stated above. The result is that the man who is more nearly united to us is more loved."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -554,62 +603,69 @@
             "title": [
                 "Whether we ought to love more those who are connected with us by ties of blood?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that we ought not to love more those who are more closely united to us by ties of blood. For it is written (Prov. 18:24): \"A man amiable in society, shall be more friendly than a brother.\" Again, Valerius Maximus says (Fact. et Dict. Memor. iv 7): \"The ties of friendship are most strong and in no way yield to the ties of blood.\" Moreover it is quite certain and undeniable, that as to the latter, the lot of birth is fortuitous, whereas we contract the former by an untrammelled will, and a solid pledge. Therefore we ought not to love more than others those who are united to us by ties of blood."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Ambrose says (De Officiis i, 7): \"I love not less you whom I have begotten in the Gospel, than if I had begotten you in wedlock, for nature is no more eager to love than grace.\" Surely we ought to love those whom we expect to be with us for ever more than those who will be with us only in this world. Therefore we should not love our kindred more than those who are otherwise connected with us."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, \"Love is proved by deeds,\" as Gregory states  (Hom. in Evang. xxx). Now we are bound to do acts of love to others than our kindred: thus in the army a man must obey his officer rather than his father. Therefore we are not bound to love our kindred most of all."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: In as much as the friendship of comrades originates through their own choice, love of this kind takes precedence of the love of kindred in matters where we are free to do as we choose, for instance in matters of action. Yet the friendship of kindred is more stable, since it is more natural, and preponderates over others in matters touching nature: consequently we are more beholden to them in the providing of necessaries."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Ambrose is speaking of love with regard to favors respecting the fellowship of grace, namely, moral instruction. For in this matter, a man ought to provide for his spiritual children  whom he has begotten spiritually, more than for the sons of his body, whom he is bound to support in bodily sustenance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The fact that in the battle a man obeys his officer rather than his father proves, that he loves his father less, not simply relatively, i.e. as regards the love which is based on fellowship in battle."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [
@@ -629,62 +685,69 @@
             "title": [
                 "Whether a man ought, out of charity, to love his children more than his father?"
             ],
+            "id": 9,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that a man ought, out of charity, to love his children more than his father. For we ought to love those more to whom we are more bound to do good. Now we are more bound to do good to our children than to our parents, since the Apostle says (2 Cor. 12:14): \"Neither ought the children to lay up for the parents, but the parents for the children.\" Therefore a man ought to love his children more than his parents."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, grace perfects nature. But parents naturally love their children more than these love them, as the Philosopher states (Ethic. viii, 12). Therefore a man ought to love his children more than his parents."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, man's affections are conformed to God by charity. But God loves His children more than they love Him. Therefore we also ought to love our children more than our parents."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The debt due to a principle is submission of respect and honor, whereas that due to the effect is one of influence and care. Hence the duty of children to their parents consists chiefly in honor: while that of parents to their children is especially one of care."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: It is natural for a man as father to love his children more, if we consider them as closely connected with him: but if we consider which is the more exalted good, the son naturally loves his father more."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As Augustine says (De Doctr. Christ. i, 32), God loves us for our good and for His honor. Wherefore since our father is related to us as principle, even as God is, it belongs properly to the father to receive honor from his children, and to the children to be provided by their parents with what is good for them. Nevertheless in cases of necessity the child is bound out of the favors received to provide for his parents before all."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "counter": [
@@ -703,54 +766,60 @@
             "title": [
                 "Whether a man ought to love his mother more than his father?"
             ],
+            "id": 10,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a man ought to love his mother more than his father. For, as the Philosopher says (De Gener. Animal. i, 20), \"the female produces the body in generation.\" Now man receives his soul, not from his father, but from God by creation, as stated in the FP, Question [90], Article [2]; Question [118]. Therefore a man receives more from his mother than from his father: and consequently he ought to love her more than him."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, where greater love is given, greater love is due. Now a mother loves her child more than the father does: for the Philosopher says (Ethic. ix, 7) that \"mothers have greater love for their children. For the mother labors more in child-bearing, and she knows more surely than the father who are her children.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, love should be more fond towards those who have labored for us more, according to Rm. 16:6: \"Salute Mary, who hath labored much among you.\" Now the mother labors more than the father in giving birth and education to her child; wherefore it is written (Ecclus. 7:29): \"Forget not the groanings of thy mother.\" Therefore a man ought to love his mother more than his father."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 10
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: In the begetting of man, the mother supplies the formless matter of the body; and the latter receives its form through the formative power that is in the semen of the father. And though this power cannot create the rational soul, yet it disposes the matter of the body to receive that form."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: This applies to another kind of love. For the friendship between lover and lover differs specifically from the friendship between child and parent: while the friendship we are speaking of here, is that which a man owes his father and mother through being begotten of them.",
                         "The Reply to the Third Objection is evident."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 }
             },
             "counter": [
@@ -769,55 +838,61 @@
             "title": [
                 "Whether a man ought to love his wife more than his father and mother?"
             ],
+            "id": 11,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a man ought to love his wife more than his father and mother. For no man leaves a thing for another unless he love the latter more. Now it is written (Gn. 2:24) that \"a man shell leave father and mother\" on account of his wife. Therefore a man ought to love his wife more than his father and mother."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 11
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the Apostle says (Eph. 5:33) that a husband should \"love his wife as himself.\" Now a man ought to love himself more than his parents. Therefore he ought to love his wife also more than his parents.",
                         "Objection 2: Further, love should be greater where there are more reasons for loving. Now there are more reasons for love in the friendship of a man towards his wife. For the Philosopher says (Ethic. viii, 12) that \"in this friendship there are the motives of utility, pleasure, and also of virtue, if husband and wife are virtuous.\" Therefore a man's love for his wife ought to be greater than his love for his parents."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 11
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: A man does not in all respects leave his father and mother for the sake of his wife: for in certain cases a man ought to succor his parents rather than his wife. He does however leave all his kinsfolk, and cleaves to his wife as regards the union of carnal connection and co-habitation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 11
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The words of the Apostle do not mean that a man ought to love his wife equally with himself, but that a man's love for himself is the reason for his love of his wife, since she is one with him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 11
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: There are also several reasons for a man's love for his father; and these, in a certain respect, namely, as regards good, are more weighty than those for which a man loves his wife; although the latter outweigh the former as regards the closeness of the union.",
                         "As to the argument in the contrary sense, it must be observed that in the words quoted, the particle \"as\" denotes not equality of love but the motive of love. For the principal reason why a man loves his wife is her being united to him in the flesh."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 11
                 }
             },
             "counter": [
@@ -836,62 +911,69 @@
             "title": [
                 "Whether a man ought to love more his benefactor than one he has benefited?"
             ],
+            "id": 12,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a man ought to love his benefactor more than one he has benefited. For Augustine says (De Catech. Rud. iv): \"Nothing will incite another more to love you than that you love him first: for he must have a hard heart indeed, who not only refuses to love, but declines to return love already given.\" Now a man's benefactor forestalls him in the kindly deeds of charity. Therefore we ought to love our benefactors above all."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 12
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the more grievously we sin by ceasing to love a man or by working against him, the more ought we to love him. Now it is a more grievous sin to cease loving a benefactor or to work against him, than to cease loving one to whom one has hitherto done kindly actions. Therefore we ought to love our benefactors more  than those to whom we are kind."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 12
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, of all things lovable, God is to be loved most, and then one's father, as Jerome says [*Comment. in Ezechiel xliv, 25]. Now these are our greatest benefactors. Therefore a benefactor should be loved above all others."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 12
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: It is some thing in the benefactor that incites the recipient to love him: whereas the benefactor loves the recipient, not through being incited by him, but through being moved thereto of his own accord: and what we do of our own accord surpasses what we do through another."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 12
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The love of the beneficiary for the benefactor is more of a duty, wherefore the contrary is the greater sin. On the  other hand, the love of the benefactor for the beneficiary is more spontaneous, wherefore it is quicker to act."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 12
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: God also loves us more than we love Him, and parents love their children more than these love them. Yet it does not follow that we love all who have received good from us, more than any of our benefactors. For we prefer such benefactors as God and our parents, from whom we have received the greatest favors, to those on whom we have bestowed lesser benefits."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 12
                 }
             },
             "counter": [
@@ -910,62 +992,69 @@
             "title": [
                 "Whether the order of charity endures in heaven?"
             ],
+            "id": 13,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the order of charity does not endure in heaven. For Augustine says (De Vera Relig. xlviii): \"Perfect charity consists in loving greater goods more, and lesser goods less.\" Now charity will be perfect in heaven. Therefore a man will love those who are better more than either himself or those who are connected with him."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 13
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, we love more him to whom we wish a greater good. Now each one in heaven wishes a greater good for those who have more good, else his will would not be conformed in all things to God's will: and there to be better is to have more good. Therefore in heaven each one loves more those who are better, and consequently he loves others more than himself, and one who is not connected with him, more than one who is."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 13
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, in heaven love will be entirely for God's sake, for then will be fulfilled the words of 1 Cor. 15:28: \"That God may be all in all.\" Therefore he who is nearer God will be loved more, so that a man will love a better man more than himself, and one who is not connected with him, more than one who is."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 13
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This argument should be granted as to those who are connected together; but as regards man himself, he ought to love himself so much the more than others, as his charity is more perfect, since perfect entire reason of his love, for God is man's charity directs man to God perfectly, and this belongs to love of oneself, as stated above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 13
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: This argument considers the order of charity in respect of the degree of good one wills the person one loves."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 13
                 },
                 "3": {
-                    "id": 3,
                     "question": 26,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: God will be to each one the entire reason of his love, for God is man's entire good. For if we make the impossible supposition that God were not man's good, He would not be man's reason for loving. Hence it is that in the order of love man should love himself more than all else after God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 13
                 }
             },
             "counter": [

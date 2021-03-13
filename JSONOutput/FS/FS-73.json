@@ -29,62 +29,69 @@
             "title": [
                 "Whether all sins are connected with one another?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that all sins are connected. For it is written (James 2:10): \"Whosoever shall keep the whole Law, but offend in one point, is become guilty of all.\" Now to be guilty of transgressing all the precepts of Law, is the same as to commit all sins, because, as Ambrose says (De Parad. viii), \"sin is a transgression of the Divine law, and disobedience of the heavenly commandments.\" Therefore whoever commits one sin is guilty of all."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, each sin banishes its opposite virtue. Now whoever lacks one virtue lacks them all, as was shown above (Question [65], Article [1]). Therefore whoever commits one sin, is deprived of all the virtues. Therefore whoever commits one sin, is guilty of all sins."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, all virtues are connected, because they have a principle in common, as stated above (Question [65], Articles [1],2). Now as the virtues have a common principle, so have sins, because, as the love of God, which builds the city of God, is the beginning and root of all the virtues, so self-love, which builds the city of Babylon, is the root of all sins, as Augustine declares (De Civ. Dei xiv, 28). Therefore all vices and sins are also connected so that whoever has one, has them all."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: James is speaking of sin, not as regards the thing to which it turns and which causes the distinction of sins, as stated above (Question [72], Article [1]), but as regards that from which sin turns away, in as much as man, by sinning, departs from a commandment of the law. Now all the commandments of the law are from one and the same, as he also says in the same passage, so that the same God is despised in every sin; and in this sense he says that whoever \"offends in one point, is become guilty of all,\" for as much as, by committing one sin, he incurs the debt of punishment through his contempt of God, which is the origin of all sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: As stated above (Question [71], Article [4]), the opposite virtue is not banished by every act of sin; because venial sin does not destroy virtue; while mortal sin destroys infused virtue, by turning man away from God. Yet one act, even of mortal sin, does not destroy the habit of acquired virtue; though if such acts be repeated so as to engender a contrary habit, the habit of acquired virtue is destroyed, the destruction of which entails the loss of prudence, since when man acts against any virtue whatever, he acts against prudence, without which no moral virtue is possible, as stated above (Question [58], Article [4]; Question [65], Article [1]). Consequently all the moral virtues are destroyed as to the perfect and formal being of virtue, which they have in so far as they partake of prudence, yet there remain the inclinations to virtuous acts, which inclinations, however, are not virtues. Nevertheless it does not follow that for this reason man contracts all vices of sins---first, because several vices are opposed to one virtue, so that a virtue can be destroyed by one of them, without the others being present; secondly, because sin is directly opposed to virtue, as regards the virtue's inclination to act, as stated above (Question [71], Article [1]). Wherefore, as long as any virtuous inclinations remain, it cannot be said that man has the opposite vices or sins."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The love of God is unitive, in as much as it draws man's affections from the many to the one; so that the virtues, which flow from the love of God, are connected together. But self-love disunites man's affections among different things, in so far as man loves himself, by desiring for himself temporal goods, which are various and of many kinds: hence vices and sins, which arise from self-love, are not connected together."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -102,62 +109,69 @@
             "title": [
                 "Whether all sins are equal?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that all sins are equal. Because sin is to do what is unlawful. Now to do what is unlawful is reproved in one and the same way in all things. Therefore sin is reproved in one and the same way. Therefore one sin is not graver than another."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, every sin is a transgression of the rule of reason, which is to human acts what a linear rule is in corporeal things. Therefore to sin is the same as to pass over a line. But passing over a line occurs equally and in the same way, even if one go a long way from it or stay near it, since privations do not admit of more or less. Therefore all sins are equal."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, sins are opposed to virtues. But all virtues are equal, as Cicero states (Paradox. iii). Therefore all sins are equal."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: To commit sin is lawful on account of some inordinateness therein: wherefore those which contain a greater inordinateness are more unlawful, and consequently graver sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: This argument looks upon sin as though it were a pure privation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Virtues are proportionately equal in one and the same subject: yet one virtue surpasses another in excellence according to its species; and again, one man is more virtuous than another, in the same species of virtue, as stated above (Question [66], Articles [1],2). Moreover, even if virtues were equal, it would not follow that vices are equal, since virtues are connected, and vices or sins are not."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -175,62 +189,69 @@
             "title": [
                 "Whether the gravity of sins varies according to their objects?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the gravity of sins does not vary according to their objects. Because the gravity of a sin pertains to its mode or quality: whereas the object is the matter of the sin. Therefore the gravity of sins does not vary according to their various objects."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the gravity of a sin is the intensity of its malice. Now sin does not derive its malice from its proper object to which it turns, and which is some appetible good, but rather from that which it turns away from. Therefore the gravity of sins does not vary according to their various objects."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, sins that have different objects are of different kinds. But things of different kinds cannot be compared with one another, as is proved in Phys. vii, text. 30, seqq. Therefore one sin is not graver than another by reason of the difference of objects."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Although the object is the matter about which an act is concerned, yet it has the character of an end, in so far as the intention of the agent is fixed on it, as stated above (Question [72], Article [3], ad 2). Now the form of a moral act depends on the end, as was shown above (Question [72], Article [6]; Question [18], Article [6])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: From the very fact that man turns unduly to some mutable good, it follows that he turns away from the immutable Good, which aversion completes the nature of evil. Hence the various degrees of malice in sins must needs follow the diversity of those things to which man turns."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: All the objects of human acts are related to one another, wherefore all human acts are somewhat of one kind, in so far as they are directed to the last end. Therefore nothing prevents all sins from being compared with one another."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -248,62 +269,69 @@
             "title": [
                 "Whether the gravity of sins depends on the excellence of the virtues to which they are opposed?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the gravity of sins does not vary according to the excellence of the virtues to which they are opposed, so that, to wit, the graver the sin is opposed to the greater virtue. For, according to Prov. 15:5, \"In abundant justice there is the greatest strength.\" Now, as Our Lord says (Mt. 5:20, seqq.) abundant justice restrains anger, which is a less grievous sin than murder, which less abundant justice restrains. Therefore the least grievous sin is opposed to the greatest virtue."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, it is stated in Ethic. ii, 3 that \"virtue is  about the difficult and the good\": whence it seems to follow that the greater virtue is about what is more difficult. But it is a less grievous sin to fail in what is more difficult, than in what is less difficult. Therefore the less grievous sin is opposed to the greater virtue."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, charity is a greater virtue than faith or hope (1 Cor. 13:13). Now hatred which is opposed to charity is a less grievous sin than unbelief or despair which are opposed to faith and hope. Therefore the less grievous sin is opposed to the greater virtue."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This argument considers the opposition which consists in restraining from sin; for thus abundant justice checks even minor sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The greater virtue that is about a more difficult good is opposed directly to the sin which is about a more difficult evil. For in each case there is a certain superiority, in that the will is shown to be more intent on good or evil, through not being overcome by the difficulty."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Charity is not any kind of love, but the love of God: hence not any kind of hatred is opposed to it directly, but the hatred of God, which is the most grievous of all sins."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -321,62 +349,69 @@
             "title": [
                 "Whether carnal sins are of less guilt than spiritual sins?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that carnal sins are not of less guilt than spiritual sins. Because adultery is a more grievous sin than theft: for it is written (Prov. 6:30,32): \"The fault is not so great when a man has stolen . . . but he that is an adulterer, for the folly of his heart shall destroy his own soul.\" Now theft belongs to covetousness, which is a spiritual sin; while adultery pertains to lust, which is a carnal sin. Therefore carnal sins are of greater guilt than spiritual sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Augustine says in his commentary on Leviticus [*The quotation is from De Civ. Dei ii, 4 and iv, 31.] that \"the devil rejoices chiefly in lust and idolatry.\" But he rejoices more in the greater sin. Therefore, since lust is a carnal sin, it seems that the carnal sins are of most guilt."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the Philosopher proves (Ethic. vii, 6) that \"it is more shameful to be incontinent in lust than in anger.\" But anger is a spiritual sin, according to Gregory (Moral. xxxi, 17); while lust pertains to carnal sins. Therefore carnal sin is more grievous than spiritual sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Adultery belongs not only to the sin of lust, but also to the sin of injustice, and in this respect may be brought under the head of covetousness, as a gloss observes on Eph. 5:5. \"No fornicator, or unclean, or covetous person,\" etc.; so that adultery is so much more grievous than theft, as a man loves his  wife more than his chattels."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The devil is said to rejoice chiefly in the sin of lust, because it is of the greatest adhesion, and man can with difficulty be withdrawn from it. \"For the desire of pleasure is insatiable,\" as the Philosopher states (Ethic. iii, 12)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: As the Philosopher himself says (Ethic. vii, 6), the reason why it is more shameful to be incontinent in lust than in anger, is that lust partakes less of reason; and in the same sense he says (Ethic. iii, 10) that \"sins of intemperance are most worthy of reproach, because they are about those pleasures which are common to us and irrational minds\": hence, by these sins man is, so to speak, brutalized; for which same reason Gregory says (Moral. xxxi, 17) that they are more shameful."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -394,62 +429,69 @@
             "title": [
                 "Whether the gravity of a sin depends on its cause?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the gravity of a sin does not depend on its cause. Because the greater a sin's cause, the more forcibly it moves to sin, and so the more difficult is it to resist. But sin is lessened by the fact that it is difficult to resist; for it denotes weakness in the sinner, if he cannot easily resist sin; and a sin that is due to weakness is deemed less grievous. Therefore sin does not derive its gravity from its cause."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, concupiscence is a general cause of sin; wherefore a gloss on Rm. 7:7, \"For I had not known concupiscence,\" says: \"The law is good, since by forbidding concupiscence, it forbids all evils.\" Now the greater the concupiscence by which man is overcome, the less grievous his sin. Therefore the gravity of a sin is diminished by the greatness of its cause."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, as rectitude of the reason is the cause of a virtuous act, so defect in the reason seems to be the cause of sin. Now the greater the defect in the reason, the less grievous the sin: so much so that he who lacks the use of reason, is altogether excused from sin, and he who sins through ignorance, sins less grievously. Therefore the gravity of a sin is not increased by the greatness of its cause."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This argument considers the extrinsic moving cause, which diminishes voluntariness. The increase of such a cause diminishes the sin, as stated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: If concupiscence be understood to include the movement of the will, then, where there is greater concupiscence, there is a greater sin. But if by concupiscence we understand a passion, which is a movement of the concupiscible power, then a greater concupiscence, forestalling the judgment of reason and the movement of the will, diminishes the sin, because the man who sins, being stimulated by a greater concupiscence, falls through a more grievous temptation, wherefore he is less to be blamed. On the other hand, if concupiscence be taken in this sense follows the judgment of reason, and the movement of the will, then the greater concupiscence, the graver the sin: because sometimes the movement of concupiscence is redoubled by the will tending unrestrainedly to its object."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument considers the cause which renders the act involuntary, and such a cause diminishes the gravity of sin, as stated."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -468,62 +510,69 @@
             "title": [
                 "Whether a circumstance aggravates a sin?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that a circumstance does not aggravate a sin. Because sin takes its gravity from its species. Now a circumstance does not specify a sin, for it is an accident thereof. Therefore the gravity of a sin is not taken from a circumstance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, a circumstance is either evil or not: if it is evil, it causes, of itself, a species of evil; and if it is not evil, it cannot make a thing worse. Therefore a circumstance nowise aggravates a sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the malice of a sin is derived from its turning away (from God). But circumstances affect sin on the part of the object to which it turns. Therefore they do not add to the  sin's malice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Some circumstances do specify a moral act, as stated above (Question [18], Article [10]). Nevertheless a circumstance which does not give the species, may aggravate a sin; because, even as the goodness of a thing is weighed, not only in reference to its species, but also in reference to an accident, so the malice of an act is measured, not only according to the species of that act, but also according to a circumstance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: A circumstance may aggravate a sin either way. For if it is evil, it does not follow that it constitutes the sin's species; because it may multiply the ratio of evil within the same species, as stated above. And if it be not evil, it may aggravate a sin in relation to the malice of another circumstance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Reason should direct the action not only as  regards the object, but also as regards every circumstance. Therefore one may turn aside from the rule of reason through corruption of any single circumstance; for instance, by doing something when one ought not or where one ought not; and to depart thus from the rule of reason suffices to make the act evil. This turning aside from the rule of reason results from man's turning away from God, to Whom man ought to be united by right reason."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -541,62 +590,69 @@
             "title": [
                 "Whether sin is aggravated by reason of its causing more harm?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that a sin is not aggravated by reason of its causing more harm. Because the harm done is an issue consequent to the sinful act. But the issue of an act does not add to its goodness or malice, as stated above (Question [20], Article [5]). Therefore a sin is not aggravated on account of its causing more harm."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, harm is inflicted by sins against our neighbor. Because no one wishes to harm himself: and no one can harm God, according to Job 35:6,8: \"If thy iniquities be multiplied, what shalt thou do against Him? . . . Thy wickedness may hurt a man that is like thee.\" If, therefore, sins were aggravated through causing more harm, it would follow that sins against our neighbor are more grievous than sins against God or oneself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, greater harm is inflicted on a man by depriving him of the life of grace, than by taking away his natural life; because the life of grace is better than the life of nature, so far that man ought to despise his natural life lest he lose the life of grace. Now, speaking absolutely, a man who leads a woman to commit fornication deprives her of the life of grace by leading her into mortal sin. If therefore a sin were more grievous on account of its causing a greater harm, it would follow that fornication, absolutely speaking, is a more grievous sin than murder, which is evidently untrue. Therefore a sin is not more grievous on account of its causing a greater harm."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: As we have already stated (Question [20], Article [5]), in treating of the goodness and malice of external actions, the result of an action if foreseen and intended adds to the goodness and malice of an act."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Although the harm done aggravates a sin, it does not follow that this alone renders a sin more grievous: in fact, it is inordinateness which of itself aggravates a sin. Wherefore the harm itself that ensues aggravates a sin, in so far only as it renders the act more inordinate. Hence it does not follow, supposing harm to be inflicted chiefly by sins against our neighbor, that such sins are the most grievous, since a much greater inordinateness is to be found against which man commits against God, and in some which he commits against himself. Moreover we might say that although no man can do God any harm in His substance, yet he can endeavor to do so in things concerning Him, e.g. by destroying faith, by outraging holy things, which are most grievous sins. Again, a man sometimes knowingly and freely inflicts harm on himself, as in the case of suicide, though this be referred  finally to some apparent good, for example, delivery from some anxiety."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument does not prove, for two reasons: first, because the murderer intends directly to do harm to his neighbors; whereas the fornicator who solicits the woman intends not to harm but pleasure; secondly, because murder is the direct and sufficient cause of bodily death; whereas no man can of himself be the sufficient cause of another's spiritual death, because no man dies spiritually except by sinning of his own will."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [
@@ -615,62 +671,69 @@
             "title": [
                 "Whether a sin is aggravated by reason of the condition of the person against whom it is committed?"
             ],
+            "id": 9,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sin is not aggravated by reason of the condition of the person against whom it is committed. For if this were the case a sin would be aggravated chiefly by being committed against a just and holy man. But this does not aggravate a sin: because a virtuous man who bears a wrong with equanimity is less harmed by the wrong done him, than others, who, through being scandalized, are also hurt inwardly. Therefore the condition of the person against whom a sin is committed does not aggravate the sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, if the condition of the person aggravated the sin, this would be still more the case if the person be near of kin, because, as Cicero says (Paradox. iii): \"The man who kills his slave sins once: he that takes his father's life sins many times.\" But the kinship of a person sinned against does not apparently aggravate a sin, because every man is most akin to himself; and yet it is less grievous to harm oneself than another, e.g. to kill one's own, than another's horse, as the Philosopher declares (Ethic. v, 11). Therefore kinship of the person sinned against does not aggravate the sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the condition of the person who sins aggravates a sin chiefly on account of his position or knowledge, according to Wis. 6:7: \"The mighty shall be mightily tormented,\" and Lk. 12:47: \"The servant who knew the will of his lord . . . and did it not . . . shall be beaten with many stripes.\" Therefore, in like manner, on the part of the person sinned against, the sin is made more grievous by reason of his position and knowledge. But, apparently, it is not a more grievous sin to inflict an injury on a rich and powerful person than on a poor man, since \"there is no respect of persons with God\" (Col. 3:25), according to Whose judgment the gravity of a sin is measured. Therefore the condition of the person sinned against does not aggravate the sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: He who inflicts an injury on a virtuous person, so far as he is concerned, disturbs him internally and externally; but that the latter is not disturbed internally is due to his goodness, which does not extenuate the sin of the injurer."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The injury which a man inflicts on himself in those things which are subject to the dominion of his will, for instance his possessions, is less sinful than if it were inflicted on another, because he does it of his own will; but in those things that are not subject to the dominion of his will, such as natural and spiritual goods, it is a graver sin to inflict an injury on oneself: for it is more grievous for a man to kill himself than another. Since, however, things belonging to our neighbor are not subject to the dominion of our will, the argument fails to prove,  in respect of injuries done to such like things, that it is less grievous to sin in their regard, unless indeed our neighbor be willing, or give his approval."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: There is no respect for persons if God punishes more severely those who sin against a person of higher rank; for this is done because such an injury redounds to the harm of many."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "counter": [
@@ -689,62 +752,69 @@
             "title": [
                 "Whether the excellence of the person sinning aggravates the sin?"
             ],
+            "id": 10,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the excellence of the person sinning does not aggravate the sin. For man becomes great chiefly by cleaving to God, according to Ecclus. 25:13: \"How great is he that findeth wisdom and knowledge! but there is none above him that feareth the Lord.\" Now the more a man cleaves to God, the less is a sin imputed to him: for it is written (2 Paral. 30: 18,19): \"The Lord Who is good will show mercy to all them, who with their whole heart seek the Lord the God of their fathers; and will not impute it to them that they are not sanctified.\" Therefore a sin is not aggravated by the excellence of the person sinning."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, \"there is no respect of persons with God\" (Rm. 2:11). Therefore He does not punish one man more than another, for one and the same sin. Therefore a sin is not aggravated by the excellence of the person sinning."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, no one should reap disadvantage from good. But he would, if his action were the more blameworthy on account of his goodness. Therefore a sin is not aggravated by reason of the excellence of the person sinning."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 10
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The passage quoted alludes to those things which are done negligently when we are taken unawares through human weakness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: God does not respect persons in punishing the great more severely, because their excellence conduces to the gravity of their sin, as stated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 },
                 "3": {
-                    "id": 3,
                     "question": 73,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The man who excels in anything reaps disadvantage, not from the good which he has, but from his abuse thereof."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 10
                 }
             },
             "counter": [

@@ -23,62 +23,69 @@
             "title": [
                 "Whether satisfaction is a virtue or an act of virtue?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that satisfaction is neither a virtue nor an act of virtue. For every act of virtue is meritorious; whereas, seemingly, satisfaction is not, since merit is gratuitous, while satisfaction answers to a debt. Therefore satisfaction is not an act of virtue."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, every act of virtue is voluntary. But sometimes a man has to make satisfaction for something against his will, as when anyone is punished by the judge for an offense against another. Therefore satisfaction is not an act of virtue."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, according to the Philosopher (Ethic. viii, 13): \"Choice holds the chief place in moral virtue.\" But satisfaction is not an act of choice but regards chiefly external works. Therefore it is not an act of virtue."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although to make satisfaction is due in itself, yet, in so far as the deed is done voluntarily by the one who offers satisfaction, it becomes something gratuitous on the part of the agent, so that he makes a virtue of necessity. For debt diminishes merit through being necessary and consequently against the will, so that if the will consent to the necessity, the element of merit is not forfeited."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: An act of virtue demands voluntariness not in the patient but in the agent, for it is his act. Consequently since he on whom the judge wreaks vengeance is the patient and not the agent as regards satisfaction, it follows that satisfaction should be voluntary not in him but in the judge as agent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The chief element of virtue can be understood in two ways. First, as being the chief element of virtue as virtue, and thus the chief element of virtue denotes whatever belongs to the nature of virtue or is most akin thereto; thus choice and other internal acts hold the chief place in virtue. Secondly, the chief element of virtue may be taken as denoting that which holds the first place in such and such a virtue; and then the first place belongs to that which gives its determination. Now the interior act, in certain virtues, is determined by some external act, since choice, which is common to all virtues, becomes proper to such and such a virtue through being directed to such and such an act. Thus it is that external acts hold the chief place in certain virtues; and this is the case with satisfaction."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,62 +104,69 @@
             "title": [
                 "Whether satisfaction is an act of justice?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that satisfaction is not an act of justice. Because the purpose of satisfaction is that one may be reconciled to the person offended. But reconciliation, being an act of love, belongs to charity. Therefore satisfaction is an act of charity and not of justice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the causes of sin in us are the passions of the soul, which incline us to evil. But justice, according to the Philosopher (Ethic. v, 2,3), is not about passions, but about operations. Since therefore satisfaction aims at removing the causes of sin, as stated in the text (Sent. iv, D, 15), it seems that it is not an act of justice."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, to be careful about the future is not an act of justice but of prudence of which caution is a part. But it belongs to satisfaction, \"to give no opening to the suggestions of sin\" [*Cf. XP/Question [12]/Article [3]/Objection [1]]. Therefore satisfaction is not an act of justice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Satisfaction, as appears from what has been said, is compensation for injury inflicted. Wherefore as the injury inflicted entailed of itself an inequality of justice, and consequently an inequality opposed to friendship, so satisfaction brings back directly equality of justice, and consequently equality of friendship. And since an act is elicited by the habit to whose end it is immediately directed, but is commanded by that habit to whose end it is directed ultimately, hence satisfaction is elicited by justice but is commanded by charity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Although justice is chiefly about operations, yet it is consequently about passions, in so far as they are the causes of operations. Wherefore as justice curbs anger, lest it inflict an unjust injury on another, and concupiscence from invading another's marriage right, so satisfaction removes the causes of other sins."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Each moral virtue shares in the act of prudence, because this virtue completes in it the conditions essential to virtue, since each moral virtue takes its mean according to the ruling of prudence, as is evident from the definition of virtue given in Ethic. ii, 6."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -171,116 +185,129 @@
             "title": [
                 "Whether the definition of satisfaction given in the text is suitable?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the definition of satisfaction given in the text (Sent. iv, D, 15) and quoted from Augustine [*Gennadius Massiliensis, De Eccl. Dogm. liv] is unsuitable---viz. that \"satisfaction is to uproot the causes of sins, and to give no opening to the suggestions thereof.\" For the cause of actual sin is the fomes. [*\"Fomes\" signifies literally \"fuel,\" and metaphorically, \"incentive.\" As used by the theologian, it denotes the quasi-material element and effect of original sin, and sometimes goes under the name of \"concupiscence,\" Cf. FS, Question [82], Article [3].] But we cannot remove the \"fomes\" in this life. Therefore satisfaction does not consist in removing the causes of sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the cause of sin is stronger than sin itself. But man by himself cannot remove sin. Much less therefore can he remove the cause of sin; and so the same conclusion follows."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, since satisfaction is a part of Penance, it regards the past and not the future. Now \"to give no opening to the suggestions of sin\" regards the future. Therefore it should not be put in the definition of satisfaction."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, satisfaction regards a past offense. Yet no mention is made of this. Therefore the definition of satisfaction is unsuitable."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, Anselm gives another definition (Cur Deus homo i): \"Satisfaction consists in giving God due honor,\" wherein no reference is made to the things mentioned by Augustine [*Gennadius, Objection [1]] in this definition. Therefore one or the other is unsuitable."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 },
                 "6": {
-                    "id": 6,
                     "question": 12,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 6: Further, an innocent man can give due honor to God: whereas satisfaction is not compatible with innocence. Therefore Anselm's definition is faulty."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: By \"causes\" we must understand the proximate causes of actual sin, which are twofold: viz. the lust of sin through the habit or act of a sin that has been given up, and those things which are called the remnants of past sin; and external occasions of sin, such as place, bad company and so forth. Such causes are removed by satisfaction in this life, albeit the \"fomes,\" which is the remote cause of actual sin, is not entirely removed by satisfaction in this life though it is weakened."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Since the cause of evil or of privation (according as it has a cause) is nothing else than a defective good, and since it is easier to destroy good than to set it up, it follows that it is easier to uproot the causes of privation and of evil than to remove the evil itself, which can only be removed by setting up good, as may be seen in the case of blindness and its causes. Yet the aforesaid are not sufficient causes of sin, for sin  does not, of necessity, ensue therefrom, but they are occasions of sin. Nor again can satisfaction be made without God's help, since it is not possible without charity, as we shall state further on (Question [14], Article [2])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Although Penance was primarily instituted and intended with a view to the past, yet, as a consequence, it regards the future, in so far as it is a safeguarding remedy; and the same applies to satisfaction."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Augustine [*Gennadius Massiliensis, De Eccl. Dogm. liv] defined satisfaction, as made to God, from Whom, in reality, nothing can be taken, though the sinner, for his own part, takes something away. Consequently in such like satisfaction, amendment for future time is of greater weight than compensation for the past. Hence Augustine defines satisfaction from this point of view. And yet it is possible to gauge the compensation for the past from the heed taken for the future, for the latter regards the same object as the former, but in the opposite way: since when looking at the past we detest the causes of sins on account of the sins themselves, which are the starting-point of the movement of detestation: whereas when taking heed of the future, we begin from the causes, that by their removal we may avoid sins the more easily."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: There is no reason why the same thing should not be described in different ways according to the various things found in it: and such is the case here, as explained above."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 },
                 "6": {
-                    "id": 6,
                     "question": 12,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 6: By debt is meant the debt we owe to God by reason of the sins we have committed, because Penance regards a debt, as stated above (Article [2])."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 3
                 }
             },
             "counter": [],

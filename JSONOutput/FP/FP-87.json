@@ -23,62 +23,69 @@
             "title": [
                 "Whether the intellectual soul knows itself by its essence?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the intellectual soul knows itself by its own essence. For Augustine says (De Trin. ix, 3), that \"the mind knows itself, because it is incorporeal.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, both angels and human souls belong to the genus of intellectual substance. But an angel understands itself by its own essence. Therefore likewise does the human soul."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, \"in things void of matter, the intellect and that which is understood are the same\" (De Anima iii, 4). But the human mind is void of matter, not being the act of a body as stated above (Question [76], Article [1]). Therefore the intellect and its object are the same in the human mind; and therefore the human mind understands itself by its own essence."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The mind knows itself by means of itself, because at length it acquires knowledge of itself, though led thereto by its own act: because it is itself that it knows since it loves itself, as he says in the same passage. For a thing can be called self-evident in two ways, either because we can know it by nothing else except itself, as first principles are called self-evident; or because it is not accidentally knowable, as color is visible of itself, whereas substance is visible by its accident."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The essence of an angel is an act in the genus of intelligible things, and therefore it is both intellect and the thing understood. Hence an angel apprehends his own essence through itself: not so the human mind, which is either altogether in potentiality to intelligible things---as is the passive  intellect---or is the act of intelligible things abstracted from the phantasms---as is the active intellect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: This saying of the Philosopher is universally true in every kind of intellect. For as sense in act is the sensible in act, by reason of the sensible likeness which is the form of sense in act, so likewise the intellect in act is the object understood in act, by reason of the likeness of the thing understood, which is the form of the intellect in act. So the human intellect, which becomes actual by the species of the object understood, is itself understood by the same species as by its own form. Now to say that in \"things without matter the intellect and what is understood are the same,\" is equal to saying that \"as regards things actually understood the intellect and what is understood are the same.\" For a thing is actually understood in that it is immaterial. But a distinction must be drawn: since the essences of some things are immaterial---as the separate substances called angels, each of which is understood and understands, whereas there are other things whose essences are not wholly immaterial, but only the abstract likenesses thereof. Hence the Commentator says (De Anima iii) that the proposition quoted is true only of separate substances; because in a sense it is verified in their regard, and not in regard of other substances, as already stated (Reply OBJ 2)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,62 +104,69 @@
             "title": [
                 "Whether our intellect knows the habits of the soul by their essence?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that our intellect knows the habits of the soul by their essence. For Augustine says (De Trin. xiii, 1): \"Faith is not seen in the heart wherein it abides, as the soul of a man may be seen by another from the movement of the body; but we know most certainly that it is there, and conscience proclaims its existence\"; and the same principle applies to the other habits of the soul. Therefore the habits of the soul are not known by their acts, but by themselves."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, material things outside the soul are known by their likeness being present in the soul, and are said therefore to be known by their likenesses. But the soul's habits are present by their essence in the soul. Therefore the habits of the soul are known by their essence."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, \"whatever is the cause of a thing being such is still more so.\" But habits and intelligible species cause things to be known by the soul. Therefore they are still more known by the soul in themselves."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Although faith is not known by external movement of the body, it is perceived by the subject wherein it resides, by the interior act of the heart. For no one knows that he has faith unless he knows that he believes."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Habits are present in our intellect, not as its object since, in the present state of life, our intellect's object is the nature of a material thing as stated above (Question [84], Article [7]), but as that by which it understands."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The axiom, \"whatever is the cause of a thing being such, is still more so,\" is true of things that are of the same order, for instance, of the same kind of cause; for example, we may say that health is desirable on account of life, and therefore life is more desirable still. But if we take things of different orders the axiom is not true: for we may say that health is caused by medicine, but it does not follow that medicine is more desirable than health, for health belongs to the order of final causes, whereas medicine belongs to the order of efficient causes. So of two things belonging essentially to the order of the objects of knowledge, the one which is the cause of the other being known, is the more known, as principles are more known than conclusions. But habit as such does not belong to the order of objects of knowledge; nor are things known on account of the habit, as on account of an object known, but as on account of a disposition or form whereby the subject knows: and therefore the argument does not prove."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -170,62 +184,69 @@
             "title": [
                 "Whether our intellect knows its own act?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that our intellect does not know its own act. For what is known is the object of the knowing faculty. But the act differs from the object. Therefore the intellect does not know its own act."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, whatever is known is known by some act. If, then, the intellect knows its own act, it knows it by some act, and again it knows that act by some other act; this is to proceed indefinitely, which seems impossible."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the intellect has the same relation to its act as sense has to its act. But the proper sense does not feel its own act, for this belongs to the common sense, as stated De Anima iii, 2. Therefore neither does the intellect understand its own act."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The object of the intellect is something universal, namely, \"being\" and \"the true,\" in which the act also of understanding is comprised. Wherefore the intellect can understand its own act. But not primarily, since the first object of our intellect, in this state of life, is not every being and everything true, but \"being\" and \"true,\" as considered in material things, as we have said above (Question [84], Article [7]), from which it acquires knowledge of all other things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The intelligent act of the human intellect is not the act and perfection of the material nature understood, as if the nature of the material thing and intelligent act could be understood by one act; just as a thing and its perfection are  understood by one act. Hence the act whereby the intellect understands a stone is distinct from the act whereby it understands that it understands a stone; and so on. Nor is there any difficulty in the intellect being thus potentially infinite, as explained above (Question [86], Article [2])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The proper sense feels by reason of the immutation in the material organ caused by the external sensible. A material object, however, cannot immute itself; but one is immuted by another, and therefore the act of the proper sense is perceived by the common sense. The intellect, on the contrary, does not perform the act of understanding by the material immutation of an organ; and so there is no comparison."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -243,62 +264,69 @@
             "title": [
                 "Whether the intellect understands the act of the will?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the intellect does not understand the act of the will. For nothing is known by the intellect, unless it be in some way present in the intellect. But the act of the will is not in the intellect; since the will and the intellect are distinct. Therefore the act of the will is not known by the intellect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the act is specified by the object. But the object of the will is not the same as the object of the intellect. Therefore the act of the will is specifically distinct from the object of the intellect, and therefore the act of the will is not known by the intellect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Augustine (Confess. x, 17) says of the soul's affections that \"they are known neither by images as bodies are known; nor by their presence, like the arts; but by certain notions.\" Now it does not seem that there can be in the soul any other notions of things but either the essences of things known or the likenesses thereof. Therefore it seems impossible for the intellect to known such affections of the soul as the acts of the will."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: This argument would hold good if the will and the intellect were in different subjects, as they are distinct powers; for then whatever was in the will would not be in the intellect. But as both are rooted in the same substance of the soul, and since one is in a certain way the principle of the other, consequently what is in the will is, in a certain way, also in the intellect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The \"good\" and the \"true\" which are the objects of the will and of the intellect, differ logically, but one is contained in the other, as we have said above (Question [82], Article [4], ad 1; Question [16], Article [4], ad 1); for the true is good and the good is true. Therefore the objects of the will fall under the intellect, and those of the intellect can fall under the will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The affections of the soul are in the intellect not by similitude only, like bodies; nor by being present in their subject, as the arts; but as the thing caused is in its principle, which contains some notion of the thing caused. And so Augustine says that the soul's affections are in the memory by certain notions."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

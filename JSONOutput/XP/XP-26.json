@@ -23,24 +23,27 @@
             "title": [
                 "Whether every parish priest can grant indulgences?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that every parish priest can grant indulgences. For an indulgence derives its efficacy from the superabundance of the Church's merits. Now there is no congregation without some superabundance of merits. Therefore every priest, who has charge of a congregation, can grant indulgences, and, in like manner, so can every prelate."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, every prelate stands for a multitude, just as an individual stands for himself. But any individual can assign his own goods to another and thus offer satisfaction for a third person. Therefore a prelate can assign the property of the multitude subject to him, and so it seems that he can grant indulgences."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "replies": {},
@@ -60,24 +63,27 @@
             "title": [
                 "Whether a deacon or another who is not a priest can grant an indulgence?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a deacon, or one that is not a priest cannot grant an indulgence. Because remission of sins is an effect of the keys. Now none but a priest has the keys. Therefore a priest alone can grant indulgences."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, a fuller remission of punishment is granted by indulgences than by the tribunal of Penance. But a priest alone has power in the latter, and, therefore, he alone has power in the former."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {},
@@ -96,24 +102,27 @@
             "title": [
                 "Whether a bishop can grant indulgences?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that even a bishop cannot grant indulgences. Because the treasury of the Church is the common property of the whole Church. Now the common property of the whole Church cannot be distributed save by him who presides over the whole Church. Therefore the Pope alone can grant indulgences."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, none can remit punishments fixed by law, save the one who has the power to make the law. Now punishments in satisfaction for sins are fixed by law. Therefore the Pope alone can remit these punishments, since he is the maker of the law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {},
@@ -133,44 +142,49 @@
             "title": [
                 "Whether indulgences can be granted by one who is in mortal sin?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that indulgences cannot be granted by one who is in mortal sin. For a stream can no longer flow if cut off from its source. Now the source of grace which is the Holy Ghost is cut off from one who is in mortal sin. Therefore such a one can convey nothing to others by granting indulgences."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is a greater thing to grant an indulgence than to receive one. But one who is in mortal sin cannot receive an indulgence, as we shall show presently (Question [27], Article [1]). Neither, therefore, can he grant one."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 26,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The prelate who, while in a state of mortal sin, grants an indulgence, does not pour forth anything of his own, and so it is not necessary that he should receive an inflow from the source, in order that he may grant a valid indulgence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 26,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Further, to grant an indulgence is more than to receive one, if we consider the power, but it is less, if we consider the personal profit."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "counter": [

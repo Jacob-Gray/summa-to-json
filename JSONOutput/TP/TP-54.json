@@ -23,62 +23,69 @@
             "title": [
                 "Whether Christ had a true body after His Resurrection?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ did not have a true body after His Resurrection. For a true body cannot be in the same place at the same time with another body. But after the Resurrection Christ's body was with another at the same time in the same place: since He entered among the disciples \"the doors being shut,\" as is related in Jn. 20:26. Therefore it seems that Christ did not have a true body after His Resurrection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, a true body does not vanish from the beholder's sight unless perchance it be corrupted. But Christ's body \"vanished out of the sight\" of the disciples as they gazed upon Him, as is related in Lk. 24:31. Therefore, it seems that Christ did not have a true body after His Resurrection."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, every true body has its determinate shape. But Christ's body appeared before the disciples \"in another shape,\" as is evident from Mk. 15:12. Therefore it seems that Christ did not possess a true body after His Resurrection."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Christ's body after His Resurrection, not by miracle but from its glorified condition, as some say, entered in among the disciples while the doors were shut, thus existing with another body in the same place. But whether a glorified body can have this from some hidden property, so as to be with another body at the same time in the same place, will be discussed later (XP, Question [83], Article [4]) when the common resurrection will be dealt with. For the present let it suffice to say that it was not from any property within the body, but by virtue of the Godhead united to it, that this body, although a true one, entered in among the disciples while the doors were shut. Accordingly Augustine says in a sermon for Easter (ccxlvii) that some men argue in this fashion: \"If it were a body; if what rose from the sepulchre were what hung upon the tree, how could it enter through closed doors?\" And he answers: \"If you understand how, it is no miracle: where reason fails, faith  abounds.\" And (Tract. cxxi super Joan.) he says: \"Closed doors were no obstacle to the substance of a Body wherein was the Godhead; for truly He could enter in by doors not open, in whose Birth His Mother's virginity remained inviolate.\" And Gregory says the same in a homily for the octave of Easter (xxvi in Evang.)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: As stated above (Question [53], Article [3]), Christ rose to the immortal life of glory. But such is the disposition of a glorified body that it is spiritual, i.e. subject to the spirit, as the Apostle says (1 Cor. 15:44). Now in order for the body to be entirely subject to the spirit, it is necessary for the body's every action to be subject to the will of the spirit. Again, that an object be seen is due to the action of the visible object upon the sight, as the Philosopher shows (De Anima ii). Consequently, whoever has a glorified body has it in his power to be seen when he so wishes, and not to be seen when he does not wish it. Moreover Christ had this not only from the condition of His glorified body, but also from the power of His Godhead, by which power it may happen that even bodies not glorified are miraculously unseen: as was by a miracle bestowed on the blessed Bartholomew, that \"if he wished he could be seen, and not be seen if he did not wish it\" [*Apocryphal Historia Apost. viii, 2]. Christ, then, is said to have vanished from the eyes of the disciples, not as though He were corrupted or dissolved into invisible elements; but because He ceased, of His own will, to be seen by them, either while He was present or while He was departing by the gift of agility."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Severianus [*Peter Chrysologus: Serm. lxxxii] says in a sermon for Easter: \"Let no one suppose that Christ changed His features at the Resurrection.\" This is to be understood of the outline of His members; since there was nothing out of keeping or deformed in the body of Christ which was conceived of the Holy Ghost, that had to be righted at the Resurrection. Nevertheless He received the glory of clarity in the Resurrection: accordingly the same writer adds: \"but the semblance is changed, when, ceasing to be mortal, it becomes immortal; so that it acquired the glory of countenance, without losing the substance of the countenance.\" Yet He did not come to those disciples in glorified appearance; but, as it lay in His power for His body to be seen or not, so it was within His power to present to the eyes of the beholders His form either glorified or not glorified, or partly glorified and partly not, or in any fashion whatsoever. Still it requires but a slight difference for anyone to seem to appear another shape."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether Christ's body rose glorified? [*Some editions give this article as the third, following the order of the introduction to the question. But this is evident from the first sentence of the body of Article [3] (Article [2] in the aforesaid editions), that the order of the Leonine edition is correct.]"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that Christ's body did not rise glorified. For glorified bodies shine, according to Mt. 13:43: \"Then shall the  just shine as the sun in the kingdom of their Father.\" But shining bodies are seen under the aspect of light, but not of color. Therefore, since Christ's body was beheld under the aspect of color, as it had been hitherto, it seems that it was not a glorified one."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, a glorified body is incorruptible. But Christ's body seems not to have been incorruptible; because it was palpable, as He Himself says in Lk. 24:39: \"Handle, and see.\" Now Gregory says (Hom. in Evang. xxvi) that \"what is handled must be corruptible, and that which is incorruptible cannot be handled.\" Consequently, Christ's body was not glorified."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, a glorified body is not animal, but spiritual, as is clear from 1 Cor. 15. But after the Resurrection Christ's body seems to have been animal, since He ate and drank with His disciples, as we read in the closing chapters of Luke and John. Therefore, it seems that Christ's body was not glorified."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Whatever is received within a subject is received according to the subject's capacity. Therefore, since glory flows from the soul into the body, it follows that, as Augustine says (Ep. ad Dioscor. cxviii), the brightness or splendor of a glorified body is after the manner of natural color in the human body; just as variously colored glass derives its splendor from the sun's radiance, according to the mode of the color. But as it lies within the power of a glorified man whether his body be seen or not, as stated above (Article [1], ad 2), so is it in his power whether its splendor  be seen or not. Accordingly it can be seen in its color without its brightness. And it was in this way that Christ's body appeared to the disciples after the Resurrection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: We say that a body can be handled not only because of its resistance, but also on account of its density. But from rarity and density follow weight and lightness, heat and cold, and similar contraries, which are the principles of corruption in elementary bodies. Consequently, a body that can be handled by human touch is naturally corruptible. But if there be a body that resists touch, and yet is not disposed according to the qualities mentioned, which are the proper objects of human touch, such as a heavenly body, then such body cannot be said to be handled. But Christ's body after the Resurrection was truly made up of elements, and had tangible qualities such as the nature of a human body requires, and therefore it could naturally be handled; and if it had nothing beyond the nature of a human body, it would likewise be corruptible. But it had something else which made it incorruptible, and this was not the nature of a heavenly body, as some maintain, and into which we shall make fuller inquiry later (XP, Question [82], Article [1]), but it was glory flowing from a beatified soul: because, as Augustine says (Ep. ad Dioscor. cxviii): \"God made the soul of such powerful nature, that from its fullest beatitude the fulness of health overflows into the body, that is, the vigor of incorruption.\" And therefore Gregory says (Hom. in Evang. xxvi): \"Christ's body is shown to be of the same nature, but of different glory, after the Resurrection.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Augustine says (De Civ. Dei xiii): \"After the Resurrection, our Saviour in spiritual but true flesh partook of meat with the disciples, not from need of food, but because it lay in His power.\" For as Bede says on Lk. 24:41: \"The thirsty earth sucks in the water, and the sun's burning ray absorbs it; the former from need, the latter by its power.\" Hence after the Resurrection He ate, \"not as needing food, but in order thus to show the nature of His risen body.\" Nor does it follow that His was an animal body that stands in need of food."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -169,62 +183,69 @@
             "title": [
                 "Whether Christ's body rose again entire?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ's body did not rise entire. For flesh and blood belong to the integrity of the body: whereas Christ seems not to have had both, for it is written (1 Cor. 15:50): \"Flesh and blood can not possess the kingdom of God.\" But Christ rose in the glory of the kingdom of God. Therefore it seems that He did not have flesh and blood."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, blood is one of the four humors. Consequently, if Christ had blood, with equal reason He also had the other humors, from which corruption is caused in animal bodies. It would follow, then, that Christ's body was corruptible, which is unseemly. Therefore Christ did not have flesh and blood."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the body of Christ which rose, ascended to heaven. But some of His blood is kept as relics in various churches. Therefore Christ's body did not rise with the integrity of all its parts."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Flesh and blood are not to be taken there for the nature of flesh and blood, but, either for the guilt of flesh and blood, as Gregory says [*St. Gregory, Moral. in Job 14:56], or else for the corruption of flesh and blood: because, as Augustine says (Ad Consent., De Resur. Carn.), \"there will be neither corruption there, nor mortality of flesh and blood.\" Therefore flesh according to its substance possesses the kingdom of God, according to Lk. 24:39: \"A spirit hath not flesh and bones, as you see Me to have.\" But flesh, if understood as to its corruption, will not possess it; hence it is straightway added in the words of the Apostle: \"Neither shall corruption possess incorruption.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: As Augustine says in the same book: \"Perchance by reason of the blood some keener critic will press us and say; If  the blood was\" in the body of Christ when He rose, \"why not the rheum?\" that is, the phlegm; \"why not also the yellow gall?\" that is, the gall proper; \"and why not the black gall?\" that is, the bile, \"with which four humors the body is tempered, as medical science bears witness. But whatever anyone may add, let him take heed not to add corruption, lest he corrupt the health and purity of his own faith; because Divine power is equal to taking away such qualities as it wills from the visible and tractable body, while allowing others to remain, so that there be no defilement,\" i.e. of corruption, \"though the features be there; motion without weariness, the power to eat, without need of food.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: All the blood which flowed from Christ's body, belonging as it does to the integrity of human nature, rose again with His body: and the same reason holds good for all the particles which belong to the truth and integrity of human nature. But the blood preserved as relics in some churches did not flow from Christ's side, but is said to have flowed from some maltreated image of Christ."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -243,62 +264,69 @@
             "title": [
                 "Whether Christ's body ought to have risen with its scars?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ's body ought not to have risen with its scars. For it is written (1 Cor. 15:52): \"The dead shall rise incorrupt.\" But scars and wounds imply corruption and defect. Therefore it was not fitting for Christ, the author of the resurrection, to rise again with scars."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ's body rose entire, as stated above (Article [3]). But open scars are opposed to bodily integrity, since they interfere with the continuity of the tissue. It does not therefore seem fitting for the open wounds to remain in Christ's body; although the traces of the wounds might remain, which would satisfy the beholder; thus it was that Thomas believed, to whom it was said: \"Because thou hast seen Me, Thomas, thou hast believed\" (Jn. 20:29)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 54,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Damascene says (De Fide Orth. iv) that \"some things are truly said of Christ after the Resurrection, which He did not have from nature but from special dispensation, such as the scars, in order to make it sure that it was the body which had suffered that rose again.\" Now when the cause ceases, the effect ceases. Therefore it seems that when the disciples were assured of the Resurrection, He bore the scars no longer. But it ill became the unchangeableness of His glory that He should assume anything which was not to remain in Him for ever. Consequently, it seems that He ought not at His Resurrection to have resumed a body with scars."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The scars that remained in Christ's body belong neither to corruption nor defect, but to the greater increase of glory, inasmuch as they are the trophies of His power; and a special comeliness will appear in the places scarred by the wounds."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Although those openings of the wounds break the continuity of the tissue, still the greater beauty of glory compensates for all this, so that the body is not less entire, but more perfected. Thomas, however, not only saw, but handled the wounds, because as Pope Leo [*Cf. Append. Opp. August., Serm. clxii] says: \"It sufficed for his personal faith for him to have seen what he saw; but it was on our behalf that he touched what he beheld.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 54,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Christ willed the scars of His wounds to remain on His body, not only to confirm the faith of His disciples, but for other reasons also. From these it seems that those scars will always remain on His body; because, as Augustine says (Ad Consent., De Resurr. Carn.): \"I believe our Lord's body to be in heaven, such as it was when He ascended into heaven.\" And Gregory (Moral. xiv) says that \"if aught could be changed in Christ's body after His Resurrection, contrary to Paul's truthful teaching, then the Lord after His Resurrection returned to death; and what fool would dare to say this, save he that denies the true resurrection of the flesh?\" Accordingly, it is evident that the scars which Christ showed on His body after His Resurrection, have never since been removed from His body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

@@ -28,62 +28,69 @@
             "title": [
                 "Whether every act of will in the damned is evil?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that not every act of will in the damned is evil. For according to Dionysius (Div. Nom. iv), \"the demons desire the good and the best, namely to be, to live, to understand.\" Since, then, men who are damned are not worse off than the demons, it would seem that they also can have a good will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, as Dionysius says (Div. Nom. iv), \"evil is altogether involuntary.\" Therefore if the damned will anything, they will it as something good or apparently good. Now a will that is directly ordered to good is itself good. Therefore the damned can have a good will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, some will be damned who, while in this world, acquired certain habits of virtue, for instance heathens who had civic virtues. Now a will elicits praiseworthy acts by reason of virtuous habits. Therefore there may be praiseworthy acts of the will in some of the damned."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The words of Dionysius must be understood of the natural will, which is nature's inclination to some particular good. And yet this natural inclination is corrupted by their wickedness, in so far as this good which they desire naturally is desired by them under certain evil circumstances [*Cf. FP, Question [64], Article [2], ad 5]."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Evil, as evil, does not move the will, but in so far as it is thought to be good. Yet it comes of their wickedness that they esteem that which is evil as though it were good. Hence their will is evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The habits of civic virtue do not remain in the separated soul, because those virtues perfect us only in the civic life which will not remain after this life. Even though they remained, they would never come into action, being enchained, as it were, by the obstinacy of the mind."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -101,80 +108,89 @@
             "title": [
                 "Whether the damned repent of the evil they have done?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the damned never repent of the evil they have done. For Bernard says on the Canticle [*Cf. De Consideratione v, 12; De Gratia et Libero Arbitrio ix] that \"the damned ever consent to the evil they have done.\" Therefore they never repent of the sins they have committed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, to wish one had not sinned is a good will. But the damned will never have a good will. Therefore the damned will never wish they had not sinned: and thus the same conclusion follows as above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, according to Damascene (De Fide Orth. ii), \"death is to man what their fall was to the angels.\" But the angel's will is irrevocable after his fall, so that he cannot withdraw from the choice whereby he previously sinned [*Cf. FP, Question [64], Article [2]]. Therefore the damned also cannot repent of the sins committed by them."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, the wickedness of the damned in hell will be greater than that of sinners in the world. Now in this world some sinners repent not of the sins they have committed, either through blindness of mind, as heretics, or through obstinacy, as those \"who are glad when they have done evil, and rejoice in most wicked things\" (Prov. 2:14). Therefore, etc."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The damned will wickedness, but shun punishment: and thus indirectly they repent of wickedness committed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: To wish one had not sinned on account of the shamefulness of vice is a good will: but this will not be in the wicked."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: It will be possible for the damned to repent of their sins without turning their will away from sin, because in their sins they will shun, not what they heretofore desired, but something else, namely the punishment."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: However obstinate men may be in this world, they repent of the sins indirectly, if they be punished for them. Thus Augustine says (Questions [83], qu. 36): \"We see the most savage beasts are deterred from the greatest pleasures by fear of pain.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -193,62 +209,69 @@
             "title": [
                 "Whether the damned by right and deliberate reason would wish not to be?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem impossible for the damned, by right and deliberate reason, to wish not to be. For Augustine says (De Lib. Arb. iii, 7): \"Consider how great a good it is to be; since both the happy and the unhappy will it; for to be and yet to be unhappy is a greater thing than not to be at all.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, Augustine argues thus (De Lib. Arb. iii, 8): \"Preference supposes election.\" But \"not to be\" is not eligible; since it has not the appearance of good, for it is nothing. Therefore not to be cannot be more desirable to the damned than \"to be.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the greater evil is the more to be shunned. Now \"not to be\" is the greatest evil, since it removes good altogether, so as to leave nothing. Therefore \"not to be\" is more to be shunned than to be unhappy: and thus the same conclusion follows as above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The saying of Augustine is to be understood in the sense that \"not to be\" is eligible, not in itself but accidentally, as putting an end to unhappiness. For when it is stated that \"to be\" and \"to live\" are desired by all naturally, we are not to take this as referable to an evil and corrupt life, and a life of unhappiness, as the Philosopher says (Ethic. ix, 4), but absolutely."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Non-existence is eligible, not in itself, but only accidentally, as stated already."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Although \"not to be\" is very evil, in so far as it removes being, it is very good, in so far as it removes unhappiness, which is the greatest of evils, and thus it is preferred \"not to be.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -267,62 +290,69 @@
             "title": [
                 "Whether in hell the damned would wish others were damned who are not damned?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that in hell the damned would not wish others were damned who are not damned. For it is said (Lk. 16:27, 28) of the rich man that he prayed for his brethren, lest they should come \"into the place of torments.\" Therefore in like manner the other damned would not wish, at least their friends in the flesh to be damned in hell."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the damned are not deprived of their inordinate affections. Now some of the damned loved inordinately some who are not damned. Therefore they would not desire their evil, i.e. that they should be damned."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the damned do not desire the increase of their punishment. Now if more were damned, their punishment would be greater, even as the joy of the blessed is increased by an increase in their number. Therefore the damned desire not the damnation of those who are saved."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: So great will be the envy of the damned that they will envy the glory even of their kindred, since they themselves are supremely unhappy, for this happens even in this life, when envy increases. Nevertheless they will envy their kindred less than others, and their punishment would be greater if all their kindred were damned, and others saved, than if some of their kindred were saved. For this reason the rich man prayed that his brethren might be warded from damnation: for he knew that some are guarded therefrom. Yet he would rather that his brethren were damned as well as all the rest."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Love that is not based on virtue is easily voided, especially in evil men as the Philosopher says (Ethic. ix, 4). Hence the damned will not preserve their friendship for those whom they loved inordinately. Yet the will of them will remain perverse, because they will continue to love the cause of their inordinate loving."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Although an increase in the number of the damned results in an increase of each one's punishment, so much the more will their hatred and envy increase that they will prefer to be more tormented with many rather than less tormented alone."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -341,44 +371,49 @@
             "title": [
                 "Whether the damned hate God?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the damned do not hate God. For, according to Dionysius (Div. Nom. iv), \"the beautiful and good that is the cause of all goodness and beauty is beloved of all.\" But this is God. Therefore God cannot be the object of anyone's hate."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, no one can hate goodness itself, as neither can one will badness itself since \"evil is altogether involuntary,\" as Dionysius asserts (Div. Nom. iv). Now God is goodness itself. Therefore no one can hate Him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The saying of Dionysius refers to the natural appetite. and even this is rendered perverse in the damned, by that which is added thereto by their deliberate will, as stated above (Article [1]) [*Cf. SS, Question [34], Article [1], ad 1 where St. Thomas gives another answer]."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: This argument would prove if the damned saw God in Himself, as being in His essence."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "counter": [
@@ -396,63 +431,70 @@
             "title": [
                 "Whether the damned demerit?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the damned demerit. For the damned have an evil will, as stated in the last Distinction of Sentent. iv. But they demerited by the evil will that they had here. Therefore if they demerit not there, their damnation is to their advantage."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the damned are on the same footing as the demons. Now the demons demerit after their fall, wherefore God inflicted a punishment on the serpent, who induced man to sin (Gn. 3:14,15). Therefore the damned also demerit."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, an inordinate act that proceeds from a deliberate will is not excused from demerit, even though there be necessity of which one is oneself the cause: for the \"drunken man deserves a double punishment\" if he commit a crime through being drunk (Ethic. iii). Now the damned were themselves the cause of their own obstinacy, owing to which they are under a kind of necessity of sinning. Therefore since their act proceeds from their free will, they are not excused from demerit."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: It is in the highest degree unprofitable to have reached the highest degree of evil, the result being that the damned are incapable of demerit. Hence it is clear that they gain no advantage from their sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Men who are damned are not occupied in drawing others to damnation, as the demons are, for which reason the latter demerit as regards their secondary punishment [*Cf. FP, Question [62], Article [9], ad 3; SS, Question [13] , Article [4], ad 2; where St. Thomas tacitly retracts the opinion expressed here as to merit or demerit]."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The reason why they are not excused from demerit is not because they are under the necessity of sinning, but because they have reached the highest of evils.",
                         "However, the necessity of sinning whereof we are ourselves the cause, in so far as it is a necessity, excuses from sin, because every sin needs to be voluntary: but it does not excuse, in so far as it proceeds from a previous act of the will: and consequently the whole demerit of the subsequent sin would seem to belong to the previous sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -472,62 +514,69 @@
             "title": [
                 "Whether the damned can make use of the knowledge they had in this world? [*Cf. FP, Question [89]]"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the damned are unable to make use of the knowledge they had in this world. For there is very great pleasure in the consideration of knowledge. But we must not admit that they have any pleasure. Therefore they cannot make use of the knowledge they had heretofore, by applying their consideration thereto."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the damned suffer greater pains than any pains of this world. Now in this world, when one is in very great pain, it is impossible to consider any intelligible conclusions, through being distracted by the pains that one suffers. Much less therefore can one do so in hell."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the damned are subject to time. But \"length of time is the cause of forgetfulness\" (Phys. lib. iv, 13). Therefore the damned will forget what they knew here."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although the consideration of knowledge is delightful in itself, it may accidentally be the cause of sorrow, as explained above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: In this world the soul is united to a corruptible body, wherefore the soul's consideration is hindered by the suffering of the body. On the other hand, in the future life the soul will not be so drawn by the body, but however much the body may suffer, the soul will have a most clear view of those things that can be a cause of anguish to it."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Time causes forgetfulness accidentally, in so far as the movement whereof it is the measure is the cause of change. But after the judgment day there will be no movement of the heavens; wherefore neither will it be possible for forgetfulness to result from any lapse of time however long. Before the judgment day, however, the separated soul is not changed from its disposition by the heavenly movement."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -546,35 +595,39 @@
             "title": [
                 "Whether the damned will ever think of God?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the damned will sometimes think of God. For one cannot hate a thing actually, except one think about it. Now the damned will hate God, as stated in the text of Sentent. iv, in the last Distinction. Therefore they will think of God sometimes."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the damned will have remorse of conscience. But the conscience suffers remorse for deeds done against God. Therefore they will sometimes think of God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The damned do not hate God except because He punishes and forbids what is agreeable to their evil will: and  consequently they will think of Him only as punishing and forbidding. This suffices for the Reply to the Second Objection, since conscience will not have remorse for sin except as forbidden by the Divine commandment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 }
             },
             "counter": [
@@ -592,44 +645,49 @@
             "title": [
                 "Whether the damned see the glory of the blessed?"
             ],
+            "id": 9,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the damned do not see the glory of the blessed. For they are more distant from the glory of the blessed than from the happenings of this world. But they do not see what happens in regard to us: hence Gregory commenting on Job 14:21, \"Whether his children come to honor,\" etc. says (Moral. xii): \"Even as those who still live know not in what place are the souls of the dead; so the dead who have lived in the body know not the things which regard the life of those who are in the flesh.\" Much less, therefore, can they see the glory of the blessed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, that which is granted as a great favor to the saints in this life is never granted to the damned. Now it was granted as a great favor to Paul to see the life in which the saints live for ever with God (2 Cor. 12). Therefore the damned will not see the glory of the saints."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The happenings of this life would not, if seen, torment the damned in hell as the sight of the glory of the saints; wherefore the things which happen here are not shown to the damned in the same way as the saints' glory; although also of the things that happen here those are shown to them which are capable of causing them sorrow."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 98,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Paul looked upon that life wherein the saints live with God [*Cf. SS, Question [185], Article [3], ad 2], by actual experience thereof and by hoping to have it more perfectly in the life to come. Not so the damned; wherefore the comparison fails."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 }
             },
             "counter": [

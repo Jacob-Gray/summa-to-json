@@ -23,134 +23,149 @@
             "title": [
                 "Whether Christ is one or two?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ is not one, but two. For Augustine says (De Trin. i, 7): \"Because the form of God took the form of a servant, both are God by reason of God Who assumed, yet both are Man by reason of the man assumed.\" Now \"both\" may only be said when there are two. Therefore Christ is two."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, where there is one thing and another there are two. Now Christ is one thing and another; for Augustine says  (Enchiridion xxxv): \"Being in the form of God . . . He took the form of a servant . . . being both in one; but He was one of these as Word, and the other as man.\" Therefore Christ is two."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Christ is not only man; for, if He were a mere man, He would not be God. Therefore He is something else than man, and thus in Christ there is one thing and another. Therefore Christ is two."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, Christ is something that the Father is, and something that the Father is not. Therefore Christ is one thing and another. Therefore Christ is two."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 5: Further, as in the mystery of the Trinity there are three Persons in one Nature, so in the mystery of the Incarnation there are two natures in one Person. But on account of the unity of the Nature, notwithstanding the distinction of Person, the Father and Son are one, according to Jn. 10:30: \"I and the Father are one.\" Therefore, notwithstanding the unity of Person, Christ is two on account of the duality of nature."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 },
                 "6": {
-                    "id": 6,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 6: Further, the Philosopher says (Phys. iii, text. 18) that \"one\" and \"two\" are predicated denominatively. Now Christ has a duality of nature. Therefore Christ is two."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 1
                 },
                 "7": {
-                    "id": 7,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 7: Further, as accidental form makes a thing otherwise [alterum] so does substantial form make another thing [aliud] as Porphyry says (Praedic.). Now in Christ there are two substantial natures, the human and the Divine. Therefore Christ is one thing and another. Therefore Christ is two."
-                    ]
+                    ],
+                    "id": 7,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: This saying of Augustine is not to be taken as if \"both\" referred to the predicate, so as to mean that Christ is both; but it refers to the subject. And thus \"both\" does not stand for two supposita, but for two words signifying two natures in the concrete. For I can say that \"both, viz. God and Man, are God\" on account of God Who assumes; and \"both, viz. God and Man,\" are Man on account of the man assumed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: When it is said that \"Christ is one thing and another,\" this saying is to be explained in this sense---\"having this nature and another.\" And it is in this way that Augustine explains it (Contra Felic. xi), where, after saying, \"In the mediator of God and man, the Son of God is one thing, and the Son of Man another,\" he adds: \"I say another thing by reason of the difference of substance, and not another thing by reason of the unity of person.\" Hence Gregory Nazianzen says (Ep. ad Chelid. ci): \"If we must speak briefly, that of which the Saviour is, is one thing and another; thus the invisible is not the same as the visible; and what is without time is not the same as what is in time. Yet they are not one and another: far from it; for both these are one.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: This is false, \"Christ is only man\"; because it does not exclude another suppositum, but another nature, since terms placed in the predicate are taken formally. But if anything is added whereby it is drawn to the suppositum, it would be a true proposition---for instance, \"Christ is only that which is man.\" Nevertheless, it would not follow that He is \"any other thing than man,\" because \"another thing,\" inasmuch as it refers to a diversity of substance, properly refers to the suppositum. even as all relative things bearing a personal relation. But it does follow:  \"Therefore He has another nature.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: When it is said, \"Christ is something that the Father is\"; \"something\" signifies the Divine Nature, which is predicated even in the abstract of the Father and Son. But when it is said: \"Christ is something that is not the Father\"; \"something\" signifies, not the human nature as it is in the abstract, but as it is in the concrete; not, indeed, in a distinct, but in an indistinct suppositum, i.e. inasmuch as it underlies the nature and not the individuating properties. Hence it does not follow that Christ is one thing and another, or that He is two, since the suppositum of the human nature in Christ, which is the Person of the Son of God, does not reckon numerically with the Divine Nature, which is predicated of the Father and Son."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 5: In the mystery of the Divine Trinity the Divine Nature is predicated, even in the abstract of the three Persons; hence it may be said simply that the three Persons are one. But in the mystery of the Incarnation both natures are not predicated in the abstract of Christ; hence it cannot be said simply that Christ is two."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 },
                 "6": {
-                    "id": 6,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 6: Two signifies what has duality, not in another, but in the same thing of which \"two\" is predicated. Now what is predicated is said of the suppositum, which is implied by the word \"Christ.\" Hence, although Christ has duality of nature, yet, because He has not duality of suppositum, it cannot be said that Christ is two."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 1
                 },
                 "7": {
-                    "id": 7,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 7: Otherwise implies diversity of accident. Hence diversity of accident suffices for anything to be called \"otherwise\" simply. But \"another thing\" implies diversity of substance. Now not merely the nature, but also the suppositum is said to be a substance, as is said Metaph. v, text. 15. Hence diversity of nature does not suffice for anything to be called \"another thing\" simply, unless there is diversity of suppositum. But diversity of nature makes \"another thing\" relatively, i.e. in nature, if there is no diversity of suppositum."
-                    ]
+                    ],
+                    "id": 7,
+                    "article": 1
                 }
             },
             "counter": [
@@ -169,80 +184,89 @@
             "title": [
                 "Whether there is only one being in Christ?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that in Christ there is not merely one being, but two. For Damascene says (De Fide Orth. iii, 13) that whatever follows the nature is doubled in Christ. But being follows the nature, for being is from the form. Hence in Christ there are two beings."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the being of the Son of God is the Divine Nature itself, and is eternal: whereas the being of the Man Christ is not the Divine Nature, but is a temporal being. Therefore there is not only one being in Christ."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, in the Trinity, although there are three  Persons, yet on account of the unity of nature there is only one being. But in Christ there are two natures, though there is one Person. Therefore in Christ there is not only one being."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 17,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, in Christ the soul gives some being to the body, since it is its form. But it does not give the Divine being, since this is uncreated. Therefore in Christ there is another being besides the Divine being; and thus in Christ there is not only one being."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Being is consequent upon nature, not as upon that which has being, but as upon that whereby a thing is: whereas it is consequent upon person or hypostasis, as upon that which has being. Hence it has unity from the unity of hypostasis, rather than duality from the duality of the nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The eternal being of the Son of God, which is the Divine Nature, becomes the being of man, inasmuch as the human nature is assumed by the Son of God to unity of Person."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As was said in the FP, Question [50], Article [2], ad 3; FP, Question [75], Article [5], ad 4, since the Divine Person is the same as the Nature, there is no distinction in the Divine Persons between the being of the Person and the being of the Nature, and, consequently, the three Persons have only one being. But they would have a triple being if the being of the Person were distinct in them from the being of the Nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 17,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: In Christ the soul gives being to the body, inasmuch as it makes it actually animated, which is to give it the complement of its nature and species. But if we consider the body perfected by the soul, without the hypostasis having both---this whole, composed of soul and body, as signified by the word \"humanity,\" does not signify \"what is,\" but \"whereby it is.\" Hence being belongs to the subsisting person, inasmuch as it has a relation to such a nature, and of this relation the soul is the cause, inasmuch as it perfects human nature by informing the body."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [

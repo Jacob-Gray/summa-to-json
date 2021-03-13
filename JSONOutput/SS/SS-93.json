@@ -22,62 +22,69 @@
             "title": [
                 "Whether there can be anything pernicious in the worship of the true God?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there cannot be anything pernicious in the worship of the true God. It is written (Joel 2:32): \"Everyone that shall call upon the name of the Lord shall be saved.\" Now whoever worships God calls upon His name. Therefore all worship of God is conducive to salvation, and consequently none is pernicious."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, it is the same God that is worshiped by the just in any age of the world. Now before the giving of the Law the just worshiped God in whatever manner they pleased, without committing mortal sin: wherefore Jacob bound himself by his own vow to a special kind of worship, as related in Genesis 28. Therefore now also no worship of God is pernicious."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, nothing pernicious is tolerated in the Church. Yet the Church tolerates various rites of divine worship: wherefore Gregory, replying to Augustine, bishop of the English (Regist. xi, ep. 64), who stated that there existed in the churches various customs in the celebration of Mass, wrote: \"I wish you to choose carefully whatever you find likely to be most pleasing to God, whether in the Roman territory, or in the land of the Gauls, or in any part of the Church.\" Therefore no way of worshiping God is pernicious."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Since God is truth, to invoke God is to worship Him in spirit and truth, according to Jn. 4:23. Hence a worship that contains falsehood, is inconsistent with a salutary calling upon God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Before the time of the Law the just were instructed by an inward instinct as to the way of worshiping God, and others followed them. But afterwards men were instructed by outward precepts about this matter, and it is wicked to disobey them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The various customs of the Church in the divine worship are in no way contrary to the truth: wherefore we must observe them, and to disregard them is unlawful."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether there can be any excess in the worship of God?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there cannot be excess in the worship of God. It is written (Ecclus. 43:32): \"Glorify the Lord as much as ever you can, for He will yet far exceed.\" Now the divine worship is directed to the glorification of God. Therefore there can be no excess in it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, outward worship is a profession of inward worship, \"whereby God is worshiped with faith, hope, and charity,\" as Augustine says (Enchiridion iii). Now there can be no excess in faith, hope, and charity. Neither, therefore, can there be in the worship of God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, to worship God consists in offering to Him what we have received from Him. But we have received all our goods from God. Therefore if we do all that we possibly can for God's honor, there will be no excess in the divine worship."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The glorification of God implies that what is done is done for God's glory: and this excludes the excess denoted by superstition."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Faith, hope and charity subject the mind to God, so that there can be nothing excessive in them. It is different with external acts, which sometimes have no connection with these virtues."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: This argument considers excess by way of absolute quantity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

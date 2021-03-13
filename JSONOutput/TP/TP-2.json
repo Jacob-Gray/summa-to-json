@@ -32,62 +32,69 @@
             "title": [
                 "Whether the Union of the Incarnate Word took place in the nature?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the Union of the Word Incarnate took place in the nature. For Cyril says (he is quoted in the acts of the Council of Chalcedon, part ii, act. 1): \"We must understand not two natures, but one incarnate nature of the Word of God\"; and this could not be unless the union took place in the nature. Therefore the union of the Word Incarnate took place in the nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Athanasius says that, as the rational soul and the flesh together form the human nature, so God and man together form a certain one nature; therefore the union took place in the nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, of two natures one is not denominated by the other unless they are to some extent mutually transmuted. But the Divine and human natures in Christ are denominated one by the  other; for Cyril says (quoted in the acts of the Council of Chalcedon, part ii, act. 1) that the Divine nature \"is incarnate\"; and Gregory Nazianzen says (Ep. i ad Cledon.) that the human nature is \"deified,\" as appears from Damascene (De Fide Orth. iii, 6,11). Therefore from two natures one seems to have resulted."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: This authority of Cyril is expounded in the Fifth Synod (i.e. Constantinople II, coll. viii, can. 8) thus: \"If anyone proclaiming one nature of the Word of God to be incarnate does not receive it as the Fathers taught, viz. that from the Divine and human natures (a union in subsistence having taken place) one Christ results, but endeavors from these words to introduce one nature or substance of the Divinity and flesh of Christ, let such a one be anathema.\" Hence the sense is not that from two natures one results; but that the Nature of the Word of God united flesh to Itself in Person."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: From the soul and body a double unity, viz. of nature and person---results in each individual---of nature inasmuch as the soul is united to the body, and formally perfects it, so that one nature springs from the two as from act and potentiality or from matter and form. But the comparison is not in this sense, for the Divine Nature cannot be the form of a body, as was proved (FP, Question [3], Article [8]). Unity of person results from them, however, inasmuch as there is an individual subsisting in flesh and soul; and herein lies the likeness, for the one Christ subsists in the Divine and  human natures."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Damascene says (De Fide Orth. iii, 6,11), the Divine Nature is said to be incarnate because It is united to flesh personally, and not that It is changed into flesh. So likewise the flesh is said to be deified, as he also says (De Fide Orth. 15,17), not by change, but by union with the Word, its natural properties still remaining, and hence it may be considered as deified, inasmuch as it becomes the flesh of the Word of God, but not that it becomes God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -108,62 +115,69 @@
             "title": [
                 "Whether the union of the Incarnate Word took place in the Person?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the union of the Incarnate Word did not take place in the person. For the Person of God is not distinct from His Nature, as we said (FP, Question [39], Article [1]). If, therefore, the union did not take place in the nature, it follows that it did not take place in the person."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ's human nature has no less dignity than ours. But personality belongs to dignity, as was stated above (FP, Question [29], Article [3], ad 2). Hence, since our human nature has its proper personality, much more reason was there that Christ's should have its proper personality."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, as Boethius says (De Duab. Nat.), a person is an individual substance of rational nature. But the Word of God assumed an individual human nature, for \"universal human nature does not exist of itself, but is the object of pure thought,\" as Damascene says (De Fide Orth. iii, 11). Therefore the human nature of Christ has its personality. Hence it does not seem that the union took place in the person."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Although in God Nature and Person are not really distinct, yet they have distinct meanings, as was said above, inasmuch as person signifies after the manner of something subsisting. And because human nature is united to the Word, so that the Word subsists in it, and not so that His Nature receives therefrom any addition or change, it follows that the union of human nature to the Word of God took place in the person, and not in the nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Personality pertains of necessity to the dignity of a thing, and to its perfection so far as it pertains to the dignity and perfection of that thing to exist by itself (which is understood by the word \"person\"). Now it is a greater dignity to exist in something nobler than oneself than to exist by oneself. Hence the human nature of Christ has a greater dignity than ours, from this very fact that in us, being existent by itself, it has its own personality, but in Christ it exists in the Person of the Word. Thus to perfect the species belongs to the dignity of a form, yet the sensitive part in man, on account of its union with the nobler form which perfects the species, is more noble than in brutes, where it is itself the form which perfects."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The Word of God \"did not assume human nature in general, but 'in atomo'\"---that is, in an individual---as Damascene says (De Fide Orth. iii, 11) otherwise every man would be the Word of God, even as Christ was. Yet we must bear in mind that not every individual in the genus of substance, even in rational nature, is a person, but that alone which exists by itself, and not that which exists in some more perfect thing. Hence the hand of Socrates, although it is a kind of individual, is not a person, because it does not exist by itself, but in something more perfect, viz. in the whole. And hence, too, this is signified by a \"person\" being defined as \"an individual substance,\" for the hand is not a complete substance, but part of a substance. Therefore, although this human nature is a kind of individual in the genus of  substance, it has not its own personality, because it does not exist separately, but in something more perfect, viz. in the Person of the Word. Therefore the union took place in the person."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -181,62 +195,69 @@
             "title": [
                 "Whether the union of the Word Incarnate took place in the suppositum or hypostasis?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the union of the Word Incarnate did not take place in the suppositum or hypostasis. For Augustine says (Enchiridion xxxv, xxxviii): \"Both the Divine and human substance are one Son of God, but they are one thing [aliud] by reason of the Word and another thing [aliud] by reason of the man.\" And Pope Leo says in his letter to Flavian (Ep. xxviii): \"One of these is glorious with miracles, the other succumbs under injuries.\" But \"one\" [aliud] and \"the other\" [aliud] differ in suppositum. Therefore the union of the Word Incarnate did not take place in the suppositum."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, hypostasis is nothing more than a \"particular substance,\" as Boethius says (De Duab. Nat.). But it is plain that in Christ there is another particular substance beyond the hypostasis of the Word, viz. the body and the soul and the resultant of these. Therefore there is another hypostasis in Him besides the hypostasis of the Word."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the hypostasis of the Word is not included in any genus or species, as is plain from FP, Question [3], Article [5]. But Christ, inasmuch as He is made man, is contained under the species of man; for Dionysius says (Div. Nom. 1): \"Within the limits of our nature He came, Who far surpasses the whole order of nature supersubstantially.\" Now nothing is contained under the human species unless it be a hypostasis of the human species. Therefore in Christ there is another hypostasis besides the hypostasis of the Word of God; and hence the same conclusion follows as above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As accidental difference makes a thing \"other\" [alterum], so essential difference makes \"another thing\" [aliud]. Now it is plain that the \"otherness\" which springs from accidental difference may pertain to the same hypostasis or suppositum in created things, since the same thing numerically can underlie different accidents. But it does not happen in created things that the same numerically can subsist in divers essences or natures. Hence just as when we speak of \"otherness\" in regard to creatures we do not signify diversity of suppositum, but only diversity of accidental forms, so likewise when Christ is said to be one thing or another thing, we do not imply diversity of suppositum or hypostasis, but diversity of nature. Hence Gregory Nazianzen says in a letter to Chelidonius (Ep. ci): \"In the Saviour we may find one thing and another, yet He is not one person and another. And I say 'one thing and another'; whereas, on the contrary, in the  Trinity we say one Person and another (so as not to confuse the subsistences), but not one thing and another.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Hypostasis signifies a particular substance, not in every way, but as it is in its complement. Yet as it is in union with something more complete, it is not said to be a hypostasis, as a hand or a foot. So likewise the human nature in Christ, although it is a particular substance, nevertheless cannot be called a hypostasis or suppositum, seeing that it is in union with a completed thing, viz. the whole Christ, as He is God and man. But the complete being with which it concurs is said to be a hypostasis or suppositum."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: In created things a singular thing is placed in a genus or species, not on account of what belongs to its individuation, but on account of its nature, which springs from its form, and in composite things individuation is taken more from matter. Hence we say that Christ is in the human species by reason of the nature assumed, and not by reason of the hypostasis."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -254,53 +275,59 @@
             "title": [
                 "Whether after the Incarnation the Person or Hypostasis of Christ is composite?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the Person of Christ is not composite. For the Person of Christ is naught else than the Person or hypostasis of the Word, as appears from what has been said (Article [2]). But in the Word, Person and Nature do not differ, as appears from FP, Question [39], Article [1]. Therefore since the Nature of the Word is simple, as was shown above (FP, Question [3], Article [7]), it is impossible that the Person of Christ be composite."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, all composition requires parts. But the Divine Nature is incompatible with the notion of a part, for every part implicates the notion of imperfection. Therefore it is impossible that the Person of Christ be composed of two natures."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, what is composed of others would seem to be homogeneous with them, as from bodies only a body can be composed. Therefore if there is anything in Christ composed of the two natures, it follows that this will not be a person but a nature; and hence the union in Christ will take place in the nature, which is contrary to Article [2]."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: This composition of a person from natures is not so called on account of parts, but by reason of number, even as that in which two things concur may be said to be composed of them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: It is not verified in every composition, that the thing composed is homogeneous with its component parts, but only in the parts of a continuous thing; for the continuous is composed solely of continuous [parts]. But an animal is composed of soul and body, and neither of these is an animal."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -319,63 +346,70 @@
             "title": [
                 "Whether in Christ there is any union of soul and body?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that in Christ there was no union of soul and body. For from the union of soul and body in us a person or a human hypostasis is caused. Hence if the soul and body were united in Christ, it follows that a hypostasis resulted from their union. But this was not the hypostasis of God the Word, for It is eternal. Therefore in Christ there would be a person or hypostasis besides the hypostasis of the Word, which is contrary to Articles [2],3."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, from the union of soul and body results the nature of the human species. But Damascene says (De Fide Orth. iii, 3), that \"we must not conceive a common species in the Lord Jesus Christ.\" Therefore there was no union of soul and body in Him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the soul is united to the body for the sole purpose of quickening it. But the body of Christ could be quickened by the Word of God Himself, seeing He is the fount and principle of life. Therefore in Christ there was no union of soul and body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: This would seem to be the reason which was of  weight with such as denied the union of the soul and body in Christ, viz. lest they should thereby be forced to admit a second person or hypostasis in Christ, since they saw that the union of soul and body in mere men resulted in a person. But this happens in mere men because the soul and body are so united in them as to exist by themselves. But in Christ they are united together, so as to be united to something higher, which subsists in the nature composed of them. And hence from the union of the soul and body in Christ a new hypostasis or person does not result, but what is composed of them is united to the already existing hypostasis or Person. Nor does it therefore follow that the union of the soul and body in Christ is of less effect than in us, for its union with something nobler does not lessen but increases its virtue and worth; just as the sensitive soul in animals constitutes the species, as being considered the ultimate form, yet it does not do so in man, although it is of greater effect and dignity, and this because of its union with a further and nobler perfection, viz. the rational soul, as has been said above (Article [2], ad 2)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: This saying of Damascene may be taken in two ways: First, as referring to human nature, which, as it is in one individual alone, has not the nature of a common species, but only inasmuch as either it is abstracted from every individual, and considered in itself by the mind, or according as it is in all individuals. Now the Son of God did not assume human nature as it exists in the pure thought of the intellect, since in this way He would not have assumed human nature in reality, unless it be said that human nature is a separate idea, just as the Platonists conceived of man without matter. But in this way the Son of God would not have assumed flesh, contrary to what is written (Lk. 24:39), \"A spirit hath not flesh and bones as you see Me to have.\" Neither can it be said that the Son of God assumed human nature as it is in all the individuals of the same species, otherwise He would have assumed all men. Therefore it remains, as Damascene says further on (De Fide Orth. iii, 11) that He assumed human nature \"in atomo,\" i.e. in an individual; not, indeed, in another individual which is a suppositum or a person of that nature, but in the Person of the Son of God.",
                         "Secondly, this saying of Damascene may be taken not as referring to human nature, as if from the union of soul and body one common nature (viz. human) did not result, but as referring to the union of the two natures Divine and human: which do not combine so as to form a third something that becomes a common nature, for in this way it would become predicable of many, and this is what he is aiming at, since he adds: \"For there was not generated, neither will there ever be generated, another Christ, Who from the Godhead and manhood, and in the Godhead and manhood, is perfect God and perfect man.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: There are two principles of corporeal life: one the effective principle, and in this way the Word of God is the principle of all life; the other, the formal principle of life, for since \"in living things to be is to live,\" as the Philosopher says  (De Anima ii, 37), just as everything is formally by its form, so likewise the body lives by the soul: in this way a body could not live by the Word, Which cannot be the form of a body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -393,80 +427,89 @@
             "title": [
                 "Whether the human nature was united to the Word of God accidentally?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the human nature was united to the Word of God accidentally. For the Apostle says (Phil. 2:7) of the Son of God, that He was \"in habit found as a man.\" But habit is accidentally associated with that to which it pertains, whether habit be taken for one of the ten predicaments or as a species of quality. Therefore human nature is accidentally united to the Son of God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, whatever comes to a thing that is complete in being comes to it accidentally, for an accident is said to be what can come or go without the subject being corrupted. But human nature came to Christ in time, Who had perfect being from eternity. Therefore it came to Him accidentally."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, whatever does not pertain to the nature or the essence of a thing is its accident, for whatever is, is either a substance or an accident. But human nature does not pertain to the Divine Essence or Nature of the Son of God, for the union did not take place in the nature, as was said above (Article [1]). Hence the human nature must have accrued accidentally to the Son of God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 },
                 "4": {
-                    "id": 4,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, an instrument accrues accidentally. But the human nature was the instrument of the Godhead in Christ, for Damascene says (De Fide Orth. iii, 15), that \"the flesh of Christ is the instrument of the Godhead.\" Therefore it seems that the human nature was united to the Son of God accidentally."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As Damascene says (De Fide Orth. iii, 26): \"Examples need not be wholly and at all points similar, for what is wholly similar is the same, and not an example, and especially in Divine things, for it is impossible to find a wholly similar example in the Theology,\" i.e. in the Godhead of Persons, \"and in the Dispensation,\" i.e. the mystery of the Incarnation. Hence the human nature in Christ is likened to a habit, i.e. a garment, not indeed in regard to accidental union, but inasmuch as the Word is seen by the human nature, as a man by his garment, and also inasmuch as the garment is changed, for it is shaped according to the figure of him who puts it on, and yet he is not changed from his form on account of the garment. So likewise the human nature assumed by the Word of God is ennobled, but the Word of God is not changed, as Augustine says (Qq. 83, qu. 73)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Whatever accrues after the completion of the being comes accidentally, unless it be taken into communion with the complete being, just as in the resurrection the body comes to the soul which pre-exists, yet not accidentally, because it is assumed unto the same being, so that the body has vital being through the soul; but it is not so with whiteness, for the being of whiteness is other than the being of man to which whiteness comes. But the Word of God from all eternity had complete being in hypostasis or person; while in time the human nature accrued to it, not as if it were assumed unto one being inasmuch as this is of the nature (even as the body is assumed to the being of the soul), but to one being inasmuch as this is of the hypostasis or person. Hence the human nature is not accidentally united to the Son of God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Accident is divided against substance. Now substance, as is plain from Metaph. v, 25, is taken in two ways: first, for essence or nature; secondly, for suppositum or hypostasis---hence the union having taken place in the hypostasis, is enough to show that it is not an accidental union, although the union did not take place in the nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 },
                 "4": {
-                    "id": 4,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: Not everything that is assumed as an instrument pertains to the hypostasis of the one who assumes, as is plain in the case of a saw or a sword; yet nothing prevents what is assumed into the unity of the hypostasis from being as an instrument, even as the body of man or his members. Hence Nestorius held that the human nature was assumed by the Word merely as an instrument, and not into the unity of the hypostasis. And therefore he did not concede that the man was really the Son of God, but His instrument. Hence Cyril says (Epist. ad Monach. Aegyptii): \"The Scripture does not affirm that this Emmanuel,\" i.e. Christ, \"was assumed for the office of an instrument, but as God truly humanized,\" i.e. made man. But Damascene held that the human nature in Christ is an  instrument belonging to the unity of the hypostasis."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 6
                 }
             },
             "counter": [
@@ -487,62 +530,69 @@
             "title": [
                 "Whether the union of the Divine nature and the human is anything created?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the union of the Divine and human natures is not anything created. For there can be nothing created in God, because whatever is in God is God. But the union is in God, for God Himself is united to human nature. Therefore it seems that the union is not anything created."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the end holds first place in everything. But the end of the union is the Divine hypostasis or Person in which the union is terminated. Therefore it seems that this union ought chiefly to be judged with reference to the dignity of the Divine hypostasis, which is not anything created. Therefore the union is nothing created."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, \"That which is the cause of a thing being such is still more so\" (Poster. i). But man is said to be the Creator on account of the union. Therefore much more is the union itself nothing created, but the Creator."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: This union is not really in God, but only in our way of thinking, for God is said to be united to a creature inasmuch as the creature is really united to God without any change in Him."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The specific nature of a relation, as of motion, depends on the subject. And since this union has its being nowhere save in a created nature, as was said above, it follows that it has a created being."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: A man is called Creator and is God because of the union, inasmuch as it is terminated in the Divine hypostasis; yet it does not follow that the union itself is the Creator or God, because that a thing is said to be created regards its being rather  than its relation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -560,62 +610,69 @@
             "title": [
                 "Whether union is the same as assumption?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that union is the same as assumption. For relations, as motions, are specified by their termini. Now the term of assumption and union is one and the same, viz. the Divine hypostasis. Therefore it seems that union and assumption are not different."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, in the mystery of the Incarnation the same thing seems to be what unites and what assumes, and what is united and what is assumed. But union and assumption seem to follow the action and passion of the thing uniting and the united, of the thing assuming and the assumed. Therefore union seems to be the same as assumption."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Damascene says (De Fide Orth. iii, 11): \"Union is one thing, incarnation is another; for union demands mere copulation, and leaves unsaid the end of the copulation; but incarnation and humanation determine the end of copulation.\" But likewise assumption does not determine the end of copulation. Therefore it seems that union is the same as assumption."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Union and assumption have not the same relation to the term, but a different relation, as was said above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: What unites and what assumes are not the same. For whatsoever Person assumes unites, and not conversely. For the Person of the Father united the human nature to the Son, but not to Himself; and hence He is said to unite and not to assume. So likewise the united and the assumed are not identical, for the Divine Nature is said to be united, but not assumed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Assumption determines with whom the union is made on the part of the one assuming, inasmuch as assumption means taking unto oneself [ad se sumere], whereas incarnation and humanation (determine with whom the union is made) on the part of the thing assumed, which is flesh or human nature. And thus assumption differs logically both from union and from incarnation or humanation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [
@@ -633,63 +690,70 @@
             "title": [
                 "Whether the union of the two natures in Christ is the greatest of all unions?"
             ],
+            "id": 9,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the union of the two natures in Christ is not the greatest of all unions. For what is united falls short of the unity of what is one, since what is united is by participation, but one is by essence. Now in created things there are some that are simply one, as is shown especially in unity itself, which is the principle of number. Therefore the union of which we are speaking does not imply the greatest of all unions."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the greater the distance between things united, the less the union. Now, the things united by this union are most distant---namely, the Divine and human natures; for they are infinitely apart. Therefore their union is the least of all."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, from union there results one. But from the union of soul and body in us there arises what is one in person and nature; whereas from the union of the Divine and human nature there results what is one in person only. Therefore the union of soul and body is greater than that of the Divine and human natures; and hence the union of which we speak does not imply the greatest unity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The unity of the Divine Person is greater than numerical unity, which is the principle of number. For the unity of a Divine Person is an uncreated and self-subsisting unity, not received into another by participation. Also, it is complete in itself, having in itself whatever pertains to the nature of unity; and therefore it is not compatible with the nature of a part, as in numerical unity, which is a part of number, and which is shared in by the things numbered. And hence in this respect the union of the Incarnation is higher than numerical unity by reason of the unity of the Divine Person, and not by reason of the human nature, which is not the unity of the Divine Person, but is united to it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: This reason regards the things united, and not the Person in Whom the union takes place."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The unity of the Divine Person is greater than the unity of person and nature in us; and hence the union of the Incarnation is greater than the union of soul and body in us.",
                         "And because what is urged in the argument \"on the contrary\" rests upon what is untrue---namely, that the union of the Incarnation is greater than the unity of the Divine Persons in Essence---we must say to the authority of Augustine that the human nature is not more in the Son of God than the Son of God in the Father, but much less. But the man in some respects is more in the Son than the Son in the Father---namely, inasmuch as the same suppositum is signified when I say \"man,\" meaning Christ, and when I say \"Son of God\"; whereas it is not the same suppositum of Father and Son."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "counter": [
@@ -707,54 +771,60 @@
             "title": [
                 "Whether the union of the Incarnation took place by grace?"
             ],
+            "id": 10,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the union of the Incarnation did not take place by grace. For grace is an accident, as was shown above (FS, Question [110], Article [2]). But the union of the human nature to the Divine did not take place accidentally, as was shown above (Article [6]). Therefore it seems that the union of the Incarnation did not take place by grace."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the subject of grace is the soul. But it is written (Col. 2:9): \"In Christ [Vulg.: 'Him'] dwelleth all the fulness of the Godhead corporeally.\" Therefore it seems that this union did not take place by grace."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, every saint is united to God by grace. If, therefore, the union of the Incarnation was by grace, it would seem that Christ is said to be God no more than other holy men."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 10
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The grace which is an accident is a certain likeness of the Divinity participated by man. But by the Incarnation human nature is not said to have participated a likeness of the Divine nature, but is said to be united to the Divine Nature itself in the Person of the Son. Now the thing itself is greater than a participated likeness of it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Habitual grace is only in the soul; but the grace, i.e. the free gift of God, of being united to the Divine Person belongs to the whole human nature, which is composed of soul and body. And hence it is said that the fulness of the Godhead dwelt corporeally in Christ because the Divine Nature is united not merely to the soul, but to the body also. Although it may also be said that it dwelt in Christ corporeally, i.e. not as in a shadow, as it dwelt in the sacraments of the old law, of which it is said in the same place (Col. 2:17) that they are the \"shadow of things to come but the body is Christ\" [Vulg.: 'Christ's'], inasmuch as the body is opposed to the shadow. And some say that the Godhead is said to have dwelt in Christ corporeally, i.e. in three ways, just as a body has three dimensions: first, by essence, presence, and  power, as in other creatures; secondly, by sanctifying grace, as in the saints; thirdly, by personal union, which is proper to Christ.",
                         "Hence the reply to the third is manifest, viz. because the union of the Incarnation did not take place by habitual grace alone, but in subsistence or person."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 }
             },
             "counter": [
@@ -773,53 +843,59 @@
             "title": [
                 "Whether any merits preceded the union of the Incarnation?"
             ],
+            "id": 11,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the union of the Incarnation followed upon certain merits, because upon Ps. 32:22, \"Let Thy mercy, o Lord, be upon us, as,\" etc. a gloss says: \"Here the prophet's desire for the Incarnation and its merited fulfilment are hinted at.\" Therefore the Incarnation falls under merit."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 11
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, whoever merits anything merits that without which it cannot be. But the ancient Fathers merited eternal life, to which they were able to attain only by the Incarnation; for Gregory says (Moral. xiii): \"Those who came into this world before Christ's coming, whatsoever eminency of righteousness they may have had, could not, on being divested of the body, at once be admitted into the bosom of the heavenly country, seeing that He had not as yet come Who, by His own descending, should place the souls of the righteous in their everlasting seat.\" Therefore it would seem that they merited the Incarnation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 11
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, of the Blessed Virgin it is sung that \"she merited to bear the Lord of all\" [*Little Office of B. V. M., Dominican Rite, Ant. at Benedictus], and this took place through the Incarnation. Therefore the Incarnation falls under merit."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 11
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: It is false that under merit falls everything without which there can be no reward. For there is something pre-required not merely for reward, but also for merit, as the Divine goodness and grace and the very nature of man. And again, the mystery of the Incarnation is the principle of merit, because \"of His fulness we all have received\" (Jn. 1:16)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 11
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The Blessed Virgin is said to have merited to bear the Lord of all; not that she merited His Incarnation, but because by the grace bestowed upon her she merited that grade of purity and holiness, which fitted her to be the Mother of God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 11
                 }
             },
             "counter": [
@@ -839,62 +915,69 @@
             "title": [
                 "Whether the grace of union was natural to the man Christ?"
             ],
+            "id": 12,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the grace of union was not natural to the man Christ. For the union of the Incarnation did not take place in the nature, but in the Person, as was said above (Article [2]). Now a thing is denominated from its terminus. Therefore this grace ought rather to be called personal than natural."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 12
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, grace is divided against nature, even as gratuitous things, which are from God, are distinguished from natural things, which are from an intrinsic principle. But if things are divided in opposition to one another, one is not denominated by the other. Therefore the grace of Christ was not natural to Him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 12
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, natural is that which is according to nature. But the grace of union is not natural to Christ in regard to the Divine Nature, otherwise it would belong to the other Persons; nor is it natural to Him according to the human nature, otherwise it would belong to all men, since they are of the same nature as He. Therefore it would seem that the grace of union is nowise natural  to Christ."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 12
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Although the union did not take place in the nature, yet it was caused by the power of the Divine Nature, which is truly the nature of Christ, and it, moreover, belonged to Christ from the beginning of His nativity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 12
                 },
                 "2": {
-                    "id": 2,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The union is not said to be grace and natural in the same respect; for it is called grace inasmuch as it is not from merit; and it is said to be natural inasmuch as by the power of the Divine Nature it was in the humanity of Christ from His nativity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 12
                 },
                 "3": {
-                    "id": 3,
                     "question": 2,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The grace of union is not natural to Christ according to His human nature, as if it were caused by the principles of the human nature, and hence it need not belong to all men. Nevertheless, it is natural to Him in regard to the human nature on account of the \"property\" of His birth, seeing that He was conceived by the Holy Ghost, so that He might be the natural Son of God and of man. But it is natural to Him in regard to the Divine Nature, inasmuch as the Divine Nature is the active principle of this grace; and this belongs to the whole Trinity---to wit, to be the active principle of this grace."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 12
                 }
             },
             "counter": [

@@ -25,80 +25,89 @@
             "title": [
                 "Whether there are two wills in Christ?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that in Christ there are not two wills, one Divine, the other human. For the will is the first mover and first commander in whoever wills. But in Christ the first mover and  commander was the Divine will, since in Christ everything human was moved by the Divine will. Hence it seems that in Christ there was only one will, viz. the Divine."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, an instrument is not moved by its own will but by the will of its mover. Now the human nature of Christ was the instrument of His Godhead. Hence the human nature of Christ was not moved by its own will, but by the Divine will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, that alone is multiplied in Christ which belongs to the nature. But the will does not seem to pertain to nature: for natural things are of necessity; whereas what is voluntary is not of necessity. Therefore there is but one will in Christ."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, Damascene says (De Fide Orth. iii, 14) that \"to will in this or that way belongs not to our nature but to our intellect,\" i.e. our personal intellect. But every will is this or that will, since there is nothing in a genus which is not at the same time in some one of its species. Therefore all will belongs to the person. But in Christ there was and is but one person. Therefore in Christ there is only one will."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Whatever was in the human nature of Christ was moved at the bidding of the Divine will; yet it does not follow that in Christ there was no movement of the will proper to human nature, for the good wills of other saints are moved by God's will, \"Who worketh\" in them \"both to will and to accomplish,\" as is written Phil. 2:13. For although the will cannot be inwardly moved by any creature, yet it can be moved inwardly by God, as was said in the FP, Question [105], Article [4]. And thus, too, Christ by His human will followed the Divine will according to Ps. 39:9; \"That I should do Thy will, O my God, I have desired it.\" Hence Augustine says (Contra Maxim. ii, 20): \"Where the Son says to the Father, 'Not what I will, but what Thou willest,' what do you gain by adding your own words and saying 'He shows that His will was truly subject to His Father,' as if we denied that man's will ought to be subject to God's will?\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: It is proper to an instrument to be moved by the principal agent, yet diversely, according to the property of its nature. For an inanimate instrument, as an axe or a saw, is moved by the craftsman with only a corporeal movement; but an instrument animated by a sensitive soul is moved by the sensitive appetite, as a horse by its rider; and an instrument animated with a rational soul is moved by its will, as by the command of his lord the servant is moved to act, the servant being like an animate instrument, as the Philosopher says (Polit. i, 2,4; Ethic. viii, 11). And hence it was in this manner that the human nature of Christ was the instrument of the Godhead, and was moved by its own will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The power of the will is natural, and necessarily follows upon the nature; but the movement or act of this power---which is also called will---is sometimes natural and necessary, e.g. with respect to beatitude; and sometimes springs from free-will and is neither necessary nor natural, as is plain from what has been stated in the FS, Question [10], Articles [1],[2] [*Cf. FP, Question [82], Article [2]]. And yet even reason itself, which is the principle of this movement, is natural. Hence besides the Divine will it is necessary to place in Christ a human will, not merely as a natural power, or a natural movement, but even as a rational movement."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: When we say \"to will in a certain way,\" we  signify a determinate mode of willing. Now a determinate mode regards the thing of which it is the mode. Hence since the will pertains to the nature, \"to will in a certain way\" belongs to the nature, not indeed considered absolutely, but as it is in the hypostasis. Hence the human will of Christ had a determinate mode from the fact of being in a Divine hypostasis, i.e. it was always moved in accordance with the bidding of the Divine will."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -117,62 +126,69 @@
             "title": [
                 "Whether in Christ there was a will of sensuality besides the will of reason?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that in Christ there was no will of sensuality besides the will of reason. For the Philosopher says (De Anima iii, text. 42) that \"the will is in the reason, and in the sensitive appetite are the irascible and concupiscible parts.\" Now sensuality signifies the sensitive appetite. Hence in Christ there was no will of sensuality."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, according to Augustine (De Trin. xii, 12,13) the sensuality is signified by the serpent. But there was nothing serpent-like in Christ; for He had the likeness of a venomous animal without the venom, as Augustine says (De Pecc. Merit. et Remiss. i, 32). Hence in Christ there was no will of sensuality."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, will is consequent upon nature, as was said (Article [1]). But in Christ there was only one nature besides the Divine. Hence in Christ there was only one human will."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: This argument is based on the will, essentially so called, which is only in the intellectual part; but the will by participation can be in the sensitive part, inasmuch as it obeys reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The sensuality is signified by the serpent---not as regards the nature of the sensuality, which Christ assumed, but as regards the corruption of the \"fomes,\" which was not in Christ."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: \"Where there is one thing on account of another, there seems to be only one\" (Aristotle, Topic. iii); thus a surface which is visible by color is one visible thing with the color. So, too, because the sensuality is called the will, only because it partakes of the rational will, there is said to be but one human will in Christ, even as there is but one human nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -190,62 +206,69 @@
             "title": [
                 "Whether in Christ there were two wills as regards the reason?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that in Christ there were two wills as regards the reason. For Damascene says (De Fide Orth. ii, 22) that there is a double will in man, viz. the natural will which is called {thelesis}, and the rational will which is called {boulesis}. Now Christ in His human nature had whatever belongs to the perfection of human nature. Hence both the foregoing wills were in Christ."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the appetitive power is diversified in man by the difference of the apprehensive power, and hence according to the difference of sense and intellect is the difference of sensitive and intellective appetite in man. But in the same way as regards man's apprehension, we hold the difference of reason and intellect; both of which were in Christ. Therefore there was a double will in Him, one intellectual and the other rational."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, some [*Hugh of St. Victor, De Quat. Volunt. Christ.] ascribe to Christ \"a will of piety,\" which can only be on the part of reason. Therefore in Christ on the part of reason there are several wills."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: These two wills do not diversify the power but only the act, as we have said."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The intellect and the reason are not distinct powers, as was said in the FP, Question [79], Article [8]."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The \"will of piety\" would not seem to be distinct from the will considered as nature, inasmuch as it shrinks from another's evil, absolutely considered."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -263,62 +286,69 @@
             "title": [
                 "Whether there was free-will in Christ?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that in Christ there was no free-will. For Damascene says (De Fide Orth. iii, 14) that {gnome}, i.e. opinion, thinking or cogitation, and {proairesis}, i.e. choice, \"cannot possibly be attributed to our Lord, if we wish to speak with propriety.\" But in the things of faith especially we must speak with propriety. Therefore there was no choice in Christ and consequently no free-will, of which choice is the act."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the Philosopher says (Ethic. iii, 2) that choice is \"a desire of something after taking counsel.\" Now counsel does not appear to be in Christ, because we do not take counsel concerning such things as we are certain of. But Christ was certain of everything. Hence there was no counsel and consequently no free-will in Christ."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, free-will is indifferent. But Christ's will was determined to good, since He could not sin; as stated above (Question [15], Articles [1],2). Hence there was no free-will in Christ."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Damascene excludes choice from Christ, in so far as he considers that doubt is implied in the word choice. Nevertheless doubt is not necessary to choice, since it belongs even to God Himself to choose, according to Eph. 1:4: \"He chose us in Him before the foundation of the world,\" although in God there is no doubt. Yet doubt is accidental to choice when it is in an ignorant nature. We may also say the same of whatever else is mentioned in the passage quoted."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Choice presupposes counsel; yet it follows counsel only as determined by judgment. For what we judge to be done, we choose, after the inquiry of counsel, as is stated (Ethic. iii, 2,3). Hence if anything is judged necessary to be done, without any preceding doubt or inquiry, this suffices for choice. Therefore it is plain that doubt or inquiry belong to choice not essentially, but only when it is in an ignorant nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The will of Christ, though determined to good, is not determined to this or that good. Hence it pertains to Christ, even as to the blessed, to choose with a free-will confirmed in good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -336,62 +366,69 @@
             "title": [
                 "Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the human will in Christ did not will anything except what God willed. For it is written (Ps. 39:9) in the person of Christ: \"That I should do Thy will: O my God, I have desired it.\" Now he who desires to do another's will, wills what the other wills. Hence it seems that Christ's human will willed nothing but what was willed by His Divine will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ's soul had most perfect charity, which, indeed, surpasses the comprehension of all our knowledge, according to Eph. 3:19, \"the charity of Christ, which surpasseth all knowledge.\" Now charity makes men will what God wills; hence the Philosopher says (Ethic. ix, 4) that one mark of friendship is \"to will and choose the same.\" Therefore the human will in Christ willed nothing else than was willed by His Divine will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Christ was a true comprehensor. But the Saints who are comprehensors in heaven will only what God wills, otherwise they would not be happy, because they would not obtain whatever  they will, for \"blessed is he who has what he wills, and wills nothing amiss,\" as Augustine says (De Trin. xiii, 5). Hence in His human will Christ wills nothing else than does the Divine will."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: By His rational will Christ willed the Divine will to be fulfilled; but not by His will of sensuality, the movement of which does not extend to the will of God---nor by His will considered as nature which regards things absolutely considered and not in relation to the Divine will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The conformity of the human will to the Divine regards the will of reason: according to which the wills even of friends agree, inasmuch as reason considers something willed in its relation to the will of a friend."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Christ was at once comprehensor and wayfarer, inasmuch as He was enjoying God in His mind and had a passible body. Hence things repugnant to His natural will and to His sensitive appetite could happen to Him in His passible flesh."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -409,62 +446,69 @@
             "title": [
                 "Whether there was contrariety of wills in Christ?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that there was contrariety of wills in Christ. For contrariety of wills regards contrariety of objects, as contrariety of movements springs from contrariety of termini, as is plain from the Philosopher (Phys. v, text. 49, seq.). Now Christ in His different wills wished contrary things. For in His Divine will He wished for death, from which He shrank in His human will, hence Athanasius says [*De Incarnat. et Cont. Arianos, written against Apollinarius]: \"When Christ says 'Father, if it be possible, let this chalice pass from Me; yet not My will, but Thine be done,' and again, 'The spirit indeed is willing, but the flesh weak,' He denotes two wills---the human, which through the weakness of the flesh shrank from the passion---and His Divine will eager for the passion.\" Hence there was contrariety of wills in Christ."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, it is written (Gal. 5:17) that \"the flesh lusteth against the spirit, and the spirit against the flesh.\" Now when the spirit desires one thing, and the flesh another, there is contrariety of wills. But this was in Christ; for by the will of charity which the Holy Spirit was causing in His mind, He willed the passion, according to Is. 53:7: \"He was offered because it was His own will,\" yet in His flesh He shrank from the passion. Therefore there was contrariety of wills in Him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it is written (Lk. 22:43) that \"being in an agony, He prayed the longer.\" Now agony seems to imply a certain struggle [*Greek, {agonia}] in a soul drawn to contrary things. Hence it seems that there was contrariety of will in Christ."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The fact of any will in Christ willing something else than did the Divine will, proceeded from the Divine will, by whose permission the human nature in Christ was moved by its proper movements, as Damascene says (De Fide Orth. ii, 15,18,19)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: In us the desires of the spirit are impeded or retarded by the desires of the flesh: this did not occur in Christ. Hence in Christ there was no contrariety of flesh and spirit, as in us."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The agony in Christ was not in the rational soul, in as far as it implies a struggle in the will arising from a diversity of motives, as when anyone, on his reason considering one, wishes one thing, and on its considering another, wishes the contrary. For this springs from the weakness of the reason, which is unable to judge which is the best simply. Now this did not occur in Christ, since by His reason He judged it best that the Divine will regarding the salvation of the human race should be fulfilled by His passion. Nevertheless, there was an agony in Christ as regards the sensitive part, inasmuch as it implied a dread of coming trial, as Damascene says (De Fide Orth. ii, 15; iii, 18,23)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

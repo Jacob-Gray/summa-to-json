@@ -23,62 +23,69 @@
             "title": [
                 "Whether the prophets see the very essence of God?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the prophets see the very essence of God, for a gloss on Is. 38:1, \"Take order with thy house, for thou shalt die and not live,\" says: \"Prophets can read in the book of God's foreknowledge in which all things are written.\" Now God's foreknowledge is His very essence. Therefore prophets see God's very essence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Augustine says (De Trin. ix, 7) that \"in that eternal truth from which all temporal things are made, we see with the mind's eye the type both of our being and of our actions.\" Now, of all men, prophets have the highest knowledge of Divine things. Therefore they, especially, see the Divine essence."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, future contingencies are foreknown by the prophets \"with unchangeable truth.\" Now future contingencies exist thus in God alone. Therefore the prophets see God Himself."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The prophets are said to read the book of God's foreknowledge, inasmuch as the truth is reflected from God's foreknowledge on the prophet's mind."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Man is said to see in the First Truth the type of his existence, in so far as the image of the First Truth shines forth on man's mind, so that he is able to know himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: From the very fact that future contingencies are in God according to unalterable truth, it follows that God can impress a like knowledge on the prophet's mind without the prophet seeing God in His essence."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,62 +105,69 @@
             "title": [
                 "Whether, in prophetic revelation, new species of things are impressed on the prophet's mind, or merely a new light?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that in prophetic revelation no new species of things are impressed on the prophet's mind, but only a new light. For a gloss of Jerome on Amos 1:2 says that \"prophets draw comparisons from things with which they are conversant.\" But if prophetic vision were effected by means of species newly impressed, the prophet's previous experience of things would be inoperative. Therefore no new species are impressed on the prophet's soul, but only the prophetic light."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, according to Augustine (Gen. ad lit. xii, 9), \"it is not imaginative but intellective vision that makes the prophet\"; wherefore it is declared (Dan. 10:1) that \"there is need of understanding in a vision.\" Now intellective vision, as stated in the same book (Gen. ad lit. xii, 6) is not effected by means of images, but by the very truth of things. Therefore it would seem that prophetic revelation is not effected by impressing species on the soul."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, by the gift of prophecy the Holy Ghost endows man with something that surpasses the faculty of nature. Now man can by his natural faculties form all kinds of species of things. Therefore it would seem that in prophetic revelation no new species of things are impressed, but merely an intellectual light."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As stated above, sometimes in prophetic revelation imaginary species previously derived from the senses are divinely coordinated so as to accord with the truth to be revealed, and then previous experience is operative in the production of the images, but not when they are impressed on the mind wholly from without."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Intellectual vision is not effected by means of bodily and individual images, but by an intelligible image. Hence Augustine says (De Trin. ix, 11) that \"the soul possesses a certain likeness of the species known to it.\" Sometimes this intelligible image is, in prophetic revelation, imprinted immediately by God, sometimes it results from pictures in the imagination, by the aid of the prophetic light, since a deeper truth is gathered from these pictures in the imagination by means of the enlightenment of the higher light."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: It is true that man is able by his natural powers to form all kinds of pictures in the imagination, by simply considering these pictures, but not so that they be directed to the representation of intelligible truths that surpass his intellect, since for this purpose he needs the assistance of a supernatural light."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -177,80 +191,89 @@
             "title": [
                 "Whether the prophetic vision is always accompanied by abstraction from the senses?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the prophetic vision is always accompanied by abstraction from the senses. For it is written (Num. 12:6): \"If there be among you a prophet of the Lord, I will appear to him in a vision, or I will speak to him in a dream.\" Now a gloss says at the beginning of the Psalter, \"a vision that takes place by dreams and apparitions consists of things which seem to be said or done.\" But when things seem to be said or done, which are neither said nor done, there is abstraction from the senses. Therefore prophecy is always accompanied by abstraction from the senses."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, when one power is very intent on its own operation, other powers are drawn away from theirs; thus men who are very intent on hearing something fail to see what takes place before them. Now in the prophetic vision the intellect is very much uplifted, and intent on its act. Therefore it seems that the prophetic vision is always accompanied by abstraction from the senses."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the same thing cannot, at the same time, tend in opposite directions. Now in the prophetic vision the mind tends to the acceptance of things from above, and consequently it cannot at the same time tend to sensible objects. Therefore it would seem necessary for prophetic revelation to be always accompanied by abstraction from the senses."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: On the contrary, It is written (1 Cor. 14:32): \"The spirits of the prophets are subject to the prophets.\" Now this were impossible if the prophet were not in possession of his faculties, but abstracted from his senses. Therefore it would seem that prophetic vision is not accompanied by abstraction from the senses."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The passage quoted refers to prophets in whom imaginary pictures were formed or coordinated, either while asleep, which is denoted by the word \"dream,\" or while awake, which is signified by the word \"vision.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: When the mind is intent, in its act, upon distant things which are far removed from the senses, the intensity of its application leads to abstraction from the senses; but when it is intent, in its act, upon the coordination of or judgment concerning objects of sense, there is no need for abstraction from the senses."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The movement of the prophetic mind results not from its own power, but from a power acting on it from above. Hence there is no abstraction from the senses when the prophet's mind is led to judge or coordinate matters relating to objects of sense, but only when the mind is raised to the contemplation of certain more lofty things."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 173,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: The spirit of the prophets is said to be subject to the prophets as regards the prophetic utterances to which the Apostle refers in the words quoted; because, to wit, the prophets in declaring what they have seen speak their own mind, and are not thrown off their mental balance, like persons who are possessed, as Priscilla and Montanus maintained. But as regards the prophetic revelation itself, it would be more correct to say that the prophets are subject to the. spirit of prophecy, i.e. to the prophetic gift."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [],
@@ -269,33 +292,37 @@
             "title": [
                 "Whether prophets always know the things which they prophesy?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the prophets always know the things which they prophesy. For, as Augustine says (Gen. ad lit. xii, 9), \"those to whom signs were shown in spirit by means of the likenesses of bodily things, had not the gift of prophecy, unless the mind was brought into action, so that those signs were also understood by them.\" Now what is understood cannot be unknown. Therefore the prophet is not ignorant of what he prophesies."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the light of prophecy surpasses the light of  natural reason. Now one who possesses a science by his natural light, is not ignorant of his scientific acquirements. Therefore he who utters things by the prophetic light cannot ignore them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 173,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, prophecy is directed for man's enlightenment; wherefore it is written (2 Pt. 1:19): \"We have the more firm prophetical word, whereunto you do well to attend, as to a light that shineth in a dark place.\" Now nothing can enlighten others unless it be lightsome in itself. Therefore it would seem that the prophet is first enlightened so as to know what he declares to others."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {},

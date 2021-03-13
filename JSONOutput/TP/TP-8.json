@@ -27,62 +27,69 @@
             "title": [
                 "Whether Christ is the Head of the Church?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it does not belong to Christ as man to be Head of the Church. For the head imparts sense and motion to the members. Now spiritual sense and motion which are by grace, are not imparted to us by the Man Christ, because, as Augustine says (De Trin. i, 12; xv, 24), \"not even Christ, as man, but only as God, bestows the Holy Ghost.\" Therefore it does not belong to Him as man to be Head of the Church."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, it is not fitting for the head to have a head. But God is the Head of Christ, as man, according to 1 Cor. 11:3, \"The Head of Christ is God.\" Therefore Christ Himself is not a head."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Furthermore, the head of a man is a particular member, receiving an influx from the heart. But Christ is the universal principle of the whole Church. Therefore He is not the Head of the Church."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: To give grace or the Holy Ghost belongs to Christ as He is God, authoritatively; but instrumentally it belongs also to Him as man, inasmuch as His manhood is the instrument of His Godhead. And hence by the power of the Godhead His actions were beneficial, i.e. by causing grace in us, both meritoriously and efficiently. But Augustine denies that Christ as man gives the Holy Ghost authoritatively. Even other saints are said to give the Holy Ghost instrumentally, or ministerially, according to Gal. 3:5: \"He . . . who giveth to you the Spirit.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: In metaphorical speech we must not expect a likeness in all respects; for thus there would be not likeness but identity. Accordingly a natural head has not another head because one human body is not part of another; but a metaphorical body, i.e. an ordered multitude, is part of another multitude as the domestic multitude is part of the civil multitude; and hence the father who is head of the domestic multitude has a head above him, i.e. the civil governor. And hence there is no reason why God should not be the Head of Christ, although Christ Himself is Head of the Church."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The head has a manifest pre-eminence over the other exterior members; but the heart has a certain hidden influence. And hence the Holy Ghost is likened to the heart, since He invisibly quickens and unifies the Church; but Christ is likened to the Head in His visible nature in which man is set over man."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -100,62 +107,69 @@
             "title": [
                 "Whether Christ is the Head of men as to their bodies or only as to their souls?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ is not the Head of men as to their bodies. For Christ is said to be the Head of the Church inasmuch as He bestows spiritual sense and the movement of grace on the Church. But a body is not capable of this spiritual sense and movement. Therefore Christ is not the Head of men as regards their bodies."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, we share bodies with the brutes. If therefore Christ was the Head of men as to their bodies, it would follow that He was the Head of brute animals; and this is not fitting."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Christ took His body from other men, as is clear from Mt. 1 and Luke 3. But the head is the first of the members, as was said above (Article [1], ad 3). Therefore Christ is not the Head of the Church as regards bodies."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The spiritual sense of grace does not reach to the body first and principally, but secondarily and instrumentally, as was said above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The body of an animal has no relation to a rational soul, as the human body has. Hence there is no parity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Although Christ drew the matter of His body from other men, yet all draw from Him the immortal life of their body, according to 1 Cor. 15:22: \"And as in Adam all die, so also in Christ all shall be made alive.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -173,62 +187,69 @@
             "title": [
                 "Whether Christ is the Head of all men?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ is not the Head of all men. For the head has no relation except to the members of its body. Now the unbaptized are nowise members of the Church which is the body of Christ, as it is written (Eph. 1:23). Therefore Christ is not the Head of all men."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the Apostle writes to the Ephesians (5:25,27): \"Christ delivered Himself up for\" the Church \"that He might present it to Himself a glorious Church, not having spot or wrinkle or any such thing.\" But there are many of the faithful in whom is found the spot or the wrinkle of sin. Therefore Christ is not the Head of all the faithful."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the sacraments of the Old Law are compared to Christ as the shadow to the body, as is written (Col. 2:17). But the fathers of the Old Testament in their day served unto these sacraments, according to Heb. 8:5: \"Who serve unto the example and shadow of heavenly things.\" Hence they did not pertain to Christ's body, and therefore Christ is not the Head of all men."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Those who are unbaptized, though not actually in the Church, are in the Church potentially. And this potentiality is rooted in two things---first and principally, in the power of Christ, which is sufficient for the salvation of the whole human race; secondly, in free-will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: To be \"a glorious Church not having spot or wrinkle\" is the ultimate end to which we are brought by the Passion of Christ. Hence this will be in heaven, and not on earth, in which \"if we say we have no sin, we deceive ourselves,\" as is written (1 Jn. 1:8). Nevertheless, there are some, viz. mortal, sins from which they are free who are members of Christ by the actual union of charity; but such as are tainted with these sins are not members of Christ actually, but potentially; except, perhaps, imperfectly, by formless faith, which unites to God, relatively but not simply, viz. so that man partake of the life of grace. For, as is written (James 2:20): \"Faith without works is dead.\" Yet such as these receive from Christ a certain vital act, i.e. to believe, as if a lifeless limb were moved by a man to some extent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The holy Fathers made use of the legal sacraments, not as realities, but as images and shadows of what was to come. Now it is the same motion to an image as image, and to the reality, as is clear from the Philosopher (De Memor. et Remin. ii). Hence the ancient Fathers, by observing the legal sacraments, were borne to Christ by the same faith and love whereby we also are borne to Him, and hence the ancient Fathers belong to the same Church as we."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -246,62 +267,69 @@
             "title": [
                 "Whether Christ is the Head of the angels?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ as man is not the head of the angels. For the head and members are of one nature. But Christ as man is not of the same nature with the angels, but only with men, since, as is written (Heb. 2:16): \"For nowhere doth He take hold of the angels, but of the seed of Abraham He taketh hold.\" Therefore Christ as man is not the head of the angels."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ is the head of such as belong to the Church, which is His Body, as is written (Eph. 1:23). But the angels do not belong to the Church. For the Church is the congregation of the faithful: and in the angels there is no faith, for they do not \"walk by faith\" but \"by sight,\" otherwise they would be \"absent from the Lord,\" as the Apostle argues (2 Cor.  5:6,7). Therefore Christ as man is not head of the angels."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Augustine says (Tract. xix; xxiii in Joan.), that as \"the Word\" which \"was in the beginning with the Father\" quickens souls, so the \"Word made flesh\" quickens bodies, which angels lack. But the Word made flesh is Christ as man. Therefore Christ as man does not give life to angels, and hence as man He is not the head of the angels."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Christ's influence over men is chiefly with regard to their souls; wherein men agree with angels in generic nature, though not in specific nature. By reason of this agreement Christ can be said to be the Head of the angels, although the agreement falls short as regards the body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The Church, on earth, is the congregation of the faithful; but, in heaven, it is the congregation of comprehensors. Now Christ was not merely a wayfarer, but a comprehensor. And therefore He is the Head not merely of the faithful, but of comprehensors, as having grace and glory most fully."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Augustine here uses the similitude of cause and effect, i.e. inasmuch as corporeal things act on bodies, and spiritual things on spiritual things. Nevertheless, the humanity of Christ, by virtue of the spiritual nature, i.e. the Divine, can cause something not only in the spirits of men, but also in the spirits of angels, on account of its most close conjunction with God, i.e. by personal union."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -319,62 +347,69 @@
             "title": [
                 "Whether the grace of Christ, as Head of the Church, is the same as  His habitual grace, inasmuch as He is Man?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the grace whereby Christ is Head of the Church and the individual grace of the Man are not the same. For the Apostle says (Rm. 5:15): \"If by the offense of one many died, much more the grace of God and the gift, by the grace of one man, Jesus Christ, hath abounded unto many.\" But the actual sin of Adam is distinct from original sin which he transmitted to his posterity. Hence the personal grace which is proper to Christ is distinct from His grace, inasmuch as He is the Head of the Church, which flows to others from Him."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, habits are distinguished by acts. But the personal grace of Christ is ordained to one act, viz. the sanctification of His soul; and the capital grace is ordained to another, viz. to sanctifying others. Therefore the personal grace of Christ is distinct from His grace as He is the Head of the Church."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, as was said above (Question [6], Article [6]), in Christ we distinguish a threefold grace, viz. the grace of union, capital grace, and the individual grace of the Man. Now the individual grace of Christ is distinct from the grace of union. Therefore it is also distinct from the capital grace."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Original sin in Adam, which is a sin of the nature, is derived from his actual sin, which is a personal sin, because in him the person corrupted the nature; and by means of this corruption the sin of the first man is transmitted to posterity, inasmuch as the corrupt nature corrupts the person. Now grace is not vouchsafed us by means of human nature, but solely by  the personal action of Christ Himself. Hence we must not distinguish a twofold grace in Christ, one corresponding to the nature, the other to the person as in Adam we distinguish the sin of the nature and of the person."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Different acts, one of which is the reason and the cause of the other, do not diversify a habit. Now the act of the personal grace which is formally to sanctify its subject, is the reason of the justification of others, which pertains to capital grace. Hence it is that the essence of the habit is not diversified by this difference."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Personal and capital grace are ordained to an act; but the grace of union is not ordained to an act, but to the personal being. Hence the personal and the capital grace agree in the essence of the habit; but the grace of union does not, although the personal grace can be called in a manner the grace of union, inasmuch as it brings about a fitness for the union; and thus the grace of union, the capital, and the personal grace are one in essence, though there is a distinction of reason between them."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -392,62 +427,69 @@
             "title": [
                 "Whether it is proper to Christ to be Head of the Church?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that it is not proper to Christ to be Head of the Church. For it is written (1 Kgs. 15:17): \"When thou wast a little one in thy own eyes, wast thou not made the head of the tribes of Israel?\" Now there is but one Church in the New and the Old Testament. Therefore it seems that with equal reason any other man than Christ might be head of the Church."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ is called Head of the Church from His bestowing grace on the Church's members. But it belongs to others also to grant grace to others, according to Eph. 4:29: \"Let no evil speech proceed from your mouth; but that which is good to the edification of faith, that it may administer grace to the hearers.\" Therefore it seems to belong also to others than Christ to be head of the Church."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Christ by His ruling over the Church is not only called \"Head,\" but also \"Shepherd\" and \"Foundation.\" Now Christ did not retain for Himself alone the name of Shepherd, according to 1 Pt. 5:4, \"And when the prince of pastors shall appear, you shall receive a never-fading crown of glory\"; nor the name of Foundation, according to Apoc. 21:14: \"And the wall of the city had twelve foundations.\" Therefore it seems that He did not retain the name of Head for Himself alone."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The word \"head\" is employed in that passage in regard to exterior government; as a king is said to be the head of his kingdom."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Man does not distribute grace by interior influx, but by exteriorly persuading to the effects of grace."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Augustine says (Tract. xlvi in Joan.): \"If the rulers of the Church are Shepherds, how is there one Shepherd, except that all these are members of one Shepherd?\" So likewise others may be called foundations and heads, inasmuch as they are members of the one Head and Foundation. Nevertheless, as Augustine says (Tract. xlvii), \"He gave to His members to be shepherds; yet none of us calleth himself the Door. He kept this for Himself alone.\" And this because by door is implied the principal authority, inasmuch as it is by the door that all enter the house; and it is Christ alone by \"Whom also we have access . . . into this grace, wherein we stand\" (Rm. 5:2); but by the other names above-mentioned there may be implied not merely the principal but also the secondary authority."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -465,62 +507,69 @@
             "title": [
                 "Whether the devil is the head of all the wicked?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the devil is not the head of the wicked. For it belongs to the head to diffuse sense and movement into the members, as a gloss says, on Eph. 1:22, \"And made Him head,\" etc. But the devil has no power of spreading the evil of sin, which proceeds from the will of the sinner. Therefore the  devil cannot be called the head of the wicked."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, by every sin a man is made evil. But not every sin is from the devil; and this is plain as regards the demons, who did not sin through the persuasion of another; so likewise not every sin of man proceeds from the devil, for it is said (De Eccles. Dogm. lxxxii): \"Not all our wicked thoughts are always raised up by the suggestion of the devil; but sometimes they spring from the movement of our will.\" Therefore the devil is not the head of all the wicked."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, one head is placed on one body. But the whole multitude of the wicked do not seem to have anything in which they are united, for evil is contrary to evil and springs from divers defects, as Dionysius says (Div. Nom. iv). Therefore the devil cannot be called the head of all the wicked."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Although the devil does not influence the rational mind interiorly, yet he beguiles it to evil by persuasion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: A governor does not always suggest to his subjects to obey his will; but proposes to all the sign of his will, in consequence of which some are incited by inducement, and some of their own free-will, as is plain in the leader of an army, whose standard all the soldiers follow, though no one persuades them. Therefore in the same way, the first sin of the devil, who \"sinneth from the beginning\" (1 Jnn 3:8), is held out to all to be followed, and some imitate at his suggestion, and some of their own will without any suggestion. And hence the devil is the head of all  the wicked, inasmuch as they imitate Him, according to Wis. 2:24,25: \"By the envy of the devil, death came into the world. And they follow him that are of his side.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: All sins agree in aversion from God, although they differ by conversion to different changeable goods."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -538,62 +587,69 @@
             "title": [
                 "Whether Anti-christ may be called the head of all the wicked?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Antichrist is not the head of the wicked. For there are not several heads of one body. But the devil is the head of the multitude of the wicked. Therefore Anti-christ is not their head."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Anti-christ is a member of the devil. Now the head is distinguished from the members. Therefore Anti-christ is not the head of the wicked."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the head has an influence over the members. But Anti-christ has no influence over the wicked who have preceded him. Therefore Anti-christ is not the head of the wicked."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The devil and Anti-christ are not two heads, but one; since Anti-christ is called the head, inasmuch as the wickedness of the devil is most fully impressed on him. Hence, on 2 Thess. 2:4, \"Showing himself as if he were God,\" a gloss says: \"The head of all the wicked, namely the devil, who is king over all  the children of pride will be in him.\" Now he is said to be in him not by personal union, nor by indwelling, since \"the Trinity alone dwells in the mind\" (as is said De Eccles. Dogm. lxxxiii), but by the effect of wickedness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: As the head of Christ is God, and yet He is the Head of the Church, as was said above (Article [1], ad 2), so likewise Anti-christ is a member of the devil and yet is head of the wicked."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 8,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Anti-christ is said to be the head of all the wicked not by a likeness of influence, but by a likeness of perfection. For in him the devil, as it were, brings his wickedness to a head, in the same way that anyone is said to bring his purpose to a head when he executes it."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [

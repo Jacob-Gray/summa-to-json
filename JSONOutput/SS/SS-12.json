@@ -21,62 +21,69 @@
             "title": [
                 "Whether apostasy pertains to unbelief?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that apostasy does not pertain to unbelief. For that which is the origin of all sins, does not, seemingly, pertain to unbelief, since many sins there are without unbelief. Now apostasy seems to be the origin of every sin, for it is written (Ecclus. 10:14): \"The beginning of the pride of man is apostasy [Douay: 'to fall off'] from God,\" and further on, (Ecclus. 10:15): \"Pride is the beginning of all sin.\" Therefore apostasy does not pertain to unbelief."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, unbelief is an act of the understanding: whereas apostasy seems rather to consist in some outward deed or utterance, or even in some inward act of the will, for it is written (Prov. 6:12-14): \"A man that is an apostate, an unprofitable man walketh with a perverse mouth. He winketh with the eyes, presseth with the foot, speaketh with the finger. With a wicked heart he deviseth evil, and at all times he soweth discord.\" Moreover if anyone were to have himself circumcised, or to worship at the tomb of Mahomet, he would be deemed an apostate. Therefore apostasy does not pertain to unbelief."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, heresy, since it pertains to unbelief, is a determinate species of unbelief. If then, apostasy pertained to unbelief, it would follow that it is a determinate species of unbelief, which does not seem to agree with what has been said (Question [10], Article [5]). Therefore apostasy does not pertain to unbelief."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This objection refers to the second kind of apostasy, which denotes an act of the will in rebellion against God's commandments, an act that is to be found in every mortal sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: It belongs to faith not only that the heart should believe, but also that external words and deeds should bear witness to the inward faith, for confession is an act of faith. In this way too, certain external words or deeds pertain to unbelief, in so far as they are signs of unbelief, even as a sign of health is said itself to be healthy. Now although the authority quoted may be understood as referring to every kind of apostate, yet it applies most truly to an apostate from the faith. For since faith is the first foundation of things to be hoped for, and since, without faith it is \"impossible to please God\"; when once faith is removed, man retains nothing that may be useful for the obtaining of eternal salvation, for which reason it is written (Prov. 6:12): \"A man that is an apostate, an unprofitable man\": because faith is the life of the soul, according to Rm. 1:17: \"The just man liveth by faith.\" Therefore, just as when the life of the body is taken away, man's every member and part loses its due disposition, so when the life of justice, which is by faith, is done away, disorder appears in all his members. First, in his mouth, whereby chiefly his mind stands revealed; secondly, in his eyes; thirdly, in the instrument of movement; fourthly, in his will, which tends to evil. The result is that \"he sows discord,\" endeavoring to sever others from the faith even as he severed himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The species of a quality or form are not diversified by the fact of its being the term \"wherefrom\" or \"whereto\" of movement: on the contrary, it is the movement that takes its species from the terms. Now apostasy regards unbelief as the term \"whereto\" of the movement of withdrawal from the faith; wherefore apostasy does not imply a special kind of unbelief, but an aggravating circumstance thereof, according to 2 Pt. 2:21: \"It had been better for them not to know the truth [Vulg.: 'the way of justice'], than after they had known it, to turn back.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -95,62 +102,69 @@
             "title": [
                 "Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a prince does not so forfeit his dominion over his subjects, on account of apostasy from the faith, that they no longer owe him allegiance. For Ambrose [*St. Augustine, Super Ps. 124:3] says that the Emperor Julian, though an apostate, nevertheless had under him Christian soldiers, who when he said to them, \"Fall into line for the defense of the republic,\" were bound to obey. Therefore subjects are not absolved from their allegiance to their prince on account of his apostasy."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, an apostate from the faith is an unbeliever. Now we find that certain holy men served unbelieving masters; thus Joseph served Pharaoh, Daniel served Nabuchodonosor, and Mardochai served Assuerus. Therefore apostasy from the faith does not release subjects from allegiance to their sovereign."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, just as by apostasy from the faith, a man turns away from God, so does every sin. Consequently if, on account of apostasy from the faith, princes were to lose their right to command those of their subjects who are believers, they would equally lose it on account of other sins: which is evidently not the case. Therefore we ought not to refuse allegiance to a sovereign on account of his apostatizing from the faith."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 12,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: At that time the Church was but recently instituted, and had not, as yet, the power of curbing earthly princes; and so she allowed the faithful to obey Julian the apostate, in matters that were not contrary to the faith, in order to avoid incurring a yet greater danger."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 12,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: As stated in the article, it is not a question of those unbelievers who have never received the faith."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 12,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Apostasy from the faith severs man from God altogether, as stated above (Article [1]), which is not the case in any other sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

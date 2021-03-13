@@ -23,38 +23,41 @@
             "title": [
                 "Whether the firmament was made on the second day?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the firmament was not made on the second day. For it is said (Gn. 1:8): \"God called the firmament heaven.\" But the heaven existed before days, as is clear from the words, \"In the beginning God created heaven and earth.\" Therefore the firmament was not made on the second day."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the work of the six days is ordered conformably to the order of Divine wisdom. Now it would ill become the Divine wisdom to make afterwards that which is naturally first. But though the firmament naturally precedes the earth and the waters, these are mentioned before the formation of light, which was on the first day. Therefore the firmament was not made on the second day."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, all that was made in the six days was formed out of matter created before days began. But the firmament cannot have been formed out of pre-existing matter, for if so it would be liable to generation and corruption. Therefore the firmament was not made on the second day."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
@@ -62,7 +65,9 @@
                         "Reply to Objection 1: According to Chrysostom (Hom. iii in Genes.), Moses prefaces his record by speaking of the works of God collectively, in the words, \"In the beginning God created heaven and earth,\" and then proceeds to explain them part by part; in somewhat the same way as one might say: \"This house was constructed by that builder,\" and then add: \"First, he laid the foundations, then built the walls, and thirdly, put on the roof.\" In accepting this explanation we are, therefore, not bound to hold that a different heaven is spoken of in the words: \"In the beginning God created heaven and earth,\" and when we read that the firmament was made on the second day.",
                         "We may also say that the heaven recorded as created in the beginning is not the same as that made on the second day; and there are several senses in which this may be understood. Augustine says (Gen. ad lit. i, 9) that the heaven recorded as made on the first day is the formless spiritual nature, and that the heaven of the second day is the corporeal heaven. According to Bede (Hexaem. i) and Strabus, the heaven made on the first day is the empyrean, and the firmament made on the second day, the starry heaven. According to Damascene (De Fide Orth. ii) that of the first day was spherical in form and without stars, the same, in fact, that the philosophers speak of, calling it the ninth sphere, and the primary movable body that moves with diurnal movement: while by the firmament made on the second day he understands the starry heaven. According to another theory, touched upon by Augustine [*Gen. ad lit. ii, 1] the heaven made on the first day was the starry heaven, and the firmament made on the second day was that region of the air where the clouds are collected, which is also called heaven, but equivocally. And to show that the word is here used in an equivocal sense, it is expressly said that \"God called the firmament heaven\"; just as in a preceding verse it said that \"God called the light day\" (since the word \"day\" is also used to denote a space of twenty-four hours). Other instances of a similar use occur, as pointed out by Rabbi Moses.",
                         "The second and third objections are sufficiently answered by what has been already said."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 }
             },
             "counter": [
@@ -87,63 +92,70 @@
             "title": [
                 "Whether there are waters above the firmament?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that there are not waters above the firmament. For water is heavy by nature, and heavy things tend naturally downwards, not upwards. Therefore there are not waters above the firmament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, water is fluid by nature, and fluids cannot rest on a sphere, as experience shows. Therefore, since the firmament is a sphere, there cannot be water above it."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, water is an element, and appointed to the generation of composite bodies, according to the relation in which imperfect things stand towards perfect. But bodies of composite nature have their place upon the earth, and not above the firmament, so that water would be useless there. But none of God's works are useless. Therefore there are not waters above the firmament."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Some have attempted to solve this difficulty by supposing that in spite of the natural gravity of water, it is kept in its place above the firmament by the Divine power. Augustine (Gen. ad lit. ii, 1), however will not admit this solution, but says \"It is our business here to inquire how God has constituted the natures of His creatures, not how far it may have pleased Him to work on them by way of miracle.\" We leave this view, then, and answer that according to the last two opinions on the firmament and the waters the solution appears from what has been said. According to the first opinion, an order of the elements must be supposed different from that given by Aristotle, that is to say, that the waters surrounding the earth are of a dense consistency, and those around the firmament of a rarer consistency, in proportion to the respective density of the earth and of the heaven.",
                         "Or by the water, as stated, we may understand the matter of bodies to be signified."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The solution is clear from what has been said, according to the last two opinions. But according to the first opinion, Basil gives two replies (Hom. iii in Hexaem.). He answers first, that a body seen as concave beneath need not necessarily be rounded, or convex, above. Secondly, that the waters above the firmament are not fluid, but exist outside it in a solid state, as a mass of ice, and that this is the crystalline heaven of some writers."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: According to the third opinion given, the waters above the firmament have been raised in the form of vapors, and serve to give rain to the earth. But according to the second opinion, they are above the heaven that is wholly transparent and starless. This, according to some, is the primary mobile, the cause of the daily revolution of the entire heaven, whereby the continuance of generation is secured. In the same way the starry heaven, by the zodiacal movement, is the cause whereby different bodies are generated or corrupted, through the rising and setting of the stars, and their various influences. But according to the first opinion these waters are set there to temper the heat of the celestial bodies, as Basil supposes (Hom. iii in Hexaem.). And Augustine says (Gen. ad lit. ii, 5) that some have considered this  to be proved by the extreme cold of Saturn owing to its nearness to the waters that are above the firmament."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -163,62 +175,69 @@
             "title": [
                 "Whether the firmament divides waters from waters?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the firmament does not divide waters from waters. For bodies that are of one and the same species have naturally one and the same place. But the Philosopher says (Topic. i, 6): \"All water is the same species.\" Water therefore cannot be distinct from water by place."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, should it be said that the waters above the firmament differ in species from those under the firmament, it may be argued, on the contrary, that things distinct in species need nothing else to distinguish them. If then, these waters differ in species, it is not the firmament that distinguishes them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, it would appear that what distinguishes waters from waters must be something which is in contact with them on either side, as a wall standing in the midst of a river. But it is evident that the waters below do not reach up to the firmament. Therefore the firmament does not divide the waters from the waters."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: If by the firmament is understood the starry heaven, the waters above are not of the same species as those beneath. But if by the firmament is understood the cloudy region of the air, both these waters are of the same species, and two places are assigned to them, though not for the same purpose, the higher being the place of their begetting, the lower, the place of their repose."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: If the waters are held to differ in species, the firmament cannot be said to divide the waters, as the cause of their destruction, but only as the boundary of each."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: On account of the air and other similar bodies being invisible, Moses includes all such bodies under the name of water, and thus it is evident that waters are found on each side of the firmament, whatever be the sense in which the word is used."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -239,62 +258,69 @@
             "title": [
                 "Whether there is only one heaven?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that there is only one heaven. For the heaven is contrasted with the earth, in the words, \"In the beginning God created heaven and earth.\"But there is only one earth. Therefore there is only one heaven."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, that which consists of the entire sum of its own matter, must be one; and such is the heaven, as the Philosopher proves (De Coel. i, text. 95). Therefore there is but one heaven."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 68,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, whatever is predicated of many things univocally is predicated of them according to some common notion. But if there are more heavens than one, they are so called univocally, for if equivocally only, they could not properly be called many. If, then, they are many, there must be some common notion by reason of which each is called heaven, but this common notion cannot be assigned. Therefore there cannot be more than one  heaven."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The earth stands in relation to the heaven as the centre of a circle to its circumference. But as one center may have many circumferences, so, though there is but one earth, there may be many heavens."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The argument holds good as to the heaven, in so far as it denotes the entire sum of corporeal creation, for in that sense it is one."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 68,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: All the heavens have in common sublimity and some degree of luminosity, as appears from what has been said."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

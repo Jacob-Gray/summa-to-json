@@ -22,80 +22,89 @@
             "title": [
                 "Whether good can be the cause of evil?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that good cannot be the cause of evil. For it is said (Mt. 7:18): \"A good tree cannot bring forth evil fruit.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, one contrary cannot be the cause of another. But evil is the contrary to good. Therefore good cannot be the cause of evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, a deficient effect can proceed only from a deficient cause. But evil is a deficient effect. Therefore its cause, if it has one, is deficient. But everything deficient is an evil. Therefore the cause of evil can only be evil."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, Dionysius says (Div. Nom. iv) that evil has no cause. Therefore good is not the cause of evil."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: As Augustine says (Contra Julian. i): \"The Lord calls an evil will the evil tree, and a good will a good tree.\" Now, a good will does not produce a morally bad act, since it is from the good will itself that a moral act is judged to be good. Nevertheless the movement itself of an evil will is caused by the rational creature, which is good; and thus good is the cause of  evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Good does not cause that evil which is contrary to itself, but some other evil: thus the goodness of the fire causes evil to the water, and man, good as to his nature, causes an act morally evil. And, as explained above (Question [19], Article [9]), this is by accident. Moreover, it does happen sometimes that one contrary causes another by accident: for instance, the exterior surrounding cold heats (the body) through the concentration of the inward heat."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Evil has a deficient cause in voluntary things otherwise than in natural things. For the natural agent produces the same kind of effect as it is itself, unless it is impeded by some exterior thing; and this amounts to some defect belonging to it. Hence evil never follows in the effect, unless some other evil pre-exists in the agent or in the matter, as was said above. But in voluntary things the defect of the action comes from the will actually deficient, inasmuch as it does not actually subject itself to its proper rule. This defect, however, is not a fault, but fault follows upon it from the fact that the will acts with this defect."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Evil has no direct cause, but only an accidental cause, as was said above."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -115,62 +124,69 @@
             "title": [
                 "Whether the supreme good, God, is the cause of evil?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the supreme good, God, is the cause of evil. For it is said (Is. 45:5,7): \"I am the Lord, and there is no other God, forming the light, and creating darkness, making peace, and creating evil.\" And Amos 3:6, \"Shall there be evil in a city, which the Lord hath not done?\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the effect of the secondary cause is reduced to the first cause. But good is the cause of evil, as was said above (Article [1]). Therefore, since God is the cause of every good, as was shown above (Question [2], Article [3]; Question [6], Articles [1],4), it follows that also every evil is from God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, as is said by the Philosopher (Phys. ii, text 30), the cause of both safety and danger of the ship is the same. But God is the cause of the safety of all things. Therefore He is the cause of all perdition and of all evil."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: These passages refer to the evil of penalty, and not to the evil of fault."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The effect of the deficient secondary cause is reduced to the first non-deficient cause as regards what it has of being and perfection, but not as regards what it has of defect; just as whatever there is of motion in the act of limping is caused by the motive power, whereas what there is of obliqueness in it does not come from the motive power, but from the curvature of the leg. And, likewise, whatever there is of being and action in a bad action, is reduced to God as the cause; whereas whatever defect is in it is not caused by God, but by the deficient secondary cause."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The sinking of a ship is attributed to the sailor as the cause, from the fact that he does not fulfil what the safety of the ship requires; but God does not fail in doing what is necessary for the safety of all. Hence there is no parity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -189,116 +205,129 @@
             "title": [
                 "Whether there be one supreme evil which is the cause of every evil?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that there is one supreme evil which is the cause of every evil. For contrary effects have contrary causes. But contrariety is found in things, according to Ecclus. 33:15: \"Good is set against evil, and life against death; so also is the sinner against a just man.\" Therefore there are many contrary principles, one of good, the other of evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, if one contrary is in nature, so is the other. But the supreme good is in nature, and is the cause of every good, as was shown above (Question [2], Article [3]; Question [6], Articles [2],4). Therefore, also, there is a supreme evil opposed to it as the cause of every evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, as we find good and better things, so we find evil and worse. But good and better are so considered in relation to what is best. Therefore evil and worse are so considered in relation to some supreme evil."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, everything participated is reduced to what is essential. But things which are evil among us are evil not essentially, but by participation. Therefore we must seek for some supreme essential evil, which is the cause of every evil."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 5: Further, whatever is accidental is reduced to that which is \"per se.\" But good is the accidental cause of evil. Therefore, we must suppose some supreme evil which is the \"per se\" cause of evils. Nor can it be said that evil has no \"per se\" cause, but only an accidental cause; for it would then follow that evil would not exist in the many, but only in the few."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 },
                 "6": {
-                    "id": 6,
                     "question": 49,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 6: Further, the evil of the effect is reduced to the evil of the cause; because the deficient effect comes from the deficient cause, as was said above (Articles [1],2). But we cannot proceed to infinity in this matter. Therefore, we must suppose one first evil as the cause of every evil."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Contraries agree in one genus, and they also agree in the nature of being; and therefore, although they have contrary particular cause, nevertheless we must come at last to one first common cause."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Privation and habit belong naturally to the same subject. Now the subject of privation is a being in potentiality, as was said above (Question [48], Article [3]). Hence, since evil is privation of good, as appears from what was said above (Question [48], Articles [1], 2,3), it is opposed to that good which has some potentiality, but not to the supreme good, who is pure act."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Increase in intensity is in proportion to the nature of a thing. And as the form is a perfection, so privation removes a perfection. Hence every form, perfection, and good is intensified by approach to the perfect term; but privation and evil by receding from that term. Hence a thing is not said to be evil and worse, by reason of access to the supreme evil, in the same way as it is said to be good and better, by reason of access to the supreme good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: No being is called evil by participation, but by privation of participation. Hence it is not necessary to reduce it to any essential evil."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 5: Evil can only have an accidental cause, as was shown above (Article [1]). Hence reduction to any 'per se' cause of evil is impossible. And to say that evil is in the greater number is simply  false. For things which are generated and corrupted, in which alone can there be natural evil, are the smaller part of the whole universe. And again, in every species the defect of nature is in the smaller number. In man alone does evil appear as in the greater number; because the good of man as regards the senses is not the good of man as man---that is, in regard to reason; and more men seek good in regard to the senses than good according to reason."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 },
                 "6": {
-                    "id": 6,
                     "question": 49,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 6: In the causes of evil we do not proceed to infinity, but reduce all evils to some good cause, whence evil follows accidentally."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 3
                 }
             },
             "counter": [

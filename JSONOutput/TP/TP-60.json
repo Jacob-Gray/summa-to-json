@@ -29,62 +29,69 @@
             "title": [
                 "Whether a sacrament is a kind of sign?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that a sacrament is not a kind of sign. For sacrament appears to be derived from \"sacring\" [sacrando]; just as medicament, from \"medicando\" [healing]. But this seems to be of the nature of a cause rather than of a sign. Therefore a sacrament is a kind of cause rather than a kind of sign."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, sacrament seems to signify something hidden, according to Tobias 12:7: \"It is good to hide the secret [sacramentum] of a king\"; and Eph. 3:9: \"What is the dispensation of the mystery [sacramenti] which hath been hidden from eternity in God.\" But that which is hidden, seems foreign to the nature of a sign; for \"a sign is that which conveys something else to the mind, besides the species which it impresses on the senses,\" as Augustine explains (De Doctr. Christ. ii). Therefore it seems that a sacrament is not a kind of sign."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, an oath is sometimes called a sacrament: for it is written in the Decretals (Caus. xxii, qu. 5): \"Children who have not attained the use of reason must not be obliged to swear: and whoever has foresworn himself once, must no more be a witness, nor be allowed to take a sacrament,\" i.e. an oath. But an oath is not a kind of sign, therefore it seems that a sacrament is not a kind of sign."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Because medicine is an efficient cause of health, consequently whatever things are denominated from medicine are to be referred to some first active cause: so that a medicament implies a certain causality. But sanctity from which a sacrament is denominated, is not there taken as an efficient cause, but rather as a formal or a final cause. Therefore it does not follow that a sacrament need always imply causality."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: This argument considers sacrament in the sense of a \"sacred secret.\" Now not only God's but also the king's, secret, is said to be sacred and to be a sacrament: because according to the ancients, whatever it was unlawful to lay violent hands on was said to be holy or sacrosanct, such as the city walls, and persons of high rank. Consequently those secrets, whether Divine or human, which it is unlawful to violate by making them known to anybody whatever, are called \"sacred secrets or sacraments.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Even an oath has a certain relation to sacred things, in so far as it consists in calling a sacred thing to witness. And in this sense it is called a sacrament: not in the sense in which we speak of sacraments now; the word \"sacrament\" being thus used not equivocally but analogically, i.e. by reason of a different relation to the one thing, viz. something sacred."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -102,62 +109,69 @@
             "title": [
                 "Whether every sign of a holy thing is a sacrament?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that not every sign of a sacred thing is a sacrament. For all sensible creatures are signs of sacred things;  according to Rm. 1:20: \"The invisible things of God are clearly seen being understood by the things that are made.\" And yet all sensible things cannot be called sacraments. Therefore not every sign of a sacred thing is a sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, whatever was done under the Old Law was a figure of Christ Who is the \"Holy of Holies\" (Dan. 9:24), according to 1 Cor. 10:11: \"All (these) things happened to them in figure\"; and Col. 2:17: \"Which are a shadow of things to come, but the body is Christ's.\" And yet not all that was done by the Fathers of the Old Testament, not even all the ceremonies of the Law, were sacraments, but only in certain special cases, as stated in the FS, Question [101], Article [4]. Therefore it seems that not every sign of a sacred thing is a sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, even in the New Testament many things are done in sign of some sacred thing; yet they are not called sacraments; such as sprinkling with holy water, the consecration of an altar, and such like. Therefore not every sign of a sacred thing is a sacrament."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Sensible creatures signify something holy, viz. Divine wisdom and goodness inasmuch as these are holy in themselves; but not inasmuch as we are made holy by them. Therefore they cannot be called sacraments as we understand sacraments now."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Some things pertaining to the Old Testament signified the holiness of Christ considered as holy in Himself. Others signified His holiness considered as the cause of our holiness; thus the sacrifice of the Paschal Lamb signified Christ's Sacrifice whereby we are made holy: and such like are properly styled sacraments of the Old Law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Names are given to things considered in reference to their end and state of completeness. Now a disposition is not an end, whereas perfection is. Consequently things that signify disposition to holiness are not called sacraments, and with regard to these the objection is verified: only those are called sacraments which signify the perfection of holiness in man."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -175,62 +189,69 @@
             "title": [
                 "Whether a sacrament is a sign of one thing only?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that a sacrament is a sign of one thing only. For that which signifies many things is an ambiguous sign, and consequently occasions deception: this is clearly seen in equivocal words. But all deception should be removed from the Christian religion, according to Col. 2:8: \"Beware lest any man cheat you by philosophy and vain deceit.\" Therefore it seems that a sacrament is not a sign of several things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, as stated above (Article [2]), a sacrament signifies a holy thing in so far as it makes man holy. But there is only one cause of man's holiness, viz. the blood of Christ; according to Heb. 13:12: \"Jesus, that He might sanctify the people by His own blood, suffered without the gate.\" Therefore it seems that a sacrament does not signify several things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it has been said above (Article [2], ad 3) that a sacrament signifies properly the very end of sanctification. Now the end of sanctification is eternal life, according to Rm. 6:22: \"You have your fruit unto sanctification, and the end life everlasting.\" Therefore it seems that the sacraments signify one thing only, viz. eternal life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Then is a sign ambiguous and the occasion of deception, when it signifies many things not ordained to one another. But when it signifies many things inasmuch as, through being mutually ordained, they form one thing, then the sign is not ambiguous but certain: thus this word \"man\" signifies the soul and body inasmuch as together they form the human nature. In this way a sacrament signifies the three things aforesaid, inasmuch as by being in a certain order they are one thing."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Since a sacrament signifies that which sanctifies, it must needs signify the effect, which is implied in the sanctifying cause as such."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: It is enough for a sacrament that it signify that perfection which consists in the form, nor is it necessary that it should signify only that perfection which is the end."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -248,62 +269,69 @@
             "title": [
                 "Whether a sacrament is always something sensible?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that a sacrament is not always something sensible. Because, according to the Philosopher (Prior. Anal. ii), every effect is a sign of its cause. But just as there are some sensible effects, so are there some intelligible effects; thus science is the effect of a demonstration. Therefore not every sign is sensible. Now all that is required for a sacrament is something that is a sign of some sacred thing, inasmuch as thereby man is sanctified, as stated above (Article [2]). Therefore something sensible is not required for a sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, sacraments belong to the kingdom of God and the Divine worship. But sensible things do not seem to belong to the Divine worship: for we are told (Jn. 4:24) that \"God is a spirit; and they that adore Him, must adore Him in spirit and in truth\"; and (Rm. 14:17) that \"the kingdom of God is not meat and drink.\" Therefore sensible things are not required for the sacraments."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further. Augustine says (De Lib. Arb. ii) that \"sensible things are goods of least account, since without them man can live aright.\" But the sacraments are necessary for man's salvation, as we shall show farther on (Question [61], Article [1]): so that man cannot live aright without them. Therefore sensible things are not required for the sacraments."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The name and definition of a thing is taken principally from that which belongs to a thing primarily and  essentially: and not from that which belongs to it through something else. Now a sensible effect being the primary and direct object of man's knowledge (since all our knowledge springs from the senses) by its very nature leads to the knowledge of something else: whereas intelligible effects are not such as to be able to lead us to the knowledge of something else, except in so far as they are manifested by some other thing, i.e. by certain sensibles. It is for this reason that the name sign is given primarily and principally to things which are offered to the senses; hence Augustine says (De Doctr. Christ. ii) that a sign \"is that which conveys something else to the mind, besides the species which it impresses on the senses.\" But intelligible effects do not partake of the nature of a sign except in so far as they are pointed out by certain signs. And in this way, too, certain things which are not sensible are termed sacraments as it were, in so far as they are signified by certain sensible things, of which we shall treat further on (Question [63], Article [1], ad 2; Article [3], ad 2; Question [73], Article [6]; Question [74], Article [1], ad 3)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Sensible things considered in their own nature do not belong to the worship or kingdom of God: but considered only as signs of spiritual things in which the kingdom of God consists."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Augustine speaks there of sensible things, considered in their nature; but not as employed to signify spiritual things, which are the highest goods."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -321,62 +349,69 @@
             "title": [
                 "Whether determinate things are required for a sacrament?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that determinate things are not required for a sacrament. For sensible things are required in sacraments for the purpose of signification, as stated above (Article [4]). But nothing hinders the same thing being signified by divers sensible things: thus in Holy Scripture God is signified metaphorically, sometimes by a stone (2 Kgs. 22:2; Zach. 3:9; 1 Cor. 10:4; Apoc. 4:3); sometimes by a lion (Is. 31:4; Apoc. 5:5); sometimes by the sun (Is. 60:19,20; Mal. 4:2), or by something similar. Therefore it seems that divers things can be suitable to the same sacrament. Therefore determinate things are not required for the sacraments."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the health of the soul is more necessary than that of the body. But in bodily medicines, which are ordained to the health of the body, one thing can be substituted for another which happens to be wanting. Therefore much more in the sacraments, which are spiritual remedies ordained to the health of the soul, can one thing be substituted for another when this happens to be lacking."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it is not fitting that the salvation of men be restricted by the Divine Law: still less by the Law of Christ, Who came to save all. But in the state of the Law of nature determinate things were not required in the sacraments, but were put to that use through a vow, as appears from Gn. 28, where Jacob vowed that he would offer to God tithes and peace-offerings. Therefore it  seems that man should not have been restricted, especially under the New Law, to the use of any determinate thing in the sacraments."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Though the same thing can be signified by divers signs, yet to determine which sign must be used belongs to the signifier. Now it is God Who signifies spiritual things to us by means of the sensible things in the sacraments, and of similitudes in the Scriptures. And consequently, just as the Holy Ghost decides by what similitudes spiritual things are to be signified in certain passages of Scripture, so also must it be determined by Divine institution what things are to be employed for the purpose of signification in this or that sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Sensible things are endowed with natural powers conducive to the health of the body: and therefore if two of them have the same virtue, it matters not which we use. Yet they are ordained unto sanctification not through any power that they possess naturally, but only in virtue of the Divine institution. And therefore it was necessary that God should determine the sensible things to be employed in the sacraments."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Augustine says (Contra Faust. xix), diverse sacraments suit different times; just as different times are signified by different parts of the verb, viz. present, past, and future. Consequently, just as under the state of the Law of nature man was moved by inward instinct and without any outward law, to worship God, so also the sensible things to be employed in the worship of God were determined by inward instinct. But later on it became necessary for a law to be given (to man) from without: both because the Law of nature had become obscured by man's sins; and in order to signify more expressly the grace of Christ, by which the human race is sanctified. And hence the need for those things to be determinate, of which men have to make use in the sacraments. Nor is the way of salvation narrowed thereby: because the things which need to be used in the sacraments, are either in everyone's possession or can be had with little trouble."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -394,62 +429,69 @@
             "title": [
                 "Whether words are required for the signification of the sacraments?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that words are not required for the signification of the sacraments. For Augustine says (Contra Faust. xix): \"What else is a corporeal sacrament but a kind of visible word?\" Wherefore to add words to the sensible things in the sacraments seems to be the same as to add words to words. But this is superfluous. Therefore words are not required besides the sensible things in the sacraments ."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, a sacrament is some one thing, but it does not seem possible to make one thing of those that belong to different genera. Since, therefore, sensible things and words are of different genera, for sensible things are the product of nature, but words, of reason; it seems that in the sacraments, words are not required besides sensible things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the sacraments of the New Law succeed those of the Old Law: since \"the former were instituted when the latter were abolished,\" as Augustine says (Contra Faust. xix). But no form of words was required in the sacraments of the Old Law. Therefore neither is it required in those of the New Law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The sensible elements of the sacraments are called words by way of a certain likeness, in so far as they partake of a certain significative power, which resides principally in the very words, as stated above. Consequently it is not a superfluous repetition to add words to the visible element in the sacraments; because one determines the other, as stated above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Although words and other sensible things are not in the same genus, considered in their natures, yet have they something in common as to the thing signified by them: which is more perfectly done in words than in other things. Wherefore in the sacraments, words and things, like form and matter, combine in the formation of one thing, in so far as the signification of things is completed by means of words, as above stated. And under words are comprised also sensible actions, such as cleansing and anointing and such like: because they have a like signification with the things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Augustine says (Contra Faust. xix), the sacraments of things present should be different from sacraments of things to come. Now the sacraments of the Old Law foretold the coming of Christ. Consequently they did not signify Christ so clearly as the sacraments of the New Law, which flow from Christ Himself, and have a certain likeness to Him, as stated above. Nevertheless in the Old Law, certain words were used in things pertaining to the worship of God, both by the priests, who were the ministers of those sacraments, according to Num. 6:23,24: \"Thus shall you bless the children of Israel, and you shall say to them: The Lord bless thee,\" etc.; and by those who made use of those sacraments, according to Dt. 26:3: \"I profess this day before the Lord thy God,\" etc."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -469,56 +511,61 @@
             "title": [
                 "Whether determinate words are required in the sacraments?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that determinate words are not required in the sacraments. For as the Philosopher says (Peri Herm. i), \"words are not the same for all.\" But salvation, which is sought through the sacraments, is the same for all. Therefore determinate words are not required in the sacraments."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, words are required in the sacraments forasmuch as they are the principal means of signification, as stated above (Article [6]). But it happens that various words mean the same. Therefore determinate words are not required in the sacraments."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, corruption of anything changes its species. But some corrupt the pronunciation of words, and yet it is not credible that the sacramental effect is hindered thereby; else unlettered men and stammerers, in conferring sacraments, would frequently do so invalidly. Therefore it seems that determinate words are not required in the sacraments."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As Augustine says (Tract. lxxx super Joan.), the word operates in the sacraments \"not because it is spoken,\" i.e. not by the outward sound of the voice, \"but because it is believed\" in accordance with the sense of the words which is held by faith. And this sense is indeed the same for all, though the same words as to their sound be not used by all. Consequently no matter in what language this sense is expressed, the sacrament is complete."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Although it happens in every language that various words signify the same thing, yet one of those words is that which those who speak that language use principally and more commonly to signify that particular thing: and this is the word which should be used for the sacramental signification. So also among sensible things, that one is used for the sacramental signification which is most commonly employed for the action by which the sacramental effect is signified: thus water is most commonly used by men for bodily cleansing, by which the spiritual cleansing is signified: and therefore water is employed as the matter of baptism."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
@@ -526,7 +573,9 @@
                         "Reply to Objection 3: If he who corrupts the pronunciation of the sacramental words---does so on purpose, he does not seem to intend to do what the Church intends: and thus the sacrament seems to be defective. But if he do this through error or a slip of the tongue, and if he so far mispronounce the words as to deprive them of sense, the sacrament seems to be defective. This would be the case especially if the mispronunciation be in the beginning of a word, for instance, if one were to say \"in nomine matris\" instead of \"in  nomine Patris.\" If, however, the sense of the words be not entirely lost by this mispronunciation, the sacrament is complete. This would be the case principally if the end of a word be mispronounced; for instance, if one were to say \"patrias et filias.\" For although the words thus mispronounced have no appointed meaning, yet we allow them an accommodated meaning corresponding to the usual forms of speech. And so, although the sensible sound is changed, yet the sense remains the same.",
                         "What has been said about the various mispronunciations of words, either at the beginning or at the end, holds forasmuch as with us a change at the beginning of a word changes the meaning, whereas a change at the end generally speaking does not effect such a change: whereas with the Greeks the sense is changed also in the beginning of words in the conjugation of verbs.",
                         "Nevertheless the principle point to observe is the extent of the corruption entailed by mispronunciation: for in either case it may be so little that it does not alter the sense of the words; or so great that it destroys it. But it is easier for the one to happen on the part of the beginning of the words, and the other at the end."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -544,63 +593,70 @@
             "title": [
                 "Whether it is lawful to add anything to the words in which the sacramental form consists?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that it is not lawful to add anything to the words in which the sacramental form consists. For these sacramental words are not of less importance than are the words of Holy Scripture. But it is not lawful to add anything to, or to take anything from, the words of Holy Scripture: for it is written (Dt. 4:2): \"You shall not add to the word that I speak to you, neither shall you take away from it\"; and (Apoc. 22:18,19): \"I testify to everyone that heareth the words of the prophecy of this book: if any man shall add to these things, God shall add to him the plagues written in this book. And if any man shall take away . . . God shall take away his part out of the book of life.\" Therefore it seems that neither is it lawful to add anything to, or to take anything from, the sacramental forms."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, in the sacraments words are by way of form, as stated above (Article [6], ad 2; Article [7]). But any addition or subtraction in forms changes the species, as also in numbers (Metaph. viii). Therefore it seems that if anything be added to or subtracted from a sacramental form, it will not be the same sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, just as the sacramental form demands a certain number of words, so does it require that these words should be pronounced in a certain order and without interruption. If therefore, the sacrament is not rendered invalid by addition or subtraction of words, in like manner it seems that neither is it, if the words be pronounced in a different order or with interruptions."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: It is not lawful to add anything to the words of Holy Scripture as regards the sense; but many words are added by Doctors by way of explanation of the Holy Scriptures. Nevertheless, it is not lawful to add even words to Holy Scripture as though such words were a part thereof, for this would amount to forgery. It would amount to the same if anyone were to pretend that something is essential to a sacramental form, which is not so."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Words belong to a sacramental form by reason of the sense signified by them. Consequently any addition or suppression of words which does not add to or take from the essential sense, does not destroy the essence of the sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 60,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: If the words are interrupted to such an extent that the intention of the speaker is interrupted, the sacramental sense is destroyed, and consequently, the validity of the sacrament. But this is not the case if the interruption of the speaker is so slight, that his intention and the sense of the words is not interrupted.",
                         "The same is to be said of a change in the order of the words. Because if this destroys the sense of the words, the sacrament is invalidated: as happens when a negation is made to precede or follow a word. But if the order is so changed that the sense of the words does not vary, the sacrament is not invalidated, according to the Philosopher's dictum: \"Nouns and verbs mean the same though they be transposed\" (Peri Herm. x)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [

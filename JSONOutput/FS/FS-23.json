@@ -23,62 +23,69 @@
             "title": [
                 "Whether the passions of the concupiscible part are different from those of the irascible part?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the same passions are in the irascible and concupiscible parts. For the Philosopher says (Ethic. ii, 5) that the passions of the soul are those emotions \"which are followed by joy or sorrow.\" But joy and sorrow are in the concupiscible part. Therefore all the passions are in the concupiscible part, and not some in the irascible, others in the concupiscible part."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, on the words of Mt. 13:33, \"The kingdom of heaven is like to leaven,\" etc., Jerome's gloss says: \"We should have prudence in the reason; hatred of vice in the irascible faculty; desire of virtue, in the concupiscible part.\" But hatred is in the concupiscible faculty, as also is love, of which it is the contrary, as is stated in Topic. ii, 7. Therefore the same passion is in the concupiscible and irascible faculties."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, passions and actions differ specifically according to their objects. But the objects of the irascible and concupiscible passions are the same, viz. good and evil. Therefore the same passions are in the irascible and concupiscible faculties."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: As stated in the FP, Question [81], Article [2], the irascible faculty is bestowed on animals, in order to remove the obstacles that hinder the concupiscible power from tending towards its object, either by making some good difficult to obtain, or by making some evil hard to avoid. The result is that all the irascible passions terminate in the concupiscible passions: and thus it is that even the passions which are in the irascible faculty are followed by joy and sadness which are in the concupiscible faculty."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Jerome ascribes hatred of vice to the irascible faculty, not by reason of hatred, which is properly a concupiscible passion; but on account of the struggle, which belongs to the irascible power."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Good, inasmuch as it is delightful, moves the concupiscible power. But if it prove difficult to obtain, from this very fact it has a certain contrariety to the concupiscible power: and hence the need of another power tending to that good. The same applies to evil. And this power is the irascible faculty. Consequently the concupiscible passions are specifically different from the irascible passions."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,33 +104,37 @@
             "title": [
                 "Whether the contrariety of the irascible passions is based on the contrariety of good and evil?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the contrariety of the irascible passions is based on no other contrariety than that of good and evil. For the irascible passions are ordained to the concupiscible passions, as stated above (Article [1], ad 1). But the contrariety of the concupiscible passions is no other than that of good and evil; take, for instance, love and hatred, joy and sorrow. Therefore the same applies to the irascible passions."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, passions differ according to their objects; just as movements differ according to their termini. But there is no other contrariety of movements, except that of the termini, as is stated in Phys. v, 3. Therefore there is no other contrariety of passions, save that of the objects. Now the object of the appetite is good or evil. Therefore in no appetitive power can there be contrariety of passions other than that of good and evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, \"every passion of the soul is by way of approach and withdrawal,\" as Avicenna declares in his sixth book of Physics. Now approach results from the apprehension of good; withdrawal, from the apprehension of evil: since just as \"good is what all desire\" (Ethic. i, 1), so evil is what all shun. Therefore, in the passions of the soul, there can be no other contrariety than that of good and evil."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {},
@@ -145,33 +156,37 @@
             "title": [
                 "Whether any passion of the soul has no contrariety?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that every passion of the soul has a contrary. For every passion of the soul is either in the irascible or in the concupiscible faculty, as stated above (Article [1]). But both kinds of passion have their respective modes of contrariety. Therefore every passion of the soul has its contrary."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, every passion of the soul has either good or evil for its object; for these are the common objects of the appetitive part. But a passion having good for its object, is contrary to a passion having evil for its object. Therefore every passion has a contrary."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, every passion of the soul is in respect of approach or withdrawal, as stated above (Article [2]). But every approach has a corresponding contrary withdrawal, and vice versa. Therefore every passion of the soul has a contrary."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {},
@@ -193,33 +208,37 @@
             "title": [
                 "Whether in the same power, there are any passions, specifically different, but not contrary to one another?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that there cannot be, in the same power, specifically different passions that are not contrary to one another. For the passions of the soul differ according to their objects. Now the objects of the soul's passions are good and evil; and on this distinction is based the contrariety of the passions. Therefore no passions of the same power, that are not contrary to one another, differ specifically."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, difference of species implies a difference of form. But every difference of form is in respect of some contrariety, as stated in Metaph. x, 8. Therefore passions of the same power, that are not contrary to one another, do not differ specifically."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, since every passion of the soul consists in approach or withdrawal in respect of good or evil, it seems that every difference in the passions of the soul must needs arise from the difference of good and evil; or from the difference of approach and withdrawal; or from degrees in approach or withdrawal. Now the  first two differences cause contrariety in the passions of the soul, as stated above (Article [2]): whereas the third difference does not diversify the species; else the species of the soul's passions would be infinite. Therefore it is not possible for passions of the same power to differ in species, without being contrary to one another."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {},

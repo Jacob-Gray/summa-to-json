@@ -7,10 +7,6 @@ class Display {
      * @param {Context} context 
      */
     constructor(context, type = null) {
-        if (context.id) {
-            this.id = context.id;
-        }
-
         if (context.question) {
             this.question = context.question;
         }

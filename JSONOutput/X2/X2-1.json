@@ -10,68 +10,74 @@
     },
     "article": {
         "1": {
-            "id": 1,
             "question": 1,
             "type": "article",
             "part": "XP App. 2",
             "text": [],
             "title": [],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 1,
                     "type": "objection",
                     "part": "XP App. 2",
                     "text": [
                         "Objection 1: It would seem that there is not a Purgatory after this life. For it is said (Apoc. 14:13): \"Blessed are the dead who die in the Lord. From henceforth now, saith the Spirit, that they may rest from their labors.\" Therefore after this life no cleansing labor awaits those who die in the Lord, nor those who do not die in the Lord, since they cannot be cleansed. Therefore there is no Purgatory after this life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 1,
                     "type": "objection",
                     "part": "XP App. 2",
                     "text": [
                         "Objection 2: Further, as charity is to an eternal reward, so is mortal sin to eternal punishment. Now those who die in mortal sin are forthwith consigned to eternal punishment. Therefore those who die in charity go at once to their reward; and consequently no Purgatory awaits them after this life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 1,
                     "type": "objection",
                     "part": "XP App. 2",
                     "text": [
                         "Objection 3: Further, God Who is supremely merciful is more inclined to reward good than to punish evil. Now just as those who are in the state of charity, do certain evil things which are not deserving of eternal punishment, so those who are in mortal sin, at times perform actions, generically good, which are not deserving of an eternal reward. Therefore since these good actions are not rewarded after this life in those who will be damned, neither should those evil actions be punished after this life. Hence the same conclusion follows."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 1,
                     "type": "reply",
                     "part": "XP App. 2",
                     "text": [
                         "Reply to Objection 1: The authority quoted is speaking of the labor of working for merit, and not of the labor of suffering to be cleansed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 1,
                     "type": "reply",
                     "part": "XP App. 2",
                     "text": [
                         "Reply to Objection 2: Evil has not a perfect cause, but results from each single defect: whereas good arises from one perfect cause, as Dionysius asserts [*Div. Nom. iv, 4]. Hence each defect is an obstacle to the perfection of good; while not every good hinders some consummation of evil, since there is never evil without some good. Consequently venial sin prevents one who has charity from obtaining the perfect good, namely eternal life, until he be cleansed; whereas mortal sin cannot be hindered by some conjoined good from bringing a man forthwith to the extreme of evils."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 1,
                     "type": "reply",
                     "part": "XP App. 2",
                     "text": [
                         "Reply to Objection 3: He that falls into mortal sin, deadens all the good he has done before, and what he does, while in mortal sin, is dead: since by offending God he deserves to lose all the good he has from God. Wherefore no reward after this life awaits him who dies in mortal sin, whereas sometimes punishment awaits him who dies in charity, which does not always wash away the sin which it finds, but only that which is contrary to it."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -90,62 +96,69 @@
             "title": [
                 "Whether it is the same place where souls are cleansed, and the damned punished?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 1,
                     "type": "objection",
                     "part": "XP App. 2",
                     "text": [
                         "Objection 1: It would seem that it is not the same place where souls are cleansed and the damned punished. For the punishment of the damned is eternal, according to Mt. 25:46, \"These shall go into everlasting punishment [Vulg.: 'fire'].\" But the fire of Purgatory is temporary, as the Master says (Sent. iv, D, 21). Therefore the former and the latter are not punished together in the same place: and consequently these places must needs be distinct."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 1,
                     "type": "objection",
                     "part": "XP App. 2",
                     "text": [
                         "Objection 2: The punishment of hell is called by various names, as in Ps. 10:7, \"Fire and brimstone, and storms of winds,\" etc., whereas the punishment of Purgatory is called by one name only, namely fire. Therefore they are not punished with the same fire and in the same place."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 1,
                     "type": "objection",
                     "part": "XP App. 2",
                     "text": [
                         "Objection 3: Further, Hugh of St. Victor says (De Sacram. ii, 16): \"It is probable that they are punished in the very places where they sinned.\" And Gregory relates (Dial. iv, 40) that Germanus, Bishop of Capua, found Paschasius being cleansed in the baths. Therefore they are not cleansed in the same place as hell, but in  this world."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 1,
                     "type": "reply",
                     "part": "XP App. 2",
                     "text": [
                         "Reply to Objection 1: The fire of Purgatory is eternal in its substance, but temporary in its cleansing effect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 1,
                     "type": "reply",
                     "part": "XP App. 2",
                     "text": [
                         "Reply to Objection 2: The punishment of hell is for the purpose of affliction, wherefore it is called by the names of things that are wont to afflict us here. But the chief purpose of the punishment of Purgatory is to cleanse us from the remains of sin; and consequently the pain of fire only is ascribed to Purgatory, because fire cleanses and consumes."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 1,
                     "type": "reply",
                     "part": "XP App. 2",
                     "text": [
                         "Reply to Objection 3: This argument considers the point of special dispensation and not that of the common law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

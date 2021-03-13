@@ -24,44 +24,49 @@
             "title": [
                 "Whether confession delivers one from the death of sin?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that confession does not deliver one from the death of sin. For confession follows contrition. But contrition sufficiently blots out guilt. Therefore confession does not deliver one from the death of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, just as mortal sin is a fault, so is venial. Now confession renders venial that which was mortal before, as stated in the text (Sent. iv, D, 17). Therefore confession does not blot out guilt, but one guilt is changed into another."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Contrition has the desire of confession attached to it, and therefore it delivers penitents from death in the same way as the desire of Baptism delivers those who are going to be baptized."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: In the text venial does not designate guilt, but punishment that is easily expiated. and so it does not follow that one guilt is changed into another but that it is wholly done away. For \"venial\" is taken in three senses [*Cf. FS, Question [88], Article [2]]: first, for what is venial generically, e.g. an idle word: secondly, for what is venial in its cause, i.e. having within itself a motive of pardon, e.g. sins due to weakness: thirdly, for what is venial in the result, in which sense it is understood here, because the result of confession is that man's past guilt is pardoned."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "counter": [
@@ -79,35 +84,39 @@
             "title": [
                 "Whether confession delivers from punishment in some way?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that confession nowise delivers from punishment. For sin deserves no punishment but what is either eternal or temporal. Now eternal punishment is remitted by contrition, and temporal punishment by satisfaction. Therefore nothing of the punishment is remitted by confession."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, \"the will is taken for the deed\" [*Cf. Can. Magna Pietas, De Poenit., Dist. i], as stated in the text (Sent. iv, D, 17). Now he that is contrite has the intention to confess. wherefore his intention avails him as though he had already confessed, and so the confession which he makes afterwards remits no part of the punishment."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The will is not taken for the deed, if this is done by another, as in the case of Baptism: for the will to receive Baptism is not worth as much as the reception of Baptism. But a man's will is taken for the deed, when the latter is something done by him, entirely. Again, this is true of the essential reward, but not of the removal of punishment and the like, which come under the head of accidental and secondary reward. Consequently one who has confessed and received absolution will be less punished in Purgatory than one who has gone no further than contrition."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -126,44 +135,49 @@
             "title": [
                 "Whether confession opens paradise?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that confession does not open Paradise. For different sacraments have different effects. But it is the effect of Baptism to open Paradise. Therefore it is not the effect of confession."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is impossible to enter by a closed door before it be opened. But a dying man can enter heaven before making his confession. Therefore confession does not open Paradise."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although Baptism and Penance are different sacraments, they act in virtue of Christ's one Passion, whereby a way was opened unto Paradise."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: If the dying man was in mortal sin Paradise was closed to him before he conceived the desire to confess his sin, although afterwards it was opened by contrition implying a desire for confession, even before he actually confessed. Nevertheless the obstacle of the debt of punishment was not entirely removed before confession and satisfaction."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "counter": [
@@ -181,44 +195,49 @@
             "title": [
                 "Whether confession gives hope of salvation?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that hope of salvation should not be reckoned an effect of confession. For hope arises from all  meritorious acts. Therefore, seemingly, it is not the proper effect of confession."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, we arrive at hope through tribulation, as appears from Rm. 5:3,4. Now man suffers tribulation chiefly in satisfaction. Therefore, satisfaction rather than confession gives hope of salvation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: It is not our actions, but the grace of our Redeemer, that is the principal cause of the hope of salvation: and since confession relies upon the grace of our Redeemer, it gives hope of salvation, not only as a meritorious act, but also as part of a sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Tribulation gives hope of salvation, by making us exercise our own virtue, and by paying off the debt of punishment: while confession does so also in the way mentioned above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "counter": [
@@ -236,80 +255,89 @@
             "title": [
                 "Whether a general confession suffices to blot out forgotten mortal sins?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a general confession does not suffice to blot out forgotten mortal sins. For there is no necessity to confess again a sin which has been blotted out by confession. If, therefore, forgotten sins were forgiven by a general confession, there would be no need to confess them when they are called to mind."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, whoever is not conscious of sin, either is not guilty of sin, or has forgotten his sin. If, therefore, mortal sins are forgiven by a general confession, whoever is not conscious of a mortal sin, can be certain that he is free from mortal sin, whenever he makes a general confession: which is contrary to what the Apostle says (1 Cor. 4:4), \"I am not conscious to myself of anything, yet am I not hereby justified.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, no man profits by neglect. Now a man cannot forget a mortal sin without neglect, before it is forgiven him. Therefore he does not profit by his forgetfulness so that the sin is forgiven him without special mention thereof in confession."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 10,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, that which the penitent knows nothing about is  further from his knowledge than that which he has forgotten. Now a general confession does not blot out sins committed through ignorance, else heretics, who are not aware that certain things they have done are sinful, and certain simple people, would be absolved by a general confession, which is false. Therefore a general confession does not take away forgotten sins."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: In sacramental confession, not only is absolution required, but also the judgment of the priest who imposes satisfaction is awaited. Wherefore although the latter has given absolution, nevertheless the penitent is bound to confess in order to supply what was wanting to the sacramental confession."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: As stated above, confession does not produce its effect, unless contrition be presupposed; concerning which no man can know whether it be true contrition, even as neither can one know for certain if he has grace. Consequently a man cannot know for certain whether a forgotten sin has been forgiven him in a general confession, although he may think so on account of certain conjectural signs."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: He does not profit by his neglect, since he does not receive such full pardon, as he would otherwise have received, nor is his merit so great. Moreover he is bound to confess the sin when he calls it to mind."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 10,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Ignorance of the law does not excuse, because it is a sin by itself: but ignorance of fact does excuse. Therefore if a man omits to confess a sin, because he does not know it to be a sin, through ignorance of the Divine law, he is not excused from insincerity. on the other hand, he would be excused, if he did not know it to be a sin, through being unaware of some particular circumstance, for instance, if he had knowledge of another's wife, thinking her his own. Now forgetfulness of an act of sin comes under the head of ignorance of fact, wherefore it excuses from the sin of insincerity in confession, which is an obstacle to the fruit of absolution and confession."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 }
             },
             "counter": [

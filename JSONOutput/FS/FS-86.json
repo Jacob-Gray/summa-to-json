@@ -21,62 +21,69 @@
             "title": [
                 "Whether sin causes a stain on the soul?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 86,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sin causes no stain on the soul. For a higher nature cannot be defiled by contact with a lower nature: hence the sun's ray is not defiled by contact with tainted bodies, as Augustine says (Contra Quinque Haereses v). Now the human soul is of a much higher nature than mutable things, to which it turns by sinning. Therefore it does not contract a stain from them by sinning."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 86,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, sin is chiefly in the will, as stated above (Question [74], Articles [1],2). Now the will is in the reason, as stated in De Anima iii, text. 42. But the reason or intellect is not stained by considering anything whatever; rather indeed is it perfected thereby. Therefore neither is the will stained by sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 86,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, if sin causes a stain, this stain is either something positive, or a pure privation. If it be something positive, it can only be either a disposition or a habit: for it seems that nothing else can be caused by an act. But it is neither disposition nor habit: for it happens that a stain remains even after the removal of a disposition or habit; for instance, in a man who after committing a mortal sin of prodigality, is so changed as to fall into a sin of the opposite vice. Therefore the stain does not denote anything positive in the soul. Again, neither is it a pure privation. Because all sins agree on the part of aversion and privation of grace: and so it would follow that there is but one stain caused by all sins. Therefore the stain is not the effect of sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 86,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The soul is not defiled by inferior things, by their own power, as though they acted on the soul: on the contrary, the soul, by its own action, defiles itself, through cleaving to them inordinately, against the light of reason and of the Divine law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 86,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The action of the intellect is accomplished by the intelligible thing being in the intellect, according to the mode of the intellect, so that the intellect is not defiled, but perfected, by them. On the other hand, the act of the will consists in a movement towards things themselves, so that love attaches the soul to the thing loved. Thus it is that the soul is stained, when it cleaves inordinately, according to Osee 9:10: \"They . . . became abominable as those things were which they loved.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 86,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The stain is neither something positive in the soul, nor does it denote a pure privation: it denotes a privation of the soul's brightness in relation to its cause, which is sin; wherefore diverse sins occasion diverse stains. It is like a shadow, which is the privation of light through the interposition of a body, and which varies according to the diversity of the interposed bodies."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -94,62 +101,69 @@
             "title": [
                 "Whether the stain remains in the soul after the act of sin?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 86,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the stain does not remain in the soul after the act of sin. For after an action, nothing remains in the soul except habit or disposition. But the stain is not a habit or disposition, as stated above (Article [1], Objection [3]). Therefore the stain does not remain in the soul after the act of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 86,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the stain is to the sin what the shadow is to the body, as stated above (Article [1], ad 3). But the shadow does not remain when the body has passed by. Therefore the stain does not remain in the soul when the act of sin is past."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 86,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, every effect depends on its cause. Now the cause of the stain is the act of sin. Therefore when the act of sin is no longer there, neither is the stain in the soul."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 86,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Nothing positive remains in the soul after the act of sin, except the disposition or habit; but there does remain something private, viz. the privation of union with the Divine light."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 86,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: After the interposed body has passed by, the transparent body remains in the same position and relation as regards the illuminating body, and so the shadow passes at once. But when the sin is past, the soul does not remain in the same relation to God: and so there is no comparison."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 86,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The act of sin parts man from God, which parting causes the defect of brightness, just as local movement causes local parting. Wherefore, just as when movement ceases, local distance is not removed, so neither, when the act of sin ceases, is the stain removed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

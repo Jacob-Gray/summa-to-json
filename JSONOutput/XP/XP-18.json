@@ -23,54 +23,60 @@
             "title": [
                 "Whether the power of the keys extends to the remission of guilt? [*St. Thomas here follows the opinion of Peter Lombard, and replies in the negative. Later in life he altered his opinion. Cf. TP, Question [62], Article [1]; TP, Question [64], Article [1]; TP, Question [86], Article [6]]"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the power of the keys extends to the remission of guilt. For it was said to the disciples (Jn. 20:23): \"Whose sins you shall forgive, they are forgiven them.\" Now this was not said in reference to the declaration only, as the Master states (Sent. iv, D, 18), for in that case the priest of the New Testament would have no more power than the priest of the Old Testament. Therefore he exercises a power over the remission of the guilt."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, in Penance grace is given for the remission of sin. Now the priest is the dispenser of this sacrament by virtue of the keys. Therefore, since grace is opposed to sin, not on the part of the punishment, but on the part of the guilt, it seems that the priest operates unto the remission of sin by virtue of the keys."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the priest receives more power by his consecration than the baptismal water by its sanctification. Now the baptismal water receives the power \"to touch the body and cleanse the heart,\" as Augustine says (Tract. lxxx in Joan.). Much more, therefore, does the priest, in his consecration, receive the power to cleanse the heart from the stain of sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: As the Master says in the text (Sent. iv, D, 18), the power of forgiving sins was entrusted to priests, not that they may forgive them, by their own power, for this belongs to God, but that, as ministers, they may declare [*See note at the beginning of this article] the operation of God Who forgives. Now this happens in three ways. First, by a declaration, not of present, but of future forgiveness, without co-operating therein in any way: and thus the sacraments of the Old Law signified the Divine operation, so that the priest of the Old Law did but declare and did not operate the forgiveness of sins. Secondly, by a declaration of present forgiveness without co-operating in it at all: and thus some say that the sacraments of the New Law signify the bestowal of grace, which God gives when the sacraments are conferred, without the sacraments containing any power productive of grace, according to which opinion, even the power of the keys would merely declare the Divine operation that has its effect in the remission of guilt when the sacrament is conferred. Thirdly, by signifying the Divine operation causing then and there the remission of guilt, and by co-operating towards this effect dispositively and instrumentally: and then, according to another and more common opinion, the sacraments of the New Law declare the cleansing effected by God. In this way also the priest of the New Testament declares the recipient to be absolved from guilt, because in speaking of the sacraments, what is ascribed to the power of the ministers must be consistent with the sacrament. Nor is it unreasonable that the keys of the Church should dispose the penitent to the remission of his guilt, from the fact that the guilt is already remitted, even as neither is it unreasonable that Baptism, considered in itself, causes a disposition in one who is already sanctified."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Neither the sacrament of Penance, nor the sacrament of Baptism, by its operation, causes grace, or the remission of guilt, directly, but only dispositively [*St. Thomas here follows the opinion of Peter Lombard, and replies in the negative. Later in life he altered his opinion. Cf. TP, Question [62], Article [1]; TP, Question [64], Article [1]; TP, Question [86], Article [6]]. Hence the Reply to the Third Objection is evident.",
                         "The other arguments show that the power of the keys does not effect the remission of guilt directly, and this is to be granted."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "counter": [
@@ -89,74 +95,81 @@
             "title": [
                 "Whether a priest can remit sin as to the punishment?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a priest cannot remit sin as to the punishment. For sin deserves eternal and temporal punishment. But after the priest's absolution the penitent is still obliged to undergo temporal punishment either in Purgatory or in this world. Therefore the priest does not remit the punishment in any way."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the priest cannot anticipate the judgment of God. But Divine justice appoints the punishment which penitents have to undergo. Therefore the priest cannot remit any part of it."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, a man who has committed a slight sin, is not less susceptible to the power of the keys, than one who has committed a graver sin. Now if the punishment for the graver sin be lessened in any way through the priestly administrations, it would be possible for a sin to be so slight that the punishment which it deserves is no greater than that which has been remitted for the graver sin. Therefore the priest would be able to remit the entire punishment due for the slight sin: which is false."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, the whole of the temporal punishment due for a sin is of one kind. If, therefore, by a first absolution something is taken away from the punishment, it will be possible for something more to be taken away by a second absolution, so that the absolution can be so often repeated, that by virtue of the keys the whole punishment will be taken away, since the second absolution is not less efficacious than the first: and consequently that sin will be altogether unpunished, which is absurd."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The priest does not remit the entire temporal punishment, but part of it; wherefore the penitent still remains obliged to undergo satisfactory punishment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Christ's Passion was sufficiently satisfactory for the sins of the whole world, so that without prejudice to Divine justice something can be remitted from the punishment which a sinner deserves, in so far as the effect of Christ's Passion reaches him through the sacraments of the Church."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Some satisfactory punishment must remain for each sin, so as to provide a remedy against it. Wherefore though, by virtue of the absolution some measure of the punishment due to a grave sin is remitted, it does not follow that the same measure of punishment is remitted for each sin, because in that case some sin would remain without any punishment at all: but, by virtue of the keys, the punishments due to various sins are remitted in due proportion."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
@@ -164,7 +177,9 @@
                         "Reply to Objection 4: Some say that at the first absolution, as much as possible is remitted by virtue of the keys, and that, nevertheless, the second confession is valid, on account of the instruction  received, on account of the additional surety, on account of the prayers of the priest or confessor, and lastly on account of the merit of the shame.",
                         "But this does not seem to be true, for though there might be a reason for repeating the confession, there would be no reason for repeating the absolution, especially if the penitent has no cause to doubt about his previous absolution; for he might just as well doubt after the second as after the first absolution: even as we see that the sacrament of Extreme Unction is not repeated during the same sickness, for the reason that all that could be done through the sacrament, has been done once. Moreover, in the second confession, there would be no need for the confessor to have the keys, if the power of the keys had no effect therein.",
                         "For these reasons others say that even in the second absolution something of the punishment is remitted by virtue of the keys, because when absolution is given a second time, grace is increased, and the greater the grace received, the less there remains of the blemish of the previous sin, and the less punishment is required to remove that blemish. Wherefore even when a man is first absolved, his punishment is more or less remitted by virtue of the keys, according as he disposes himself more or less to receive grace; and this disposition may be so great, that even by virtue of his contrition the whole punishment is remitted, as we have already stated (Question [5], Article [2]). Consequently it is not unreasonable, if by frequent confession even the whole punishment be remitted, that a sin remain altogether unpunished, since Christ made satisfaction for its punishment."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -183,62 +198,69 @@
             "title": [
                 "Whether the priest can bind through the power of the keys?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the priest cannot bind by virtue of the power of the keys. For the sacramental power is ordained as a remedy against sin. Now binding is not a remedy for sin, but seemingly is rather conducive to an aggravation of the disease. Therefore, by the power of the keys, which is a sacramental power, the priest cannot bind."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, just as to loose or to open is to remove an obstacle, so to bind is to place an obstacle. Now an obstacle to heaven is sin, which cannot be placed on us by an extrinsic cause, since no sin is committed except by the will. Therefore the priest cannot bind."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the keys derive their efficacy from Christ's Passion. But binding is not an effect of the Passion. Therefore the priest cannot bind by the power of the keys."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The remainder of the punishment to which the priest binds the penitent, is the medicine which cleanses the latter from the blemish of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Not only sin, but also punishment is an obstacle to heaven: and how the latter is enjoined by the priest, has been said in the article."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Even the Passion of Christ binds us to some punishment whereby we are conformed to Him."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -257,62 +279,69 @@
             "title": [
                 "Whether the priest can bind and loose according to his own judgment?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It seems that the priest can bind and loose according to his own judgment. For Jerome [*Cf. Can. 86, Mensuram, De Poenit. Dist. i] says: \"The canons do not fix the length of time for doing penance so precisely as to say how each sin is to be amended, but leave the decision of this matter to the judgment of a discreet priest.\" Therefore it seems that he can bind and loose according to his own judgment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, \"The Lord commended the unjust steward, forasmuch as he had done wisely\" (Lk. 16:5), because he had allowed a liberal discount to his master's debtors. But God is more inclined to mercy than any temporal lord. Therefore it seems that the more punishment the priest remits, the more he is to be commended."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, Christ's every action is our instruction. Now on some sinners He imposed no punishment, but only amendment of life, as in the case of the adulterous woman (Jn. 8). Therefore it seems that the priest also, who is the vicar of Christ, can, according to his own judgment, remit the punishment, either wholly or in part."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This judgment should be guided entirely by the Divine instinct."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The steward is commended also for having done wisely. Therefore in the remission of the due punishment, there is need for discretion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 18,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Christ had the power of \"excellence\" in the sacraments, so that, by His own authority, He could remit the punishment wholly or in part, just as He chose. Therefore there is no comparison between Him and those who act merely as ministers."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

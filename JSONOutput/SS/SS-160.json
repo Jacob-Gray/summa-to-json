@@ -21,62 +21,69 @@
             "title": [
                 "Whether modesty is a part of temperance?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 160,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that modesty is not a part of temperance. For modesty is denominated from mode. Now mode is requisite in every virtue: since virtue is directed to good; and \"good,\" according to Augustine (De Nat. Boni 3), \"consists in mode, species, and order.\" Therefore modesty is a general virtue, and consequently should not be reckoned a part of temperance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 160,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, temperance would seem to be deserving of praise chiefly on account of its moderation. Now this gives modesty its name. Therefore modesty is the same as temperance, and not one of its parts."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 160,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, modesty would seem to regard the correction of our neighbor, according to 2 Tim. 2:24,25, \"The servant of the Lord must not wrangle, but be mild towards all men . . . with modesty admonishing them that resist the truth.\" Now admonishing wrong-doers is an act of justice or of charity, as stated above (Question [33], Article [1]). Therefore seemingly modesty is a part of justice rather than of temperance."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 160,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: When a name is common to many it is sometimes appropriated to those of the lowest rank; thus the common name of angel is appropriated to the lowest order of angels. In the same way, mode which is observed by all virtues in common, is specially appropriated to the virtue which prescribes the mode in the slightest things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 160,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Some things need tempering on account of their strength, thus we temper strong wine. But moderation is necessary in all things: wherefore temperance is more concerned with strong passions, and modesty about weaker passions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 160,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Modesty is to be taken there for the general moderation which is necessary in all virtues."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -94,54 +101,60 @@
             "title": [
                 "Whether modesty is only about outward actions?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 160,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that modesty is only about outward actions. For the inward movements of the passions cannot be known to other persons. Yet the Apostle enjoins (Phil. 4:5): \"Let your modesty be known to all men.\" Therefore modesty is only about outward actions."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 160,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the virtues that are about the passions are distinguished from justice which is about operations. Now modesty is seemingly one virtue. Therefore, if it be about outward works, it will not be concerned with inward passions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 160,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, no one same virtue is both about things pertaining to the appetite---which is proper to the moral virtues---and about things pertaining to knowledge---which is proper to the intellectual virtues---and again about things pertaining to the irascible and concupiscible faculties. Therefore, if modesty be one virtue, it cannot be about all these things."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 160,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The Apostle speaks of modesty as regarding externals. Nevertheless the moderation of the inner man may be shown by certain outward signs."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 160,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Various virtues assigned by various authorities are comprised under modesty. Wherefore nothing prevents modesty from regarding matters which require different virtues. Yet there is not so great a difference between the various parts of modesty, as there is between justice, which is about operations, and temperance, which is about passions, because in actions and passions that present no great difficulty on the part of the matter, but only on the part of moderation, there is but one virtue, one namely for each kind of moderation.",
                         "Wherefore the Reply to the Third Objection also is clear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [

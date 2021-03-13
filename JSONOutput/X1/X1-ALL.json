@@ -24,98 +24,109 @@
                     "title": [
                         "Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?"
                     ],
+                    "id": 1,
                     "objections": {
                         "1": {
-                            "id": 1,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 1: It would seem that souls which depart with none but original sin, suffer from a bodily fire and are punished by fire. For Augustine [*Fulgentius, De Fide ad Petrum, xxvii] says: \"Hold firmly and doubt not that children who depart this life without the sacrament of Baptism will be punished everlastingly.\" Now punishment denotes sensible pain. Therefore souls which depart this life with original sin alone, suffer from a bodily fire and are tormented with the pain of fire."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 1
                         },
                         "2": {
-                            "id": 2,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 2: Further, a greater fault deserves a greater punishment. Now original sin is greater than venial, because it contains more aversion, since it deprives its subject of grace, whereas venial sin is compatible with grace; and again because original sin is punished eternally, whereas venial sin is punished temporally. Seeing then that venial sin is deserving of the punishment of fire, much more so is original sin."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 1
                         },
                         "3": {
-                            "id": 3,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 3: Further, sins are more severely punished after this life than during lifetime, for in this life there is room for mercy. Now, sensible punishment corresponds to original sin in this life, for children who have only original sin are justly subject to many sensible punishments. Therefore sensible punishment is due to it after this life."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 1
                         },
                         "4": {
-                            "id": 4,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 4: Further, even as in actual sin there is aversion and conversion, so in original sin there is something corresponding to aversion, namely the privation of original justice, and something corresponding to conversion, namely concupiscence. Now the punishment of fire is due to actual sin by reason of the conversion. Therefore it is also due to original sin by reason of concupiscence."
-                            ]
+                            ],
+                            "id": 4,
+                            "article": 1
                         },
                         "5": {
-                            "id": 5,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 5: Further, after the resurrection the bodies of children will be either passible or impassible. If they be impassible---and no human body can be impassible except either on account of the gift of impassibility (as in the blessed) or by reason of original justice (as in the state of innocence)---it follows that the bodies of children will either have the gift of impassibility, and thus will be glorious, so that there will be no difference between baptized and non-baptized children, which is heretical, or else they will have original justice, and thus will be without original sin, and will not be punished for original sin, which is likewise heretical. If, on the other hand, they be passible, since everything passible suffers of necessity in the presence of the active, it follows that in the presence of active sensible bodies they will suffer sensible punishment."
-                            ]
+                            ],
+                            "id": 5,
+                            "article": 1
                         }
                     },
                     "replies": {
                         "1": {
-                            "id": 1,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 1: In the authority quoted punishment denotes, not pain of sense, but only pain of loss, which is the privation of the divine vision, even as in Scripture the word \"fire\" is often wont to signify any kind of punishment."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 1
                         },
                         "2": {
-                            "id": 2,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 2: Of all sins original sin is the least, because it is the least voluntary; for it is voluntary not by the will of the person, but only by the will of the origin of our nature. But actual sin, even venial, is voluntary by the will of the person in which it is; wherefore a lighter punishment is due to original than to venial sin. Nor does it matter that original sin is incompatible with grace; because privation of grace has the character, not of sin, but of punishment, except in so far as it is voluntary: for which reason that which is less voluntary is less sinful. Again it matters not that actual venial sin is deserving of temporal punishment, since this is accidental, for as much as he who falls venially has sufficient grace to attenuate the punishment. For if venial sin were in a person without grace, it would be punished eternally."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 1
                         },
                         "3": {
-                            "id": 3,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 3: There is no parity between pain of sense before and after death, since before death the pain of sense results from the power of the natural agent, whether the pain of sense be interior as fever or the like, or exterior as burning and so forth. Whereas after death nothing will act by natural power, but only according to the order of divine justice, whether the object of such action be the separate soul, on which it is clear that fire cannot act naturally, or the body after resurrection, since then all natural action will cease, through the cessation of the first  movable which is the cause of all bodily movement and alteration."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 1
                         },
                         "4": {
-                            "id": 4,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 4: Sensible pain corresponds to sensible pleasure, which is in the conversion of actual sin: whereas habitual concupiscence, which is in original sin, has no pleasure. Hence, sensible pain does not correspond thereto as punishment."
-                            ]
+                            ],
+                            "id": 4,
+                            "article": 1
                         },
                         "5": {
-                            "id": 5,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 5: The bodies of children will be impassible, not through their being unable in themselves to suffer, but through the lack of an external agent to act upon them: because, after the resurrection, no body will act on another, least of all so as to induce corruption by the action of nature, but there will only be action to the effect of punishing them by order of the divine justice. Wherefore those bodies to which pain of sense is not due by divine justice will not suffer punishment. On the other hand, the bodies of the saints will be impassible, because they will lack the capability of suffering; hence impassibility in them will be a gift, but not in children."
-                            ]
+                            ],
+                            "id": 5,
+                            "article": 1
                         }
                     },
                     "counter": [
@@ -135,98 +146,109 @@
                     "title": [
                         "Whether these same souls suffer spiritual affliction on account of the state in which they are?"
                     ],
+                    "id": 2,
                     "objections": {
                         "1": {
-                            "id": 1,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 1: It would seem that the souls in question suffer spiritual affliction on account of the state wherein they are, because as Chrysostom says (Hom. xxiii in Matth.), the punishment of God in that they will be deprived of seeing God will be more painful than their being burned in hell fire. Now these souls will be deprived of seeing God. Therefore they will suffer spiritual affliction thereby."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 2
                         },
                         "2": {
-                            "id": 2,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 2: Further, one cannot, without suffering, lack what one wishes to have. But these souls would wish to have the divine vision, else their will would be actually perverse. Therefore since they are deprived of it, seemingly they also suffer."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 2
                         },
                         "3": {
-                            "id": 3,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 3: Further, if it be said that they do not suffer, because they know that through no fault of theirs they are deprived thereof, on the contrary: Freedom from fault does not lessen but increases the pain of punishment: for a man does not grieve less for that he is disinherited or deprived of a limb through no fault of his. Therefore these souls likewise, albeit deprived of so great a good through no fault of theirs, suffer none the less."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 2
                         },
                         "4": {
-                            "id": 4,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 4: Further, as baptized children are in relation to the merit of Christ, so are unbaptized children to the demerit of Adam. But baptized children receive the reward of eternal life by virtue of Christ's merit. Therefore the unbaptized suffer pain through being deprived of eternal life on account of Adam's demerit."
-                            ]
+                            ],
+                            "id": 4,
+                            "article": 2
                         },
                         "5": {
-                            "id": 5,
                             "question": 1,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 5: Further, separation from what we love cannot be without pain. But these children will have natural knowledge of God, and for that very reason will love Him naturally. Therefore since they are separated from Him for ever, seemingly they cannot undergo this  separation without pain."
-                            ]
+                            ],
+                            "id": 5,
+                            "article": 2
                         }
                     },
                     "replies": {
                         "1": {
-                            "id": 1,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 1: In those who, having the use of free-will, are damned for actual sin, there was aptitude to obtain eternal life, but not in children, as stated above. Consequently there is no parity between the two."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 2
                         },
                         "2": {
-                            "id": 2,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 2: Although the will may be directed both to the possible and to the impossible as stated in Ethic. iii, 5, an ordinate and complete will is only of things which in some way are proportionate to our capability; and we grieve if we fail to obtain this will, but not if we fail in the will that is of impossibilities, and which should be called \"velleity\" [*Cf. FS, Question [13], Article [5], ad 1; TP, Question [21], Article [4]] rather than \"will\"; for one does not will such things absolutely, but one would if they were possible."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 2
                         },
                         "3": {
-                            "id": 3,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 3: Everyone has a claim to his own inheritance or bodily members, wherefore it is not strange that he should grieve at their loss, whether this be through his own or another's fault: hence it is clear that the argument is not based on a true comparison."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 2
                         },
                         "4": {
-                            "id": 4,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 4: The gift of Christ surpasses the sin of Adam, as stated in Rm. 5:15, seqq. Hence it does not follow that unbaptized children have as much of evil as the baptized have of good."
-                            ]
+                            ],
+                            "id": 4,
+                            "article": 2
                         },
                         "5": {
-                            "id": 5,
                             "question": 1,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 5: Although unbaptized children are separated from God as regards the union of glory, they are not utterly separated from Him: in fact they are united to Him by their share of natural goods, and so will also be able to rejoice in Him by their natural knowledge and love."
-                            ]
+                            ],
+                            "id": 5,
+                            "article": 2
                         }
                     },
                     "counter": [
@@ -268,54 +290,60 @@
                     "title": [
                         "Whether the pains of Purgatory surpass all the temporal pains of this life?"
                     ],
+                    "id": 1,
                     "objections": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 1: It would seem that the pains of Purgatory do not surpass all the temporal pains of this life. Because the more passive a thing is the more it suffers if it has the sense of being hurt. Now the body is more passive than the separate soul, both because it has contrariety to a fiery agent, and because it has matter which is susceptive of the agent's quality: and this cannot be said of the soul. Therefore the pain which the body suffers in this world is greater than the pain whereby the soul is cleansed after this life."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 1
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 2: Further, the pains of Purgatory are directly ordained against venial sins. Now since venial sins are the least grievous, the lightest punishment is due to them, if the measure of the stripes is according to the measure of the fault. Therefore the pain of Purgatory is the lightest of all."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 1
                         },
                         "3": {
-                            "id": 3,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 3: Further, since the debt of punishment is an effect of sin, it does not increase unless the sin increases. Now sin cannot increase in one whose sin is already remitted. Therefore if a mortal sin has been remitted in a man who has not fully paid the debt of punishment, this debt does not increase when he dies. But while he lived he was not in debt to the extent of the most grievous punishment. Therefore the pain that he will suffer after this life will not be more grievous to him than all other pains of this life."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 1
                         }
                     },
                     "replies": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 1: Although the soul is less passive than the body, it is more cognizant of actual suffering [passionis]: and where the sense of suffering is greater, there is the greater pain, though the suffering be less."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 1
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 2: The severity of that punishment is not so much a consequence of the degree of sin, as of the disposition of the person punished, because the same sin is more severely punished then than now. Even so a person who has a better temperament is punished more severely by the same sentence than another; and yet the judge acts justly in condemning both for the same crimes to the same punishment.",
                                 "This suffices for the Reply to the Third Objection."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 1
                         }
                     },
                     "counter": [
@@ -335,24 +363,27 @@
                     "title": [
                         "Whether this punishment is voluntary?"
                     ],
+                    "id": 2,
                     "objections": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 1: It would seem that this punishment is voluntary. For those who are in Purgatory are upright in heart. Now uprightness in heart is to conform one's will to God's, as Augustine says (Serm. i in Ps. 32). Therefore, since it is God's will that they be punished, they will suffer that punishment voluntarily."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 2
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 2: Further, every wise man wills that without which he cannot obtain the end he has in view. Now those who are in Purgatory know that they cannot obtain glory, unless they be  punished first. Therefore they are punished willingly."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 2
                         }
                     },
                     "replies": {},
@@ -373,24 +404,27 @@
                     "title": [
                         "Whether the soul in Purgatory are punished by the demons?"
                     ],
+                    "id": 3,
                     "objections": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 1: It would seem that the souls in Purgatory are punished by the demons; for, according to the Master, \"they will have for torturers in their pains, those who were their tempters in sin.\" Now the demons tempt us to sin, not only mortal, but also venial when they fail in the former. Therefore in Purgatory also they will torture souls on account of venial sins."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 3
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 2: Further, the just are competent to be cleansed from sin both in this life and afterwards. Now, in this life, they are cleansed by pains inflicted by the devil, as was the case with Job. Therefore after this life also, those who have to be cleansed will be punished by the demons."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 3
                         }
                     },
                     "replies": {},
@@ -410,98 +444,109 @@
                     "title": [
                         "Whether venial sin is expiated by the pains of Purgatory as regards the guilt?"
                     ],
+                    "id": 4,
                     "objections": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 1: It would seem that venial sin is not expiated by the pains of Purgatory as regards the guilt. For a gloss [*St. Gregory, Moral. xvi, 28] on 1 Jn. 5:16, \"There is a sin unto death,\" etc. says: \"It is vain to ask pardon after death for what was not amended in this life.\" Therefore no sin is remitted as to guilt after this life."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 4
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 2: Further, the same subject is freed from sin as falls into sin. But after death the soul cannot sin venially. Therefore neither can it be loosed from venial sin."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 4
                         },
                         "3": {
-                            "id": 3,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 3: Further, Gregory says [*Dial. iv, 39] that every man will be at the judgment as he was when he left the body, because \"the tree . . . wheresoever it shall fall, there shall it be\" [*Eccles. 11:3]. If, then, a man go forth from this life with venial sin, he will be with venial sin at the judgment: and consequently one does not atone for venial sin in Purgatory."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 4
                         },
                         "4": {
-                            "id": 4,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 4: Further, it has been stated (XP, Question [2], Article [3]) that actual sin is not blotted out save by contrition. But there will be no contrition after this life, because it is a meritorious act. For then there will be neither merit nor demerit since, according to the Damascene [*De Fide Orth. ii, 4], \"death is to men what the fall was to the angels.\" Therefore, after this life, venial sin is not remitted in Purgatory as to its guilt."
-                            ]
+                            ],
+                            "id": 4,
+                            "article": 4
                         },
                         "5": {
-                            "id": 5,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 5: Further, venial sin is not in us except on account of the fomes. Wherefore in the original state Adam would not have sinned venially, as was stated (Sent. ii, D, xxi, 2). Now after  this life there will be no sensuality; because the fomes will cease when the soul is separated, since it is called the \"law of the flesh\" (Rm. 7). Hence there will be no venial sin then, and consequently it cannot be expiated by the fire of Purgatory."
-                            ]
+                            ],
+                            "id": 5,
+                            "article": 4
                         }
                     },
                     "replies": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 1: The gloss refers to mortal sin. Or it may be replied that although, in this life, it is not amended in itself, it is amended in merits, because a man merited here that his punishment should be meritorious to him there."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 4
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 2: Venial sin arises from the corruption of the fomes, which will no longer be in the separate soul that is in Purgatory, wherefore this soul cannot sin venially. On the other hand, the remission of venial sin proceeds from the will informed by grace, which will be in the separate soul in Purgatory. Hence the comparison fails."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 4
                         },
                         "3": {
-                            "id": 3,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 3: Venial sins do not alter a man's state, for they neither destroy nor diminish charity, according to which the amount of the soul's gratuitous goodness is measured. Hence the soul remains such as it was before, notwithstanding the remission or commission of venial sins."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 4
                         },
                         "4": {
-                            "id": 4,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 4: After this life there can be no merit in respect of the essential reward, but there can be in respect of some accidental reward, so long as man remains in the state of the way, in a sense. Consequently in Purgatory there can be a meritorious act in respect of the remission of venial sin."
-                            ]
+                            ],
+                            "id": 4,
+                            "article": 4
                         },
                         "5": {
-                            "id": 5,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 5: Although venial sin arises from the proneness of the fomes, sin results in the mind; wherefore even when the fomes is no more, sin can still remain."
-                            ]
+                            ],
+                            "id": 5,
+                            "article": 4
                         }
                     },
                     "counter": [
@@ -521,62 +566,69 @@
                     "title": [
                         "Whether the fire of Purgatory delivers from the debt of punishment?"
                     ],
+                    "id": 5,
                     "objections": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 1: It would seem that the fire of Purgatory does not deliver from the debt of punishment. For every cleansing is in respect of some uncleanness. But punishment does not imply uncleanness. Therefore the fire of Purgatory does not deliver from punishment."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 5
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 2: Further, a contrary is not cleansed save by its contrary. But punishment is not contrary to punishment. Therefore one is not cleansed from the debt of punishment by the punishment of Purgatory."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 5
                         },
                         "3": {
-                            "id": 3,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 3: Further, a gloss on 1 Cor. 3:15, \"He shall be saved, yet so,\" etc. says: \"This fire is the trial of tribulation of which it is written (Ecclus. 27:6): The furnace tries the potter's vessels,\" etc. Therefore man expiates every punishment by the pains of this world, at least by death, which is the greatest punishment of all, and not by the fire of Purgatory."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 5
                         }
                     },
                     "replies": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 1: Although the debt of punishment does not in itself imply uncleanness, it bears a relation to uncleanness by reason of its cause."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 5
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 2: Although punishment is not contrary to punishment, it is opposed to the debt of punishment, because the obligation to punishment remains from the fact that one has not undergone the punishment that was due."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 5
                         },
                         "3": {
-                            "id": 3,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 3: Many meanings underlie the same words of Holy  Writ. Hence this fire may denote both the present tribulation and the punishment to come, and venial sins can be cleansed from both of these. That natural death is not sufficient for this, has been stated above (Sent. iv, D, 20)."
-                            ]
+                            ],
+                            "id": 3,
+                            "article": 5
                         }
                     },
                     "counter": [
@@ -594,44 +646,49 @@
                     "title": [
                         "Whether one person is delivered from this punishment sooner than another?"
                     ],
+                    "id": 6,
                     "objections": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 1: It would seem that one person is not delivered from this punishment sooner than another. For the more grievous the sin, and the greater the debt, the more severely is it punished in Purgatory. Now there is the same proportion between severer punishment and graver fault, as between lighter punishment and less grievous fault. Therefore one is delivered from this punishment as soon as another."
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 6
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "objection",
                             "part": "XP App. 1",
                             "text": [
                                 "Objection 2: Further, in point of duration unequal merits receive equal retribution both in heaven and in hell. Therefore seemingly it is the same in Purgatory."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 6
                         }
                     },
                     "replies": {
                         "1": {
-                            "id": 1,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 1: Severity of punishment corresponds properly speaking to the amount of guilt: whereas the length corresponds to the firmness with which sin has taken root in its subject. Hence it may happen that one may be delayed longer who is tormented less, and \"vice versa.\""
-                            ]
+                            ],
+                            "id": 1,
+                            "article": 6
                         },
                         "2": {
-                            "id": 2,
                             "question": 2,
                             "type": "reply",
                             "part": "XP App. 1",
                             "text": [
                                 "Reply to Objection 2: Mortal sin which deserves the punishment of hell, and charity which deserves the reward of heaven, will, after this life, be immovably rooted in their subject. Hence as to all there is the same duration in either case. It is otherwise with venial sin which is punished in Purgatory, as stated above (Article [6])."
-                            ]
+                            ],
+                            "id": 2,
+                            "article": 6
                         }
                     },
                     "counter": [

@@ -23,62 +23,69 @@
             "title": [
                 "Whether there was faith in the angels, or in man, in their original state?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there was no faith, either in the angels, or in man, in their original state. For Hugh St. Victor says in his Sentences (De Sacram. i, 10) that \"man cannot see God or things that are in God, because he closes his eyes to contemplation.\" Now the angels, in their original state, before they were either confirmed in grace, or had fallen from it, had their eyes opened to contemplation, since \"they saw things in the Word,\" according to Augustine (Gen. ad lit. ii, 8). Likewise the first man, while in the state of innocence, seemingly had his eyes open to contemplation; for Hugh St. Victor says (De Sacram. i, 6) that \"in his original state man knew his Creator, not by the mere outward perception of hearing, but by inward inspiration, not as now believers seek an absent God by faith, but by seeing Him clearly present to their contemplation.\" Therefore there was no faith in the angels and man in their original state."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the knowledge of faith is dark and obscure, according to 1 Cor. 13:13: \"We see now through a glass in a dark manner.\" Now in their original state there was not obscurity either in the angels or in man, because it is a punishment of sin. Therefore there could be no faith in the angels or in man, in their original state."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the Apostle says (Rm. 10:17) that \"faith . . . cometh by hearing.\" Now this could not apply to angels and man in their original state; for then they could not hear anything from another. Therefore, in that state, there was no faith either in man or in the angels."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Although the words of Hugh of St. Victor are those of a master, and have the force of an authority, yet it may be said that the contemplation which removes the need of faith is  heavenly contemplation, whereby the supernatural truth is seen in its essence. Now the angels did not possess this contemplation before they were confirmed, nor did man before he sinned: yet their contemplation was of a higher order than ours, for by its means they approached nearer to God, and had manifest knowledge of more of the Divine effects and mysteries than we can have knowledge of. Hence faith was not in them so that they sought an absent God as we seek Him: since by the light of wisdom He was more present to them than He is to us, although He was not so present to them as He is to the Blessed by the light of glory."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: There was no darkness of sin or punishment in the original state of man and the angels, but there was a certain natural obscurity in the human and angelic intellect, in so far as every creature is darkness in comparison with the immensity of the Divine light: and this obscurity suffices for faith."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: In the original state there was no hearing anything from man speaking outwardly, but there was from God inspiring inwardly: thus the prophets heard, as expressed by the Ps. 84:9: \"I will hear what the Lord God will speak in me.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,62 +105,69 @@
             "title": [
                 "Whether in the demons there is faith?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the demons have no faith. For Augustine says (De Praedest. Sanct. v) that \"faith depends on the believer's will\": and this is a good will, since by it man wishes to believe in God. Since then no deliberate will of the demons is good, as stated above (FP, Question [64], Article [2], ad 5), it seems that in the demons there is no faith."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, faith is a gift of Divine grace, according to Eph. 2:8: \"By grace you are saved through faith . . . for it is the gift of God.\" Now, according to a gloss on Osee 3:1, \"They look to strange gods, and love the husks of the grapes,\" the demons lost their gifts of grace by sinning. Therefore faith did not remain in the demons after they sinned."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, unbelief would seem to be graver than other sins, as Augustine observes (Tract. lxxxix in Joan.) on Jn. 15:22, \"If I had not come and spoken to them, they would not have sin: but now they have no excuse for their sin.\" Now the sin of unbelief is in some men. Consequently, if the demons have faith, some men would be guilty of a sin graver than that of the demons, which seems unreasonable. Therefore in the demons there is no faith."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The demons are, in a way, compelled to believe, by the evidence of signs, and so their will deserves no praise for their belief."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Faith, which is a gift of grace, inclines man to believe, by giving him a certain affection for the good, even when that faith is lifeless. Consequently the faith which the demons have, is not a gift of grace. Rather are they compelled to believe through their natural intellectual acumen."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The very fact that the signs of faith are so evident, that the demons are compelled to believe, is displeasing to them, so that their malice is by no means diminished by their believe."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,62 +186,69 @@
             "title": [
                 "Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a heretic who disbelieves one article of faith, can have lifeless faith in the other articles. For the natural intellect of a heretic is not more able than that of a catholic. Now a catholic's intellect needs the aid of the gift of faith in order to believe any article whatever of faith. Therefore it seems that heretics cannot believe any articles of faith without the gift of lifeless faith."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, just as faith contains many articles, so does one science, viz. geometry, contain many conclusions. Now a man may possess the science of geometry as to some geometrical conclusions, and yet be ignorant of other conclusions. Therefore a man can believe some articles of faith without believing the others."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, just as man obeys God in believing the articles of faith, so does he also in keeping the commandments of the Law. Now a man can obey some commandments, and disobey others. Therefore he can believe some articles, and disbelieve others."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: A heretic does not hold the other articles of faith, about which he does not err, in the same way as one of the faithful does, namely by adhering simply to the Divine Truth, because in order to do so, a man needs the help of the habit of faith; but he holds the things that are of faith, by his own will and judgment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The various conclusions of a science have their respective means of demonstration, one of which may be known without another, so that we may know some conclusions of a science without knowing the others. On the other hand faith adheres to all the articles of faith by reason of one mean, viz. on account of the First Truth proposed to us in Scriptures, according to the teaching of the Church who has the right understanding of them. Hence whoever abandons this mean is altogether lacking in faith."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The various precepts of the Law may be referred  either to their respective proximate motives, and thus one can be kept without another; or to their primary motive, which is perfect obedience to God, in which a man fails whenever he breaks one commandment, according to James 2:10: \"Whosoever shall . . . offend in one point is become guilty of all.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -246,63 +267,70 @@
             "title": [
                 "Whether faith can be greater in one man than in another?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that faith cannot be greater in one man than in another. For the quantity of a habit is taken from its object. Now whoever has faith believes everything that is of faith, since by failing in one point, a man loses his faith altogether, as stated above (Article [3]). Therefore it seems that faith cannot be greater in one than in another."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, those things which consist in something supreme cannot be \"more\" or \"less.\" Now faith consists in something supreme, because it requires that man should adhere to the First Truth above all things. Therefore faith cannot be \"more\" or \"less.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, faith is to knowledge by grace, as the understanding of principles is to natural knowledge, since the articles of faith are the first principles of knowledge by grace, as was shown above (Question [1], Article [7]). Now the understanding of principles is possessed in equal degree by all men. Therefore faith is possessed in equal degree by all the faithful."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: A man who obstinately disbelieves a thing that is of faith, has not the habit of faith, and yet he who does not explicitly believe all, while he is prepared to believe all, has that habit. In this respect, one man has greater faith than another, on the part of the object, in so far as he believes more things, as stated above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: It is essential to faith that one should give the first place to the First Truth. But among those who do this, some submit to it with greater certitude and devotion than others; and in this way faith is greater in one than in another."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The understanding of principles results from man's very nature, which is equally shared by all: whereas faith results from the gift of grace, which is not equally in all, as explained above (FS, Question [112], Article [4]). Hence the comparison fails.",
                         "Nevertheless the truth of principles is more known to one than to another, according to the greater capacity of intellect."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

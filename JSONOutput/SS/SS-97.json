@@ -23,62 +23,69 @@
             "title": [
                 "Whether the temptation of God consists in certain deeds, wherein the expected result is ascribed to the power of God alone?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the temptation of God does not consist in certain deeds wherein the result is expected from the power of God alone. Just as God is tempted by man so is man tempted by God, man, and demons. But when man is tempted the result is not always expected from his power. Therefore neither is God tempted when the result is expected from His power alone."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, all those who work miracles by invoking the divine name look for an effect due to God's power alone. Therefore, if the temptation of God consisted in such like deeds, all who work miracles would tempt God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it seems to belong to man's perfection that he should put aside human aids and put his hope in God alone. Hence Ambrose, commenting on Lk. 9:3, \"Take nothing for your journey,\" etc. says: \"The Gospel precept points out what is required of him that announces the kingdom of God, namely, that he should not depend on worldly assistance, and that, taking assurance from his faith, he should hold himself to be the more able to provide for himself, the less he seeks these things.\" And the Blessed Agatha said: \"I have never treated my body with bodily medicine, I have my Lord Jesus Christ, Who restores all things by His mere word.\" [*Office of St. Agatha, eighth Responsory (Dominican Breviary).] But the temptation of God does not consist in anything pertaining to perfection. Therefore the temptation of God does not consist in such like deeds, wherein the help of God alone is expected."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Man also is sometimes tempted by means of deeds, to test his ability or knowledge or will to uphold or oppose those same deeds."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: When saints work miracles by their prayers, they are moved by a motive of necessity or usefulness to ask for that which is an effect of the divine power."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The preachers of God's kingdom dispense with temporal aids, so as to be freer to give their time to the word of God: wherefore if they depend on God alone, it does not follow that they tempt God. But if they were to neglect human assistance without any useful or urgent motive, they would be tempting God. Hence Augustine (Contra Faust. xxii, 36) says that \"Paul fled, not through ceasing to believe in God, but lest he should tempt God, were he not to flee when he had the means of flight.\" The Blessed Agatha had experience of God's kindness towards her, so that either she did not suffer such sickness as required bodily medicine, or else she felt herself suddenly cured by God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,63 +104,70 @@
             "title": [
                 "Whether it is a sin to tempt God?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that it is not a sin to tempt God. For God has not commanded sin. Yet He has commanded men to try, which is the same as to tempt, Him: for it is written (Malach. 3:10): \"Bring all the tithes into the storehouse, that there may be meat in My house; and try Me in this, saith the Lord, if I open not unto you the flood-gates of heaven.\" Therefore it seems not to be a sin  to tempt God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, a man is tempted not only in order to test his knowledge and his power, but also to try his goodness or his will. Now it is lawful to test the divine goodness or will, for it is written (Ps. 33:9): \"O taste and see that the Lord is sweet,\" and (Rm. 12:2): \"That you may prove what is the good, and the acceptable, and the perfect will of God.\" Therefore it is not a sin to tempt God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, Scripture never blames a man for ceasing from sin, but rather for committing a sin. Now Achaz is blamed because when the Lord said: \"Ask thee a sign of the Lord thy God,\" he replied: \"I will not ask, and I will not tempt the Lord,\" and then it was said to him: \"Is it a small thing for you to be grievous to men, that you are grievous to my God also?\" (Is. 7:11-13). And we read of Abraham (Gn. 15:8) that he said to the Lord: \"Whereby may I know that I shall possess it?\" namely, the land which God had promised him. Again Gedeon asked God for a sign of the victory promised to him (Judges 6:36, sqq.). Yet they were not blamed for so doing. Therefore it is not a sin to tempt God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The paying of tithes was prescribed in the Law, as stated above (Question [87], Article [1]). Hence there was a motive of urgency to pay it, through the obligation of the Law, and also a motive of usefulness, as stated in the text quoted---\"that there may be meat in God's house\": wherefore they did not tempt God by paying tithes. The words that follow, \"and try Me,\" are not to be understood causally, as though they had to pay tithes in order to try if \"God would open the flood-gates of heaven,\" but consecutively, because, to wit, if they paid tithes, they would prove by experience the  favors which God would shower upon them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: There is a twofold knowledge of God's goodness or will. One is speculative and as to this it is not lawful to doubt or to prove whether God's will be good, or whether God is sweet. The other knowledge of God's will or goodness is effective or experimental and thereby a man experiences in himself the taste of God's sweetness, and complacency in God's will, as Dionysius says of Hierotheos (Div. Nom. ii) that \"he learnt divine thing through experience of them.\" It is in this way that we are told to prove God's will, and to taste His sweetness."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: God wished to give a sign to Achaz, not for him alone, but for the instruction of the whole people. Hence he was reproved because, by refusing to ask a sign, he was an obstacle to the common welfare. Nor would he have tempted God by asking, both because he would have asked through God commanding him to do so, and because it was a matter relating to the common good. Abraham asked for a sign through the divine instinct, and so he did not sin. Gedeon seems to have asked a sign through weakness of faith, wherefore he is not to be excused from sin, as a gloss observes: just as Zachary sinned in saying to the angel (Lk. 1:18): \"Whereby shall I know this?\" so that he was punished for his unbelief.",
                         "It must be observed, however, that there are two ways of asking God for a sign: first in order to test God's power or the truth of His word, and this of its very nature pertains to the temptation of God. Secondly, in order to be instructed as to what is God's pleasure in some particular matter; and this nowise comes under the head of temptation of God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,62 +186,69 @@
             "title": [
                 "Whether temptation of God is opposed to the virtue of religion?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the temptation of God is not opposed to the virtue of religion. The temptation of God is sinful, because a man doubts God, as stated above (Article [2]). Now doubt about God comes under the head of unbelief, which is opposed to faith. Therefore temptation of God is opposed to faith rather than to religion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, it is written (Ecclus. 18:23): \"Before prayer prepare thy soul, and be not as a man that tempteth God. Such a man,\" that is, who tempts God, says the interlinear gloss, \"prays for what God taught him to pray for, yet does not what God has commanded him to do.\" Now this pertains to imprudence which is opposed to hope. Therefore it seems that temptation of God is a sin opposed to hope."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, a gloss on Ps. 77:18, \"And they tempted God in their hearts,\" says that \"to tempt God is to pray to Him deceitfully, with simplicity in our words and wickedness in our hearts.\" Now deceit is opposed to the virtue of truth. Therefore temptation of God is opposed, not to religion, but to truth."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As stated above (Question [81], Article [7]), it belongs to religion to declare one's faith by certain signs indicative of reverence towards God. Consequently it belongs to irreligion that, through doubtful faith, a man does things indicative of irreverence towards God. To tempt God is one of these; wherefore it is a species of irreligion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: He that prepares not his soul before prayer by forgiving those against whom he has anything, or in some other way disposing himself to devotion, does not do what he can to be heard by God, wherefore he tempts God implicitly as it were. And though this implicit temptation would seem to arise from presumption or indiscretion, yet the very fact that a man behaves presumptuously and without due care in matters relating to God implies irreverence towards Him. For it is written (1 Pt. 5:6): \"Be you humbled . . . under the mighty hand of God,\" and (2 Tim. 2:15): \"Carefully study to present thyself approved unto God.\" Therefore also this kind of temptation is a species of irreligion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: A man is said to pray deceitfully, not in relation to God, Who knows the secrets of the heart, but in relation to man. Wherefore deceit is accidental to the temptation of God, and consequently it does not follow that to tempt God is directly opposed to the truth."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -245,62 +266,69 @@
             "title": [
                 "Whether the temptation of God is a graver sin than superstition?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the temptation of God is a graver sin than superstition. The greater sin receives the greater punishment. Now the sin of tempting God was more severely punished in the Jews than was the sin of idolatry; and yet the latter is the chief form of superstition: since for the sin of idolatry three thousand men of their number were slain, as related in Ex. 32:28 [*Septuagint version. The Vulgate has \"twenty-three thousand.\"], whereas for the sin of temptation they all without exception perished in the desert, and entered not into the land of promise, according to Ps. 94:9, \"Your fathers tempted Me,\" and further on, \"so I swore in My wrath that they should not enter into My rest.\" Therefore to tempt God is a graver sin than superstition."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the more a sin is opposed to virtue the graver it would seem to be. Now irreligion, of which the temptation of God is a species, is more opposed to the virtue of religion, than superstition which bears some likeness to religion. Therefore to tempt God is a graver sin than superstition."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it seems to be a greater sin to behave disrespectfully to one's parents, than to pay others the respect we owe to our parents. Now God should be honored by us as the Father of all (Malach. 1:6). Therefore. temptation of God whereby we behave irreverently to God, seems to be a greater sin than idolatry, whereby we give to a creature the honor we owe to God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The sin of idolatry was not punished in the above manner, as though it were a sufficient punishment; because a more severe punishment was reserved in the future for that sin, for it is written (Ex. 32:34): \"And I, in the day of revenge, will visit this sin also of theirs.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Superstition bears a likeness to religion, as regards the material act which it pays just as religion does. But, as regards the end, it is more contrary to religion than the temptation of God, since it implies greater irreverence for God, as stated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: It belongs essentially to the divine excellence that it is singular and incommunicable. Consequently to give divine reverence to another is the same as to do a thing opposed to the divine excellence. There is no comparison with the honor due to our parents, which can without sin be given to others."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

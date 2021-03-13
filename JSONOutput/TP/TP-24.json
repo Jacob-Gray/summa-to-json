@@ -23,47 +23,51 @@
             "title": [
                 "Whether it is befitting that Christ should be predestinated?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem unfitting that Christ should be predestinated. For the term of anyone's predestination seems to be the adoption of sons, according to Eph. 1:5: \"Who hath predestinated us unto the adoption of children.\" But it is not befitting to Christ to be an adopted Son, as stated above (Question [23], Article [4]). Therefore it is not fitting that Christ be predestinated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, we may consider two things in Christ: His human nature and His person. But it cannot be said that Christ is predestinated by reason of His human nature; for this proposition is false---\"The human nature is Son of God.\" In like manner neither by reason of the person; for this person is the Son of God, not by  grace, but by nature: whereas predestination regards what is of grace, as stated in the FP, Question [23], Articles [2],5. Therefore Christ was not predestinated to be the Son of God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, just as that which has been made was not always, so also that which was predestinated; since predestination implies a certain antecedence. But, because Christ was always God and the Son of God, it cannot be said that that Man was \"made the Son of God.\" Therefore, for a like reason, we ought not to say that Christ was \"predestinated the Son of God.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The Apostle there speaks of that predestination by which we are predestinated to be adopted sons. And just as Christ in a singular manner above all others is the natural Son of God, so in a singular manner is He predestinated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
@@ -71,10 +75,11 @@
                         "Reply to Objection 2: As a gloss [*From St. Augustine, De Praed. Sanct. xv] says on Rm. 1:4, some understood that predestination to refer to the nature and not to the Person---that is to say, that on human nature was bestowed the grace of being united to the Son of God in unity of Person.",
                         "But in that case the phrase of the Apostle would be improper, for two reasons. First, for a general reason: for we do not speak of a person's nature, but of his person, as being predestinated: because to be predestinated is to be directed towards salvation, which belongs to a suppositum acting for the end of beatitude. Secondly, for a special reason. Because to be Son of God is not befitting to human nature; for this proposition is false: \"The human nature is the Son of God\": unless one were to force from it such an exposition as: \"Who was predestinated the Son of God in power\"---that is, \"It was predestinated that the Human nature should be united to the Son of God in the Person.\"",
                         "Hence we must attribute predestination to the Person of Christ: not, indeed, in Himself or as subsisting in the Divine Nature, but as subsisting in the human nature. Wherefore the Apostle, after saying, \"Who was made to Him of the seed of David according to the flesh,\" added, \"Who was predestinated the Son of  God in power\": so as to give us to understand that in respect of His being of the seed of David according to the flesh, He was predestinated the Son of God in power. For although it is natural to that Person, considered in Himself, to be the Son of God in power, yet this is not natural to Him, considered in the human nature, in respect of which this befits Him according to the grace of union."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
@@ -82,7 +87,9 @@
                         "Reply to Objection 3: Origen commenting on Rm. 1:4 says that the true reading of this passage of the Apostle is: \"Who was destined to be the Son of God in power\"; so that no antecedence is implied. And so there would be no difficulty. Others refer the antecedence implied in the participle \"predestinated,\" not to the fact of being the Son of God, but to the manifestation thereof, according to the customary way of speaking in Holy Scripture, by which things are said to take place when they are made known; so that the sense would be---\"Christ was predestinated to be made known as the Son of God.\" But this is an improper signification of predestination. For a person is properly said to be predestinated by reason of his being directed to the end of beatitude: but the beatitude of Christ does not depend on our knowledge thereof.",
                         "It is therefore better to say that the antecedence implied in the participle \"predestinated\" is to be referred to the Person not in Himself, but by reason of the human nature: since, although that Person was the Son of God from eternity, it was not always true that one subsisting in human nature was the Son of God. Hence Augustine says (De Praedest. Sanct. xv): \"Jesus was predestinated, so that He Who according to the flesh was to be the son of David, should be nevertheless Son of God in power.\"",
                         "Moreover, it must be observed that, although the participle \"predestinated,\" just as this participle \"made,\" implies antecedence, yet there is a difference. For \"to be made\" belongs to the thing in itself: whereas \"to be predestinated\" belongs to someone as being in the apprehension of one who pre-ordains. Now that which is the subject of a form or nature in reality, can be apprehended either as under that form or absolutely. And since it cannot be said absolutely of the Person of Christ that He began to be the Son of God, yet this is becoming to Him as understood or apprehended to exist in human nature, because at one time it began to be true that one existing in human nature was the Son of God; therefore this proposition---\"Christ was predestinated the Son of God\"---is truer than this---\"Christ was made the Son of God.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -100,63 +107,70 @@
             "title": [
                 "Whether this proposition is false: \"Christ as man was predestinated to be the Son of God\"?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that this proposition is false: \"Christ as man was predestinated to be the Son of God.\" For at some time a man is that which he was predestinated to be: since God's predestination does not fail. If, therefore, Christ as man was predestinated the Son of God, it seems to follow that as man He is  the Son of God. But the latter is false. Therefore the former is false."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, what is befitting to Christ as man is befitting to any man; since He belongs to the same species as other men. If, therefore, Christ, as man, was predestinated the Son of God, it will follow that this is befitting to any other man. But the latter is false. Therefore the former is false."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, that is predestinated from eternity which is to take place at some time. But this proposition, \"The Son of God was made man,\" is truer than this, \"Man was made the Son of God.\" Therefore this proposition, \"Christ, as the Son of God, was predestinated to be man,\" is truer than this, \"Christ as Man was predestinated to be the Son of God.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: When we say, \"Christ, as Man, was predestinated the Son of God,\" this qualification, \"as Man,\" can be referred in two ways to the action signified by the participle. First, as regards what comes under predestination materially, and thus it is false. For the sense would be that it was predestinated that Christ, as Man, should be the Son of God. And in this sense the objection takes it.",
                         "Secondly, it may be referred to the very nature of the action itself: that is, forasmuch as predestination implies antecedence and gratuitous effect. And thus predestination belongs to Christ by reason of His human nature, as stated above. And in this sense He is said to be predestinated as Man."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Something may be befitting to a man by reason of human nature, in two ways. First, so that human nature be the cause  thereof: thus risibility is befitting to Socrates by reason of human nature, being caused by its principles. In this manner predestination is not befitting either to Christ or to any other man, by reason of human nature. This is the sense of the objection. Secondly, a thing may be befitting to someone by reason of human nature, because human nature is susceptible of it. And in this sense we say that Christ was predestinated by reason of human nature; because predestination refers to the exaltation of human nature in Him, as stated above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Augustine says (Praedest. Sanct. xv): \"The Word of God assumed Man to Himself in such a singular and ineffable manner that at the same time He may be truly and correctly called the Son of Man, because He assumed Men to Himself; and the Son of God, because it was the Only-begotten of God Who assumed human nature.\" Consequently, since this assumption comes under predestination by reason of its being gratuitous, we can say both that the Son of God was predestinated to be man, and that the Son of Man was predestinated to be the Son of God. But because grace was not bestowed on the Son of God that He might be man, but rather on human nature, that it might be united to the Son of God; it is more proper to say that \"Christ, as Man, was predestinated to be the Son of God,\" than that, \"Christ, as Son of God, was predestinated to be Man.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -174,54 +188,60 @@
             "title": [
                 "Whether Christ's predestination is the exemplar of ours?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ's predestination is not the exemplar of ours. For the exemplar exists before the exemplate. But nothing exists before the eternal. Since, therefore, our predestination is eternal, it seems that Christ's predestination is not the exemplar of ours."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the exemplar leads us to knowledge of the exemplate. But there was no need for God to be led from something else to knowledge of our predestination; since it is written (Rm. 8:29): \"Whom He foreknew, He also predestinated.\" Therefore Christ's predestination is not the exemplar of ours."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the exemplar is conformed to the exemplate. But Christ's predestination seems to be of a different nature from ours: because we are predestinated to the sonship of adoption, whereas Christ was predestinated \"Son of God in power,\" as is written (Rm. 1:4). Therefore His predestination is not the exemplar of ours."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: This argument considers the aforesaid act of the predestinator.",
                         "The same is to be said of the second objection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The exemplate need not be conformed to the exemplar in all respects: it is sufficient that it imitate it in some."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -240,44 +260,49 @@
             "title": [
                 "Whether Christ's predestination is the cause of ours?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ's predestination is not the cause of ours. For that which is eternal has no cause. But our predestination is eternal. Therefore Christ's predestination is not the cause of ours."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, that which depends on the simple will of God has no other cause but God's will. Now, our predestination depends on the simple will of God, for it is written (Eph. 1:11): \"Being predestinated according to the purpose of Him, Who worketh all things according to the counsel of His will.\" Therefore Christ's predestination is not the cause of ours."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 24,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, if the cause be taken away, the effect is also taken away. But if we take away Christ's predestination, ours is not taken away; since even if the Son of God were not incarnate, our salvation might yet have been achieved in a different manner, as Augustine says (De Trin. xiii, 10). Therefore Christ's predestination is. not the cause of ours."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "3": {
-                    "id": 3,
                     "question": 24,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: If Christ were not to have been incarnate, God would have decreed men's salvation by other means. But since He decreed the Incarnation of Christ, He decreed at the same time that He should be the cause of our salvation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

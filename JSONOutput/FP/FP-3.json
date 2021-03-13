@@ -30,98 +30,109 @@
             "title": [
                 "Whether God is a body?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that God is a body. For a body is that which has the three dimensions. But Holy Scripture attributes the three dimensions to God, for it is written: \"He is higher than Heaven, and what wilt thou do? He is deeper than Hell, and how wilt thou know? The measure of Him is longer than the earth and broader than the sea\" (Job 11:8,9). Therefore God is a body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, everything that has figure is a body, since figure is a quality of quantity. But God seems to have figure, for it is written: \"Let us make man to our image and likeness\" (Gn. 1:26). Now a figure is called an image, according to the text: \"Who being the brightness of His glory and the figure,\" i.e. the image, \"of His substance\" (Heb. 1:3). Therefore God is a body."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, whatever has corporeal parts is a body. Now Scripture attributes corporeal parts to God. \"Hast thou an arm like God?\" (Job 40:4); and \"The eyes of the Lord are upon the just\" (Ps. 33:16); and \"The right hand of the Lord hath wrought strength\" (Ps. 117:16). Therefore God is a body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, posture belongs only to bodies. But something which supposes posture is said of God in the Scriptures: \"I saw the Lord sitting\" (Is. 6:1), and \"He standeth up to judge\" (Is. 3:13). Therefore God is a body."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 5: Further, only bodies or things corporeal can be a local term \"wherefrom\" or \"whereto.\" But in the Scriptures God is spoken of as a local term \"whereto,\" according to the words, \"Come ye to Him and be enlightened\" (Ps. 33:6), and as a term \"wherefrom\": \"All they that depart from Thee shall be written in the earth\" (Jer. 17:13). Therefore God is a body."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: As we have said above (Question [1], Article [9]), Holy Writ puts before us spiritual and divine things under the comparison of corporeal things. Hence, when it attributes to God the three dimensions under the comparison of corporeal quantity, it implies His virtual quantity; thus, by depth, it signifies His power of knowing hidden things; by height, the transcendence of His excelling power; by length, the duration of His existence; by breadth, His act of love for all. Or, as says Dionysius (Div. Nom. ix), by the depth of God is meant the incomprehensibility of His essence; by length, the procession of His all-pervading power; by breadth, His overspreading all things, inasmuch as all things lie under His protection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Man is said to be after the image of God, not as regards his body, but as regards that whereby he excels other animals. Hence, when it is said, \"Let us make man to our image and likeness\", it is added, \"And let him have dominion over the fishes  of the sea\" (Gn. 1:26). Now man excels all animals by his reason and intelligence; hence it is according to his intelligence and reason, which are incorporeal, that man is said to be according to the image of God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Corporeal parts are attributed to God in Scripture on account of His actions, and this is owing to a certain parallel. For instance the act of the eye is to see; hence the eye attributed to God signifies His power of seeing intellectually, not sensibly; and so on with the other parts."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Whatever pertains to posture, also, is only attributed to God by some sort of parallel. He is spoken of as sitting, on account of His unchangeableness and dominion; and as standing, on account of His power of overcoming whatever withstands Him."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 5: We draw near to God by no corporeal steps, since He is everywhere, but by the affections of our soul, and by the actions of that same soul do we withdraw from Him; thus, to draw near to or to withdraw signifies merely spiritual actions based on the metaphor of local motion."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "counter": [
@@ -139,62 +150,69 @@
             "title": [
                 "Whether God is composed of matter and form?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that God is composed of matter and form. For whatever has a soul is composed of matter and form; since the soul is the form of the body. But Scripture attributes a soul to God; for it is mentioned in Hebrews (Heb. 10:38), where God says: \"But My just man liveth by faith; but if he withdraw himself, he shall not please My soul.\" Therefore God is composed of matter and form."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, anger, joy and the like are passions of the composite. But these are attributed to God in Scripture: \"The Lord was exceeding angry with His people\" (Ps. 105:40). Therefore God is composed of matter and form."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, matter is the principle of individualization. But God seems to be individual, for He cannot be predicated of many. Therefore He is composed of matter and form."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: A soul is attributed to God because His acts resemble the acts of a soul; for, that we will anything, is due to our soul. Hence what is pleasing to His will is said to be pleasing to His soul."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Anger and the like are attributed to God on account of a similitude of effect. Thus, because to punish is properly the act of an angry man, God's punishment is metaphorically spoken of as His anger."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Forms which can be received in matter are individualized by matter, which cannot be in another as in a subject since it is the first underlying subject; although form of itself, unless something else prevents it, can be received by many. But that form which cannot be received in matter, but is self-subsisting, is individualized precisely because it cannot be received in a subject; and such a form is God. Hence it does not follow that matter exists in God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -212,44 +230,49 @@
             "title": [
                 "Whether God is the same as His essence or nature?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that God is not the same as His essence or nature. For nothing can be in itself. But the substance or nature of God---i.e. the Godhead---is said to be in God. Therefore it seems that God is not the same as His essence or nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the effect is assimilated to its cause; for every agent produces its like. But in created things the \"suppositum\" is not identical with its nature; for a man is not the same as his humanity. Therefore God is not the same as His Godhead."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: We can speak of simple things only as though they were like the composite things from which we derive our knowledge. Therefore in speaking of God, we use concrete nouns to signify His subsistence, because with us only those things subsist which are composite; and we use abstract nouns to signify His simplicity. In saying therefore that Godhead, or life, or the like are in God, we indicate the composite way in which our intellect understands, but not that there is any composition in God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The effects of God do not imitate Him perfectly, but only as far as they are able; and the imitation is here defective, precisely because what is simple and one, can only be represented by divers things; consequently, composition is accidental to them, and therefore, in them \"suppositum\" is not the same as nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "counter": [
@@ -267,44 +290,49 @@
             "title": [
                 "Whether essence and existence are the same in God?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that essence and existence are not the same in God. For if it be so, then the divine being has nothing added to it. Now being to which no addition is made is universal being which is predicated of all things. Therefore it follows that God is being in general which can be predicated of everything. But this is false: \"For men gave the incommunicable name to stones and wood\" (Wis. 14:21). Therefore God's existence is not His essence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, we can know \"whether\" God exists as said above (Question [2], Article [2]); but we cannot know \"what\" He is. Therefore God's existence is not the same as His essence---that is, as His quiddity or nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: A thing that has nothing added to it can be of two kinds. Either its essence precludes any addition; thus, for example, it is of the essence of an irrational animal to be without reason. Or we may understand a thing to have nothing added to it, inasmuch as its essence does not require that anything should be added to it; thus the genus animal is without reason, because it is not of the essence of animal in general to have reason; but neither is it to lack reason. And so the divine being has nothing added to it in the first sense; whereas universal being has nothing added to it in the second sense."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: \"To be\" can mean either of two things. It may mean the act of essence, or it may mean the composition of a proposition effected by the mind in joining a predicate to a subject. Taking \"to be\" in the first sense, we cannot understand God's existence nor His essence; but only in the second sense. We know that this proposition which we form about God when we say \"God is,\" is true; and this we know from His effects (Question [2], Article [2])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "counter": [
@@ -322,44 +350,49 @@
             "title": [
                 "Whether God is contained in a genus?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that God is contained in a genus. For a substance is a being that subsists of itself. But this is especially true of God. Therefore God is in a genus of substance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, nothing can be measured save by something of its own genus; as length is measured by length and numbers by number. But God is the measure of all substances, as the Commentator shows (Metaph. x). Therefore God is in the genus of substance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The word substance signifies not only what exists of itself---for existence cannot of itself be a genus, as shown in the body of the article; but, it also signifies an essence that has the property of existing in this way---namely, of existing of itself; this existence, however, is not its essence. Thus it is clear that God is not in the genus of substance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: This objection turns upon proportionate measure which must be homogeneous with what is measured. Now, God is not a measure proportionate to anything. Still, He is called the measure of all things, in the sense that everything has being only according as it resembles Him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "counter": [
@@ -377,44 +410,49 @@
             "title": [
                 "Whether in God there are any accidents?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that there are accidents in God. For substance cannot be an accident, as Aristotle says (Phys. i). Therefore that which is an accident in one, cannot, in another, be a substance. Thus it is proved that heat cannot be the substantial form of fire, because it is an accident in other things. But wisdom, virtue, and the like, which are accidents in us, are attributes of God. Therefore in God there are accidents."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, in every genus there is a first principle. But there are many \"genera\" of accidents. If, therefore, the primal members of these genera are not in God, there will be many primal beings other than God---which is absurd."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Virtue and wisdom are not predicated of God and of us univocally. Hence it does not follow that there are accidents in God as there are in us."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Since substance is prior to its accidents, the principles of accidents are reducible to the principles of the substance as to that which is prior; although God is not first as if contained in the genus of substance; yet He is first in respect to all being, outside of every genus."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "counter": [
@@ -432,44 +470,49 @@
             "title": [
                 "Whether God is altogether simple?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that God is not altogether simple. For whatever is from God must imitate Him. Thus from the first being are all beings; and from the first good is all good. But in the things which God has made, nothing is altogether simple. Therefore neither is God altogether simple."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, whatever is best must be attributed to God. But with us that which is composite is better than that which is simple; thus, chemical compounds are better than simple elements, and animals than the parts that compose them. Therefore it cannot be said that God is altogether simple."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Whatever is from God imitates Him, as caused things imitate the first cause. But it is of the essence of a thing to be in some sort composite; because at least its existence differs from its essence, as will be shown hereafter, (Question [4], Article [3])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: With us composite things are better than simple things, because the perfections of created goodness cannot be found in one simple thing, but in many things. But the perfection of divine goodness is found in one simple thing (Question [4], Article [1] and Question [6], Article [2])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 }
             },
             "counter": [
@@ -487,62 +530,69 @@
             "title": [
                 "Whether God enters into the composition of other things?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that God enters into the composition of other things, for Dionysius says (Coel. Hier. iv): \"The being of all things is that which is above being---the Godhead.\" But the being of all things enters into the composition of everything. Therefore God enters into the composition of other things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, God is a form; for Augustine says (De Verb. Dom., [*Serm. xxxviii]) that, \"the word of God, which is God, is an uncreated form.\" But a form is part of a compound. Therefore God is part of some compound."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, whatever things exist, in no way differing from each other, are the same. But God and primary matter exist, and in no way differ from each other. Therefore they are absolutely the same. But primary matter enters into the composition things. Therefore also does God. Proof of the minor---whatever things differ, they differ by some differences, and therefore must be composite. But God and primary matter are altogether simple. Therefore they nowise differ from each other."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The Godhead is called the being of all things, as their efficient and exemplar cause, but not as being their essence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The Word is an exemplar form; but not a form that is part of a compound."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Simple things do not differ by added differences---for this is the property of compounds. Thus man and horse differ by their differences, rational and irrational; which differences, however, do not differ from each other by other differences. Hence, to be quite accurate, it is better to say that they are, not different, but diverse. Hence, according to the Philosopher (Metaph. x), \"things which are diverse are absolutely distinct, but things which are different differ by something.\" Therefore, strictly speaking, primary matter and God do not differ, but are by their very being, diverse. Hence it does not follow they are the same."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [

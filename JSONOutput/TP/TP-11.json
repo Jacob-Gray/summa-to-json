@@ -25,62 +25,69 @@
             "title": [
                 "Whether by this imprinted or infused knowledge Christ knew all things?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that by this knowledge Christ did not know all things. For this knowledge is imprinted upon Christ for the perfection of the passive intellect. Now the passive intellect of the human soul does not seem to be in potentiality to all things simply, but only to those things with regard to which it can be reduced to act by the active intellect, which is its proper motor; and these are knowable by natural reason. Therefore by this knowledge Christ did not know what exceeded the natural reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, phantasms are to the human intellect as colors to sight, as is said De Anima iii, 18,31,39. But it does not pertain to the perfection of the power of seeing to know what is without color. Therefore it does not pertain to the perfection of human intellect to know things of which there are no phantasms, such as separate substances. Hence, since this knowledge was in Christ for the perfection of His intellective soul, it seems that by this knowledge He did not know separate substances."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it does not belong to the perfection of the intellect to know singulars. Hence it would seem that by this knowledge the soul of Christ did not know singulars."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: This reason refers to the natural power of an intellective soul in comparison with its natural agent, which is the active intellect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The human soul in the state of this life, since it is somewhat fettered by the body, so as to be unable to understand without phantasms, cannot understand separate substances. But after the state of this life the separated soul will be able, in a measure, to know separate substances by itself, as was said in the FP, Question [89], Articles [1],2, and this is especially clear as regards the souls of the blessed. Now before His Passion, Christ was not merely a wayfarer but also a comprehensor; hence His soul could know separate substances in the same way that a separated soul could."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The knowledge of singulars pertains to the perfection of the intellective soul, not in speculative knowledge, but in practical knowledge, which is imperfect without the knowledge of singulars, in which operations exist, as is said Ethic. vi, 7. Hence for prudence are required the remembrance of past things, knowledge of present things, and foresight of future things, as Tully says (De Invent. ii). Therefore, since Christ had the fulness of prudence by the gift of counsel, He consequently knew all singular things---present, past, and future."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,62 +105,69 @@
             "title": [
                 "Whether Christ could use this knowledge by turning to phantasms?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the soul of Christ could not understand by this knowledge except by turning to phantasms, because, as is stated De Anima iii, 18,31,39, phantasms are compared to man's intellective soul as colors to sight. But Christ's power of seeing could not become actual save by turning to colors. Therefore His intellective soul could understand nothing except by turning to phantasms."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ's soul is of the same nature as ours. otherwise He would not be of the same species as we, contrary to what the Apostle says (Phil. 2:7) \" . . . being made in the likeness of men.\" But our soul cannot understand except by turning to phantasms. Hence, neither can Christ's soul otherwise understand."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, senses are given to man to help his intellect. Hence, if the soul of Christ could understand without turning to  phantasms, which arise in the senses, it would follow that in the soul of Christ the senses were useless, which is not fitting. Therefore it seems that the soul of Christ can only understand by turning to phantasms."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: This likeness which the Philosopher asserts is not with regard to everything. For it is manifest that the end of the power of seeing is to know colors; but the end of the intellective power is not to know phantasms, but to know intelligible species, which it apprehends from and in phantasms, according to the state of the present life. Therefore there is a likeness in respect of what both powers regard, but not in respect of that in which the condition of both powers is terminated. Now nothing prevents a thing in different states from reaching its end by different ways: albeit there is never but one proper end of a thing. Hence, although the sight knows nothing without color; nevertheless in a certain state the intellect can know without phantasms, but not without intelligible species."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Although the soul of Christ was of the same nature as our souls, yet it had a state which our souls have not yet in fact, but only in hope, i.e. the state of comprehension."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Although the soul of Christ could understand without turning to phantasms, yet it could also understand by turning to phantasms. Hence the senses were not useless in it; especially as the senses are not afforded to man solely for intellectual knowledge, but for the need of animal life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -171,62 +185,69 @@
             "title": [
                 "Whether this knowledge is collative?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the soul of Christ had not this knowledge by way of comparison. For Damascene says (De Fide Orth. iii, 14): \"We do not uphold counsel or choice in Christ.\" Now these  things are withheld from Christ only inasmuch as they imply comparison and discursion. Therefore it seems that there was no collative or discursive knowledge in Christ."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, man needs comparison and discursion of reason in order to find out the unknown. But the soul of Christ knew everything, as was said above (Question [10], Article [2]). Hence there was no discursive or collative knowledge in Him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the knowledge in Christ's soul was like that of comprehensors, who are likened to the angels, according to Mt. 22:30. Now there is no collative or discursive knowledge in the angels, as Dionysius shows (Div. Nom. vii). Therefore there was no discursive or collative knowledge in the soul of Christ."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: From Christ is excluded that counsel which is with doubt; and consequently choice, which essentially includes such counsel; but the practice of using counsel is not excluded from Christ."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: This reason rests upon discursion and comparison, as used to acquire knowledge."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The blessed are likened to the angels in the gifts of graces; yet there still remains the difference of natures. And hence to use comparison and discursion is connatural to the souls of the blessed, but not to angels."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -244,33 +265,37 @@
             "title": [
                 "Whether in Christ this knowledge was greater than the knowledge of the angels?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that this knowledge was not greater in Christ than in the angels. For perfection is proportioned to the thing perfected. But the human soul in the order of nature is below the angelic nature. Therefore since the knowledge we are now speaking of is imprinted upon Christ's soul for its perfection, it seems that this knowledge is less than the knowledge by which the angelic nature is perfected."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the knowledge of Christ's soul was in a measure comparative and discursive, which cannot be said of the angelic knowledge. Therefore the knowledge of Christ's soul was less than the knowledge of the angels."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the more immaterial knowledge is, the greater it is. But the knowledge of the angels is more immaterial than the knowledge of Christ's soul, since the soul of Christ is the act of a body, and turns to phantasms, which cannot be said of the angels. Therefore the knowledge of angels is greater than the knowledge of Christ's soul."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {},
@@ -290,62 +315,69 @@
             "title": [
                 "Whether this knowledge was habitual?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that in Christ there was no habitual knowledge. For it has been said (Question [9], Article [1]) that the highest perfection of knowledge befitted Christ's soul. But the perfection of an actually existing knowledge is greater than that of a potentially or habitually existing knowledge. Therefore it was fitting for Him to know all things actually. Therefore He had not habitual knowledge."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, since habits are ordained to acts, a habitual  knowledge which is never reduced to act would seem useless. Now, since Christ knew all things, as was said Question [10], Article [2], He could not have considered all things actually, thinking over one after another, since the infinite cannot be passed over by enumeration. Therefore the habitual knowledge of certain things would have been useless to Him---which is unfitting. Therefore He had an actual and not a habitual knowledge of what He knew."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, habitual knowledge is a perfection of the knower. But perfection is more noble than the thing perfected. If, therefore, in the soul of Christ there was any created habit of knowledge, it would follow that this created thing was nobler than the soul of Christ. Therefore there was no habitual knowledge in Christ's soul."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: In Christ's soul there was a twofold knowledge---each most perfect of its kind: the first exceeding the mode of human nature, as by it He saw the Essence of God, and other things in It, and this was the most perfect, simply. Nor was this knowledge habitual, but actual with respect to everything He knew in this way. But the second knowledge was in Christ in a manner proportioned to human nature, i.e. inasmuch as He knew things by species divinely imprinted upon Him, and of this knowledge we are now speaking. Now this knowledge was not most perfect, simply, but merely in the genus of human knowledge; hence it did not behoove it to be always in act."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Habits are reduced to act by the command of the will, since a habit is that \"with which we act when we wish.\" Now the will is indeterminate in regard to infinite things. Yet it is not useless, even when it does not actually tend to all; provided it actually tends to everything in fitting place and time. And hence neither is a habit useless, even if all that it extends to is not reduced to act; provided that that which befits the due end of the will be reduced to act according as the matter in hand and the time require."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Goodness and being are taken in two ways: First, simply; and thus a substance, which subsists in its being and goodness, is a good and a being; secondly, being and goodness are taken relatively, and in this way an accident is a being and a good, not that it has being and goodness, but that its subject is a being and a good. And hence habitual knowledge is not simply better or more excellent than the soul of Christ; but relatively, since the whole goodness of habitual knowledge is added to the goodness of the subject."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -363,62 +395,69 @@
             "title": [
                 "Whether this knowledge was distinguished by divers habits?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that in the soul of Christ there was only one habit of knowledge. For the more perfect knowledge is, the more united it is; hence the higher angels understand by the more universal forms, as was said in the FP, Question [55], Article [3]. Now Christ's knowledge was most perfect. Therefore it was most one. Therefore it was not distinguished by several habits."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, our faith is derived from Christ's knowledge; hence it is written (Heb. 12:2): \"Looking on Jesus the author and finisher of faith.\" But there is only one habit of faith about all things believed, as was said in the SS, Question [4], Article [6]. Much more, therefore, was there only one habit of knowledge in Christ."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, knowledge is distinguished by the divers formalities of knowable things. But the soul of Christ knew everything under one formality, i.e. by a divinely infused light. Therefore in Christ there was only one habit of knowledge."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As was said (Article [4]), the knowledge of Christ's soul is most perfect, and exceeds the knowledge of angels with regard to what is in it on the part of God's gift; but it is below the angelic knowledge as regards the mode of the recipient. And it pertains to this mode that this knowledge is distinguished by various habits, inasmuch as it regards more particular species."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Our faith rests upon the First Truth; and hence Christ is the author of our faith by the Divine knowledge, which is simply one."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 11,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The divinely infused light is the common formality for understanding what is divinely revealed, as the light of the active intellect is with regard to what is naturally known. Hence, in the soul of Christ there must be the proper species of singular things, in order to know each with proper knowledge; and in this way there must be divers habits of knowledge in Christ's soul, as stated above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

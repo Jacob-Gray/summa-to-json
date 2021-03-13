@@ -23,80 +23,89 @@
             "title": [
                 "Whether any virtue regards the outward movements of the body?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that no virtue regards the outward movements of the body. For every virtue pertains to the spiritual beauty of the soul, according to Ps. 44:14, \"All the glory of the king's daughter is within,\" and a gloss adds, \"namely, in the conscience.\" Now the movements of the body are not within, but without. Therefore there can be no virtue about them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, \"Virtues are not in us by nature,\" as the Philosopher states (Ethic. ii, 1). But outward bodily movements are in man by nature, since it is by nature that some are quick, and some slow of movement, and the same applies to other differences of outward movements. Therefore there is no virtue about movements of this kind."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, every moral virtue is either about actions directed to another person, as justice, or about passions, as temperance and fortitude. Now outward bodily movements are not directed to another person, nor are they passions. Therefore no  virtue is connected with them."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, study should be applied to all works of virtue, as stated above (Question [166], Article [1], Objection [1]; Article [2], ad 1). Now it is censurable to apply study to the ordering of one's outward movements: for Ambrose says (De Offic. i, 18): \"A becoming gait is one that reflects the carriage of authority, has the tread of gravity, and the foot-print of tranquillity: yet so that there be neither study nor affectation, but natural and artless movement.\" Therefore seemingly there is no virtue about the style of outward movements."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Outward movements are signs of the inward disposition, according to Ecclus. 19:27, \"The attire of the body, and the laughter of the teeth, and the gait of the man, show what he is\"; and Ambrose says (De Offic. i, 18) that \"the habit of mind is seen in the gesture of the body,\" and that \"the body's movement is an index of the soul.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Although it is from natural disposition that a  man is inclined to this or that style of outward movement, nevertheless what is lacking to nature can be supplied by the efforts of reason. Hence Ambrose says (De Offic. i, 18): \"Let nature guide the movement: and if nature fail in any respect, surely effort will supply the defect.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As stated (ad 1) outward movements are indications of the inward disposition, and this regards chiefly the passions of the soul. Wherefore Ambrose says (De Offic. i, 18) that \"from these things,\" i.e. the outward movements, \"the man that lies hidden in our hearts is esteemed to be either frivolous, or boastful, or impure, or on the other hand sedate, steady, pure, and free from blemish.\" It is moreover from our outward movements that other men form their judgment about us, according to Ecclus. 19:26, \"A man is known by his look, and a wise man, when thou meetest him, is known by his countenance.\" Hence moderation of outward movements is directed somewhat to other persons, according to the saying of Augustine in his Rule (Ep. ccxi), \"In all your movements, let nothing be done to offend the eye of another, but only that which is becoming to the holiness of your state.\" Wherefore the moderation of outward movements may be reduced to two virtues, which the Philosopher mentions in Ethic. iv, 6,7. For, in so far as by outward movements we are directed to other persons, the moderation of our outward movements belongs to \"friendliness or affability\" [*Cf. Question [114], Article [1]]. This regards pleasure or pain which may arise from words or deeds in reference to others with whom a man comes in contact. And, in so far as outward movements are signs of our inward disposition, their moderation belongs to the virtue of truthfulness [*Cf. Question [9]], whereby a man, by word and deed, shows himself to be such as he is inwardly."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: It is censurable to study the style of one's outward movements, by having recourse to pretense in them, so that they do not agree with one's inward disposition. Nevertheless it behooves one to study them, so that if they be in any way inordinate, this may be corrected. Hence Ambrose says (De Offic. i, 18): \"Let them be without artifice, but not without correction.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -116,62 +125,69 @@
             "title": [
                 "Whether there can be a virtue about games?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there cannot be a virtue about games. For Ambrose says (De Offic. i, 23): \"Our Lord said: 'Woe to you who laugh, for you shall weep.' Wherefore I consider that all, and not only excessive, games should be avoided.\" Now that which can be done virtuously is not to be avoided altogether. Therefore there cannot be a virtue about games."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, \"Virtue is that which God forms in us, without us,\" as stated above (FS, Question [55], Article [4]). Now Chrysostom says [*Hom. vi in Matth.]: \"It is not God, but the devil, that is the author of fun. Listen to what happened to those who played: 'The people sat down to eat and drink, and they rose up to play.'\" Therefore there can be no virtue about games."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the Philosopher says (Ethic. x, 6) that \"playful actions are not directed to something else.\" But it is a requisite of virtue that the agent in choosing should \"direct his action to something else,\" as the Philosopher states (Ethic. ii, 4). Therefore there can be no virtue about games."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As stated above, fun should fit with business and persons; wherefore Tully says (De Invent. Rhet. i, 17) that \"when the audience is weary, it will be useful for the speaker to try something novel or amusing, provided that joking be not incompatible with the gravity of the subject.\" Now the sacred doctrine is concerned with things of the greatest moment, according to Prov. 8:6, \"Hear, for I will speak of great things.\" Wherefore Ambrose does not altogether exclude fun from human speech, but from the sacred doctrine; hence he begins by saying: \"Although jokes are at times fitting and pleasant, nevertheless they are incompatible with the ecclesiastical rule; since how can we have recourse to things which are not to be found in Holy Writ?\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: This saying of Chrysostom refers to the inordinate use of fun, especially by those who make the pleasure of games their end; of whom it is written (Wis. 15:12): \"They have accounted our life a pastime.\" Against these Tully says (De Offic. i, 29): \"We are so begotten by nature that we appear to be made not for play and fun, but rather for hardships, and for occupations of greater gravity and moment.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Playful actions themselves considered in their species are not directed to an end: but the pleasure derived from  such actions is directed to the recreation and rest of the soul, and accordingly if this be done with moderation, it is lawful to make use of fun. Hence Tully says (De Offic. i, 29): \"It is indeed lawful to make use of play and fun, but in the same way as we have recourse to sleep and other kinds of rest, then only when we have done our duty by grave and serious matters.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -192,62 +208,69 @@
             "title": [
                 "Whether there can be sin in the excess of play?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there cannot be sin in the excess of play. For that which is an excuse for sin is not held to be sinful. Now play is sometimes an excuse for sin, for many things would be grave sins if they were done seriously, whereas if they be done in fun, are either no sin or but slightly sinful. Therefore it seems that there is no sin in excessive play."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, all other vices are reducible to the seven capital vices, as Gregory states (Moral. xxxi, 17). But excess of play does not seem reducible to any of the capital vices. Therefore it would seem not to be a sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, comedians especially would seem to exceed in play, since they direct their whole life to playing. Therefore if excess of play were a sin, all actors would be in a state of sin; moreover all those who employ them, as well as those who make them any payment, would sin as accomplices of their sin. But this would seem untrue; for it is related in the Lives of the Fathers (ii. 16; viii. 63) that is was revealed to the Blessed Paphnutius that a certain jester would be with him in the life to come."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Certain things are sinful on account of the intention alone, because they are done in order to injure someone. Such an intention is excluded by their being done in fun, the intention of which is to please, not to injure: in these cases fun excuses from sin, or diminishes it. Other things, however, are sins according to their species, such as murder, fornication, and the like: and fun is no excuse for these; in fact they make fun scandalous and obscene."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Excessive play pertains to senseless mirth, which Gregory (Moral. xxxi, 17) calls a daughter of gluttony. Wherefore it is written (Ex. 32:6): \"The people sat down to eat and drink, and they rose up to play.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As stated (Article [2]), play is necessary for the intercourse of human life. Now whatever is useful to human intercourse may have a lawful employment ascribed to it. Wherefore the occupation of play-actors, the object of which is to cheer the heart of man, is not unlawful in itself; nor are they in a state of sin provided that their playing be moderated, namely that they use no unlawful words or deeds in order to amuse, and that they do not introduce play into undue matters and seasons. And although in human affairs, they have no other occupation in reference to other men, nevertheless in reference to themselves, and to God, they perform other actions both serious and virtuous, such as prayer and the moderation of their own passions and operations, while sometimes they give alms to the poor. Wherefore those who maintain them in moderation do not sin but act justly, by rewarding them for their services. on the other hand, if a man spends too much on such persons, or maintains those comedians who practice unlawful mirth, he sins as encouraging them in their sin. Hence Augustine says (Tract. c. in Joan.) that \"to give one's property to comedians is a great sin, not a virtue\"; unless by chance some play-actor were in extreme need, in which case one would have to assist him, for Ambrose says (De Offic. [*Quoted in Canon Pasce, dist. 86]): \"Feed him that dies of hunger; for whenever thou canst save a man by feeding him, if thou hast not fed him, thou hast slain him.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -266,62 +289,69 @@
             "title": [
                 "Whether there is a sin in lack of mirth?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there is no sin in lack of mirth. For no sin is prescribed to a penitent. But Augustine speaking of a penitent says (De Vera et Falsa Poenit. 15) [*Spurious]: \"Let him refrain from games and the sights of the world, if he wishes to  obtain the grace of a full pardon.\" Therefore there is no sin in lack of mirth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, no sin is included in the praise given to holy men. But some persons are praised for having refrained from mirth; for it is written (Jer. 15:17): \"I sat not in the assembly of jesters,\" and (Tobias 3:17): \"Never have I joined myself with them that play; neither have I made myself partaker with them that walk in lightness.\" Therefore there can be no sin in the lack of mirth."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 168,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, Andronicus counts austerity to be one of the virtues, and he describes it as a habit whereby a man neither gives nor receives the pleasures of conversation. Now this pertains to the lack of mirth. Therefore the lack of mirth is virtuous rather than sinful."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Mirth is forbidden the penitent because he is called upon to mourn for his sins. Nor does this imply a vice in default, because this very diminishment of mirth in them is in accordance with reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Jeremias speaks there in accordance with the times, the state of which required that man should mourn; wherefore he adds: \"I sat alone, because Thou hast filled me with threats.\" The words of Tobias 3 refer to excessive mirth; and this is evident from his adding: \"Neither have I made myself partaker with them that walk in lightness.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 168,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Austerity, as a virtue, does not exclude all pleasures, but only such as are excessive and inordinate; wherefore  it would seem to pertain to affability, which the Philosopher (Ethic. iv, 6) calls \"friendliness,\" or {eutrapelia}, otherwise wittiness. Nevertheless he names and defines it thus in respect of its agreement with temperance, to which it belongs to restrain pleasure."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

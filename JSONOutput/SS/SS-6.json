@@ -21,62 +21,69 @@
             "title": [
                 "Whether faith is infused into man by God?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that faith is not infused into man by God. For Augustine says (De Trin. xiv) that \"science begets faith in us, and nourishes, defends and strengthens it.\" Now those things which science begets in us seem to be acquired rather than infused. Therefore faith does not seem to be in us by Divine infusion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, that to which man attains by hearing and seeing, seems to be acquired by him. Now man attains to belief, both by seeing miracles, and by hearing the teachings of faith: for it is written (Jn. 4:53): \"The father . . . knew that it was at the same hour, that Jesus said to him, Thy son liveth; and himself believed, and his whole house\"; and (Rm. 10:17) it is said that \"faith is through hearing.\" Therefore man attains to faith by acquiring it."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, that which depends on a man's will can be acquired by him. But \"faith depends on the believer's will,\"  according to Augustine (De Praedest. Sanct. v). Therefore faith can be acquired by man."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Science begets and nourishes faith, by way of external persuasion afforded by science; but the chief and proper cause of faith is that which moves man inwardly to assent."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: This argument again refers to the cause that proposes outwardly the things that are of faith, or persuades man to believe by words or deeds."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: To believe does indeed depend on the will of the believer: but man's will needs to be prepared by God with grace, in order that he may be raised to things which are above his nature, as stated above (Question [2], Article [3])."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,63 +103,70 @@
             "title": [
                 "Whether lifeless faith is a gift of God?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that lifeless faith is not a gift of God. For it is written (Dt. 32:4) that \"the works of God are perfect.\" Now lifeless faith is something imperfect. Therefore it is not the work of God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, just as an act is said to be deformed through lacking its due form, so too is faith called lifeless [informis] when it lacks the form due to it. Now the deformed act of sin is not from God, as stated above (FS, Question [79], Article [2], ad 2). Therefore neither is lifeless faith from God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, whomsoever God heals, He heals wholly: for it is written (Jn. 7:23): \"If a man receive circumcision on the sabbath-day, that the law of Moses may not be broken; are you angry at Me because I have healed the whole man on the sabbath-day?\" Now faith heals man from unbelief. Therefore whoever receives from God the gift of faith, is at the same time healed from all his sins. But this is not done except by living faith. Therefore living faith alone is a gift of God: and consequently lifeless faith is not from God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Lifeless faith, though it is not simply perfect with the perfection of a virtue, is, nevertheless, perfect with a perfection that suffices for the essential notion of faith."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The deformity of an act is essential to the act's species, considered as a moral act, as stated above (FP, Question [48], Article [1], ad 2; FS, Question [18], Article [5]): for an act is said to be deformed through being deprived of an intrinsic form, viz. the due commensuration of the act's circumstances. Hence we cannot say that God is the cause of a deformed act, for He is not the cause of its deformity, though He is the cause of the act as such.",
                         "We may also reply that deformity denotes not only privation of a due form, but also a contrary disposition, wherefore deformity is compared to the act, as falsehood is to faith. Hence, just as the deformed act is not from God, so neither is a false faith; and as lifeless faith is from God, so too, acts that are good generically, though not quickened by charity, as is frequently the case in sinners, are from God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: He who receives faith from God without charity, is healed from unbelief, not entirely (because the sin of his previous unbelief is not removed) but in part, namely, in the point of ceasing from committing such and such a sin. Thus it happens frequently that a man desists from one act of sin, through God causing him thus to desist, without desisting from another act of sin, through the instigation of his own malice. And in this way sometimes it is granted by God to a man to believe, and yet he is not granted the gift of charity: even so the gift of prophecy, or the like, is given to some without charity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

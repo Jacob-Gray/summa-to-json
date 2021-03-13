@@ -24,98 +24,109 @@
             "title": [
                 "Whether any gifts should be assigned as dowry to the blessed?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that no gifts should be assigned as dowry to the blessed. For a dowry (Cod. v, 12, De jure dot. 20: Dig. xxiii, 3, De jure dot.) is given to the bridegroom for the upkeep of the burdens of marriage. But the saints resemble not the bridegroom but the bride, as being members of the Church. Therefore they receive no dowry."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the dowry is given not by the bridegroom's father, but by the father of the bride (Cod. v, 11, De dot. promiss., 1: Dig. xxiii, 2, De rit. nup.). Now all the beatific gifts are bestowed on the blessed by the father of the bridegroom, i.e. Christ: \"Every best gift and every perfect gift is from above coming down from the Father of lights.\" Therefore these gifts which are bestowed on the blessed should not be called a dowry."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, in carnal marriage a dowry is given that the burdens of marriage may be the more easily borne. But in spiritual marriage there are no burdens, especially in the state of the Church triumphant. Therefore no dowry should be assigned to that state."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, a dowry is not given save on the occasion of marriage. But a spiritual marriage is contracted with Christ by faith in the state of the Church militant. Therefore if a dowry is befitting the blessed, for the same reason it will be befitting the saints who are wayfarers. But it is not befitting the latter: and therefore neither is it befitting the blessed."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, a dowry pertains to external goods, which are styled goods of fortune: whereas the reward of the blessed will consist of internal goods. Therefore they should not be called a dowry."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although in carnal marriage the dowry is given to the bridegroom for his use, yet the ownership and control belong to  the bride: which is evident by the fact that if the marriage be dissolved, the dowry reverts to the bride according to law (Cap. 1,2,3, De donat. inter virum et uxorem). Thus also in spiritual marriage, the very adornments bestowed on the spiritual bride, namely the Church in her members, belong indeed to the Bridegroom, in so far as they conduce to His glory and honor, yet to the bride as adorned thereby."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The Father of the Bridegroom, that is of Christ, is the Person of the Father alone: while the Father of the bride is the whole Trinity, since that which is effected in creatures belongs to the whole Trinity. Hence in spiritual marriage these endowments, properly speaking, are given by the Father of the bride rather than by the Father of the Bridegroom. Nevertheless, although this endowment is made by all the Persons, it may be in a manner appropriated to each Person. To the Person of the Father, as endowing, since He possesses authority; and fatherhood in relation to creatures is also appropriated to Him, so that He is Father of both Bridegroom and bride. To the Son it is appropriated, inasmuch as it is made for His sake and through Him: and to the Holy Ghost, inasmuch as it is made in Him and according to Him, since love is the reason of all giving [*Cf. FP, Question [38], Article [2]]."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: That which is effected by the dowry belongs to the dowry by its nature, and that is the ease of marriage: while that which the dowry removes, namely the marriage burden which is lightened thereby, belongs to it accidentally: thus it belongs to grace by its nature to make a man righteous, but accidentally to make an ungodly man righteous. Accordingly, though there are no burdens in the spiritual marriage, there is the greatest gladness; and that this gladness may be perfected the bride is dowered with gifts, so that by their means she may be happily united with the bridegroom."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: The dowry is usually settled on the bride not when she is espoused, but when she is taken to the bridegroom's dwelling, so as to be in the presence of the bridegroom, since \"while we are in the body we are absent from the Lord\" (2 Cor. 5:6). Hence the gifts bestowed on the saints in this life are not called a dowry, but those which are bestowed on them when they are received into glory, where the Bridegroom delights them with His presence."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: In spiritual marriage inward comeliness is required, wherefore it is written (Ps. 44:14): \"All the glory of the king's daughter is within,\" etc. But in carnal marriage outward comeliness is necessary. Hence there is no need for a dowry of this kind to be appointed in spiritual marriage as in carnal marriage."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "counter": [
@@ -135,89 +146,99 @@
             "title": [
                 "Whether the dowry is the same as beatitude*? [*Cf. FP, Question [12], Article [7], ad 1; FS, Question [4], Article [3]]"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the dowry is the same as beatitude.  For as appears from the definition of dowry (Article [1]), the dowry is \"the everlasting adornment of body and soul in eternal happiness.\" Now the happiness of the soul is an adornment thereof. Therefore beatitude is a dowry."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, a dowry signifies something whereby the union of bride and bridegroom is rendered delightful. Now such is beatitude in the spiritual marriage. Therefore beatitude is a dowry."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, according to Augustine (In Ps. 92) vision is \"the whole essence of beatitude.\" Now vision is accounted one of the dowries. Therefore beatitude is a dowry."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, fruition gives happiness. Now fruition is a dowry. Therefore a dowry gives happiness and thus beatitude is a dowry."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, according to Boethius (De Consol. iii), \"beatitude is a state made perfect by the aggregate of all good things.\" Now the state of the blessed is perfected by the dowries. Therefore the dowries are part of beatitude."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Beatitude, properly speaking, is not an adornment of the soul, but something resulting from the soul's adornment; since it is an operation, while its adornment is a certain comeliness of the blessed themselves."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Beatitude is not directed to the union but is the union itself of the soul with Christ. This union is by an  operation, whereas the dowries are gifts disposing to this same union."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Vision may be taken in two ways. First, actually, i.e. for the act itself of vision; and thus vision is not a dowry, but beatitude itself. Secondly, it may be taken habitually, i.e. for the habit whereby this act is elicited, namely the clarity of glory, by which the soul is enlightened from above to see God: and thus it is a dowry and the principle of beatitude, but not beatitude itself. The same answer applies to OBJ 4."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: Beatitude is the sum of all goods not as though they were essential parts of beatitude, but as being in a way directed to beatitude, as stated above."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "counter": [
@@ -237,98 +258,109 @@
             "title": [
                 "Whether it is fitting that Christ should receive a dowry?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem fitting that Christ should receive a dowry. For the saints will be conformed to Christ through glory, according to Phil. 3:21, \"Who will reform the body of our lowness made like to the body of His glory.\" Therefore Christ also will have a dowry."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, in the spiritual marriage a dowry is given in likeness to a carnal marriage. Now there is a spiritual marriage in Christ, which is peculiar to Him, namely of the two natures in one Person, in regard to which the human nature in Him is said to have been espoused by the Word, as a gloss [*St. Augustine, De Consensu Evang. i, 40] has it on Ps. 18:6, \"He hath set His tabernacle in the sun,\" etc., and Apoc. 21:3, \"Behold the tabernacle of God with men.\" Therefore it is fitting that Christ should have a dowry."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, Augustine says (De Doctr. Christ. iii) that Christ, according to the Rule [*Liber regularum] of Tyconius, on account of the unity of the mystic body that exists between the head and its members, calls Himself also the Bride and not only the Bridegroom, as may be gathered from Is. 61:10, \"As a bridegroom decked with a crown, and as a bride adorned with her jewels.\" Since then a dowry is due to the bride, it would seem that Christ ought to receive a dowry."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, a dowry is due to all the members of the Church, since the Church is the spouse. But Christ is a member of the Church according to 1 Cor. 12:27, \"You are the body of Christ, and members of member, i.e. of Christ,\" according to a gloss. Therefore the dowry is due to Christ."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, Christ has perfect vision, fruition, and joy. Now these are the dowries. Therefore, etc."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This conformity must be understood to refer to the thing which is a dowry and not to the notion of a dowry being in Christ: for it is not requisite that the thing in which we are conformed to Christ should be in the same way in Christ and in us."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Human nature is not properly said to be a bride in its union with the Word, since the distinction of persons, which is requisite between bridegroom and bride, is not observed therein. That human nature is sometimes described as being espoused in reference to its union with the Word is because it has a certain act of the bride, in that it is united to the Bridegroom inseparably, and in this union is subject to the Word and ruled by  the Word, as the bride by the bridegroom."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: If Christ is sometimes spoken of as the Bride, this is not because He is the Bride in very truth, but in so far as He personifies His spouse, namely the Church, who is united to Him spiritually. Hence nothing hinders Him, in this way of speaking, from being said to have the dowries, not that He Himself is dowered, but the Church."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: The term Church is taken in two senses. For sometimes it denotes the body only, which is united to Christ as its Head. In this way alone has the Church the character of spouse: and in this way Christ is not a member of the Church, but is the Head from which all the members receive. In another sense the Church denotes the head and members united together; and thus Christ is said to be a member of the Church, inasmuch as He fulfills an office distinct from all others, by pouring forth life into the other members: although He is not very properly called a member, since a member implies a certain restriction, whereas in Christ spiritual good is not restricted but is absolutely entire [*Cf. TP, Question [8], Article [1]], so that He is the entire good of the Church, nor is He together with others anything greater than He is by Himself. Speaking of the Church in this sense, the Church denotes not only the bride, but the bridegroom and bride, in so far as one thing results from their spiritual union. Consequently although Christ be called a member of the Church in a certain sense, He can by no means be called a member of the bride; and therefore the idea of a dowry is not becoming to Him."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: There is here a fallacy of \"accident\"; for these things are not befitting to Christ if we consider them under the aspect of dowry."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 }
             },
             "counter": [
@@ -347,98 +379,109 @@
             "title": [
                 "Whether the angels receive the dowries?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the angels receive dowries. For a gloss on Canticle of Canticles 6:8, \"One is my dove,\" says: \"One is the Church among men and angels.\" But the Church is the bride, wherefore it is fitting for the members of the Church to have the dowries. Therefore the angels have the dowries."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, a gloss on Lk. 12:36, \"And you yourselves like to men who wait for their lord, when he shall return from the wedding,\" says: \"Our Lord went to the wedding when after His resurrection the new Man espoused to Himself the angelic host.\" Therefore the angelic hosts are the spouse of Christ and consequently it is fitting that they should have the dowries."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the spiritual marriage consists in a spiritual union. Now the spiritual union between the angels and God is no less than between beatified men and God. Since, then, the dowries of which we treat now are assigned by reason of a spiritual marriage, it would seem that they are becoming to the angels."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, a spiritual marriage demands a spiritual bridegroom and a spiritual bride. Now the angels are by nature more conformed than men to Christ as the supreme spirit. Therefore a spiritual marriage is more possible between the angels and Christ than between men and Christ."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, a greater conformity is required between the head and members than between bridegroom and bride. Now the conformity between Christ and the angels suffices for Christ to be called the Head of the angels. Therefore for the same reason it suffices for Him to be called their bridegroom."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although the angels are included in the unity of the Church, they are not members of the Church according to conformity of nature, if we consider the Church as bride: and thus it is not properly fitting for them to have the dowries."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Espousal is taken there in a broad sense, for union without conformity of specific nature: and in this sense nothing prevents our saying that the angels have the dowries taking these in a broad sense."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: In the spiritual marriage although there is no other than a spiritual union, those whose union answers to the idea of a perfect marriage should agree in specific nature. Hence espousal does not properly befit the angels."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: The conformity between the angels and Christ as God is not such as suffices for the notion of a perfect marriage, since so far are they from agreeing in species that there is still an infinite distance between them."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: Not even is Christ properly called the Head of the angels, if we consider the head as requiring conformity of nature with the members. We must observe, however, that although the head and the other members are parts of an individual of one species, if we consider each one by itself, it is not of the same species as another member, for a hand is another specific part from the head. Hence, speaking of the members in themselves, the only conformity required among them is one of proportion, so that one receive from another, and one serve another. Consequently the conformity between God and the angels suffices for the notion of head rather than for that of bridegroom."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 4
                 }
             },
             "counter": [
@@ -457,134 +500,149 @@
             "title": [
                 "Whether three dowries of the soul are suitably assigned?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem unfitting to assign to the soul three dowries, namely, \"vision,\" \"love\" and \"fruition.\" For the soul is united to God according to the mind wherein is the image of the Trinity in respect of the memory, understanding, and will. Now love regards the will, and vision the understanding. Therefore there should be something corresponding to the memory, since fruition regards not the memory but the will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the beatific dowries are said to correspond to the virtues of the way, which united us to God: and these are faith, hope, and charity, whereby God Himself is the object. Now love corresponds to charity, and vision to faith. Therefore there should be something corresponding to hope, since fruition corresponds rather to charity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, we enjoy God by love and vision only, since \"we are said to enjoy those things which we love for their own sake,\" as Augustine says (De Doctr. Christ. i, 4). Therefore fruition should not be reckoned a distinct dowry from love."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, comprehension is required for the perfection of beatitude: \"So run that you may comprehend\" (1 Cor. 9:24). Therefore we should reckon a fourth dowry"
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, Anselm says (De Simil. xlviii) that the following pertain to the soul's beatitude: \"wisdom, friendship, concord, power, honor, security, joy\": and consequently the aforesaid dowries are reckoned unsuitably."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 5
                 },
                 "6": {
-                    "id": 6,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 6: Further, Augustine says (De Civ. Dei xxii) that \"in that beatitude God will be seen unendingly, loved without wearying, praised untiringly.\" Therefore praise should be added to the aforesaid dowries."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 5
                 },
                 "7": {
-                    "id": 7,
                     "question": 95,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 7: Further, Boethius reckons five things pertaining to beatitude (De Consol. iii) and these are: Sufficiency which wealth offers, joy which pleasure offers, celebrity which fame offers, security which power offers, reverence which dignity offers. Consequently it seems that these should be reckoned as dowries rather than the aforesaid."
-                    ]
+                    ],
+                    "id": 7,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Memory and understanding have but one act: either because understanding is itself an act of memory, or---if understanding denote a power---because memory does not proceed to act save through the medium of the understanding, since it belongs to the memory to retain knowledge. Consequently there is only one habit, namely knowledge, corresponding to memory and understanding: wherefore only one dowry, namely vision, corresponds to both."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Fruition corresponds to hope, in so far as it includes comprehension which will take the place of hope: since we hope for that which we have not yet; wherefore hope chafes somewhat on account of the distance of the beloved: for which reason it will not remain in heaven [Cf. SS, Question [18], Article [2]] but will be succeeded by comprehension."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Fruition as including comprehension is distinct from vision and love, but otherwise than love from vision. For love and vision denote different habits, the one belonging to the intellect, the other to the affective faculty. But comprehension, or fruition as denoting comprehension, does not signify a habit distinct from those two, but the removal of the obstacles which made it impossible for the mind to be united to God by actual vision. This is brought about by the habit of glory freeing the soul from all defects; for instance by making it capable of knowledge without phantasms, of complete control over the body, and so forth, thus removing the obstacles which result in our being pilgrims from the Lord."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4:is clear from what has been said."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 5
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: Properly speaking, the dowries are the immediate principles of the operation in which perfect beatitude consists and whereby the soul is united to Christ. The things mentioned by Anselm do not answer to this description; but they are such as in any way accompany or follow beatitude, not only in relation to the Bridegroom, to Whom \"wisdom\" alone of the things mentioned by him refers, but also in relation to others. They may be either one's equals, to whom \"friendship\" refers as regards the union of affections, and \"concord\" as regards consent in actions, or one's inferiors, to whom \"power\" refers, so far as inferior things are ordered by superior, and \"honor\" as regards that which inferiors  offer to their superiors. Or again (they may accompany or follow beatitude) in relation to oneself: to this \"security\" refers as regards the removal of evil, and \"joy\" as regards the attainment of good."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 5
                 },
                 "6": {
-                    "id": 6,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 6: Praise, which Augustine mentions as the third of those things which will obtain in heaven, is not a disposition to beatitude but rather a sequel to beatitude: because from the very fact of the soul's union with God, wherein beatitude consists, it follows that the soul breaks forth into praise. Hence praise has not the necessary conditions of a dowry."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 5
                 },
                 "7": {
-                    "id": 7,
                     "question": 95,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 7: The five things aforesaid mentioned by Boethius are certain conditions of beatitude, but not dispositions to beatitude or to its act, because beatitude by reason of its perfection has of itself alone and undividedly all that men seek in various things, as the Philosopher declares (Ethic. i, 7; x, 7,8). Accordingly Boethius shows that these five things obtain in perfect beatitude, because they are what men seek in temporal happiness. For they pertain either, as \"security,\" to immunity from evil, or to the attainment either of the suitable good, as \"joy,\" or of the perfect good, as \"sufficiency,\" or to the manifestation of good, as \"celebrity,\" inasmuch as the good of one is made known to others, or as \"reverence,\" as indicating that good or the knowledge thereof, for reverence is the showing of honor which bears witness to virtue. Hence it is evident that these five should not be called dowries, but conditions of beatitude."
-                    ]
+                    ],
+                    "id": 7,
+                    "article": 5
                 }
             },
             "counter": [],

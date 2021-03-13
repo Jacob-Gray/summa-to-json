@@ -23,62 +23,69 @@
             "title": [
                 "Whether every pleasure is evil?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that every pleasure is evil. For that which destroys prudence and hinders the use of reason, seems to be evil in itself: since man's good is to be \"in accord with reason,\" as Dionysius says (Div. Nom. iv). But pleasure destroys prudence and hinders the use of reason; and so much the more, as the pleasure is greater: wherefore \"in sexual pleasures,\" which are the greatest of all, \"it is impossible to understand anything,\" as stated in Ethic. vii, 11. Moreover, Jerome says in his commentary on Matthew [*Origen, Hom. vi in Num.] that \"at the time of conjugal intercourse, the presence of the Holy Ghost is not vouchsafed, even if it be a prophet that fulfils the conjugal duty.\" Therefore pleasure is evil in itself; and consequently every pleasure is evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, that which the virtuous man shuns, and the man lacking in virtue seeks, seems to be evil in itself, and should be avoided; because, as stated in Ethic. x, 5 \"the virtuous man is a kind of measure and rule of human actions\"; and the Apostle says (1 Cor. 2:15): \"The spiritual man judgeth all things.\" But children and dumb animals, in whom there is no virtue, seek pleasure: whereas the man who is master of himself does not. Therefore pleasures are evil in themselves and should be avoided."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, \"virtue and art are concerned about the difficult and the good\" (Ethic. ii, 3). But no art is ordained to pleasure. Therefore pleasure is not something good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: As stated above (Question [33], Article [3]), it is not the pleasures which result from an act of reason, that hinder the reason or destroy prudence, but extraneous pleasures, such as the pleasures of the body. These indeed hinder the use of reason, as stated above (Question [33], Article [3]), either by contrariety of the appetite that rests in something repugnant to reason, which makes the pleasure morally bad; or by fettering the reason: thus in conjugal intercourse, though the pleasure be in accord with reason, yet it hinders the use of reason, on account of the accompanying bodily change. But in this case the pleasure is not morally evil; as neither is sleep, whereby the reason is fettered, morally evil, if it be taken according to reason: for reason itself demands that the use of reason be interrupted at times. We must add, however, that although this fettering of the reason through the pleasure of conjugal intercourse has no moral malice, since it is neither a mortal nor a venial sin; yet it proceeds from a kind of moral malice, namely, from the sin of our first parent; because, as stated in the FP, Question [98], Article [2] the case was different in the state of innocence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The temperate man does not shun all pleasures, but those that are immoderate, and contrary to reason. The fact that children and dumb animals seek pleasures, does not prove that all pleasures are evil: because they have from God their natural  appetite, which is moved to that which is naturally suitable to them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Art is not concerned with all kinds of good, but with the making of external things, as we shall state further on (Question [57], Article [3]). But actions and passions, which are within us, are more the concern of prudence and virtue than of art. Nevertheless there is an art of making pleasure, namely, \"the art of cookery and the art of making arguments,\" as stated in Ethic. vii, 12."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,62 +105,69 @@
             "title": [
                 "Whether every pleasure is good?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that every pleasure is good. Because as stated in the FP, Question [5], Article [6] there are three kinds of good: the virtuous, the useful, and the pleasant. But everything virtuous is good; and in like manner everything useful is good. Therefore also every pleasure is good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, that which is not sought for the sake of something else, is good in itself, as stated in Ethic. i, 6,7. But pleasure is not sought for the sake of something else; for it seems absurd to ask anyone why he seeks to be pleased. Therefore pleasure is good in itself. Now that which is predicated to a thing considered in itself, is predicated thereof universally. Therefore every pleasure is good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, that which is desired by all, seems to be good of itself: because good is \"what all things seek,\" as stated in Ethic. i, 1. But everyone seeks some kind of pleasure, even children and dumb animals. Therefore pleasure is good in itself: and consequently all pleasure is good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The virtuous and the useful depend on accordance with reason, and consequently nothing is virtuous or useful, without being good. But the pleasant depends on agreement with the appetite, which tends sometimes to that which is discordant from reason. Consequently not every object of pleasure is good in the moral order which depends on the order of reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The reason why pleasure is not sought for the sake of something else is because it is repose in the end. Now the end may be either good or evil; although nothing can be an end except in so far as it is good in respect of such and such a man: and so too with regard to pleasure."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: All things seek pleasure in the same way as they seek good: since pleasure is the repose of the appetite in good. But, just as it happens that not every good which is desired, is of itself and verily good; so not every pleasure is of itself and verily good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -171,62 +185,69 @@
             "title": [
                 "Whether any pleasure is the greatest good?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that no pleasure is the greatest good. Because nothing generated is the greatest good: since generation cannot be the last end. But pleasure is a consequence of generation: for the fact that a thing takes pleasure is due to its being established in its own nature, as stated above (Question [31], Article [1]). Therefore no pleasure is the greatest good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, that which is the greatest good cannot be made better by addition. But pleasure is made better by addition; since pleasure together with virtue is better than pleasure without virtue. Therefore pleasure is not the greatest good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, that which is the greatest good is universally good, as being good of itself: since that which is such of itself is prior to and greater than that which is such accidentally. But pleasure is not universally good, as stated above (Article [2]). Therefore pleasure is not the greatest good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Not every pleasure arises from a \"becoming\"; for some pleasures result from perfect operations, as stated above. Accordingly nothing prevents some pleasure being the greatest good, although every pleasure is not such."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: This argument is true of the greatest good simply, by participation of which all things are good; wherefore no addition can make it better: whereas in regard to other goods, it is universally true that any good becomes better by the addition of another good. Moreover it might be said that pleasure is not something extraneous to the operation of virtue, but that it accompanies it, as stated in Ethic. i, 8."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: That pleasure is the greatest good is due not to the mere fact that it is pleasure, but to the fact that it is perfect repose in the perfect good. Hence it does not follow that every pleasure is supremely good, or even good at all. Thus a certain science is supremely good, but not every science is."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -245,62 +266,69 @@
             "title": [
                 "Whether pleasure is the measure or rule by which to judge of moral good or evil?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that pleasure is not the measure or rule of moral good and evil. Because \"that which is first in a genus is the measure of all the rest\" (Metaph. x, 1). But pleasure is not the first thing in the moral genus, for it is preceded by love and desire. Therefore it is not the rule of goodness and malice in moral matters."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, a measure or rule should be uniform; hence  that movement which is the most uniform, is the measure and rule of all movements (Metaph. x, 1). But pleasures are various and multiform: since some of them are good, and some evil. Therefore pleasure is not the measure and rule of morals."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 34,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, judgment of the effect from its cause is more certain than judgment of cause from effect. Now goodness or malice of operation is the cause of goodness or malice of pleasure: because \"those pleasures are good which result from good operations, and those are evil which arise from evil operations,\" as stated in Ethic. x, 5. Therefore pleasures are not the rule and measure of moral goodness and malice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Love and desire precede pleasure in the order of generation. But pleasure precedes them in the order of the end, which serves a principle in actions; and it is by the principle, which is the rule and measure of such matters, that we form our judgment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: All pleasures are uniform in the point of their being the repose of the appetite in something good: and in this respect pleasure can be a rule or measure. Because that man is good, whose will rests in the true good: and that man evil, whose will rests in evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 34,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Since pleasure perfects operation as its end, as stated above (Question [33], Article [4]); an operation cannot be perfectly good, unless there be also pleasure in good: because the goodness of a  thing depends on its end. And thus, in a way, the goodness of the pleasure is the cause of goodness in the operation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

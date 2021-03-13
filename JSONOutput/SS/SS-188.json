@@ -27,80 +27,89 @@
             "title": [
                 "Whether there is only one religious order?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there is but one religious order. For there can be no diversity in that which is possessed wholly and perfectly; wherefore there can be only one sovereign good, as stated in the FP, Question [6] , Articles [2],3,4. Now as Gregory says (Hom. xx in Ezech.), \"when a man vows to Almighty God all that he has, all his life, all his knowledge, it is a holocaust,\" without which there is no religious life. Therefore it would seem that there are not many religious orders but only one."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, things which agree in essentials differ only accidentally. Now there is no religious order without the three essential vows of religion, as stated above (Question [186], Articles [6],7). Therefore it would seem that religious orders differ not specifically, but only accidentally."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the state of perfection is competent both to religious and to bishops, as stated above (Question [185], Articles [5],7). Now the episcopate is not diversified specifically, but is one wherever it may be; wherefore Jerome says (Ep. cxlvi ad Evan.): \"Wherever a bishop is, whether at Rome, or Gubbio, or Constantinople, or Reggio, he has the same excellence, the same priesthood.\" Therefore in like manner there is but one religious order."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, anything that may lead to confusion should be  removed from the Church. Now it would seem that a diversity of religious orders might confuse the Christian people, as stated in the Decretal de Statu Monach. et Canon. Reg. [*Cap. Ne Nimia, de Relig. Dom.]. Therefore seemingly there ought not to be different religious orders."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The obligation to devote oneself wholly to God's service is common to every religious order; hence religious do not differ in this respect, as though in one religious order a person retained some one thing of his own, and in another order some other thing. But the difference is in respect of the different things wherein one may serve God, and whereby a man may dispose himself to the service of God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The three essential vows of religion pertain to the practice of religion as principles to which all other matters are reduced, as stated above (Question [186], Article [7]). But there are various ways of disposing oneself to the observance of each of them. For instance one disposes oneself to observe the vow of continence, by solitude of place, by abstinence, by mutual fellowship, and by many like means. Accordingly it is evident that the community of the essential vows is compatible with diversity of religious life, both on account of the different dispositions and on account of the different ends, as explained above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: In matters relating to perfection, the bishop stands in the position of agent, and the religious as passive, as stated above (Question [184], Article [7]). Now the agent, even in natural things, the higher it is, is so much the more one, whereas the things that are passive are various. Hence with reason the episcopal state is one, while religious orders are many."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: Confusion is opposed to distinction and order.  Accordingly the multitude of religious orders would lead to confusion, if different religious orders were directed to the same end and in the same way, without necessity or utility. Wherefore to prevent this happening it has been wholesomely forbidden to establish a new religious order without the authority of the Sovereign Pontiff."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -119,62 +128,69 @@
             "title": [
                 "Whether a religious order should be established for the works of the active life?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that no religious order should be established for the works of the active life. For every religious order belongs to the state of perfection, as stated above (Question [184], Article [5]; Question [186], Article [1]). Now the perfection of the religious state consists in the contemplation of divine things. For Dionysius says (Eccl. Hier. vi) that they are \"called servants of God by reason of their rendering pure service and subjection to God, and on account of the indivisible and singular life which unites them by holy reflections,\" i.e. contemplations, \"on invisible things, to the Godlike unity and the perfection beloved of God.\" Therefore seemingly no religious order should be established for the works of the active life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, seemingly the same judgment applies to canons regular as to monks, according to Extra, De Postul., cap. Ex parte; and De Statu Monach., cap. Quod Dei timorem: for it is stated that \"they are not considered to be separated from the fellowship of monks\": and the same would seem to apply to all other religious. Now the monastic rule was established for the purpose of the contemplative life; wherefore Jerome says (Ep. lviii ad Paulin.): \"If you wish to be what you are called, a monk,\" i.e. a solitary, \"what business have you in a city?\" The same is found stated in Extra, De Renuntiatione, cap. Nisi cum pridem; and De Regular., cap. Licet quibusdam. Therefore it would seem that every religious order is directed to the contemplative life, and none to the active life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the active life is concerned with the present world. Now all religious are said to renounce the world; wherefore Gregory says (Hom. xx in Ezech.): \"He who renounces this world, and does all the good he can, is like one who has gone out of Egypt and offers sacrifice in the wilderness.\" Therefore it would seem that no religious order can be directed to the active life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Service and subjection rendered to God are not precluded by the works of the active life, whereby a man serves his neighbor for God's sake, as stated in the Article. Nor do these works preclude singularity of life; not that they involve man's living apart from his fellow-men, but in the sense that each man individually devotes himself to things pertaining to the service of God; and since religious occupy themselves with the works of the active life for God's sake, it follows that their action results from their contemplation of divine things. Hence they are not entirely deprived of the fruit of the contemplative life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The same judgment applies to monks and to all other religious, as regards things common to all religious orders: for instance as regards their devoting themselves wholly to the divine service, their observance of the essential vows of religion, and their refraining from worldly business. But it does not follow that this likeness extends to other things that are proper to the monastic profession, and are directed especially to the contemplative life. Hence in the aforesaid Decretal, De Postulando, it is not simply stated that \"the same judgment applies to canons regular\" as \"to monks,\" but that it applies \"in matters already mentioned,\" namely that \"they are not to act as advocates in lawsuits.\" Again the Decretal quoted, De Statu Monach., after the statement that \"canons regular are not considered to be separated from the fellowship of monks,\" goes on to say: \"Nevertheless they obey an easier rule.\" Hence it is evident that they are not bound to all that monks are bound."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: A man may be in the world in two ways: in one way by his bodily presence, in another way by the bent of his mind. Hence our Lord said to His disciples (Jn. 15:19): \"I have chosen you out of the world,\" and yet speaking of them to His Father He said (Jn. 17:11): \"These are in the world, and I come to Thee.\"  Although, then, religious who are occupied with the works of the active life are in the world as to the presence of the body, they are not in the world as regards their bent of mind, because they are occupied with external things, not as seeking anything of the world, but merely for the sake of serving God: for \"they . . . use this world, as if they used it not,\" to quote 1 Cor. 7:31. Hence (James 1:27) after it is stated that \"religion clean and undefiled . . . is . . . to visit the fatherless and widows in their tribulation,\" it is added, \"and to keep one's self unspotted from this world,\" namely to avoid being attached to worldly things."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -192,80 +208,89 @@
             "title": [
                 "Whether a religious order can be directed to soldiering?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that no religious order can be directed to soldiering. For all religious orders belong to the state of perfection. Now our Lord said with reference to the perfection of Christian life (Mt. 5:39): \"I say to you not to resist evil; but if one strike thee on the right cheek, turn to him also the other,\" which is inconsistent with the duties of a soldier. Therefore no religious order can be established for soldiering."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the bodily encounter of the battlefield is more grievous than the encounter in words that takes place between counsel at law. Yet religious are forbidden to plead at law, as appears from the Decretal De Postulando quoted above (Article [2], Objection [2]). Therefore it is much less seemly for a religious order to be established for soldiering."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the religious state is a state of penance, as we have said above (Question [187], Article [6]). Now according to the code of laws soldiering is forbidden to penitents. for it is said in the Decretal De Poenit., Dist. v, cap. 3: \"It is altogether opposed to the rules of the Church, to return to worldly soldiering after doing penance.\" Therefore it is unfitting for any religious order to be established for soldiering."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, no religious order may be established for an unjust object. But as Isidore says (Etym. xviii, 1), \"A just war is one that is waged by order of the emperor.\" Since then religious are private individuals, it would seem unlawful for them to wage war; and consequently no religious order may be established for this purpose."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Not to resist evil may be understood in two ways. First, in the sense of forgiving the wrong done to oneself, and thus it may pertain to perfection, when it is expedient to act thus for the spiritual welfare of others. Secondly, in the sense of tolerating patiently the wrongs done to others: and this pertains to imperfection, or even to vice, if one be able to resist the wrongdoer in a becoming manner. Hence Ambrose says (De Offic. i, 27): \"The courage whereby a man in battle defends his country against barbarians, or protects the weak at home, or his friends against robbers is full of justice\": even so our Lord says in the passage quoted [*Lk. 6:30 \"Of him that taketh away thy goods, ask them not again\"; Cf. Mt. 5:40], \" . . . thy goods, ask them not again.\" If, however, a man were not to demand the return of that which belongs to another, he would sin if it were his business to do so: for it is praiseworthy to give away one's own, but not another's property. And much less should the things of God be neglected, for as Chrysostom [*Hom. v in Matth. in the Opus Imperfectum, falsely ascribed to St. John Chrysostom] says, \"it is most wicked to overlook the wrongs done to God.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: It is inconsistent with any religious order to act as counsel at law for a worldly object, but it is not inconsistent to do so at the orders of one's superior and in favor of one's monastery, as stated in the same Decretal, or for the defense of the poor and widows. Wherefore it is said in the Decretals (Dist. lxxxviii, cap. 1): \"The holy synod has decreed that henceforth no cleric is to buy property or occupy himself with secular business, save with a view to the care of the fatherless . . . and widows.\" Likewise to be a soldier for the sake of some worldly object is contrary to all religious life, but this does not apply to those who are soldiers for the sake of God's service."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Worldly soldiering is forbidden to penitents, but the soldiering which is directed to the service of God is imposed as a penance on some people, as in the case of those upon whom it  is enjoined to take arms in defense of the Holy Land."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: The establishment of a religious order for the purpose of soldiering does not imply that the religious can wage war on their own authority; but they can do so only on the authority of the sovereign or of the Church."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -284,98 +309,109 @@
             "title": [
                 "Whether a religious order can be established for preaching or hearing confessions?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that no religious order may be established for preaching, or hearing confessions. For it is said (VII, qu. i [*Cap. Hoc nequaquam; Cf. Question [187], Article [1], Objection [1]]): \"The monastic life is one of subjection and discipleship, not of teaching, authority, or pastoral care,\" and the same apparently applies to religious. Now preaching and hearing confessions are the actions of a pastor and teacher. Therefore a religious order should not be established for this purpose."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the purpose for which a religious order is established would seem to be something most proper to the religious life, as stated above (Article [1]). Now the aforesaid actions are not proper to religious but to bishops. Therefore a religious order should not be established for the purpose of such actions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it seems unfitting that the authority to preach and hear confessions should be committed to an unlimited number of men; and there is no fixed number of those who are received into a religious order. Therefore it is unfitting for a religious order to be established for the purpose of the aforesaid actions."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, preachers have a right to receive their livelihood from the faithful of Christ, according to 1 Cor. 9. If then the office of preaching be committed to a religious order established for that purpose, it follows that the faithful of Christ are bound to support an unlimited number of persons, which would be a heavy burden on them. Therefore a religious order should not be established for the exercise of these actions."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 },
                 "5": {
-                    "id": 5,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 5: Further, the organization of the Church should be in accordance with Christ's institution. Now Christ sent first the twelve apostles to preach, as related in Luke 9, and afterwards He sent the seventy-two disciples, as stated in Luke 10. Moreover, according to the gloss of Bede on \"And after these things\" (Lk. 10:1), \"the apostles are represented by the bishops, the seventy-two disciples by the lesser priests,\" i.e. the parish priests. Therefore in addition to bishops and parish priests, no religious order should be established for the purpose of preaching and hearing confessions."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: He who works by virtue of another, acts as an instrument. And a minister is like an \"animated instrument,\" as the Philosopher says (Polit. i, 2 [*Cf. Ethic. viii, 11]). Hence if a man preach or do something similar by the authority of his superiors, he does not rise above the degree of \"discipleship\" or \"subjection,\" which is competent to religious."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Some religious orders are established for soldiering, to wage war, not indeed on their own authority, but on that of the sovereign or of the Church who are competent to wage war by virtue of their office, as stated above (Article [3], ad 4). In the same way certain religious orders are established for preaching and hearing confessions, not indeed by their own authority, but by the authority of the higher and lower superiors, to whom these things belong by virtue of their office. Consequently to assist one's superiors in such a ministry is proper to a religious order of this kind."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Bishops do not allow these religious severally and indiscriminately to preach or hear confessions, but according to the discretion of the religious superiors, or according to their own appointment."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: The faithful are not bound by law to contribute to the support of other than their ordinary prelates, who receive the tithes and offerings of the faithful for that purpose, as well as other ecclesiastical revenues. But if some men are willing to minister to the faithful by exercising the aforesaid acts  gratuitously, and without demanding payment as of right, the faithful are not burdened thereby because their temporal contributions can be liberally repaid by those men, nor are they bound by law to contribute, but by charity, and yet not so that they be burdened thereby and others eased, as stated in 2 Cor. 8:13. If, however, none be found to devote themselves gratuitously to services of this kind, the ordinary prelate is bound, if he cannot suffice by himself, to seek other suitable persons and support them himself."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 },
                 "5": {
-                    "id": 5,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 5: The seventy-two disciples are represented not only by the parish priests, but by all those of lower order who in any way assist the bishops in their office. For we do not read that our Lord appointed the seventy-two disciples to certain fixed parishes, but that \"He sent them two and two before His face into every city and place whither He Himself was to come.\" It was fitting, however, that in addition to the ordinary prelates others should be chosen for these duties on account of the multitude of the faithful, and the difficulty of finding a sufficient number of persons to be appointed to each locality, just as it was necessary to establish religious orders for military service, on account of the secular princes being unable to cope with unbelievers in certain countries."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 4
                 }
             },
             "counter": [
@@ -393,62 +429,69 @@
             "title": [
                 "Whether a religious order should be established for the purpose of study?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a religious order should not be established for the purpose of study. For it is written (Ps. 70:15,16): \"Because I have not known letters [Douay: 'learning'], I will enter into the powers of the Lord,\" i.e. \"Christian virtue,\" according to a gloss. Now the perfection of Christian virtue, seemingly, pertains especially to religious. Therefore it is not for them to apply themselves to the study of letters."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, that which is a source of dissent is unbecoming to religious, who are gathered together in the unity of peace. Now study leads to dissent: wherefore different schools of thought arose among the philosophers. Hence Jerome (Super Epist. ad Tit. 1:5) says: \"Before a diabolical instinct brought study into religion, and people said: I am of Paul, I of Apollo, I of Cephas,\" etc. Therefore it would seem that no religious order should be established for the purpose of study."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, those who profess the Christian religion should profess nothing in common with the Gentiles. Now among the Gentiles were some who professed philosophy, and even now some secular persons are known as professors of certain sciences. Therefore the study of letters does not become religious."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This commentary of the gloss is an exposition of the Old Law of which the Apostle says (2 Cor. 3:6): \"The letter killeth.\" Hence not to know letters is to disapprove of the circumcision of the \"letter\" and other carnal observances."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Study is directed to knowledge which, without charity, \"puffeth up,\" and consequently leads to dissent, according to Prov. 13:10, \"Among the proud there are always dissensions\": whereas, with charity, it \"edifieth and begets concord.\" Hence the Apostle after saying (1 Cor. 1:5): \"You are made rich . . . in all utterance and in all knowledge,\" adds (1 Cor. 1:10): \"That you all speak the same thing, and that there be no schisms among you.\" But Jerome is not speaking here of the study of letters, but of the study of dissensions which heretics and schismatics have brought into the Christian religion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The philosophers professed the study of letters in the matter of secular learning: whereas it becomes religious to devote themselves chiefly to the study of letters in reference to the doctrine that is \"according to godliness\" (Titus 1:1). It becomes not religious, whose whole life is devoted to the service of God, to seek for other learning, save in so far as it is referred to the sacred doctrine. Hence Augustine says at the end of De Musica vi, 17: \"Whilst we think that we should not overlook those whom heretics delude by the deceitful assurance of reason and knowledge, we are slow to advance in the consideration of their methods. Yet we should not be praised for doing this, were it not that many holy sons of their most loving mother the Catholic Church had done the same under the necessity of confounding heretics.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -468,62 +511,69 @@
             "title": [
                 "Whether a religious order that is devoted to the contemplative life is more excellent than on that is given to the active life?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that a religious order which is devoted to the contemplative life is not more excellent than one which is given to the active life. For it is said (Extra, de Regular. et Transeunt. ad Relig., cap. Licet), quoting the words of Innocent III: \"Even as a greater good is preferred to a lesser, so the common profit takes precedence of private profit: and in this case teaching is rightly preferred to silence, responsibility to contemplation, work to rest.\" Now the religious order which is directed to the greater good is better. Therefore it would seem that those religious orders that are directed to the active life are more excellent than those which are directed to the contemplative life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, every religious order is directed to the perfection of charity, as stated above (Articles [1],2). Now a gloss on Heb. 12:4, \"For you have not yet resisted unto blood,\" says: \"In this life there is no more perfect love than that to which the holy martyrs attained, who fought against sin unto blood.\" Now to fight unto blood is becoming those religious who are directed to military service, and yet this pertains to the active life. Therefore it would seem that religious orders of this kind are the most excellent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, seemingly the stricter a religious order is, the more excellent it is. But there is no reason why certain religious orders directed to the active life should not be of stricter observance than those directed to the contemplative life. Therefore they are more excellent."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This Decretal refers to the active life as directed to the salvation of souls."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Those religious orders that are established for the purpose of military service aim more directly at shedding the enemy's blood than at the shedding of their own, which latter is more properly competent to martyrs. Yet there is no reason why religious of this description should not acquire the merit of martyrdom in certain cases, and in this respect stand higher than other religious; even as in some cases the works of the active life take precedence of contemplation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Strictness of observances, as the Blessed Antony remarks (Conferences of the Fathers; Coll. ii, 2), is not the chief object of commendation in a religious order; and it is written (Is. 58:5): \"Is this such a fast as I have chosen, for a man to afflict his soul for a day?\" Nevertheless it is adopted in religious life as being necessary for taming the flesh, \"which if done without discretion, is liable to make us fail altogether,\" as the Blessed Antony observes. Wherefore a religious order is not more excellent through having stricter observances, but because its observances are directed by greater discretion to the end of religion. Thus the taming of the flesh is more efficaciously directed to continence by means of abstinence in meat and drink, which pertain to hunger and thirst, than by the privation of clothing, which pertains to cold and nakedness, or by bodily labor."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -543,99 +593,110 @@
             "title": [
                 "Whether religious perfection is diminished by possessing something in common?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that religious perfection is diminished by possessing something in common. For our Lord said (Mt. 19:21): \"If thou wilt be perfect, go sell all [Vulg.: 'what'] thou hast and give to the poor.\" Hence it is clear that to lack worldly wealth belongs to the perfection of Christian life. Now those who possess  something in common do not lack worldly wealth. Therefore it would seem that they do not quite reach to the perfection of Christian life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the perfection of the counsels requires that one should be without worldly solicitude; wherefore the Apostle in giving the counsel of virginity said (1 Cor. 7:32): \"I would have you to be without solicitude.\" Now it belongs to the solicitude of the present life that certain people keep something to themselves for the morrow; and this solicitude was forbidden His disciples by our Lord (Mt. 6:34) saying: \"Be not . . . solicitous for tomorrow.\" Therefore it would seem that the perfection of Christian life is diminished by having something in common."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, possessions held in common belong in some way to each member of the community; wherefore Jerome (Ep. lx ad Heliod. Episc.) says in reference to certain people: \"They are richer in the monastery than they had been in the world; though serving the poor Christ they have wealth which they had not while serving the rich devil; the Church rejects them now that they are rich, who in the world were beggars.\" But it is derogatory to religious perfection that one should possess wealth of one's own. Therefore it is also derogatory to religious perfection to possess anything in common."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, Gregory (Dial. iii, 14) relates of a very holy man named Isaac, that \"when his disciples humbly signified that he should accept the possessions offered to him for the use of the monastery, he being solicitous for the safeguarding of his poverty, held firmly to his opinion, saying: A monk who seeks earthly possessions is no monk at all\": and this refers to possessions held in common, and which were offered him for the common use of the monastery. Therefore it would seem destructive of religious perfection to possess anything in common."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 7
                 },
                 "5": {
-                    "id": 5,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 5: Further, our Lord in prescribing religious perfection to His disciples, said (Mt. 10:9,10): \"Do not possess gold, nor silver, nor money in your purses, nor script for your journey.\" By these words, as Jerome says in his commentary, \"He reproves those philosophers who are commonly called Bactroperatae [*i.e. staff and scrip bearers], who as despising the world and valuing all things at naught carried their pantry about with them.\" Therefore it would seem derogatory to religious perfection that one should keep something whether for oneself or for the common use."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As stated above (Question [184], Article [3], ad 1), this saying of our Lord does not mean that poverty itself is perfection, but that it is the means of perfection. Indeed, as shown above (Question [186], Article [8]), it is the least of the three chief means of perfection; since the vow of continence excels the vow of poverty, and the vow of obedience excels them both. Since, however, the means are sought not for their own sake, but for the sake of the end, a thing is better, not for being a greater instrument, but for being more adapted to the end. Thus a physician does not heal the more the more medicine he gives, but the more the medicine is adapted to the disease. Accordingly it does not follow that a religious order is the more perfect, according as the poverty it professes is more perfect, but according as its poverty is more adapted to the end both common and special. Granted even that the religious order which exceeds others in poverty be more perfect in so far as it is poorer, this would not make it more perfect simply. For possibly some other religious order might surpass it in matters relating to continence, or obedience, and thus be more perfect simply, since to excel in better things is to be better simply."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Our Lord's words (Mt. 6:34), \"Be not solicitous for tomorrow,\" do not mean that we are to keep nothing for the morrow; for the Blessed Antony shows the danger of so doing, in the Conferences of the Fathers (Coll. ii, 2), where he says: \"It has been our experience that those who have attempted to practice the privation of all means of livelihood, so as not to have the wherewithal to procure themselves food for one day, have been deceived so unawares that they were unable to finish properly the work they had undertaken.\" And, as Augustine says (De oper. Monach. xxiii), \"if this saying of our Lord, 'Be not solicitous for tomorrow,' means that we are to lay nothing by for the morrow, those who shut themselves up for many days from the sight of men, and apply their whole mind to a life of prayer, will be unable to provide themselves with these things.\" Again he adds afterwards:  \"Are we to suppose that the more holy they are, the less do they resemble the birds?\" And further on (De oper. Monach. xxiv): \"For if it be argued from the Gospel that they should lay nothing by, they answer rightly: Why then did our Lord have a purse, wherein He kept the money that was collected? Why, in days long gone by, when famine was imminent, was grain sent to the holy fathers? Why did the apostles thus provide for the needs of the saints?\"",
                         "Accordingly the saying: \"Be not solicitous for tomorrow,\" according to Jerome (Super Matth.) is to be rendered thus: \"It is enough that we think of the present; the future being uncertain, let us leave it to God\": according to Chrysostom [*Hom. xvi in the Opus Imperfectum, falsely ascribed to St. John Chrysostom], \"It is enough to endure the toil for necessary things, labor not in excess for unnecessary things\": according to Augustine (De Serm. Dom. in Monte ii, 17): \"When we do any good action, we should bear in mind not temporal things which are denoted by the morrow, but eternal things.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The saying of Jerome applies where there are excessive riches, possessed in private as it were, or by the abuse of which even the individual members of a community wax proud and wanton. But they do not apply to moderate wealth, set by for the common use, merely as a means of livelihood of which each one stands in need. For it amounts to the same that each one makes use of things pertaining to the necessaries of life, and that these things be set by for the common use."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: Isaac refused to accept the offer of possessions, because he feared lest this should lead him to have excessive wealth, the abuse of which would be an obstacle to religious perfection. Hence Gregory adds (Dial. iii, 14): \"He was as afraid of forfeiting the security of his poverty, as the rich miser is careful of his perishable wealth.\" It is not, however, related that he refused to accept such things as are commonly necessary for the upkeep of life."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 7
                 },
                 "5": {
-                    "id": 5,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 5: The Philosopher says (Polit. i, 5,6) that bread, wine, and the like are natural riches, while money is artificial riches. Hence it is that certain philosophers declined to make use of money, and employed other things, living according to nature. Wherefore Jerome shows by the words of our Lord, Who equally forbade both, that it comes to the same to have money and to possess other things necessary for life. And though our Lord commanded those who were sent to preach not to carry these things on the way, He did not forbid them to be possessed in common. How these words of our Lord should be understood has been shown above (Question [185], Article [6], ad 2; FS, Question [108], Article [2], ad 3)."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 7
                 }
             },
             "counter": [
@@ -658,98 +719,109 @@
             "title": [
                 "Whether the religious life of those who live in community is more perfect than that of those who lead a solitary life?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the religious life of those who live  in community is more perfect than that of those who lead a solitary life. For it is written (Eccles. 4:9): \"It is better . . . that two should be together, than one; for they have the advantage of their society.\" Therefore the religious life of those who live in community would seem to be more perfect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, it is written (Mt. 18:20): \"Where there are two or three gathered together in My name, there am I in the midst of them.\" But nothing can be better than the fellowship of Christ. Therefore it would seem better to live in community than in solitude."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the vow of obedience is more excellent than the other religious vows; and humility is most acceptable to God. Now obedience and humility are better observed in company than in solitude; for Jerome says (Ep. cxxv ad Rustic. Monach.): \"In solitude pride quickly takes man unawares, he sleeps as much as he will, he does what he likes\"; whereas when instructing one who lives in community, he says: \"You may not do what you will, you must eat what you are bidden to eat, you may possess so much as you receive, you must obey one you prefer not to obey, you must be a servant to your brethren, you must fear the superior of the monastery as God, love him as a father.\" Therefore it would seem that the religious life of those who live in community is more perfect than that of those who lead a solitary life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, our Lord said (Lk. 11:33): \"No man lighteth a candle and putteth it in a hidden place, nor under a bushel.\" Now those who lead a solitary life are seemingly in a hidden place, and to be doing no good to any man. Therefore it would seem that their religious life is not more perfect."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 },
                 "5": {
-                    "id": 5,
                     "question": 188,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 5: Further, that which is in accord with man's nature is apparently more pertinent to the perfection of virtue. But man is naturally a social animal, as the Philosopher says (Polit. i, 1). Therefore it would seem that to lead a solitary life is not more perfect than to lead a community life."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Solomon shows that two are better than one, on account of the help which one affords the other either by \"lifting him\" up, or by \"warming him,\" i.e. giving him spiritual heat (Eccles. 4:10,11). But those who have already attained to perfection do not require this help."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: According to 1 Jn. 4:16, \"He that abideth in charity abideth in God and God in him.\" Wherefore just as Christ is in the midst of those who are united together in the fellowship of brotherly love, so does He dwell in the heart of the man who devotes himself to divine contemplation through love of God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Actual obedience is required of those who need to be schooled according to the direction of others in the attainment of perfection; but those who are already perfect are sufficiently \"led by the spirit of God\" so that they need not to obey others actually. Nevertheless they have obedience in the preparedness of the mind."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: As Augustine says (De Civ. Dei xix, 19), \"no one is forbidden to seek the knowledge of truth, for this pertains to a praiseworthy leisure.\" That a man be placed \"on a candlestick,\" does not concern him but his superiors, and \"if this burden is not placed on us,\" as Augustine goes on to say (De Civ. Dei xix, 19), \"we must devote ourselves to the contemplation of truth,\" for which purpose solitude is most helpful. Nevertheless, those who lead a solitary life are most useful to mankind. Hence, referring to them, Augustine says (De Morib. Eccl. xxxi): \"They dwell in the most lonely places, content to live on water and the bread that is brought to them from time to time, enjoying colloquy with God to whom they have adhered with a pure mind. To some they seem to have renounced human intercourse more than is right: but these understand not how much such men profit us by the spirit of their prayers, what an example to us is the life of those whom we are forbidden to see in the body.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 },
                 "5": {
-                    "id": 5,
                     "question": 188,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 5: A man may lead a solitary life for two motives. one is because he is unable, as it were, to bear with human fellowship on account of his uncouthness of mind; and this is beast-like. The other is with a view to adhering wholly to divine things; and this is superhuman. Hence the Philosopher says (Polit. i, 1) that \"he who associates not with others is either a beast or a god,\" i.e. a godly man."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 8
                 }
             },
             "counter": [

@@ -21,80 +21,89 @@
             "title": [
                 "Whether \"Gift\" is a personal name?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 38,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that \"Gift\" is not a personal name. For every personal name imports a distinction in God. But the name of \"Gift\" does not import a distinction in God; for Augustine says (De Trin. xv, 19): that \"the Holy Ghost is so given as God's Gift, that He also gives Himself as God.\" Therefore \"Gift\" is not a personal name."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 38,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, no personal name belongs to the divine essence. But the divine essence is the Gift which the Father gives to the Son, as Hilary says (De Trin. ix). Therefore \"Gift\" is not a personal name."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 38,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, according to Damascene (De Fide Orth. iv, 19) there is no subjection nor service in the divine persons. But gift implies a subjection both as regards him to whom it is given, and as regards him by whom it is given. Therefore \"Gift\" is not a personal name."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 38,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, \"Gift\" imports relation to the creature, and it thus seems to be said of God in time. But personal names are said of God from eternity; as \"Father,\" and \"Son.\" Therefore \"Gift\" is not a personal name."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 38,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The name \"Gift\" imports a personal distinction , in so far as gift imports something belonging to another through its origin. Nevertheless, the Holy Ghost gives Himself, inasmuch as  He is His own, and can use or rather enjoy Himself; as also a free man belongs to himself. And as Augustine says (In Joan. Tract. xxix): \"What is more yours than yourself?\" Or we might say, and more fittingly, that a gift must belong in a way to the giver. But the phrase, \"this is this one's,\" can be understood in several senses. In one way it means identity, as Augustine says (In Joan. Tract. xxix); and in that sense \"gift\" is the same as \"the giver,\" but not the same as the one to whom it is given. The Holy Ghost gives Himself in that sense. In another sense, a thing is another's as a possession, or as a slave; and in that sense gift is essentially distinct from the giver; and the gift of God so taken is a created thing. In a third sense \"this is this one's\" through its origin only; and in this sense the Son is the Father's; and the Holy Ghost belongs to both. Therefore, so far as gift in this way signifies the possession of the giver, it is personally distinguished from the giver, and is a personal name."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 38,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The divine essence is the Father's gift in the first sense, as being the Father's by way of identity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 38,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Gift as a personal name in God does not imply subjection, but only origin, as regards the giver; but as regards the one to whom it is given, it implies a free use, or enjoyment, as above explained."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 38,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Gift is not so called from being actually given, but from its aptitude to be given. Hence the divine person is called Gift from eternity, although He is given in time. Nor does it follow that it is an essential name because it imports relation to the creature; but that it includes something essential in its meaning; as the essence is included in the idea of person, as stated above (Question [34], Article [3])."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -112,62 +121,69 @@
             "title": [
                 "Whether \"Gift\" is the proper name of the Holy Ghost?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 38,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that Gift is not the proper name of the Holy Ghost. For the name Gift comes from being given. But, as Is. 9:16 says: \"A Son is give to us.\" Therefore to be Gift belongs to the Son, as well as to the Holy Ghost."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 38,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, every proper name of a person signifies a property. But this word Gift does not signify a property of the Holy Ghost. Therefore Gift is not a proper name of the Holy Ghost."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 38,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the Holy Ghost can be called the spirit of a man, whereas He cannot be called the gift of any man, but \"God's Gift\" only. Therefore Gift is not the proper name of the Holy Ghost."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 38,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: As the Son is properly called the Image because He proceeds by way of a word, whose nature it is to be the similitude of its principle, although the Holy Ghost also is like to the Father; so also, because the Holy Ghost proceeds from the Father as love, He is properly called Gift, although the Son, too, is given. For that the Son is given is from the Father's love, according to the words, \"God so loved the world, as to give His only begotten Son\" (Jn. 3:16)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 38,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The name Gift involves the idea of belonging to the Giver through its origin; and thus it imports the property of the origin of the Holy Ghost---that is, His procession."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 38,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Before a gift is given, it belongs only to the giver; but when it is given, it is his to whom it is given. Therefore, because \"Gift\" does not import the actual giving, it cannot be called a gift of man, but the Gift of God giving. When, however, it has been given, then it is the spirit of man, or a gift bestowed on man."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

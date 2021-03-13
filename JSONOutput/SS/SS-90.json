@@ -22,63 +22,70 @@
             "title": [
                 "Whether it is lawful to adjure a man?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that it is not lawful to adjure a man. Origen says (Tract. xxxv super Matth.): \"I deem that a man who wishes to live according to the Gospel should not adjure another man. For if, according to the Gospel mandate of Christ, it be unlawful to swear, it is evident that neither is it lawful to adjure: and consequently it is manifest that the high-priest unlawfully adjured Jesus by the living God.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, whoever adjures a man, compels him after a fashion. But it is unlawful to compel a man against his will. Therefore seemingly it is also unlawful to adjure a man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, to adjure is to induce a person to swear. Now it belongs to man's superior to induce him to swear, for the superior imposes an oath on his subject. Therefore subjects cannot adjure their superiors."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Origen is speaking of an adjuration whereby a man intends to put another under an obligation, in the same way as he would bind himself by oath: for thus did the high-priest presume to adjure our Lord Jesus Christ [*Mt. 26:63]."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: This argument considers the adjuration which imposes an obligation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: To adjure is not to induce a man to swear, but to employ terms resembling an oath in order to provoke another to do a certain thing.",
                         "Moreover, we adjure God in one way and man in another; because when we adjure a man we intend to alter his will by appealing to his reverence for a holy thing: and we cannot have such an intention in respect of God Whose will is immutable. If we obtain something from God through His eternal will, it is due, not to our merits, but to His goodness."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,62 +105,69 @@
             "title": [
                 "Whether it is lawful to adjure the demons?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem unlawful to adjure the demons. Origen says (Tract. xxxv, super Matth.): \"To adjure the demons is not accordance with the power given by our Saviour: for this is a Jewish practice.\" Now rather than imitate the rites of the Jews, we should use the power given by Christ. Therefore it is not lawful to adjure the demons."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, many make use of necromantic incantations when invoking the demons by something Divine: and this is an adjuration. Therefore, if it be lawful to adjure the demons, it is lawful to make use of necromantic incantations, which is evidently false. Therefore the antecedent is false also."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, whoever adjures a person, by that very fact associates himself with him. Now it is not lawful to have fellowship with the demons, according to 1 Cor. 10:20, \"I would not that you should be made partakers with devils.\" Therefore it is not lawful to adjure the demons."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Origen is speaking of adjuration made, not authoritatively by way of compulsion, but rather by way of a friendly appeal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Necromancers adjure and invoke the demons in order to obtain or learn something from them: and this is unlawful, as stated above. Wherefore Chrysostom, commenting on our Lord's words to the unclean spirit (Mk. 1:25), \"Speak no more, and go out of the man,\" says: \"A salutary teaching is given us here, lest we believe the demons, however much they speak the truth.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: This argument considers the adjuration whereby the demon's help is besought in doing or learning something: for this savors of fellowship with them. On the other hand, to repulse the demons by adjuring them, is to sever oneself from their fellowship."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,33 +186,37 @@
             "title": [
                 "Whether it is lawful to adjure an irrational creature?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem unlawful to adjure an irrational creature. An adjuration consists of spoken words. But it is useless to speak to one that understands not, such as an irrational creature. Therefore it is vain and unlawful to adjure an irrational creature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, seemingly wherever adjuration is admissible,  swearing is also admissible. But swearing is not consistent with an irrational creature. Therefore it would seem unlawful to employ adjuration towards one."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 90,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, there are two ways of adjuring, as explained above (Articles [1],2). One is by way of appeal; and this cannot be employed towards irrational creatures, since they are not masters of their own actions. The other kind of adjuration is by way of compulsion: and, seemingly, neither is it lawful to use this towards them, because we have not the power to command irrational creatures, but only He of Whom it was said (Mt. 8:27): \"For the winds and the sea obey Him.\" Therefore in no way, apparently, is it lawful to adjure irrational creatures."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {},

@@ -29,81 +29,90 @@
             "title": [
                 "Whether the consecration of this sacrament belongs to a priest alone?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the consecration of this sacrament does not belong exclusively to a priest. Because it was said above (Question [78], Article [4]) that this sacrament is consecrated in virtue of the words, which are the form of this sacrament. But those words are not changed, whether spoken by a priest or by anyone else. Therefore, it seems that not only a priest, but anyone else, can consecrate this sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the priest performs this sacrament in the person of Christ. But a devout layman is united with Christ through charity. Therefore, it seems that even a layman can perform this sacrament. Hence Chrysostom (Opus imperfectum in Matth., Hom. xliii) says that \"every holy man is a priest.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, as Baptism is ordained for the salvation of mankind, so also is this sacrament, as is clear from what was said above (Question [74], Article [1]; Question [79], Article [2]). But a layman can also baptize, as was stated above (Question [67], Article [3]). Consequently, the consecration of this sacrament is not proper to a priest."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, this sacrament is completed in the consecration of the matter. But the consecration of other matters such as the chrism, the holy oil, and blessed oil, belongs exclusively to a bishop; yet their consecration does not equal the  dignity of the consecration of the Eucharist, in which the entire Christ is contained. Therefore it belongs, not to a priest, but only to a bishop, to perform this sacrament."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The sacramental power is in several things, and not merely in one: thus the power of Baptism lies both in the words and in the water. Accordingly the consecrating power is not merely in the words, but likewise in the power delivered to the priest in his consecration and ordination, when the bishop says to him: \"Receive the power of offering up the Sacrifice in the Church for the living as well as for the dead.\" For instrumental power lies in several instruments through which the chief agent acts."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: A devout layman is united with Christ by spiritual union through faith and charity, but not by sacramental power: consequently he has a spiritual priesthood for offering spiritual sacrifices, of which it is said (Ps. 1:19): \"A sacrifice to God is an afflicted spirit\"; and (Rm. 12:1): \"Present your bodies a living sacrifice.\" Hence, too, it is written (1 Pt. 2:5): \"A holy priesthood, to offer up spiritual sacrifices.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The receiving of this sacrament is not of such necessity as the receiving of Baptism, as is evident from what was said above (Question [65], Articles [3],4; Question [80], Article [11], ad 2). And therefore, although a layman can baptize in case of necessity, he cannot perform this sacrament."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: The bishop receives power to act on Christ's behalf upon His mystical body, that is, upon the Church; but the priest receives no such power in his consecration, although he may have it by commission from the bishop. Consequently all such things as do not belong to the mystical body are not reserved to the bishop, such as the consecration of this sacrament. But it belongs to the bishop to deliver, not only to the people, but likewise to priests, such things as serve them in the fulfillment of their respective duties. And because the blessing of the chrism, and of the holy oil, and of the oil of the sick, and other consecrated things, such as altars, churches, vestments, and sacred vessels, makes such things fit for use in performing the sacraments which",
                         "belong to the priestly duty, therefore such consecrations are reserved to the bishop as the head of the whole ecclesiastical order."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -121,62 +130,69 @@
             "title": [
                 "Whether several priests can consecrate one and the same host?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that several priests cannot consecrate one and the same host. For it was said above (Question [67], Article [6]), that several cannot at the same time baptize one individual. But the power of a priest consecrating is not less than that of a man baptizing. Therefore, several priests cannot consecrate one host at the same time."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, what can be done by one, is superfluously done by several. But there ought to be nothing superfluous in the sacraments. Since, then, one is sufficient for consecrating, it seems that several cannot consecrate one host."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, as Augustine says (Tract. xxvi in Joan.), this is \"the sacrament of unity.\" But multitude seems to be opposed to unity. Therefore it seems inconsistent with the sacrament for several priests to consecrate the same host."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: We do not read of Christ baptizing with the apostles when He committed to them the duty of baptizing; consequently there is no parallel."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: If each individual priest were acting in his own power, then other celebrants would be superfluous, since one would be sufficient. But whereas the priest does not consecrate except as in Christ's stead; and since many are \"one in Christ\" (Gal. 3:28); consequently it does not matter whether this sacrament be consecrated by one or by many, except that the rite of the Church must be observed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The Eucharist is the sacrament of ecclesiastical unity, which is brought about by many being \"one in Christ.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -194,62 +210,69 @@
             "title": [
                 "Whether dispensing of this sacrament belongs to a priest alone?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the dispensing of this sacrament does not  belong to a priest alone. For Christ's blood belongs to this sacrament no less than His body. But Christ's blood is dispensed by deacons: hence the blessed Lawrence said to the blessed Sixtus (Office of St. Lawrence, Resp. at Matins): \"Try whether you have chosen a fit minister, to whom you have entrusted the dispensing of the Lord's blood.\" Therefore, with equal reason the dispensing of Christ's body does not belong to priests only."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, priests are the appointed ministers of the sacraments. But this sacrament is completed in the consecration of the matter, and not in the use, to which the dispensing belongs. Therefore it seems that it does not belong to a priest to dispense the Lord's body."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Dionysius says (Eccl. Hier. iii, iv) that this sacrament, like chrism, has the power of perfecting. But it belongs, not to priests, but to bishops, to sign with the chrism. Therefore likewise, to dispense this sacrament belongs to the bishop and not to the priest."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The deacon, as being nigh to the priestly order, has a certain share in the latter's duties, so that he may dispense the blood; but not the body, except in case of necessity, at the bidding of a bishop or of a priest. First of all, because Christ's blood is contained in a vessel, hence there is no need for it to be touched by the dispenser, as Christ's body is touched. Secondly, because the blood denotes the redemption derived by the people from Christ; hence it is that water is mixed with the blood, which water denotes the people. And because deacons are between priest and people, the dispensing of the blood is in the competency of deacons, rather than the dispensing of the body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: For the reason given above, it belongs to the same person to dispense and to consecrate this sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As the deacon, in a measure, shares in the priest's \"power of enlightening\" (Eccl. Hier. v), inasmuch as he dispenses the blood. so the priest shares in the \"perfective dispensing\" (Eccl. Hier. v) of the bishop, inasmuch as he dispenses this sacrament whereby man is perfected in himself by union with Christ. But other perfections whereby a man is perfected in relation to others, are reserved to the bishop."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -267,62 +290,69 @@
             "title": [
                 "Whether the priest who consecrates is bound to receive this sacrament?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the priest who consecrates is not bound to receive this sacrament. Because, in the other consecrations, he who consecrates the matter does not use it, just as the bishop consecrating the chrism is not anointed therewith. But this sacrament consists in the consecration of the matter. Therefore, the priest performing this sacrament need not use the same, but may lawfully refrain from receiving it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, in the other sacraments the minister does not give the sacrament to himself: for no one can baptize himself, as stated above (Question [66], Article [5], ad 4). But as Baptism is dispensed in due order, so also is this sacrament. Therefore the priest who consecrates this sacrament ought not to receive it at his own hands."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it sometimes happens that Christ's body appears upon the altar under the guise of flesh, and the blood under the guise of blood; which are unsuited for food and drink: hence, as was said above (Question [75], Article [5]), it is on that account that they are given under another species, lest they beget revulsion in the communicants. Therefore the priest who consecrates is not always bound to receive this sacrament."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The consecration of chrism or of anything else is not a sacrifice, as the consecration of the Eucharist is: consequently there is no parallel."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The sacrament of Baptism is accomplished in the use of the matter, and consequently no one can baptize himself, because the same person cannot be active and passive in a sacrament. Hence neither in this sacrament does the priest consecrate himself, but he consecrates the bread and wine, in which consecration the sacrament is completed. But the use thereof follows the sacrament, and therefore there is no parallel."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: If Christ's body appears miraculously upon the altar under the guise of flesh, or the blood under the guise of blood, it is not to be received. For Jerome says upon Leviticus (cf. De Consecr., dist. 2): \"It is lawful to eat of this sacrifice which is wonderfully performed in memory of Christ: but it is not lawful for anyone to eat of that one which Christ offered on the altar of the cross.\" Nor does the priest transgress on that account, because miraculous events are not subject to human laws. Nevertheless the priest would be well advised to consecrate again and receive the Lord's body and blood."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -340,62 +370,69 @@
             "title": [
                 "Whether a wicked priest can consecrate the Eucharist?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that a wicked priest cannot consecrate the Eucharist. For Jerome, commenting on Sophon. iii, 4, says: \"The priests who perform the Eucharist, and who distribute our Lord's blood to the people, act wickedly against Christ's law, in deeming that the Eucharist is consecrated by a prayer rather than by a good life; and that only the solemn prayer is requisite, and not the priest's merits: of whom it is said: 'Let not the priest, in whatever defilement he may be, approach to offer oblations to the Lord'\" (Lev. 21:21, Septuagint). But the sinful priest, being defiled, has neither the life nor the merits befitting this sacrament. Therefore a sinful priest cannot consecrate the Eucharist."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Damascene says (De Fide Orth. iv) that \"the bread and wine are changed supernaturally into the body and blood of our Lord, by the coming of the Holy Ghost.\" But Pope Gelasius I says (Ep. ad Elphid., cf. Decret. i, q. 1): \"How shall the Holy Spirit, when invoked, come for the consecration of the Divine  Mystery, if the priest invoking him be proved full of guilty deeds?\" Consequently, the Eucharist cannot be consecrated by a wicked priest."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, this sacrament is consecrated by the priest's blessing. But a sinful priest's blessing is not efficacious for consecrating this sacrament, since it is written (Malachi 2:2): \"I will curse your blessings.\" Again, Dionysius says in his Epistle (viii) to the monk Demophilus: \"He who is not enlightened has completely fallen away from the priestly order; and I wonder that such a man dare to employ his hands in priestly actions, and in the person of Christ to utter, over the Divine symbols, his unclean infamies, for I will not call them prayers.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: In those words Jerome is condemning the error of priests who believed they could consecrate the Eucharist worthily, from the mere fact of being priests, even though they were sinners; and Jerome condemns this from the fact that persons defiled are forbidden to approach the altar; but this does not prevent the sacrifice, which they offer, from being a true sacrifice, if they do approach."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Previous to the words quoted, Pope Gelasius expresses himself as follows: \"That most holy rite, which contains the Catholic discipline, claims for itself such reverence that no one may dare to approach it except with clean conscience.\" From this it is evident that his meaning is that the priest who is a sinner ought not to approach this sacrament. Hence when he resumes,  \"How shall the Holy Spirit come when summoned,\" it must be understood that He comes, not through the priest's merits, but through the power of Christ, Whose words the priest utters."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As the same action can be evil, inasmuch as it is done with a bad intention of the servant; and good from the good intention of the master; so the blessing of a sinful priest, inasmuch as he acts unworthily is deserving of a curse, and is reputed an infamy and a blasphemy, and not a prayer; whereas, inasmuch as it is pronounced in the person of Christ, it is holy and efficacious. Hence it is said with significance: \"I will curse your blessings.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -413,62 +450,69 @@
             "title": [
                 "Whether the mass of a sinful priest is of less worth than the mass of a good priest?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the mass of a sinful priest is not of less worth than that of a good priest. For Pope Gregory says in the Register: \"Alas, into what a great snare they fall who believe that the Divine and hidden mysteries can be sanctified more by some than by others; since it is the one and the same Holy Ghost Who hallows those mysteries in a hidden and invisible manner.\" But these hidden mysteries are celebrated in the mass. Therefore the mass of a sinful priest is not of less value than the mass of a good priest."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, as Baptism is conferred by a minister through the power of Christ Who baptizes, so likewise this sacrament is consecrated in the person of Christ. But Baptism is no better when conferred by a better priest, as was said above (Question [64], Article [1], ad 2). Therefore neither is a mass the better, which is celebrated by a better priest."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, as the merits of priests differ in the point of being good and better, so they likewise differ in the point of being good and bad. Consequently, if the mass of a better priest be itself better, it follows that the mass of a bad priest must be bad. Now this is unreasonable, because the malice of the ministers cannot affect Christ's mysteries, as Augustine says in his work on Baptism (Contra Donat. xii). Therefore neither is the mass of a better priest the better."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Gregory is speaking there of the holiness of the Divine sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: In the sacrament of Baptism solemn prayers are not made for all the faithful, as in the mass; therefore there is no parallel in this respect. There is, however, a resemblance as to the effect of the sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: By reason of the power of the Holy Ghost, Who communicates to each one the blessings of Christ's members on account of their being united in charity, the private blessing in the mass of a good priest is fruitful to others. But the private evil of one man cannot hurt another, except the latter, in some way, consent, as Augustine says (Contra Parmen. ii)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -487,62 +531,69 @@
             "title": [
                 "Whether heretics, schismatics, and excommunicated persons can consecrate?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that heretics, schismatics, and excommunicated persons are not able to consecrate the Eucharist. For Augustine says (Liber sentent. Prosperi xv) that \"there is no such thing as a true sacrifice outside the Catholic Church\": and Pope Leo I says (Ep. lxxx; cf. Decretal i, q. 1): Elsewhere \"(i.e. than in the Church which is Christ's body) there is neither valid priesthood nor true sacrifice.\" But heretics, schismatics, and excommunicated persons are severed from the Church. Therefore they are unable to offer a true sacrifice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further (Decretal, caus. i, q. 1), Innocent I is quoted as saying: \"Because we receive the laity of the Arians and other pestilential persons, if they seem to repent, it does not follow that their clergy have the dignity of the priesthood or of any other ministerial office, for we allow them to confer nothing save Baptism.\" But none can consecrate the Eucharist, unless he have the dignity of the priesthood. Therefore heretics and the like cannot consecrate the Eucharist."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it does not seem feasible for one outside the Church to act on behalf of the Church. But when the priest  consecrates the Eucharist, he does so in the person of the entire Church, as is evident from the fact of his putting up all prayers in the person of the Church. Therefore, it seems that those who are outside the Church, such as those who are heretics, schismatics, and excommunicate, are not able to consecrate the Eucharist."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Such and similar authorities are to be understood in this sense, that the sacrifice is offered wrongly outside the Church. Hence outside the Church there can be no spiritual sacrifice that is a true sacrifice with the truth of its fruit, although it be a true sacrifice with the truth of the sacrament; thus it was stated above (Question [80], Article [3]), that the sinner receives Christ's body sacramentally, but not spiritually."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Baptism alone is allowed to be conferred by heretics, and schismatics, because they can lawfully baptize in case of necessity; but in no case can they lawfully consecrate the Eucharist, or confer the other sacraments."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The priest, in reciting the prayers of the mass, speaks instead of the Church, in whose unity he remains; but in consecrating the sacrament he speaks as in the person of Christ,  Whose place he holds by the power of his orders. Consequently, if a priest severed from the unity of the Church celebrates mass, not having lost the power of order, he consecrates Christ's true body and blood; but because he is severed from the unity of the Church, his prayers have no efficacy."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -560,62 +611,69 @@
             "title": [
                 "Whether a degraded priest can consecrate this sacrament?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that a degraded priest cannot consecrate this sacrament. For no one can perform this sacrament except he have the power of consecrating. But the priest \"who has been degraded has no power of consecrating, although he has the power of baptizing\" (App. Gratiani). Therefore it seems that a degraded priest cannot consecrate the Eucharist."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, he who gives can take away. But the bishop in ordaining gives to the priest the power of consecrating. Therefore he can take it away by degrading him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the priest, by degradation, loses either the power of consecrating, or the use of such power. But he does not lose merely the use, for thus the degraded one would lose no more than one excommunicated, who also lacks the use. Therefore it seems that he loses the power to consecrate, and in consequence that he cannot perform this sacrament."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: That Canon is speaking, not as by way of assertion, but by way of inquiry, as can be gleaned from the context."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The bishop gives the priestly power of order, not  as though coming from himself, but instrumentally, as God's minister, and its effect cannot be taken away by man, according to Mt. 19:6: \"What God hath joined together, let no man put asunder.\" And therefore the bishop cannot take this power away, just as neither can he who baptizes take away the baptismal character."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Excommunication is medicinal. And therefore the ministry of the priestly power is not taken away from the excommunicate, as it were, perpetually, but only for a time, that they may mend; but the exercise is withdrawn from the degraded, as though condemned perpetually."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [
@@ -633,62 +691,69 @@
             "title": [
                 "Whether it is permissible to receive communion from heretical, excommunicate, or sinful priests, and to hear mass said by them?"
             ],
+            "id": 9,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that one may lawfully receive Communion from heretical, excommunicate, or even sinful priests, and to hear mass said by them. Because, as Augustine says (Contra Petilian. iii), \"we should not avoid God's sacraments, whether they be given by a good man or by a wicked one.\" But priests, even if they be sinful, or heretics, or excommunicate, perform a valid sacrament. Therefore it seems that one ought not to refrain from receiving Communion at their hands, or from hearing their mass."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ's true body is figurative of His mystical body, as was said above (Question [67], Article [2]). But Christ's true body is consecrated by the priests mentioned above. Therefore it seems that whoever belongs to His mystical body can communicate in their sacrifices."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, there are many sins graver than fornication. But it is not forbidden to hear the masses of priests who sin otherwise. Therefore, it ought not to be forbidden to hear the masses of priests guilty of this sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: By refusing to hear the masses of such priests, or to receive Communion from them, we are not shunning God's sacraments; on the contrary, by so doing we are giving them honor (hence a host consecrated by such priests is to be adored, and if it be reserved, it can be consumed by a lawful priest): but what we shun is the sin of the unworthy ministers."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 9
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The unity of the mystical body is the fruit of the true body received. But those who receive or minister unworthily, are deprived of the fruit, as was said above (Article [7]; Question [80], Article [4]). And therefore, those who belong to the unity of the Faith are not to receive the sacrament from their dispensing."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 9
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Although fornication is not graver than other sins, yet men are more prone to it, owing to fleshly concupiscence. Consequently, this sin is specially inhibited to priests by the Church, lest anyone hear the mass of one living in concubinage. However, this is to be understood of one who is notorious, either from being convicted and sentenced, or from having acknowledged his guilt in legal form, or from it being impossible to conceal his guilt by any subterfuge."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 9
                 }
             },
             "counter": [
@@ -707,62 +772,69 @@
             "title": [
                 "Whether it is lawful for a priest to refrain entirely from consecrating the Eucharist?"
             ],
+            "id": 10,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems to be lawful for a priest to refrain entirely from consecrating the Eucharist. Because, as it is the priest's office to consecrate the Eucharist, so it is likewise to baptize and administer the other sacraments. But the priest is not bound to act as a minister of the other sacraments, unless he has undertaken the care of souls. Therefore, it seems that likewise he is not bound to consecrate the Eucharist except he be charged with the care of souls."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, no one is bound to do what is unlawful for him to do; otherwise he would be in two minds. But it is not lawful for  the priest who is in a state of sin, or excommunicate, to consecrate the Eucharist, as was said above (Article [7]). Therefore it seems that such men are not bound to celebrate, and so neither are the others; otherwise they would be gainers by their fault."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the priestly dignity is not lost by subsequent weakness: because Pope Gelasius I says (cf. Decretal, Dist. 55): \"As the canonical precepts do not permit them who are feeble in body to approach the priesthood, so if anyone be disabled when once in that state, he cannot lose that he received at the time he was well.\" But it sometimes happens that those who are already ordained as priests incur defects whereby they are hindered from celebrating, such as leprosy or epilepsy, or the like. Consequently, it does not appear that priests are bound to celebrate."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 10
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The other sacraments are accomplished in being used by the faithful, and therefore he alone is bound to administer them who has undertaken the care of souls. But this sacrament is performed in the consecration of the Eucharist, whereby a sacrifice is offered to God, to which the priest is bound from the order he has received."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 10
                 },
                 "2": {
-                    "id": 2,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The sinful priest, if deprived by the Church's sentence from exercising his order, simply or for a time, is rendered incapable of offering sacrifice; consequently, the obligation lapses. But if not deprived of the power of celebrating, the obligation is not removed; nor is he in two minds, because he can repent of his sin and then celebrate."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 10
                 },
                 "3": {
-                    "id": 3,
                     "question": 82,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Weakness or sickness contracted by a priest after his ordination does not deprive him of his orders; but hinders him from exercising them, as to the consecration of the Eucharist: sometimes by making it impossible to exercise them, as, for example, if he lose his sight, or his fingers, or the use of speech; and sometimes on account of danger, as in the case of one suffering from epilepsy, or indeed any disease of the mind; and sometimes, on account of loathsomeness, as is evident in the case of a leper, who ought not to celebrate in public: he can, however, say mass privately, unless the leprosy has gone so far that it has rendered him incapable owing to the wasting away of his limbs."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 10
                 }
             },
             "counter": [

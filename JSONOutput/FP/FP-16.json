@@ -27,62 +27,69 @@
             "title": [
                 "Whether truth resides only in the intellect?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that truth does not reside only in the intellect, but rather in things. For Augustine (Soliloq. ii, 5) condemns this definition of truth, \"That is true which is seen\"; since it would follow that stones hidden in the bosom of the earth would not be true stones, as they are not seen. He also condemns the following, \"That is true which is as it appears to the knower, who is willing and able to know,\" for hence it would follow that nothing would be true, unless someone could know it. Therefore he defines truth thus: \"That is true which is.\" It seems, then, that truth resides in things, and not in the intellect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, whatever is true, is true by reason of truth. If, then, truth is only in the intellect, nothing will be true except in so far as it is understood. But this is the error of the ancient philosophers, who said that whatever seems to be true is so. Consequently mutual contradictories seem to be true as seen by different persons at the same time."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, \"that, on account of which a thing is so, is itself more so,\" as is evident from the Philosopher (Poster. i). But it is from the fact that a thing is or is not, that our thought or word is true or false, as the Philosopher teaches (Praedicam. iii). Therefore truth resides rather in things than in the intellect."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Augustine is speaking about the truth of things, and excludes from the notion of this truth, relation to our intellect; for what is accidental is excluded from every definition."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The ancient philosophers held that the species of natural things did not proceed from any intellect, but were produced by chance. But as they saw that truth implies relation to intellect, they were compelled to base the truth of things on their relation to our intellect. From this, conclusions result that are inadmissible, and which the Philosopher refutes (Metaph. iv). Such, however, do not follow, if we say that the truth of things consists in their relation to the divine intellect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Although the truth of our intellect is caused by the thing, yet it is not necessary that truth should be there primarily, any more than that health should be primarily in medicine, rather than in the animal: for the virtue of medicine, and not its health, is the cause of health, for here the agent is not univocal. In the same way, the being of the thing, not its truth, is the cause of truth in the intellect. Hence the Philosopher says that a thought or a word is true \"from the fact that a thing is, not because a thing is true.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -101,24 +108,27 @@
             "title": [
                 "Whether truth resides only in the intellect composing and dividing?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that truth does not reside only in the intellect composing and dividing. For the Philosopher says (De Anima iii) that as the senses are always true as regards their proper sensible objects, so is the intellect as regards \"what a thing is.\" Now composition and division are neither in the senses nor in the intellect knowing \"what a thing is.\" Therefore truth does not reside only in the intellect composing and dividing."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Isaac says in his book On Definitions that truth is the equation of thought and thing. Now just as the intellect with regard to complex things can be equated to things, so also with regard to simple things; and this is true also of sense apprehending a thing as it is. Therefore truth does not reside only in the intellect composing and dividing."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {},
@@ -138,62 +148,69 @@
             "title": [
                 "Whether the true and being are convertible terms?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that the true and being are not convertible terms. For the true resides properly in the intellect, as stated (Article [1]); but being is properly in things. Therefore they are not convertible."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, that which extends to being and not-being is not convertible with being. But the true extends to being and not-being; for it is true that what is, is; and that what is not, is not. Therefore the true and being are not convertible."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, things which stand to each other in order of priority and posteriority seem not to be convertible. But the true appears to be prior to being; for being is not understood except under the aspect of the true. Therefore it seems they are not convertible."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The true resides in things and in the intellect, as said before (Article [1]). But the true that is in things is convertible  with being as to substance; while the true that is in the intellect is convertible with being, as the manifestation with the manifested; for this belongs to the nature of truth, as has been said already (Article [1]). It may, however, be said that being also is in the things and in the intellect, as is the true; although truth is primarily in things; and this is so because truth and being differ in idea."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Not-being has nothing in itself whereby it can be known; yet it is known in so far as the intellect renders it knowable. Hence the true is based on being, inasmuch as not-being is a kind of logical being, apprehended, that is, by reason."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: When it is said that being cannot be apprehended except under the notion of the true, this can be understood in two ways. In the one way so as to mean that being is not apprehended, unless the idea of the true follows apprehension of being; and this is true. In the other way, so as to mean that being cannot be apprehended unless the idea of the true be apprehended also; and this is false. But the true cannot be apprehended unless the idea of being be apprehended also; since being is included in the idea of the true. The case is the same if we compare the intelligible object with being. For being cannot be understood, unless being is intelligible. Yet being can be understood while its intelligibility is not understood. Similarly, being when understood is true, yet the true is not understood by understanding being."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -211,62 +228,69 @@
             "title": [
                 "Whether good is logically prior to the true?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that good is logically prior to the true. For what is more universal is logically prior, as is evident from Phys. i. But the good is more universal than the true, since the true is a kind of good, namely, of the intellect. Therefore the good is logically prior to the true."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, good is in things, but the true in the intellect composing and dividing as said above (Article [2]). But that which is in things is prior to that which is in the intellect. Therefore good is logically prior to the true."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, truth is a species of virtue, as is clear from Ethic. iv. But virtue is included under good; since, as Augustine says (De Lib. Arbit. ii, 19), it is a good quality of the mind. Therefore the good is prior to the true."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The will and the intellect mutually include one another: for the intellect understands the will, and the will wills the intellect to understand. So then, among things directed to the object of the will, are comprised also those that belong to the intellect; and conversely. Whence in the order of things desirable, good stands as the universal, and the true as the particular; whereas in the order of intelligible things the converse of the case. From the fact, then, that the true is a kind of good, it follows that the good is prior in the order of things desirable; but not that it is prior absolutely."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: A thing is prior logically in so far as it is prior to the intellect. Now the intellect apprehends primarily being itself; secondly, it apprehends that it understands being; and thirdly, it apprehends that it desires being. Hence the idea of being is first, that of truth second, and the idea of good third, though good is in things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The virtue which is called \"truth\" is not truth in general, but a certain kind of truth according to which man shows himself in deed and word as he really is. But truth as applied to \"life\" is used in a particular sense, inasmuch as a man fulfills in his life that to which he is ordained by the divine intellect, as it has been said that truth exists in other things (Article [1]). Whereas the truth of \"justice\" is found in man as he fulfills his duty to his neighbor, as ordained by law. Hence we cannot argue from these particular truths to truth in general."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -284,62 +308,69 @@
             "title": [
                 "Whether God is truth?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that God is not truth. For truth consists in the intellect composing and dividing. But in God there is not composition and division. Therefore in Him there is not truth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, truth, according to Augustine (De Vera Relig. xxxvi) is a \"likeness to the principle.\" But in God there is no likeness to a principle. Therefore in God there is not truth."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, whatever is said of God, is said of Him as of the first cause of all things; thus the being of God is the cause of all being; and His goodness the cause of all good. If therefore there is truth in God, all truth will be from Him. But it is true that someone sins. Therefore this will be from God; which is evidently false."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Although in the divine intellect there is neither composition nor division, yet in His simple act of intelligence He judges of all things and knows all things complex; and thus there is truth in His intellect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The truth of our intellect is according to its conformity with its principle, that is to say, to the things from which it receives knowledge. The truth also of things is according to their conformity with their principle, namely, the divine intellect. Now this cannot be said, properly speaking, of divine truth; unless perhaps in so far as truth is appropriated to the Son, Who has a principle. But if we speak of divine truth in its essence, we cannot understand this unless the affirmative must be resolved into the negative, as when one says: \"the Father is of Himself, because He is not from another.\" Similarly, the divine truth can be called a \"likeness to the principle,\" inasmuch as His existence is not dissimilar to His intellect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Not-being and privation have no truth of themselves, but only in the apprehension of the intellect. Now all apprehension of the intellect is from God. Hence all the truth that exists in the statement---\"that a person commits fornication is true\"---is entirely from God. But to argue, \"Therefore that this person fornicates is from God\", is a fallacy of Accident."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -357,44 +388,49 @@
             "title": [
                 "Whether there is only one truth, according to which all things are true?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that there is only one truth, according to which all things are true. For according to Augustine (De Trin. xv, 1), \"nothing is greater than the mind of man, except God.\" Now truth is greater than the mind of man; otherwise the mind would be the judge of truth: whereas in fact it judges all things according to truth, and not according to its own measure. Therefore God alone is truth. Therefore there is no other truth but God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Anselm says (De Verit. xiv), that, \"as is the relation of time to temporal things, so is that of truth to true things.\" But there is only one time for all temporal things.  Therefore there is only one truth, by which all things are true."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The soul does not judge of things according to any kind of truth, but according to the primary truth, inasmuch as it is reflected in the soul, as in a mirror, by reason of the first principles of the understanding. It follows, therefore, that the primary truth is greater than the soul. And yet, even created truth, which resides in our intellect, is greater than the soul, not simply, but in a certain degree, in so far as it is its perfection; even as science may be said to be greater than the soul. Yet it is true that nothing subsisting is greater than the rational soul, except God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The saying of Anselm is correct in so far as things are said to be true by their relation to the divine intellect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "counter": [
@@ -412,80 +448,89 @@
             "title": [
                 "Whether created truth is eternal?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that created truth is eternal. For Augustine says (De Lib. Arbit. ii, 8) \"Nothing is more eternal than the  nature of a circle, and that two added to three make five.\" But the truth of these is a created truth. Therefore created truth is eternal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, that which is always, is eternal. But universals are always and everywhere; therefore they are eternal. So therefore is truth, which is the most universal."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, it was always true that what is true in the present was to be in the future. But as the truth of a proposition regarding the present is a created truth, so is that of a proposition regarding the future. Therefore some created truth is eternal."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 },
                 "4": {
-                    "id": 4,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, all that is without beginning and end is eternal. But the truth of enunciables is without beginning and end; for if their truth had a beginning, since it was not before, it was true that truth was not, and true, of course, by reason of truth; so that truth was before it began to be. Similarly, if it be asserted that truth has an end, it follows that it is after it has ceased to be, for it will still be true that truth is not. Therefore truth is eternal."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The nature of a circle, and the fact that two and three make five, have eternity in the mind of God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: That something is always and everywhere, can be understood in two ways. In one way, as having in itself the power of extension to all time and to all places, as it belongs to God to be everywhere and always. In the other way as not having in itself determination to any place or time, as primary matter is said to be one, not because it has one form, but by the absence of all distinguishing form. In this manner all universals are said to be everywhere and always, in so far as universals are independent of place and time. It does not, however, follow from this that they  are eternal, except in an intellect, if one exists that is eternal."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: That which now is, was future, before it (actually) was; because it was in its cause that it would be. Hence, if the cause were removed, that thing's coming to be was not future. But the first cause is alone eternal. Hence it does not follow that it was always true that what now is would be, except in so far as its future being was in the sempiternal cause; and God alone is such a cause."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 },
                 "4": {
-                    "id": 4,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Because our intellect is not eternal, neither is the truth of enunciable propositions which are formed by us, eternal, but it had a beginning in time. Now before such truth existed, it was not true to say that such a truth did exist, except by reason of the divine intellect, wherein alone truth is eternal. But it is true now to say that that truth did not then exist: and this is true only by reason of the truth that is now in our intellect; and not by reason of any truth in the things. For this is truth concerning not-being; and not-being has not truth of itself, but only so far as our intellect apprehends it. Hence it is true to say that truth did not exist, in so far as we apprehend its not-being as preceding its being."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 7
                 }
             },
             "counter": [
@@ -503,80 +548,89 @@
             "title": [
                 "Whether truth is immutable?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that truth is immutable. For Augustine says (De Lib. Arbit. ii, 12), that \"Truth and mind do not rank as equals, otherwise truth would be mutable, as the mind is.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, what remains after every change is immutable; as primary matter is unbegotten and incorruptible, since it remains after all generation and corruption. But truth remains after all change; for after every change it is true to say that a thing is, or is not. Therefore truth is immutable."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if the truth of an enunciation changes, it changes mostly with the changing of the thing. But it does not thus change. For truth, according to Anselm (De Verit. viii), \"is a certain rightness\" in so far as a thing answers to that which is in the divine mind concerning it. But this proposition that \"Socrates sits\", receives from the divine mind the signification that Socrates does sit; and it has the same signification even though he does not sit. Therefore the truth of the proposition in no way changes."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 16,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, where there is the same cause, there is the same effect. But the same thing is the cause of the truth of the three propositions, \"Socrates sits, will sit, sat.\" Therefore the truth of each is the same. But one or other of these must be the true one. Therefore the truth of these propositions remains immutable; and for the same reason that of any other."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Augustine is speaking of divine truth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The true and being are convertible terms. Hence just as being is not generated nor corrupted of itself, but accidentally, in so far as this being or that is corrupted or generated, as is said in Phys. i, so does truth change, not so as that no truth remains, but because that truth does not remain which was before."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: A proposition not only has truth, as other things are said to have it, in so far, that is, as they correspond to that which is the design of the divine intellect concerning them; but it said to have truth in a special way, in so far as it indicates the truth of the intellect, which consists in the conformity of the intellect with a thing. When this disappears, the truth of an opinion changes, and consequently the truth of the proposition. So therefore this proposition, \"Socrates sits,\" is true, as long as he is sitting, both with the truth of the thing, in so far as the expression is significative, and with the truth of signification, in so far as it signifies a true opinion. When Socrates rises, the first truth remains, but the second is changed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 16,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: The sitting of Socrates, which is the cause of the truth of the proposition, \"Socrates sits,\" has not the same meaning when Socrates sits, after he sits, and before he sits. Hence the truth which results, varies, and is variously signified by these propositions concerning present, past, or future. Thus it does not follow, though one of the three propositions is true, that the same truth remains invariable."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 }
             },
             "counter": [

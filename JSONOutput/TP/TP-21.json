@@ -23,62 +23,69 @@
             "title": [
                 "Whether it is becoming of Christ to pray?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem unbecoming that Christ should pray. For, as Damascene says (De Fide Orth. iii, 24), \"prayer is the asking for becoming things from God.\" But since Christ could do all things, it does not seem becoming to Him to ask anything from anyone. Therefore it does not seem fitting that Christ should pray."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, we need not ask in prayer for what we know for certain will happen; thus, we do not pray that the sun may rise tomorrow. Nor is it fitting that anyone should ask in prayer for what he knows will not happen. But Christ in all things knew what would happen. Therefore it was not fitting that He should ask anything in prayer."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Damascene says (De Fide Orth. iii, 24) that \"prayer is the raising up of the mind to God.\" Now Christ's mind needed no uplifting to God, since His mind was always united to God, not only by the union of the hypostasis, but by the fruition of beatitude. Therefore it was not fitting that Christ should pray."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Christ as God and not as man was able to carry out all He wished, since as man He was not omnipotent, as stated above (Question [13], Article [1]). Nevertheless being both God and man, He wished to offer prayers to the Father, not as though He were incompetent, but for our instruction. First, that He might show Himself to be from the Father; hence He says (Jn. 11:42): \"Because of the people who stand about I have said it\" (i.e. the words of the prayer) \"that they may believe that Thou hast sent Me.\" Hence Hilary says (De Trin. x): \"He did not need prayer. It was for us He prayed, lest the Son should be unknown.\" Secondly, to give us an example of prayer; hence Ambrose says (on Lk. 6:12): \"Be not deceived, nor think that the Son of God prays as a weakling, in order to beseech what He cannot effect. For the Author of power, the Master of obedience persuades us to the precepts of virtue by His example.\" Hence Augustine says (Tract. civ in Joan.): \"Our Lord in the form of a servant could have prayed in silence, if need be, but He wished to show Himself a suppliant of the Father, in such sort as to bear in mind that He was our Teacher.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Amongst the other things which He knew would happen, He knew that some would be brought about by His prayer; and for these He not unbecomingly besought God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: To rise is nothing more than to move towards what is above. Now movement is taken in two ways, as is said De Anima iii, 7; first, strictly, according as it implies the passing from potentiality to act, inasmuch as it is the act of something imperfect, and thus to rise pertains to what is potentially and not actually above. Now in this sense, as Damascene says (De Fide Orth. iii, 24), \"the human mind of Christ did not need to rise to God, since it was ever united to God both by personal being and by the blessed vision.\" Secondly, movement signifies the act of something perfect, i.e. something existing in act, as to understand and to feel are called movements; and in this sense the mind of Christ was always raised up to God, since He was always contemplating Him as existing above Himself."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether it pertains to Christ to pray according to His sensuality?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it pertains to Christ to pray according to His sensuality. For it is written (Ps. 83:3) in the person of Christ: \"My heart and My flesh have rejoiced in the Living God.\" Now sensuality is called the appetite of the flesh.  Hence Christ's sensuality could ascend to the Living God by rejoicing; and with equal reason by praying."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, prayer would seem to pertain to that which desires what is besought. Now Christ besought something that His sensuality desired when He said (Mt. 26:39): \"Let this chalice pass from Me.\" Therefore Christ's sensuality prayed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it is a greater thing to be united to God in person than to mount to Him in prayer. But the sensuality was assumed by God to the unity of Person, even as every other part of human nature. Much more, therefore, could it mount to God by prayer."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The flesh rejoices in the Living God, not by the act of the flesh mounting to God, but by the outpouring of the heart into the flesh, inasmuch as the sensitive appetite follows the movement of the rational appetite."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Although the sensuality wished what the reason besought, it did not belong to the sensuality to seek this by praying, but to the reason, as stated above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The union in person is according to the personal being, which pertains to every part of the human nature; but the uplifting of prayer is by an act which pertains only to the reason, as stated above. Hence there is no parity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -170,62 +184,69 @@
             "title": [
                 "Whether it was fitting that Christ should pray for Himself?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it was not fitting that Christ should pray for Himself. For Hilary says (De Trin. x): \"Although His word of beseeching did not benefit Himself, yet He spoke for the profit of our faith.\" Hence it seems that Christ prayed not for Himself but for us."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, no one prays save for what He wishes, because, as was said (Article [1]), prayer is an unfolding of our will to God that He may fulfil it. Now Christ wished to suffer what He suffered. For Augustine says (Contra Faust. xxvi): \"A man, though unwilling, is often angry; though unwilling, is sad; though unwilling, sleeps; though unwilling, hungers and thirsts. But He\" (i.e. Christ) \"did all these things, because He wished.\" Therefore it was not fitting that He should pray for Himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Cyprian says (De Orat. Dom.): \"The Doctor of Peace and Master of Unity did not wish prayers to be offered individually and privately, lest when we prayed we should pray for ourselves alone.\" Now Christ did what He taught, according to Acts 1:1: \"Jesus began to do and to teach.\" Therefore Christ never prayed for Himself alone."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Hilary is speaking of vocal prayer, which was not necessary to Him for His own sake, but only for ours. Whence he says pointedly that \"His word of beseeching did not benefit Himself.\" For if \"the Lord hears the desire of the poor,\" as is said in the Ps. 9:38, much more the mere will of Christ has the force of a prayer with the Father: wherefore He said (Jn. 11:42): \"I know that Thou hearest Me always, but because of the people who stand about have I said it, that they may believe that Thou hast sent Me.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Christ wished indeed to suffer what He suffered, at that particular time: nevertheless He wished to obtain, after His passion, the glory of His body, which as yet He had not. This glory He expected to receive from His Father as the author thereof, and therefore it was fitting that He should pray to Him for it."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: This very glory which Christ, while praying, besought for Himself, pertained to the salvation of others according to Rm. 4:25: \"He rose again for our justification.\" Consequently the prayer which He offered for Himself was also in a manner offered for others. So also anyone that asks a boon of God that he may use it for the good of others, prays not only for himself, but also for others."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -243,47 +264,51 @@
             "title": [
                 "Whether Christ's prayer was always heard?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ's prayer was not always heard. For He besought that the chalice of His passion might be taken from Him, as we read (Mt. 26:39): and yet it was not taken from Him. Therefore it seems that not every prayer of His was heard."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, He prayed that the sin of those who crucified Him might be forgiven, as is related (Lk. 23:34). Yet not all were pardoned this sin, since the Jews were punished on account thereof. Therefore it seems that not every prayer of His was heard."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, our Lord prayed for them \"who would believe in Him through the word\" of the apostles, that they \"might all be one in Him,\" and that they might attain to being with Him (Jn. 17:20,21,24). But not all attain to this. Therefore not every prayer of His was heard."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 21,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, it is said (Ps. 21:3) in the person of Christ: \"I shall cry by day, and Thou wilt not hear.\" Not every prayer of His, therefore, was heard."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
@@ -293,26 +318,30 @@
                         "Or, according to Dionysius of Alexandria (De Martyr. ad Origen 7): \"When He says 'Remove this chalice from Me,' He does not mean, 'Let it not come to Me'; for if it come not, it cannot be removed. But, as that which passes is neither untouched nor yet permanent, so the Saviour beseeches, that a slightly pressing trial may be repulsed.\"",
                         "Lastly, Ambrose, Origen and Chrysostom say that He prayed thus \"as man,\" being reluctant to die according to His natural will.",
                         "Thus, therefore, whether we understand, according to Hilary, that He thus prayed that other martyrs might be imitators of His Passion, or that He prayed that the fear of drinking His chalice might not trouble Him, or that death might not withhold Him, His  prayer was entirely fulfilled. But if we understand that He prayed that He might not drink the chalice of His passion and death; or that He might not drink it at the hands of the Jews; what He besought was not indeed fulfilled, because His reason which formed the petition did not desire its fulfilment, but for our instruction, it was His will to make known to us His natural will, and the movement of His sensuality, which was His as man."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Our Lord did not pray for all those who crucified Him, as neither did He for all those who would believe in Him; but for those only who were predestinated to obtain eternal life through Him.",
                         "Wherefore the reply to the third objection is also manifest."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 21,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: When He says: \"I shall cry and Thou wilt not hear,\" we must take this as referring to the desire of sensuality, which shunned death. But He is heard as to the desire of His reason, as stated above."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "counter": [

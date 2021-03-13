@@ -23,62 +23,69 @@
             "title": [
                 "Whether anyone sins through certain malice?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that no one sins purposely, or through certain malice. Because ignorance is opposed to purpose or certain malice. Now \"every evil man is ignorant,\" according to the Philosopher (Ethic. iii, 1); and it is written (Prov. 14:22): \"They err that work evil.\" Therefore no one sins through certain malice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Dionysius says (Div. Nom. iv) that \"no one works intending evil.\" Now to sin through malice seems to denote the intention of doing evil [*Alluding to the derivation of \"malitia\" (malice) from \"malum\" (evil)] in sinning, because an act is not denominated from that which is unintentional and accidental. Therefore no one sins through malice."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, malice itself is a sin. If therefore malice is a cause of sin, it follows that sin goes on causing sin indefinitely, which is absurd. Therefore no one sins through malice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Ignorance sometimes excludes the simple knowledge that a particular action is evil, and then man is said to sin through ignorance: sometimes it excludes the knowledge that a  particular action is evil at this particular moment, as when he sins through passion: and sometimes it excludes the knowledge that a particular evil is not to be suffered for the sake of possessing a particular good, but not the simple knowledge that it is an evil: it is thus that a man is ignorant, when he sins through certain malice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Evil cannot be intended by anyone for its own sake; but it can be intended for the sake of avoiding another evil, or obtaining another good, as stated above: and in this case anyone would choose to obtain a good intended for its own sake, without suffering loss of the other good; even as a lustful man would wish to enjoy a pleasure without offending God; but with the two set before him to choose from, he prefers sinning and thereby incurring God's anger, to being deprived of the pleasure."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The malice through which anyone sins, may be taken to denote habitual malice, in the sense in which the Philosopher (Ethic. v, 1) calls an evil habit by the name of malice, just as a good habit is called virtue: and in this way anyone is said to sin through malice when he sins through the inclination of a habit. It may also denote actual malice, whether by malice we mean the choice itself of evil (and thus anyone is said to sin through malice, in so far as he sins through making a choice of evil), or whether by malice we mean some previous fault that gives rise to a subsequent fault, as when anyone impugns the grace of his brother through envy. Nor does this imply that a thing is its own cause: for the interior act is the cause of the exterior act, and one sin is the cause of another; not indefinitely, however, since we can trace it back to some previous sin, which is not caused by any previous sin, as was explained above (Question [75], Article [4], ad 3)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether everyone that sins through habit, sins through certain malice?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that not every one who sins through habit, sins through certain malice. Because sin committed through certain malice, seems to be most grievous. Now it happens sometimes that a man commits a slight sin through habit, as when he utters an idle word. Therefore sin committed from habit is not always committed through certain malice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, \"Acts proceeding from habits are like the acts by which those habits were formed\" (Ethic. ii, 1,2). But the acts which precede a vicious habit are not committed through certain malice. Therefore the sins that arise from habit are not committed through certain malice."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, when a man commits a sin through certain malice, he is glad after having done it, according to Prov. 2:14: \"Who are glad when they have done evil, and rejoice in most wicked things\": and this, because it is pleasant to obtain what we desire, and to do those actions which are connatural to us by reason of  habit. But those who sin through habit, are sorrowful after committing a sin: because \"bad men,\" i.e. those who have a vicious habit, \"are full of remorse\" (Ethic. ix, 4). Therefore sins that arise from habit are not committed through certain malice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Venial sin does not exclude spiritual good, consisting in the grace of God or charity. Wherefore it is an evil, not simply, but in a relative sense: and for that reason the habit thereof is not a simple but a relative evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Acts proceeding from habits are of like species as the acts from which those habits were formed: but they differ from them as perfect from imperfect. Such is the difference between sin committed through certain malice and sin committed through passion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: He that sins through habit is always glad for what he does through habit, as long as he uses the habit. But since he is able not to use the habit, and to think of something else, by means of his reason, which is not altogether corrupted, it may happen that while not using the habit he is sorry for what he has done through the habit. And so it often happens that such a man is sorry for his sin not because sin in itself is displeasing to him, but on account of his reaping some disadvantage from the sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -169,62 +183,69 @@
             "title": [
                 "Whether one who sins through certain malice, sins through habit?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that whoever sins through certain malice, sins through habit. For the Philosopher says (Ethic. v, 9) that \"an unjust action is not done as an unjust man does it,\" i.e. through choice, \"unless it be done through habit.\" Now to sin through certain malice is to sin through making a choice of evil, as stated above (Article [1]). Therefore no one sins through certain malice, unless he has the habit of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Origen says (Peri Archon iii) that \"a man is not suddenly ruined and lost, but must needs fall away little by little.\" But the greatest fall seems to be that of the man who sins through certain malice. Therefore a man comes to sin through certain malice, not from the outset, but from inveterate custom, which may engender a habit."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, whenever a man sins through certain malice, his will must needs be inclined of itself to the evil he chooses. But by the nature of that power man is inclined, not to evil but to good. Therefore if he chooses evil, this must be due to something supervening, which is passion or habit. Now when a man sins through passion, he sins not through certain malice, but through weakness, as stated (Question [77], Article [3]). Therefore whenever anyone sins through certain malice, he sins through habit."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: To do an action as an unjust man does, may be not only to do unjust things through certain malice, but also to do them with pleasure, and without any notable resistance on the part of reason, and this occurs only in one who has a habit."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: It is true that a man does not fall suddenly into sin from certain malice, and that something is presupposed; but this something is not always a habit, as stated above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: That which inclines the will to evil, is not always a habit or a passion, but at times is something else. Moreover, there is no comparison between choosing good and choosing evil: because evil is never without some good of nature, whereas good can be perfect without the evil of fault."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -243,62 +264,69 @@
             "title": [
                 "Whether it is more grievous to sin through certain malice than through passion?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that it is not more grievous to sin through certain malice than through passion. Because ignorance excuses from sin either altogether or in part. Now ignorance is greater in one who sins through certain malice, than in one who sins through passion; since he that sins through certain malice suffers from the worst form of ignorance, which according to the Philosopher (Ethic. vii, 8) is ignorance of principle, for he has a false estimation of the end, which is the principle in matters of action. Therefore there is more excuse for one who sins through certain malice, than for one who sins through passion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the more a man is impelled to sin, the less grievous his sin, as is clear with regard to a man who is thrown headlong into sin by a more impetuous passion. Now he that sins through certain malice, is impelled by habit, the impulse of which is stronger than that of passion. Therefore to sin through habit is less grievous than to sin through passion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 78,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, to sin through certain malice is to sin through choosing evil. Now he that sins through passion, also chooses evil. Therefore he does not sin less than the man who sins through certain malice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Ignorance of choice, to which the objection refers, neither excuses nor diminishes a sin, as stated above (Question [76], Article [4]). Therefore neither does a greater ignorance of the kind make a sin to be less grave."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The impulse due to passion, is, as it were, due to a defect which is outside the will: whereas, by a habit, the will is inclined from within. Hence the comparison fails."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 78,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: It is one thing to sin while choosing, and another to sin through choosing. For he that sins through passion, sins while choosing, but not through choosing, because his choosing is not for him the first principle of his sin; for he is induced through the passion, to choose what he would not choose, were it not for the passion. On the other hand, he that sins through certain malice, chooses evil of his own accord, in the way already  explained (Articles [2],3), so that his choosing, of which he has full control, is the principle of his sin: and for this reason he is said to sin \"through\" choosing."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

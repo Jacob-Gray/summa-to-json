@@ -3,7 +3,8 @@ const Context = require('./Context');
 const ContextType = require('./data/ContextType'),
     Display = require('./data/Display'),
     Titled = require('./data/Titled'),
-    Article = require('./data/Article');
+    Article = require('./data/Article'),
+    ObjectionRelated = require('./data/ObjectionRelated');
 
 
 class FileHandler {
@@ -97,7 +98,7 @@ class FileHandler {
     handleObjectionRelatedLine(key) {
         const context = this.context,
             article = this.getArticle(),
-            objection = article.ensure(key, context.id, () => new Display(context));
+            objection = article.ensure(key, context.id, () => new ObjectionRelated(context));
 
         objection.writeText('text', context.line);
     }

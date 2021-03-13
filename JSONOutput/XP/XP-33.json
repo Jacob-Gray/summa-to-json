@@ -21,44 +21,49 @@
             "title": [
                 "Whether this sacrament ought to be repeated?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that this sacrament ought not to be repeated. For the anointing of a man is of greater import than the anointing of a stone. But the anointing of an altar is not repeated, unless the altar be shattered. Neither, therefore, should Extreme Unction, whereby a man is anointed, be repeated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, nothing comes after what is extreme. But this unction is called extreme. Therefore it should not be repeated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The stone is anointed in order that the altar may be consecrated, and the stone remains consecrated, as long as the altar remains, hence it cannot be anointed again. But a man is not consecrated by being anointed, since it does not imprint a character on him. Hence there is no comparison."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: What men think to be extreme is not always extreme in reality. It is thus that this sacrament is called Extreme Unction, because it ought not to be given save to those whose death men think to be nigh."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "counter": [
@@ -76,24 +81,27 @@
             "title": [
                 "Whether this sacrament ought to be repeated during the same sickness?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 33,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that this sacrament ought not to be repeated during the same sickness. For one disease demands one remedy. Now this sacrament is a spiritual remedy. Therefore it ought not to be repeated for one sickness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 33,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, if a sick man could be anointed more than once during one disease, this might be done for a whole day: which is absurd."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {},

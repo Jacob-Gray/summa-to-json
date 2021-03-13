@@ -27,80 +27,89 @@
             "title": [
                 "Whether the accidents remain in this sacrament without a subject?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the accidents do not remain in this sacrament without a subject, because there ought not to be anything disorderly or deceitful in this sacrament of truth. But for accidents to be without a subject is contrary to the order which God established in nature; and furthermore it seems to savor of deceit, since accidents are naturally the signs of the nature of the subject. Therefore the accidents are not without a subject in this sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, not even by miracle can the definition of a thing be severed from it, or the definition of another thing be applied to it; for instance, that, while man remains a man, he can be an irrational animal. For it would follow that contradictories can exist at the one time: for the \"definition of a thing is what its name expresses,\" as is said in Metaph. iv. But it belongs to the definition of an accident for it to be in a subject, while the definition of substance is that it must subsist of itself, and not in another. Therefore it cannot come to pass, even by miracle, that the accidents exist without a subject in this sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, an accident is individuated by its subject. If therefore the accidents remain in this sacrament without a subject, they will not be individual, but general, which is clearly false, because thus they would not be sensible, but merely intelligible."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, the accidents after the consecration of this sacrament do not obtain any composition. But before the consecration they were not composed either of matter and form, nor of existence [quo est] and essence [quod est]. Therefore, even after consecration they are not composite in either of these ways. But this is unreasonable, for thus they would be simpler than angels, whereas at the same time these accidents are perceptible to the senses. Therefore, in this sacrament the accidents do not remain without a subject."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: There is nothing to hinder the common law of nature from ordaining a thing, the contrary of which is nevertheless ordained by a special privilege of grace, as is evident in the raising of the dead, and in the restoring of sight to the blind: even thus in human affairs, to some individuals some things are granted by special privilege which are outside the common law. And so, even though it be according to the common law of nature for an accident to be in a subject, still for a special reason, according to the order of grace, the accidents exist in this sacrament without a subject, on account of the reasons given above (Question [75], Article [5])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Since being is not a genus, then being cannot be of itself the essence of either substance or accident. Consequently, the definition of substance is not---\"a being of  itself without a subject,\" nor is the definition of accident---\"a being in a subject\"; but it belongs to the quiddity or essence of substance \"to have existence not in a subject\"; while it belongs to the quiddity or essence of accident \"to have existence in a subject.\" But in this sacrament it is not in virtue of their essence that accidents are not in a subject, but through the Divine power sustaining them; and consequently they do not cease to be accidents, because neither is the definition of accident withdrawn from them, nor does the definition of substance apply to them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: These accidents acquired individual being in the substance of the bread and wine; and when this substance is changed into the body and blood of Christ, they remain in that individuated being which they possessed before, hence they are individual and sensible."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: These accidents had no being of their own nor other accidents, so long as the substance of the bread and wine remained; but their subjects had \"such\" being through them, just as snow is \"white\" through whiteness. But after the consecration the accidents which remain have being; hence they are compounded of existence and essence, as was said of the angels, in the FP, Question [50], Article [2], ad 3; and besides they have composition of quantitative parts."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -120,80 +129,89 @@
             "title": [
                 "Whether in this sacrament the dimensive quantity of the bread or wine is the subject of the other accidents?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that in this sacrament the dimensive quantity of the bread or wine is not the subject of the other accidents. For accident is not the subject of accident; because no form can be a subject, since to be a subject is a property of matter. But dimensive quantity is an accident. Therefore dimensive quantity cannot be the subject of the other accidents."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, just as quantity is individuated by substance, so also are the other accidents. If, then, the dimensive quantity of the bread or wine remains individuated according to the being it had before, in which it is preserved, for like reason the other accidents remain individuated according to the existence which they had before in the substance. Therefore they are not in dimensive quantity as in a subject, since every accident is individuated by its own subject."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, among the other accidents that remain, of the bread and wine, the senses perceive also rarity and density, which cannot be in dimensive quantity existing outside matter; because a thing is rare which has little matter under great dimensions. while a thing is dense which has much matter under small dimensions, as is said in Phys. iv. It does not seem, then, that dimensive quantity can be the subject of the accidents which remain in this sacrament."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, quantity abstract from matter seems to be  mathematical quantity, which is not the subject of sensible qualities. Since, then, the remaining accidents in this sacrament are sensible, it seems that in this sacrament they cannot be subjected in the dimensive quantity of the bread and wine that remains after consecration."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: One accident cannot of itself be the subject of another, because it does not exist of itself. But inasmuch as an accident is received in another thing, one is said to be the subject of the other, inasmuch as one is received in a subject through another, as the surface is said to be the subject of color. Hence when God makes an accident to exist of itself, it can also be of itself the subject of another."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The other accidents, even as they were in the substance of the bread, were individuated by means of dimensive quantity, as stated above. And therefore dimensive quantity is the subject of the other accidents remaining in this sacrament, rather than conversely."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Rarity and density are particular qualities accompanying bodies, by reason of their having much or little matter under dimensions; just as all other accidents likewise follow from the principles of substance. And consequently, as the accidents are preserved by Divine power when the substance is withdrawn, so, when matter is withdrawn, the qualities which go with matter, such as rarity and density, are preserved by Divine power."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: Mathematical quantity abstracts not from intelligible matter, but from sensible matter, as is said in Metaph. vii. But matter is termed sensible because it underlies sensible qualities. And therefore it is manifest that the dimensive quantity, which remains in this sacrament without a subject, is not mathematical quantity."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -212,62 +230,69 @@
             "title": [
                 "Whether the species remaining in this sacrament can change external objects?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the species which remain in this sacrament cannot affect external objects. For it is proved in Phys. vii, that forms which are in matter are produced by forms that are in matter, but not from forms which are without matter, because like makes like. But the sacramental species are species without matter, since they remain without a subject, as is evident from what was said above (Article [1]). Therefore they cannot affect other matter by producing any form in it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, when the action of the principal agent ceases, then the action of the instrument must cease, as when the carpenter rests, the hammer is moved no longer. But all accidental forms act instrumentally in virtue of the substantial form as the principal agent. Therefore, since the substantial form of the bread and wine  does not remain in this sacrament, as was shown above (Question [75], Article [6]), it seems that the accidental forms which remain cannot act so as to change external matter."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, nothing acts outside its species, because an effect cannot surpass its cause. But all the sacramental species are accidents. Therefore they cannot change external matter, at least as to a substantial form."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The sacramental species, although they are forms existing without matter, still retain the same being which they had before in matter, and therefore as to their being they are like forms which are in matter."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The action of an accidental form depends upon the action of a substantial form in the same way as the being of accident depends upon the being of substance; and therefore, as it is an effect of Divine power that the sacramental species exist without substance, so is it an effect of Divine power that they can act without a substantial form, because every action of a substantial or accidental form depends upon God as the first agent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The change which terminates in a substantial form is not effected by a substantial form directly, but by means of the active and passive qualities, which act in virtue of the substantial form. But by Divine power this instrumental energy is retained in the sacramental species, just as it was before: and consequently their action can be directed to a substantial form instrumentally, just in the same way as anything can act outside its species, not as by its own power, but by the power of the chief agent."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -285,62 +310,69 @@
             "title": [
                 "Whether the sacramental species can be corrupted?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the sacramental species cannot be corrupted, because corruption comes of the separation of the form from the matter. But the matter of the bread does not remain in  this sacrament, as is clear from what was said above (Question [75], Article [2]). Therefore these species cannot be corrupted."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, no form is corrupted except accidentally, that is, when its subject is corrupted; hence self-subsisting forms are incorruptible, as is seen in spiritual substances. But the sacramental species are forms without a subject. Therefore they cannot be corrupted."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, if they be corrupted, it will either be naturally or miraculously. But they cannot be corrupted naturally, because no subject of corruption can be assigned as remaining after the corruption has taken place. Neither can they be corrupted miraculously, because the miracles which occur in this sacrament take place in virtue of the consecration, whereby the sacramental species are preserved: and the same thing is not the cause of preservation and of corruption. Therefore, in no way can the sacramental species be corrupted."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Since it belongs essentially to corruption to take away the being of a thing, in so far as the being of some form is in matter, it results that by corruption the form is separated from the matter. But if such being were not in matter, yet like such being as is in matter, it could be taken away by corruption, even where there is no matter; as takes place in this sacrament, as is evident from what was said above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Although the sacramental species are forms not in matter, yet they have the being which they had in matter."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: This corruption of species is not miraculous, but natural; nevertheless, it presupposes the miracle which is wrought in the consecration, namely, that those sacramental species retain without a subject, the same being as they had in a subject; just as a blind man, to whom sight is given miraculously, sees naturally."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -361,62 +393,69 @@
             "title": [
                 "Whether anything can be generated from the sacramental species?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that nothing can be generated from the sacramental species: because, whatever is generated, is generated out of some matter: for nothing is generated out of nothing, although by creation something is made out of nothing. But there is no matter underlying the sacramental species except that of Christ's body, and that body is incorruptible. Therefore it seems that nothing can be generated from the sacramental species."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, things which are not of the same genus cannot spring from one another: thus a line is not made of whiteness. But accident and substance differ generically. Therefore, since the sacramental species are accidents, it seems that no substance can  be generated from them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, if any corporeal substance be generated from them, such substance will not be without accident. Therefore, if any corporeal substance be generated from the sacramental species, then substance and accident would be generated from accident, namely, two things from one, which is impossible. Consequently, it is impossible for any corporeal substance to be generated out of the sacramental species."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Although no matter is there out of which a thing may be generated, nevertheless dimensive quantity supplies the place of matter, as stated above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Those sacramental species are indeed accidents, yet they have the act and power of substance, as stated above (Article [3])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The dimensive quantity of the bread and wine retains its own nature, and receives miraculously the power and property of substance; and therefore it can pass to both, that is, into substance and dimension."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -438,62 +477,69 @@
             "title": [
                 "Whether the sacramental species can nourish?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the sacramental species cannot nourish, because, as Ambrose says (De Sacram. v), \"it is not this bread that enters into our body, but the bread of everlasting life, which supports the substance of our soul.\" But whatever nourishes enters into the body. Therefore this bread does not nourish: and the same reason holds good of the wine."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, as is said in De Gener. ii, \"We are nourished by the very things of which we are made.\" But the sacramental species are accidents, whereas man is not made of accidents, because accident is not a part of substance. Therefore it seems that the sacramental species cannot nourish."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the Philosopher says (De Anima ii) that \"food nourishes according as it is a substance, but it gives increase by reason of its quantity.\" But the sacramental species are not a substance. Consequently they cannot nourish."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: After the consecration bread can be said to be in this sacrament in two ways. First, as to the species, which retain the name of the previous substance, as Gregory says in an Easter Homily (Lanfranc, De Corp. et Sang. Dom. xx). Secondly, Christ's very body can be called bread, since it is the mystical bread \"coming down from heaven.\" Consequently, Ambrose uses the word \"bread\" in this second meaning, when he says that \"this bread does not pass into the body,\" because, to wit, Christ's body is not changed into man's body, but nourishes his soul. But he is not speaking of bread taken in the first acceptation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Although the sacramental species are not those things out of which the human body is made, yet they are changed into those things stated above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Although the sacramental species are not a substance, still they have the virtue of a substance, as stated above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -513,62 +559,69 @@
             "title": [
                 "Whether the sacramental species are broken in this sacrament?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that the sacramental species are not broken in this sacrament, because the Philosopher says in Meteor. iv that bodies are breakable owing to a certain disposition of the pores; a thing which cannot be attributed to the sacramental species. Therefore the sacramental species cannot be broken."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, breaking is followed by sound. But the sacramental species emit no sound: because the Philosopher says (De Anima ii), that what emits sound is a hard body, having a smooth surface. Therefore the sacramental species are not broken."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, breaking and mastication are seemingly of the same object. But it is Christ's true body that is eaten, according to Jn. 6:57: \"He that eateth My flesh, and drinketh My blood.\" Therefore it is Christ's body that is broken and masticated: and hence it is said in the confession of Berengarius: \"I agree with the Holy Catholic Church, and with heart and lips I profess, that the bread and wine which are placed on the altar, are the true body and blood of Christ after consecration, and are truly handled and broken by the priest's hands, broken and crushed by the teeth of believers.\" Consequently, the breaking ought not to be ascribed to the sacramental species."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As rarity and density remain under the sacramental species, as stated above (Article [2], ad 3), so likewise porousness remains, and in consequence breakableness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Hardness results from density; therefore, as density remains under the sacramental species, hardness remains there too, and the capability of sound as a consequence."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: What is eaten under its own species, is also broken and masticated under its own species; but Christ's body is eaten not under its proper, but under the sacramental species. Hence in explaining Jn. 6:64, \"The flesh profiteth nothing,\" Augustine (Tract. xxvii in Joan.) says that this is to be taken as referring to those who understood carnally: \"for they understood the flesh, thus, as it is divided piecemeal, in a dead body, or as sold in the shambles.\" Consequently, Christ's very body is not broken, except according to its sacramental species. And the confession made by Berengarius is to be understood in this sense, that the breaking and the crushing with the teeth is to be referred to the sacramental species, under which the body of Christ truly is."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -589,80 +642,89 @@
             "title": [
                 "Whether any liquid can be mingled with the consecrated wine?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that no liquid can be mingled with the consecrated wine, because everything mingled with another partakes of its quality. But no liquid can share in the quality of the  sacramental species, because those accidents are without a subject, as stated above (Article [1]). Therefore it seems that no liquid can be mingled with the sacramental species of the wine."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, if any kind of liquid be mixed with those species, then some one thing must be the result. But no one thing can result from the liquid, which is a substance, and the sacramental species, which are accidents; nor from the liquid and Christ's blood, which owing to its incorruptibility suffers neither increase nor decrease. Therefore no liquid can be mixed with the consecrated wine."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, if any liquid be mixed with the consecrated wine, then that also would appear to be consecrated; just as water added to holy-water becomes holy. But the consecrated wine is truly Christ's blood. Therefore the liquid added would likewise be Christ's blood otherwise than by consecration, which is unbecoming. Therefore no liquid can be mingled with the consecrated wine."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 77,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, if one of two things be entirely corrupted, there is no mixture (De Gener. i). But if we mix any liquid, it seems that the entire species of the sacramental wine is corrupted, so that the blood of Christ ceases to be beneath it; both because great and little are difference of quantity, and alter it, as white and black cause a difference of color; and because the liquid mixed, as having no obstacle, seems to permeate the whole, and so Christ's blood ceases to be there, since it is not there with any other substance. Consequently, no liquid can be mixed with the consecrated wine."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Pope Innocent III in a Decretal writes thus: \"The very accidents appear to affect the wine that is added, because, if water is added, it takes the savor of the wine. The result is, then, that the accidents change the subject, just as subject changes accidents; for nature yields to miracle, and power works beyond custom.\" But this must not be understood as if the same identical accident, which was in the wine previous to consecration, is afterwards in the wine that is added; but such change is the result of action; because the remaining accidents of the wine retain the action of substance, as stated above, and so they act upon the liquid added, by changing it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The liquid added to the consecrated wine is in no way mixed with the substance of Christ's blood. Nevertheless it is mixed with the sacramental species, yet so that after such mixing the aforesaid species are corrupted entirely or in part, after the way mentioned above (Article [5]), whereby something can be generated from those species. And if they be entirely corrupted, there remains no further question, because the whole will be uniform. But if they be corrupted in part, there will be one dimension according to the continuity of quantity, but not one according to the mode of being, because one part thereof will be without a subject while the other is in a subject; as in a body that is made up of two metals, there will be one body quantitatively, but not one as to the species of the matter."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Pope Innocent says in the aforesaid Decretal, \"if after the consecration other wine be put in the chalice, it is  not changed into the blood, nor is it mingled with the blood, but, mixed with the accidents of the previous wine, it is diffused throughout the body which underlies them, yet without wetting what surrounds it.\" Now this is to be understood when there is not sufficient mixing of extraneous liquid to cause the blood of Christ to cease to be under the whole; because a thing is said to be \"diffused throughout,\" not because it touches the body of Christ according to its proper dimensions, but according to the sacramental dimensions, under which it is contained. Now it is not the same with holy water, because the blessing works no change in the substance of the water, as the consecration of the wine does."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 },
                 "4": {
-                    "id": 4,
                     "question": 77,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: Some have held that however slight be the mixing of extraneous liquid, the substance of Christ's blood ceases to be under the whole, and for the reason given above (Objection [4]); which, however, is not a cogent one; because \"more\" or \"less\" diversify dimensive quantity, not as to its essence, but as to the determination of its measure. In like manner the liquid added can be so small as on that account to be hindered from permeating the whole, and not simply by the dimensions; which, although they are present without a subject, still they are opposed to another liquid, just as substance would be if it were present, according to what was said at the beginning of the article."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 8
                 }
             },
             "counter": [

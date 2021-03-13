@@ -27,53 +27,59 @@
             "title": [
                 "Whether any men will judge together with Christ?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that no men will judge with Christ. For it is written (Jn. 5:22,23): \"The Father . . . hath given all judgment to the Son, that all men may honor the Son.\" Therefore, etc."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, whoever judges has authority over that which he judges. Now those things about which the coming judgment will have to be, such as human merits and demerits, are subject to Divine authority alone. Therefore no one is competent to judge of those things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, this judgment will take place not vocally but mentally. Now the publication of merits and demerits in the hearts of all men (which is like an accusation or approval), or the repayment of punishment and reward (which is like the pronouncement of the sentence) will be the work of God alone. Therefore none but Christ Who is God will judge."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This objection considers the judgment of authority which belongs to Christ alone: and the same answer applies to the Second Objection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: There is no reason why some of the saints should not reveal certain things to others, either by way of enlightenment, as the higher angels enlighten the lower [*Cf. FP, Question [106]],: or by way of speech as the lower angels speak to the higher [*Cf. FP, Question [107], Article [2]]."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -92,99 +98,110 @@
             "title": [
                 "Whether the judicial power corresponds to voluntary poverty?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the judicial power does not correspond to voluntary poverty. For it was promised to none but the twelve apostles (Mt. 19:28): \"You shall sit on twelve seats, judging,\" etc. Since then those who are voluntarily poor are not all apostles, it would seem that the judicial power is not competent to all."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, to offer sacrifice to God of one's own body is more than to do so of outward things. Now martyrs and also virgins offer sacrifice to God of their own body. whereas the voluntarily poor offer sacrifice of outward things. Therefore the sublimity of the judicial power is more in keeping with martyrs and virgins than with those who are voluntarily poor."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, it is written (Jn. 5:45): \"There is one that accuseth you, Moses in whom you trust---because you believe not his voice,\" according to a gloss, and (Jn. 12:48): \"The word that I have spoken shall judge him in the last day.\" Therefore the fact that a man propounds a law, or exhorts men by word to lead a good life, gives him the right to judge those who scorn his utterances. But this belongs to doctors. Therefore it is more competent to doctors than to those who are poor voluntarily."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, Christ through being judged unjustly merited as man to be judge of all in His human nature [*Cf. TP, Question [59], Article [6]], according to Jn. 5:27, \"He hath given Him power to do judgment, because He is the Son of man.\" Now those who suffer persecution for justice' sake are judged unjustly. Therefore the judicial power is competent to them rather than to the voluntarily poor."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, a superior is not judged by his inferior. Now many who will have made lawful use of riches will have greater merit than many of the voluntarily poor. Therefore the voluntarily poor will not judge where those are to be judged."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: According to Augustine (De Civ. Dei xx), \"we must not imagine that because He says that they will sit on twelve seats only twelve men will judge with Him. else since we read that Matthias was appointed apostle in the place of the traitor Judas, Paul who worked more than the rest will have nowhere to sit as judge.\" Hence \"the number twelve,\" as he states (De Civ. Dei xx), \"signifies the whole multitude of those who will judge, because the two parts of seven, namely three and four, being multiplied together make twelve.\" Moreover twelve is a perfect number, being the double of six, which is a perfect number.",
                         "Or, speaking literally, He spoke to the twelve apostles in whose person he made this promise to all who follow them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Virginity and martyrdom do not dispose man to retain the precepts of Divine justice in his heart in the same degree as poverty does: even so, on the other hand, outward riches choke the word of God by the cares which they entail (Lk. 8:14). Or we may reply that poverty does not suffice alone to merit judicial power, but is the fundamental part of that perfection to which the judicial power corresponds. Wherefore among those things regarding perfection which follow after poverty we may reckon both virginity and martyrdom and all the works of perfection: yet they do not rank as high as poverty, since the beginning of a thing is its chief part."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: He who propounded the law or urged men to good will judge, in the causal (Cf. Article [1]) sense, because others will be judged in reference to the words he has uttered or propounded. Hence the judicial power does not properly correspond to preaching or teaching. or we may reply that, as some say, three things are requisite for the judicial power; first, that one renounce temporal cares, lest the mind be hindered from the contemplation of wisdom; secondly that one possess Divine justice by way of habit both as to knowledge and as to observance; thirdly that one should have taught others this same justice; and this teaching will be the perfection whereby a man merits to have judicial power."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Christ humbled Himself in that He was judged unjustly; for \"He was offered because it was His own will\" (Is. 53:7): and by His humility He merited His exaltation to judicial power, since all things are made subject to Him (Phil. 2:8,9). Hence, judicial power is more due to them who humble themselves of their own will by renouncing temporal goods, on account of which men are honored by worldlings, than to those who are humbled by others."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: An inferior cannot judge a superior by his own authority, but he can do so by the authority of a superior, as in the case of a judge-delegate. Hence it is not unfitting that it be granted to the poor as an accidental reward to judge others, even those who have higher merit in respect of the essential reward."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "counter": [
@@ -203,62 +220,69 @@
             "title": [
                 "Whether the angels will judge?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the angels will judge. For it is written (Mt. 25:31): \"When the Son of man shall come in His majesty, and all the angels with Him.\" Now He is speaking of His coming to judgment. Therefore it would seem that also the angels will judge."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the orders of the angels take their names from the offices which they fulfill. Now one of the angelic orders is that of the Thrones, which would seem to pertain to the judicial power, since a throne is the \"judicial bench, a royal seat, a professor's chair\" [*Cf. St. Isidore, Etym. vii, 5]. Therefore some of the angels will judge."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, equality with the angels is promised the saints after this life (Mt. 22:30). If then men will have this power of judging, much more will the angels have it."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: As a gloss on this passage observes, the angels will come with Christ, not to judge, but \"as witnesses of men's deeds because it was under their guardianship that men did well or ill.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The name of Thrones is given to angels in reference to the judgment which God is ever pronouncing, by governing all things with supreme justice: of which judgment angels are in a way the executors and promulgators. On the other hand, the judgment of men by the man Christ will require human assessors."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Equality with angels is promised to men as regards the essential reward. But nothing hinders an accidental reward from being bestowed on men to the exclusion of the angels, as in the case of the virgins' and martyrs' crowns: and the same may be said of the judicial power."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -277,62 +301,69 @@
             "title": [
                 "Whether the demons will carry out the sentence of the Judge on the damned?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the demons will not carry out the sentence of the Judge on the damned after the day of judgment. For, according to the Apostle (1 Cor. 15:24): \"He will then bring to naught [*Vulg.: 'When He shall have brought to naught', etc.] all principality, and power, and virtue.\" Therefore all supremacy will cease then. But the carrying out of the Judge's sentence implies some kind of supremacy. Therefore after the judgment day the demons will not carry out the Judge's sentence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the demons sinned more grievously than men. Therefore it is not just that men should be tortured by demons."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, just as the demons suggest evil things to men, so good angels suggest good things. Now it will not be the duty of the good angels to reward the good, but this will be done by God, immediately by Himself. Therefore neither will it be the duty of the demons to punish the wicked."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The supremacy which, it is declared, will be brought to nought by Christ in the time to come must be taken in the sense of the supremacy which is in keeping with the state of this world: wherein men are placed over men, angels over men, angels over angels, demons over demons, and demons over men; in every case so as either to lead towards the end or to lead astray from the end. But then when all things will have attained to that end there will be no supremacy to lead astray from the end or to lead to it, but only that which maintains in the end, good or evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Although the demerit of the demons does not require that they be placed over men, since they made men subject to them unjustly, yet this is required by the order of their nature in relation to human nature: since \"natural goods remain in them unimpaired\" as Dionysius says (Div. Nom. iv)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The good angels are not the cause of the principal reward in the elect, because all receive this immediately from God. Nevertheless the angels are the cause of certain accidental rewards in men, in so far as the higher angels enlighten those beneath them, both angels and men, concerning certain hidden things of God, which do not belong to the essence of beatitude. In like manner the damned will receive their principal punishment immediately from God, namely the everlasting banishment from the Divine vision: but there is no reason why the demons should not  torture men with other sensible punishments. There is, however, this difference: that merit exalts, whereas sin debases. Wherefore since the angelic nature is higher than the human, some on account of the excellence of their merit will be so far exalted as to be raised above the angels both in nature and rewards [*Cf. FP, Question [108], Article [8] ], so that some angels will be enlightened by some men. On the other hand, no human sinners will, on account of a certain degree of virtue, attain to the eminence that attaches to the nature of the demons."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -351,62 +382,69 @@
             "title": [
                 "Whether all men will be present at the judgment?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that men will not all be present at the judgment. For it is written (Mt. 19:28): \"You . . . shall sit on twelve seats, judging the twelve tribes of Israel.\" But all men do not belong to those twelve tribes. Therefore it would seem that men will not all be present at the judgment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the same apparently is to be gathered from Ps. 1:5, \"The wicked shall not rise again in judgment.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, a man is brought to judgment that his merits may be discussed. But some there are who have acquired no merits, such as children who died before reaching the perfect age. Therefore they need not be present at the judgment. Now there are many such. Therefore it would seem that not all will be present."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: As Augustine says (De Civ. Dei xx, 5), \"it does not follow from the saying, 'Judging the twelve tribes of Israel,' that the tribe of Levi, which is the thirteenth, is not to be judged, or that they will judge that people alone, and not other nations.\" The reason why all other nations are denoted by the twelve tribes is because they were called by Christ to take the place of the twelve tribes."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The words, \"The wicked shall not rise in judgment,\" if referred to all sinners, mean that they will not arise to judge. But if the wicked denote unbelievers, the sense is that they will not arise to be judged, because they are \"already judged\" (Jn. 3:18). All, however, will rise again to assemble at the judgment and witness the glory of the Judge."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Even children who have died before reaching the perfect age will be present at the judgment, not to be judged, but to see the Judge's glory."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -425,63 +463,70 @@
             "title": [
                 "Whether the good will be judged at the judgment?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that none of the good will be judged at the judgment. For it is declared (Jn. 3:18) that \"he that believeth in Him is not judged.\" Now all the good believed in Him. Therefore they will not be judged."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, those who are uncertain of their bliss are not blessed: whence Augustine proves (Gen. ad lit. xi) that the demons were never blessed. But the saints are now blessed. Therefore they are certain of their bliss. Now what is certain is not submitted to judgment. Therefore the good will not be judged."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, fear is incompatible with bliss. But the last judgment, which above all is described as terrible, cannot take place without inspiring fear into those who are to be judged. Hence Gregory observes on Job 41:16 \"When he shall raise him up, the angels shall fear,\" etc. (Moral. xxxiv): \"Consider how the conscience of the wicked will then be troubled when even the just are disturbed about their life.\" Therefore the blessed will not be judged."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Since punishment is the effect of justice, while reward is the effect of mercy, it follows that punishment is more especially ascribed antonomastically to judgment which is the act of justice; so that judgment is sometimes used to express condemnation. It is thus that we are to understand the words quoted, as a gloss on the passage remarks."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The merits of the elect will be discussed, not to remove the uncertainty of their beatitude from the hearts of those who are to be judged, but that it may be made manifest to us that their good merits outweigh their evil merits, and thus God's justice be proved."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Gregory is speaking of the just who will still be in mortal flesh, wherefore he had already said: \"Those who will still be in the body, although already brave and perfect, yet through being still in the flesh must needs be troubled with fear in the midst of such a whirlwind of terror.\" Hence it is clear that this fear refers to the time immediately before the judgment, most terrible indeed to the wicked, but not to the good, who will have no apprehension of evil.",
                         "The arguments in the contrary sense consider judgment as regards the payment of rewards."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -500,45 +545,50 @@
             "title": [
                 "Whether the wicked will be judged?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that none of the wicked will be judged. For even as damnation is certain in the case of unbelievers, so is it in the case of those who die in mortal sin. Now it is declared because of the certainty of damnation (Jn. 3:18): \"He that believeth not is already judged.\" Therefore in like manner neither will other sinners be judged."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the voice of the Judge is most terrible to those who are condemned by His judgment. Now according to the text of Sentent. iv, D, 47 and in the words of Gregory (Moral. xxvi) \"the Judge will not address Himself to unbelievers.\" If therefore He were to address Himself to the believers about to be condemned, the unbelievers would reap a benefit from their unbelief, which is absurd."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although it is certain that those who die in mortal sin will be damned, nevertheless since they have an admixture of certain things connected with meriting well, it behooves, for the manifestation of Divine justice, that their merits be subjected to discussion, in order to make it clear that they are justly banished from the city of the saints, of which they appeared outwardly to be citizens."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Considered under this special aspect the words addressed to the believers about to be condemned will not be terrible, because they will reveal in them certain things pleasing to them, which it will be impossible to find in unbelievers, since \"without faith it is impossible to please God\" (Heb. 11:6). But the sentence of condemnation which will be passed on them all will be terrible to all of them.",
                         "The argument in the contrary sense considered the judgment of retribution."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 }
             },
             "counter": [
@@ -556,54 +606,60 @@
             "title": [
                 "Whether at the coming judgment the angels will be judged?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the angels will be judged at the coming judgment. For it is written (1 Cor. 6:3): \"Know you not that we shall judge angels?\" But this cannot refer to the state of the present time. Therefore it should refer to the judgment to come."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is written concerning Behemoth or Leviathan, whereby the devil is signified (Job 40:28): \"In the sight of all he shall be cast down\"; and (Mk. 1:24)* the demon  cried out to Christ: \"Why art Thou come to destroy us before the time?\" for, according to a gloss, \"the demons seeing our Lord on earth thought they were to be judged forthwith.\" [*The reference should be Mt. 8:29: 'Art Thou come hither to torment us before the time?' The text of Mark reads: 'Art Thou come to destroy us?'] Therefore it would seem that a final judgment is in store for them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 89,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, it is written (2 Pt. 2:4): \"God spared not the angels that sinned, but delivered them drawn down by infernal ropes to the lower hell, unto torments, to be reserved unto judgment.\" Therefore it seems that the angels will be judged."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This saying of the Apostle refers to the judgment of comparison, because certain men will be found to be placed higher than the angels."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 89,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The demons will then be cast down in the sight of all because they will be imprisoned for ever in the dungeon of hell, so that they will no more be free to go out, since this was permitted to them only in so far as they were directed by Divine providence to try the life of man.",
                         "The same answer applies to the Third Objection."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 }
             },
             "counter": [

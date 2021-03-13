@@ -23,56 +23,61 @@
             "title": [
                 "Whether formlessness of created matter preceded in time its formation?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that formlessness of matter preceded in time its formation. For it is said (Gn. 1:2): \"The earth was void and empty,\" or \"invisible and shapeless,\" according to another version [*Septuagint]; by which is understood the formlessness of matter, as Augustine says (Confess. xii, 12). Therefore matter was  formless until it received its form."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, nature in its working imitates the working of God, as a secondary cause imitates a first cause. But in the working of nature formlessness precedes form in time. It does so, therefore, in the Divine working."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, matter is higher than accident, for matter is part of substance. But God can effect that accident exist without substance, as in the Sacrament of the Altar. He could, therefore, cause matter to exist without form."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The word earth is taken differently in this passage by Augustine, and by other writers. Augustine holds that by the words \"earth\" and \"water,\" in this passage. primary matter itself is signified on account of its being impossible for Moses to make the idea of such matter intelligible to an ignorant people, except under the similitude of well-known objects. Hence he uses a variety of figures in speaking of it, calling it not water only, nor earth only, lest they should think it to be in very truth water or earth. At the same time it has so far a likeness to earth, in that it is susceptible of form, and to water in its adaptability to a variety of forms. In this respect, then, the earth is said to be \"void and empty,\" or \"invisible and shapeless,\" that matter is known by means of form. Hence, considered in itself, it is called \"invisible\" or \"void,\" and its potentiality is completed by form; thus Plato says that matter is \"place\" [*Timaeus, quoted by Aristotle, Phys. iv, text. 15]. But other holy writers understand by earth the element of earth, and we have said (Article [1]) how, in this sense, the earth was, according to them, without form."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Nature produces effect in act from being in potentiality; and consequently in the operations of nature potentiality must precede act in time, and formlessness precede form. But God produces being in act out of nothing, and can, therefore, produce a perfect thing in an instant, according to the  greatness of His power."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
@@ -80,7 +85,9 @@
                         "Reply to Objection 3: Accident, inasmuch as it is a form, is a kind of act; whereas matter, as such, is essentially being in potentiality. Hence it is more repugnant that matter should be in act without form, than for accident to be without subject.",
                         "In reply to the first argument in the contrary sense, we say that if, according to some holy writers, formlessness was prior in time to the informing of matter, this arose, not from want of power on God's part, but from His wisdom, and from the design of preserving due order in the disposition of creatures by developing perfection from imperfection.",
                         "In reply to the second argument, we say that certain of the ancient natural philosophers maintained confusion devoid of all distinction; except Anaxagoras, who taught that the intellect alone was distinct and without admixture. But previous to the work of distinction Holy Scripture enumerates several kinds of differentiation, the first being that of the heaven from the earth, in which even a material distinction is expressed, as will be shown later (Article [3]; Question [68], Article [1]). This is signified by the words, \"In the beginning God created heaven and earth.\" The second distinction mentioned is that of the elements according to their forms, since both earth and water are named. That air and fire are not mentioned by name is due to the fact that the corporeal nature of these would not be so evident as that of earth and water, to the ignorant people to whom Moses spoke. Plato (Timaeus xxvi), nevertheless, understood air to be signified by the words, \"Spirit of God,\" since spirit is another name for air, and considered that by the word heaven is meant fire, for he held heaven to be composed of fire, as Augustine relates (De Civ. Dei viii, 11). But Rabbi Moses (Perplex. ii), though otherwise agreeing with Plato, says that fire is signified by the word darkness, since, said he, fire does not shine in its own sphere. However, it seems more reasonable to hold to what we stated above; because by the words \"Spirit of God\" Scripture usually means the Holy Ghost, Who is said to \"move over the waters,\" not, indeed, in bodily shape, but as the craftsman's will may be said to move over the material to which he intends to give a form. The third distinction is that of place; since the earth is said to be under the waters that rendered it invisible, whilst the air, the subject of darkness, is described as being above the waters, in the words: \"Darkness was upon the face of the deep.\" The remaining distinctions will appear from what follows (Question [71])."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -99,80 +106,89 @@
             "title": [
                 "Whether the formless matter of all corporeal things is the same?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the formless matter of all corporeal things is the same. For Augustine says (Confess. xii, 12): \"I find two things Thou hast made, one formed, the other formless,\" and he says that the latter was the earth invisible and shapeless, whereby, he says, the matter of all corporeal things is designated.  Therefore the matter of all corporeal things is the same."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the Philosopher says (Metaph. v, text. 10): \"Things that are one in genus are one in matter.\" But all corporeal things are in the same genus of body. Therefore the matter of all bodies is the same."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, different acts befit different potentialities, and the same act befits the same potentiality. But all bodies have the same form, corporeity. Therefore all bodies have the same matter."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, matter, considered in itself, is only in potentiality. But distinction is due to form. Therefore matter considered in itself is the same in all corporeal things."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Augustine follows in this the opinion of Plato, who does not admit a fifth essence. Or we may say that formless matter is one with the unity of order, as all bodies are one in the order of corporeal creatures."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: If genus is taken in a physical sense, corruptible and incorruptible things are not in the same genus, on account of their different modes of potentiality, as is said in Metaph. x, text. 26. Logically considered, however, there is but  one genus of all bodies, since they are all included in the one notion of corporeity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The form of corporeity is not one and the same in all bodies, being no other than the various forms by which bodies are distinguished, as stated above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: As potentiality is directed towards act, potential beings are differentiated by their different acts, as sight is by color, hearing by sound. Therefore for this reason the matter of the celestial bodies is different from that of the elemental, because the matter of the celestial is not in potentiality to an elemental form."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -192,80 +208,89 @@
             "title": [
                 "Whether the empyrean heaven was created at the same time as formless matter?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the empyrean heaven was not created at the same time as formless matter. For the empyrean, if it is anything at all, must be a sensible body. But all sensible bodies are movable, and the empyrean heaven is not movable. For if it were so, its movement would be ascertained by the movement of some visible body, which is not the case. The empyrean heaven, then, was not created contemporaneously with formless matter."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Augustine says (De Trin. iii, 4) that \"the lower bodies are governed by the higher in a certain order.\" If, therefore, the empyrean heaven is the highest of bodies, it must necessarily exercise some influence on bodies below it. But this does not seem to be the case, especially as it is presumed to be without movement; for one body cannot move another unless itself also be moved. Therefore the empyrean heaven was not created together with formless matter."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if it is held that the empyrean heaven is the place of contemplation, and not ordained to natural effects; on the contrary, Augustine says (De Trin. iv, 20): \"In so far as we mentally apprehend eternal things, so far are we not of this world\"; from which it is clear that contemplation lifts the mind above the things of this world. Corporeal place, therefore, cannot be the seat of contemplation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, among the heavenly bodies exists a body, partly transparent and partly luminous, which we call the sidereal heaven. There exists also a heaven wholly transparent, called by some the aqueous or crystalline heaven. If, then, there exists a still higher heaven, it must be wholly luminous. But this cannot be, for then the air would be constantly illuminated, and there would be no night. Therefore the empyrean heaven was not created together with formless matter."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Sensible corporeal things are movable in the present state of the world, for by the movement of corporeal creatures is secured by the multiplication of the elements. But when glory is finally consummated, the movement of bodies will cease. And such must have been from the beginning the condition of  the empyrean."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: It is sufficiently probable, as some assert, that the empyrean heaven, having the state of glory for its ordained end, does not influence inferior bodies of another order---those, namely, that are directed only to natural ends. Yet it seems still more probable that it does influence bodies that are moved, though itself motionless, just as angels of the highest rank, who assist [*Infra, Question [112], Article [3]], influence those of lower degree who act as messengers, though they themselves are not sent, as Dionysius teaches (Coel. Hier. xii). For this reason it may be said that the influence of the empyrean upon that which is called the first heaven, and is moved, produces therein not something that comes and goes as a result of movement, but something of a fixed and stable nature, as the power of conservation or causation, or something of the kind pertaining to dignity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Corporeal place is assigned to contemplation, not as necessary, but as congruous, that the splendor without may correspond to that which is within. Hence Basil (Hom. ii in Hexaem.) says: \"The ministering spirit could not live in darkness, but made his habitual dwelling in light and joy.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: As Basil says (Hom. ii in Hexaem.): \"It is certain that the heaven was created spherical in shape, of dense body, and sufficiently strong to separate what is outside it from what it encloses. On this account it darkens the region external to it, the light by which itself is lit up being shut out from that region. \"But since the body of the firmament, though solid, is transparent, for that it does not exclude light (as is clear from the fact that we can see the stars through the intervening heavens), we may also say that the empyrean has light, not condensed so as to emit rays, as the sun does, but of a more subtle nature. Or it may have the brightness of glory which differs from mere natural brightness."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -283,98 +308,109 @@
             "title": [
                 "Whether time was created simultaneously with formless matter?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that time was not created simultaneously with formless matter. For Augustine says (Confess. xii, 12): \"I find two things that Thou didst create before time was, the primary corporeal matter, and the angelic nature. \"Therefore time was not created with formless matter."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, time is divided by day and night. But in the beginning there was neither day nor night, for these began when \"God divided the light from the darkness. \"Therefore in the beginning time was not."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, time is the measure of the firmament's movement; and the firmament is said to have been made on the second day. Therefore in the beginning time was not."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, movement precedes time, and therefore should be reckoned among the first things created, rather than time."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 },
                 "5": {
-                    "id": 5,
                     "question": 66,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 5: Further, as time is the extrinsic measure of created things, so is place. Place, then, as truly as time, must be reckoned among the things first created."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The teaching of Augustine rests on the opinion that the angelic nature and formless matter precede time by origin or nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: As in the opinion of some holy writers matter was in some measure formless before it received its full form, so time was in a manner formless before it was fully formed and distinguished into day and night."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: If the movement of the firmament did not begin immediately from the beginning, then the time that preceded was the measure, not of the firmament's movement, but of the first movement of whatsoever kind. For it is accidental to time to be the measure of the firmament's movement, in so far as this is the first movement. But if the first movement was another than this, time would have been its measure, for everything is measured by the first of its kind. And it must be granted that forthwith from the beginning, there was movement of some kind, at least in the succession of concepts and affections in the angelic mind: while movement without time cannot be conceived, since time is nothing else than \"the measure of priority and succession in movement.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Among the first created things are to be reckoned those which have a general relationship to things. And, therefore, among these time must be included, as having the nature of a common measure; but not movement, which is related only to the movable subject."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 },
                 "5": {
-                    "id": 5,
                     "question": 66,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 5: Place is implied as existing in the empyrean heaven, this being the boundary of the universe. And since place has reference to things permanent, it was created at once in its totality. But time, as not being permanent, was created in its beginning: even as actually we cannot lay hold of any part of time save the \"now.\""
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 4
                 }
             },
             "counter": [

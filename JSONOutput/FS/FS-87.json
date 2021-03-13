@@ -28,62 +28,69 @@
             "title": [
                 "Whether the debt of punishment is an effect of sin?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the debt of punishment is not an effect of sin. For that which is accidentally related to a thing, does not seem to be its proper effect. Now the debt of punishment is accidentally related to sin, for it is beside the intention of the sinner. Therefore the debt of punishment is not an effect of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, evil is not the cause of good. But punishment is good, since it is just, and is from God. Therefore it is not an effect of sin, which is evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Augustine says (Confess. i) that \"every inordinate affection is its own punishment.\" But punishment does not incur a further debt of punishment, because then it would go on  indefinitely. Therefore sin does not incur the debt of punishment."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Punishment follows sin, inasmuch as this is an evil by reason of its being inordinate. Wherefore just as evil is accidental to the sinner's act, being beside his intention, so also is the debt of punishment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Further, a just punishment may be inflicted either by God or by man: wherefore the punishment itself is the effect of sin, not directly but dispositively. Sin, however, makes man deserving of punishment, and that is an evil: for Dionysius says (Div. Nom. iv) that \"punishment is not an evil, but to deserve punishment is.\" Consequently the debt of punishment is considered to be directly the effect of sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This punishment of the \"inordinate affection\" is due to sin as overturning the order of reason. Nevertheless sin incurs a further punishment, through disturbing the order of the Divine or human law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -102,53 +109,59 @@
             "title": [
                 "Whether sin can be the punishment of sin?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sin cannot be the punishment of sin. For the purpose of punishment is to bring man back to the good of virtue, as the Philosopher declares (Ethic. x, 9). Now sin does not bring man back to the good of virtue, but leads him in the opposite direction. Therefore sin is not the punishment of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, just punishments are from God, as Augustine says (Qq. lxxxiii, qu. 82). But sin is not from God, and is an injustice. Therefore sin cannot be the punishment of sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the nature of punishment is to be something against the will. But sin is something from the will, as shown above (Question [74], Articles [1],2). Therefore sin cannot be the punishment of sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Even when God punishes men by permitting them to fall into sin, this is directed to the good of virtue. Sometimes indeed it is for the good of those who are punished, when, to wit,  men arise from sin, more humble and more cautious. But it is always for the amendment of others, who seeing some men fall from sin to sin, are the more fearful of sinning. With regard to the other two ways, it is evident that the punishment is intended for the sinner's amendment, since the very fact that man endures toil and loss in sinning, is of a nature to withdraw man from sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: This objection considers sin essentially as such: and the same answer applies to the Third Objection."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -167,80 +180,89 @@
             "title": [
                 "Whether any sin incurs a debt of eternal punishment?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that no sin incurs a debt of eternal punishment. For a just punishment is equal to the fault, since justice is equality: wherefore it is written (Is. 27:8): \"In measure against measure, when it shall be cast off, thou shalt judge it.\" Now sin is temporal. Therefore it does not incur a debt of eternal punishment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, \"punishments are a kind of medicine\" (Ethic. ii, 3). But no medicine should be infinite, because it is directed to an end, and \"what is directed to an end, is not infinite,\" as the Philosopher states (Polit. i, 6). Therefore no punishment should be infinite."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, no one does a thing always unless he delights in it for its own sake. But \"God hath not pleasure in the destruction of men\" [Vulg.: 'of the living']. Therefore He will not inflict eternal punishment on man."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, nothing accidental is infinite. But punishment is accidental, for it is not natural to the one who is punished. Therefore it cannot be of infinite duration."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Punishment is proportionate to sin in point of severity, both in Divine and in human judgments. In no judgment, however, as Augustine says (De Civ. Dei xxi, 11) is it requisite for punishment to equal fault in point of duration. For the fact that adultery or murder is committed in a moment does not call for a momentary punishment: in fact they are punished sometimes by imprisonment or banishment for life---sometimes even by death; wherein account is not taken of the time occupied in killing, but rather of the expediency of removing the murderer from the fellowship of the living, so that this punishment, in its own way, represents the eternity of punishment inflicted by God. Now according to Gregory (Dial. iv, 44) it is just that he who has sinned against God in his own eternity should be punished in God's eternity. A man is said to have sinned in his own eternity, not only as regards continual sinning throughout his whole life, but also because, from the very fact that he fixes his end in sin, he has the will to sin, everlastingly. Wherefore Gregory says (Dial. iv, 44) that the \"wicked would wish to live without end, that they might abide in their sins for ever.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Even the punishment that is inflicted according to human laws, is not always intended as a medicine for the one who is punished, but sometimes only for others: thus when a thief is hanged, this is not for his own amendment, but for the sake of others, that at least they may be deterred from crime through fear of the punishment, according to Prov. 19:25: \"The wicked man being scourged, the fool shall be wiser.\" Accordingly the eternal punishments inflicted by God on the reprobate, are medicinal punishments for those who refrain from sin through the thought of those punishments, according to Ps. 59:6: \"Thou hast given a warning to them that fear Thee, that they may flee from before the bow, that Thy beloved may be delivered.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: God does not delight in punishments for their own sake; but He does delight in the order of His justice, which requires them."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 4: Although punishment is related indirectly to nature, nevertheless it is essentially related to the disturbance of the order, and to God's justice. Wherefore, so long as the disturbance lasts, the punishment endures."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -258,62 +280,69 @@
             "title": [
                 "Whether sin incurs a debt of punishment infinite in quantity?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sin incurs a debt of punishment infinite in quantity. For it is written (Jer. 10:24): \"Correct me,  O Lord, but yet with judgment: and not in Thy fury, lest Thou bring me to nothing.\" Now God's anger or fury signifies metaphorically the vengeance of Divine justice: and to be brought to nothing is an infinite punishment, even as to make a thing out of nothing denotes infinite power. Therefore according to God's vengeance, sin is awarded a punishment infinite in quantity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, quantity of punishment corresponds to quantity of fault, according to Dt. 25:2: \"According to the measure of the sin shall the measure also of the stripes be.\" Now a sin which is committed against God, is infinite: because the gravity of a sin increases according to the greatness of the person sinned against (thus it is a more grievous sin to strike the sovereign than a private individual), and God's greatness is infinite. Therefore an infinite punishment is due for a sin committed against God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, a thing may be infinite in two ways, in duration, and in quantity. Now the punishment is infinite in duration. Therefore it is infinite in quantity also."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: It would be inconsistent with Divine justice for the sinner to be brought to nothing absolutely, because this would be incompatible with the perpetuity of punishment that Divine justice requires, as stated above (Article [3]). The expression \"to be brought to nothing\" is applied to one who is deprived of spiritual goods, according to 1 Cor. 13:2: \"If I . . . have not charity, I am nothing.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: This argument considers sin as turning away from something, for it is thus that man sins against God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Duration of punishment corresponds to duration of fault, not indeed as regards the act, but on the part of the stain, for as long as this remains, the debt of punishment remains. But punishment corresponds to fault in the point of severity. And a fault which is irreparable, is such that, of itself, it lasts for  ever; wherefore it incurs an everlasting punishment. But it is not infinite as regards the thing it turns to; wherefore, in this respect, it does not incur punishment of infinite quantity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -331,54 +360,60 @@
             "title": [
                 "Whether every sin incurs a debt of eternal punishment?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that every sin incurs a debt of eternal punishment. Because punishment, as stated above (Article [4]), is proportionate to the fault. Now eternal punishment differs infinitely from temporal punishment: whereas no sin, apparently, differs infinitely from another, since every sin is a human act, which cannot be infinite. Since therefore some sins incur a debt of everlasting punishment, as stated above (Article [4]), it seems that no sin incurs a debt of mere temporal punishment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, original sin is the least of all sins, wherefore Augustine says (Enchiridion xciii) that \"the lightest punishment is incurred by those who are punished for original sin alone.\" But original sin incurs everlasting punishment, since children who have died in original sin through not being baptized, will never see the kingdom of God, as shown by our Lord's words (Jn. 3:3): \" Unless a man be born again, he cannot see the kingdom of God.\" Much more, therefore, will the punishments of all other sins be everlasting."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, a sin does not deserve greater punishment through being united to another sin; for Divine justice has allotted its punishment to each sin. Now a venial sin deserves eternal punishment if it be united to a mortal sin in a lost soul, because in hell there is no remission of sins. Therefore venial sin by itself deserves eternal punishment. Therefore temporal punishment is not due for any sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Sins do not differ infinitely from one another in respect of their turning towards mutable good, which constitutes the substance of the sinful act; but they do differ infinitely in  respect of their turning away from something. Because some sins consist in turning away from the last end, and some in a disorder affecting things referable to the end: and the last end differs infinitely from the things that are referred to it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Original sin incurs everlasting punishment, not on account of its gravity, but by reason of the condition of the subject, viz. a human being deprived of grace, without which there is no remission of sin.",
                         "The same answer applies to the Third Objection about venial sin. Because eternity of punishment does not correspond to the quantity of the sin, but to its irremissibility, as stated above (Article [3])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 }
             },
             "counter": [
@@ -396,62 +431,69 @@
             "title": [
                 "Whether the debt of punishment remains after sin?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that there remains no debt of punishment after sin. For if the cause be removed the effect is removed. But sin is the cause of the debt of punishment. Therefore, when the sin is removed, the debt of punishment ceases also."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, sin is removed by man returning to virtue. Now a virtuous man deserves, not punishment, but reward. Therefore, when sin is removed, the debt of punishment no longer remains."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, \"Punishments are a kind of medicine\" (Ethic. ii, 3). But a man is not given medicine after being cured of his disease. Therefore, when sin is removed the debt of punishment does not remain."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Just as after the act of sin has ceased, the stain remains, as stated above (Question [86], Article [2]), so the debt of punishment also can remain. But when the stain has been removed, the debt of punishment does not remain in the same way, as stated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The virtuous man does not deserve punishment simply, but he may deserve it as satisfactory: because his very virtue demands that he should do satisfaction for his offenses against God or man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: When the stain is removed, the wound of sin is healed as regards the will. But punishment is still requisite in order that the other powers of the soul be healed, since they were so disordered by the sin committed, so that, to wit, the disorder may be remedied by the contrary of that which caused it. Moreover punishment is requisite in order to restore the equality of justice, and to remove the scandal given to others, so that those who were scandalized at the sin many be edified by the punishment, as may be seen in the example of David quoted above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -470,62 +512,69 @@
             "title": [
                 "Whether every punishment is inflicted for a sin?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that not every punishment is inflicted for a sin. For it is written (Jn. 9:3,2) about the man born blind: \"Neither hath this man sinned, nor his parents . . . that he should be born blind.\" In like manner we see that many children, those also who have been baptized, suffer grievous punishments, fevers, for instance, diabolical possession, and so forth, and yet there is no sin in them after they have been baptized. Moreover before they  are baptized, there is no more sin in them than in the other children who do not suffer such things. Therefore not every punishment is inflicted for a sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, that sinners should thrive and that the innocent should be punished seem to come under the same head. Now each of these is frequently observed in human affairs, for it is written about the wicked (Ps. 72:5): \"They are not in the labor of men: neither shall they be scourged like other men\"; and (Job 21:7): \"[Why then do] the wicked live, are [they] advanced, and strengthened with riches\" (?)[*The words in brackets show the readings of the Vulgate]; and (Hab. 1:13): \"Why lookest Thou upon the contemptuous [Vulg.: 'them that do unjust things'], and holdest Thy peace, when the wicked man oppresseth [Vulg.: 'devoureth'], the man that is more just than himself?\" Therefore not every punishment is inflicted for a sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, it is written of Christ (1 Pt. 2:22) that \"He did no sin, nor was guile found in His mouth.\" And yet it is said (1 Pt. 2:21) that \"He suffered for us.\" Therefore punishment is not always inflicted by God for sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Such like defects of those who are born with them, or which children suffer from, are the effects and the punishments of original sin, as stated above (Question [85], Article [5]); and they remain even after baptism, for the cause stated above (Question [85], Article [5], ad 2): and that they are not equally in all, is due to the diversity of nature, which is left to itself, as stated above (Question [85], Article [5], ad 1). Nevertheless, they are directed by Divine providence, to the salvation of men, either of those who suffer, or of others who are admonished by their means---and also to the glory of God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Temporal and bodily goods are indeed goods of man, but they are of small account: whereas spiritual goods are man's chief goods. Consequently it belongs to Divine justice to give spiritual goods to the virtuous, and to award them as much temporal goods or evils, as suffices for virtue: for, as Dionysius says (Div. Nom. viii), \"Divine justice does not enfeeble the fortitude of the virtuous man, by material gifts.\" The very fact that others receive temporal goods, is detrimental to their spiritual good; wherefore the psalm quoted concludes (verse 6): \"Therefore pride hath held them fast.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Christ bore a satisfactory punishment, not for His, but for our sins."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -544,62 +593,69 @@
             "title": [
                 "Whether anyone is punished for another's sin?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that one may be punished for another's sin. For it is written (Ex. 20:5): \"I am . . . God . . . jealous, visiting the iniquity of the fathers upon the children, unto the third and fourth generation of them that hate Me\"; and (Mt. 23:35): \"That upon you may come all the just blood that hath been shed upon the earth.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, human justice springs from Divine justice. Now, according to human justice, children are sometimes punished for their parents, as in the case of high treason. Therefore also according to Divine justice, one is punished for another's sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, if it be replied that the son is punished, not for the father's sin, but for his own, inasmuch as he imitates his father's wickedness; this would not be said of the children rather  than of outsiders, who are punished in like manner as those whose crimes they imitate. It seems, therefore, that children are punished, not for their own sins, but for those of their parents."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Both the passages quoted should, seemingly, be referred to temporal or bodily punishments, in so far as children are the property of their parents, and posterity, of their forefathers. Else, if they be referred to spiritual punishments, they must be understood in reference to the imitation of sin, wherefore in Exodus these words are added, \"Of them that hate Me,\" and in the chapter quoted from Matthew (verse 32) we read: \"Fill ye up then the measure of your fathers.\" The sins of the fathers are said to be punished in their children, because the latter are the more prone to sin through being brought up amid their parents' crimes, both by becoming accustomed to them, and by imitating their parents' example, conforming to their authority as it were. Moreover they deserve heavier punishment if, seeing the punishment of their parents, they fail to mend their ways. The text adds, \"to the third and fourth generation,\" because men are wont to live long  enough to see the third and fourth generation, so that both the children can witness their parents' sins so as to imitate them, and the parents can see their children's punishments so as to grieve for them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The punishments which human justice inflicts on one for another's sin are bodily and temporal. They are also remedies or medicines against future sins, in order that either they who are punished, or others may be restrained from similar faults."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 87,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Those who are near of kin are said to be punished, rather than outsiders, for the sins of others, both because the punishment of kindred redounds somewhat upon those who sinned, as stated above, in so far as the child is the father's property, and because the examples and the punishments that occur in one's own household are more moving. Consequently when a man is brought up amid the sins of his parents, he is more eager to imitate them, and if he is not deterred by their punishments, he would seem to be the more obstinate, and, therefore, to deserve more severe punishment."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [

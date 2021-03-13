@@ -24,116 +24,129 @@
             "title": [
                 "Whether the first man was created in grace?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the first man was not created in grace. For the Apostle, distinguishing between Adam and Christ, says (1 Cor. 15:45): \"The first Adam was made into a living soul; the last Adam into a quickening spirit.\" But the spirit is quickened by grace. Therefore Christ alone was made in grace."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Augustine says (Questions. Vet. et Nov. Test., qu. 123) [*Work of an anonymous author, among the supposititious works of St. Augustine] that \"Adam did not possess the Holy Ghost.\" But whoever possesses grace has the Holy Ghost. Therefore Adam was not created in grace."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, Augustine says (De Correp. et Grat. x) that \"God so ordered the life of the angels and men, as to show first what they could do by free-will, then what they could do by His grace, and by the discernment of righteousness.\" God thus first created men and angels in the state of natural free-will only; and afterwards bestowed grace on them."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, the Master says (Sent. ii, D, xxiv): \"When man was created he was given sufficient help to stand, but not sufficient to advance.\" But whoever has grace can advance by merit. Therefore the first man was not created in grace."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 5: Further, the reception of grace requires the consent of the recipient, since thereby a kind of spiritual marriage takes place between God and the soul. But consent presupposes existence. Therefore man did not receive grace in the first moment of his creation."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 },
                 "6": {
-                    "id": 6,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 6: Further, nature is more distant from grace than grace is from glory, which is but grace consummated. But in man grace precedes glory. Therefore much more did nature precede grace."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The Apostle in these words means to show that there is a spiritual body, if there is an animal body, inasmuch as the spiritual life of the body began in Christ, who is \"the firstborn of the dead,\" as the body's animal life began in Adam. From the Apostle's words, therefore, we cannot gather that Adam had no spiritual life in his soul; but that he had not spiritual life as regards the body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: As Augustine says in the same passage, it is not disputed that Adam, like other just souls, was in some degree gifted with the Holy Ghost; but \"he did not possess the Holy Ghost, as the faithful possess Him now,\" who are admitted to eternal happiness directly after death."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: This passage from Augustine does not assert that angels or men were created with natural free-will before they possessed grace; but that God shows first what their free-will could do before being confirmed in grace, and what they acquired afterwards by being so confirmed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: The Master here speaks according to the opinion of those who held that man was not created in grace, but only in a state of nature. We may also say that, though man was created in grace, yet it was not by virtue of the nature wherein he was created that he could advance by merit, but by virtue of the grace which was added."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 5: As the motion of the will is not continuous there is nothing against the first man having consented to grace even in the first moment of his existence."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 },
                 "6": {
-                    "id": 6,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 6: We merit glory by an act of grace; but we do not merit grace by an act of nature; hence the comparison fails."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 1
                 }
             },
             "counter": [
@@ -152,62 +165,69 @@
             "title": [
                 "Whether passions existed in the soul of the first man?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the first man's soul had no passions. For by the passions of the soul \"the flesh lusteth against the spirit\" (Gal. 5:7). But this did not happen in the state of innocence. Therefore in the state of innocence there were no passions of the soul."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Adam's soul was nobler than his body. But his body was impassible. Therefore no passions were in his soul."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the passions of the soul are restrained by the moral virtues. But in Adam the moral virtues were perfect. Therefore the passions were entirely excluded from him."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The flesh lusts against the spirit by the rebellion of the passions against reason; which could not occur in the state of innocence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The human body was impassible in the state of innocence as regards the passions which alter the disposition of nature, as will be explained later on (Question [97], Article [2]); likewise the soul was impassible as regards the passions which impede the free use of reason."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Perfection of moral virtue does not wholly take away the passions, but regulates them; for the temperate man desires as he ought to desire, and what he ought to desire, as stated in Ethic. iii, 11."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -225,98 +245,109 @@
             "title": [
                 "Whether Adam had all the virtues?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that Adam had not all the virtues. For some virtues are directed to curb passions: thus immoderate concupiscence is restrained by temperance, and immoderate fear by fortitude. But in the state of innocence no immoderation existed in the passions. Therefore neither did these virtues then exist."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, some virtues are concerned with the passions which have evil as their object; as meekness with anger; fortitude with fear. But these passions did not exist in the state of innocence, as stated above (Article [2]). Therefore neither did those virtues exist then."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, penance is a virtue that regards sin committed. Mercy, too, is a virtue concerned with unhappiness. But in the state of innocence neither sin nor unhappiness existed. Therefore neither did those virtues exist."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, perseverance is a virtue. But Adam possessed it not; as proved by his subsequent sin. Therefore he possessed not every virtue."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 5: Further, faith is a virtue. But it did not exist in the state of innocence; for it implies an obscurity of knowledge which seems to be incompatible with the perfection of the primitive state."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: It is accidental to temperance and fortitude to subdue superabundant passion, in so far as they are in a subject which happens to have superabundant passions, and yet those virtues are 'per se' competent to moderate the passions."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Passions which have evil for their object were incompatible with the perfection of the primitive state, if that evil be in the one affected by the passion; such as fear and sorrow. But passions which relate to evil in another are not incompatible with the perfection of the primitive state; for in that state man could hate the demons' malice, as he could love God's goodness. Thus the virtues which relate to such passions could exist in the primitive state, in habit and in act. Virtues, however, relating to passions which regard evil in the same subject, if relating to such passions only, could not exist in the primitive state in act, but only in habit, as we have said above of penance and of mercy. But other virtues there are which have relation not to such passions only, but to others; such as temperance, which relates not only to sorrow, but also to joy; and fortitude, which relates not only to fear, but also to daring and hope. Thus the act of temperance could exist in the primitive state, so far as it moderates pleasure; and in like manner, fortitude, as moderating daring and hope, but not as moderating sorrow and fear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: appears from what has been said above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Perseverance may be taken in two ways: in one sense as a particular virtue, signifying a habit whereby a man makes a choice of persevering in good; in that sense Adam possessed perseverance. In another sense it is taken as a circumstance of virtue; signifying a certain uninterrupted continuation of virtue; in which sense Adam did not possess perseverance."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 5: appears from what has been said above."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 }
             },
             "counter": [
@@ -335,62 +366,69 @@
             "title": [
                 "Whether the actions of the first man were less meritorious than ours are?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the actions of the first man were less meritorious than ours are. For grace is given to us through the mercy of God, Who succors most those who are most in need. Now we are more in need of grace than was man in the state of innocence. Therefore grace is more copiously poured out upon us; and since grace is the source of merit, our actions are more meritorious."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, struggle and difficulty are required for merit; for it is written (2 Tm. 2:5): \"He . . . is not crowned except he strive lawfully\" and the Philosopher says (Ethic. ii, 3): \"The object of virtue is the difficult and the good.\" But there is more strife and difficulty now. Therefore there is greater efficacy for merit."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the Master says (Sent. ii., D, xxiv) that \"man would not have merited in resisting temptation; whereas he does merit now, when he resists.\" Therefore our actions are more meritorious than in the primitive state."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: After sin man requires grace for more things than before sin; but he does not need grace more; forasmuch as man even before sin required grace to obtain eternal life, which is the chief reason for the need of grace. But after sin man required grace also for the remission of sin, and for the support of his weakness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Difficulty and struggle belong to the degree of merit according to the proportionate degree of the work done, as above explained. It is also a sign of the will's promptitude striving after what is difficult to itself: and the promptitude of the will is caused by the intensity of charity. Yet it may happen that a person performs an easy deed with as prompt a will as another performs an arduous deed; because he is ready to do even what may be difficult to him. But the actual difficulty, by its penal character, enables the deed to satisfy for sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The first man would not have gained merit in resisting temptation, according to the opinion of those who say that he did not possess grace; even as now there is no merit to those who have not grace. But in this point there is a difference, inasmuch as in the primitive state there was no interior impulse to evil, as in our present state. Hence man was more able then than now to resist temptation even without grace."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

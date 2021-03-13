@@ -23,53 +23,59 @@
             "title": [
                 "Whether the irascible passions precede the concupiscible passions, or vice versa?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the irascible passions precede the concupiscible passions. For the order of the passions is that of their objects. But the object of the irascible faculty is the difficult good, which seems to be the highest good. Therefore the irascible passions seem to precede the concupiscible passions."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the mover precedes that which is moved. But the irascible faculty is compared to the concupiscible, as mover to that which is moved: since it is given to animals, for the purposed of removing the obstacles that hinder the concupiscible faculty from enjoying its object, as stated above (Question [23], Article [1], ad 1; FP, Question [81], Article [2]). Now \"that which removes an obstacle, is a kind of mover\" (Phys. viii, 4). Therefore the irascible passions precede the concupiscible passions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, joy and sadness are concupiscible passions. But joy and sadness succeed to the irascible passions: for the Philosopher says (Ethic. iv, 5) that\"retaliation causes anger to cease, because it produces pleasure instead of the previous pain.\" Therefore the concupiscible passions follow the irascible passions."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This argument would prove, if the formal object of the concupiscible faculty were something contrary to the arduous, just as the formal object of the irascible faculty is that which is arduous. But because the object of the concupiscible faculty is good absolutely, it naturally precedes the object of the irascible, as the common precedes the proper."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The remover of an obstacle is not a direct but an accidental mover: and here we are speaking of passions as directly related to one another. Moreover, the irascible passion removes the obstacle that hinders the concupiscible from resting in its object. Wherefore it only follows that the irascible passions precede those concupiscible passions that connote rest. The third object leads to the same conclusion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "counter": [
@@ -90,62 +96,69 @@
             "title": [
                 "Whether love is the first of the concupiscible passions?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that love is not the first of the concupiscible passions. For the concupiscible faculty is so called from concupiscence, which is the same passion as desire. But \"things are named from their chief characteristic\" (De Anima ii, 4). Therefore desire takes precedence of love."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, love implies a certain union; since it is a \"uniting and binding force,\" as Dionysius says (Div. Nom. iv). But concupiscence or desire is a movement towards union with the thing coveted or desired. Therefore desire precedes love."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the cause precedes its effect. But pleasure is sometimes the cause of love: since some love on account of pleasure (Ethic. viii, 3,4). Therefore pleasure precedes love; and consequently love is not the first of the concupiscible passions."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: We name a thing as we understand it, for \"words are signs of thoughts,\" as the Philosopher states (Peri Herm. i, 1). Now in most cases we know a cause by its effect. But the effect of love, when the beloved object is possessed, is pleasure: when it is not possessed, it is desire or concupiscence: and, as Augustine says (De Trin. x, 12), \"we are more sensible to love, when we lack that which we love.\" Consequently of all the concupiscible passions, concupiscence is felt most; and for this reason the power is named after it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The union of lover and beloved is twofold. There is real union, consisting in the conjunction of one with the other. This union belongs to joy or pleasure, which follows desire. There is also an affective union, consisting in an aptitude or proportion, in so far as one thing, from the very fact of its having an aptitude for and an inclination to another, partakes of it: and love betokens such a union. This union precedes the movement of desire."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Pleasure causes love, in so far as it precedes love in the order of intention."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -164,62 +177,69 @@
             "title": [
                 "Whether hope is the first of the irascible passions?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that hope is not the first of the irascible passions. Because the irascible faculty is denominated from anger. Since, therefore, \"things are names from their chief  characteristic\" (cf. Article [2], Objection [1]), it seems that anger precedes and surpasses hope."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the object of the irascible faculty is something arduous. Now it seems more arduous to strive to overcome a contrary evil that threatens soon to overtake us, which pertains to daring; or an evil actually present, which pertains to anger; than to strive simply to obtain some good. Again, it seems more arduous to strive to overcome a present evil, than a future evil. Therefore anger seems to be a stronger passion than daring, and daring, than hope. And consequently it seems that hope does not precede them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, when a thing is moved towards an end, the movement of withdrawal precedes the movement of approach. But fear and despair imply withdrawal from something; while daring and hope imply approach towards something. Therefore fear and despair precede hope and daring."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Because anger arises from the other passions, as an effect from the causes that precede it, it is from anger, as being more manifest than the other passions, that the power takes its name."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: It is not the arduousness but the good that is the reason for approach or desire. Consequently hope, which regards good more directly, takes precedence: although at times daring or even anger regards something more arduous."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The movement of the appetite is essentially and directly towards the good as towards its proper object; its movement from evil results from this. For the movement of the appetitive part is in proportion, not to natural movement, but to the intention of nature, which intends the end before intending the removal of a contrary, which removal is desired only for the sake of obtaining the end."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -239,62 +259,69 @@
             "title": [
                 "Whether these are the four principal passions: joy, sadness, hope and fear?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that joy, sadness, hope and fear are not the four principal passions. For Augustine (De Civ. Dei xiv, 3,[7] sqq.) omits hope and puts desire in its place."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, there is a twofold order in the passions of the soul: the order of intention, and the order of execution or generation. The principal passions should therefore be taken, either in the order of intention; and thus joy and sadness, which are the final passions, will be the principal passions; or in the order of execution or generation, and thus love will be the principal passion. Therefore joy and sadness, hope and fear should in no way be called the four principal passions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 25,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, just as daring is caused by hope, so fear is caused by despair. Either, therefore, hope and despair should be reckoned as principal passions, since they cause others: or hope and daring, from being akin to one another."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Augustine puts desire or covetousness in place of hope, in so far as they seem to regard the same object, viz. some future good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: These are called principal passions, in the order of intention and completion. And though fear and hope are not the last passions simply, yet they are the last of those passions that tend towards something as future. Nor can the argument be pressed any further except in the case of anger: yet neither can anger be reckoned a principal passion, because it is an effect of daring, which cannot be a principal passion, as we shall state further on (Reply OBJ 3)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 25,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Despair implies movement away from good; and this is, as it were, accidental: and daring implies movement towards evil; and this too is accidental. Consequently these cannot be principal passions; because that which is accidental cannot be said to be principal. And so neither can anger be called a principal passion, because it arises from daring."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

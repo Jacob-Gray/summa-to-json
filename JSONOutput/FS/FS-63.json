@@ -23,33 +23,37 @@
             "title": [
                 "Whether virtue is in us by nature?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that virtue is in us by nature. For Damascene says (De Fide Orth. iii, 14): \"Virtues are natural to us and are equally in all of us.\" And Antony says in his sermon to the monks: \"If the will contradicts nature it is perverse, if it follow nature it is virtuous.\" Moreover, a gloss on Mt. 4:23, \"Jesus went about,\" etc., says: \"He taught them natural virtues, i.e. chastity, justice, humility, which man possesses naturally.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the virtuous good consists in accord with reason, as was clearly shown above (Question [55], Article [4], ad 2). But that which accords with reason is natural to man; since reason is part of man's nature. Therefore virtue is in man by nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, that which is in us from birth is said to be natural to us. Now virtues are in some from birth: for it is written (Job 31:18): \"From my infancy mercy grew up with me; and it came out with me from my mother's womb.\" Therefore virtue is in man by nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {},
@@ -73,53 +77,59 @@
             "title": [
                 "Whether any virtue is caused in us by habituation?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that virtues can not be caused in us by habituation. Because a gloss of Augustine [*Cf. Lib. Sentent. Prosperi cvi.] commenting on Rm. 14:23, \"All that is not of faith is sin,\" says: \"The whole life of an unbeliever is a sin: and there is no good without the Sovereign Good. Where knowledge of the truth is lacking, virtue is a mockery even in the best behaved people.\" Now faith cannot be acquired by means of works, but is caused in us by God, according to Eph. 2:8: \"By grace you are saved through faith.\" Therefore no acquired virtue can be in us by habituation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, sin and virtue are contraries, so that they are incompatible. Now man cannot avoid sin except by the grace of God, according to Wis. 8:21: \"I knew that I could not otherwise be continent, except God gave it.\" Therefore neither can any virtues be caused in us by habituation, but only by the gift of God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, actions which lead toward virtue, lack the perfection of virtue. But an effect cannot be more perfect than its cause. Therefore a virtue cannot be caused by actions that precede it."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 63,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Mortal sin is incompatible with divinely infused virtue, especially if this be considered in its perfect state. But actual sin, even mortal, is compatible with humanly acquired virtue; because the use of a habit in us is subject to our will, as stated above (Question [49], Article [3]): and one sinful act does not destroy a habit of acquired virtue, since it is not an act but a habit, that is directly contrary to a habit. Wherefore, though man cannot avoid mortal sin without grace, so as never to sin mortally, yet he is not hindered from acquiring a habit of virtue, whereby he may abstain from evil in the majority of cases, and chiefly in matters most opposed to reason. There are also certain mortal sins which man can nowise avoid without grace, those, namely, which are  directly opposed to the theological virtues, which are in us through the gift of grace. This, however, will be more fully explained later (Question [109], Article [4])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 63,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: As stated above (Article [1]; Question [51], Article [1]), certain seeds or principles of acquired virtue pre-exist in us by nature. These principles are more excellent than the virtues acquired through them: thus the understanding of speculative principles is more excellent than the science of conclusions, and the natural rectitude of the reason is more excellent than the rectification of the appetite which results through the appetite partaking of reason, which rectification belongs to moral virtue. Accordingly human acts, in so far as they proceed from higher principles, can cause acquired human virtues."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -138,62 +148,69 @@
             "title": [
                 "Whether any moral virtues are in us by infusion?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that no virtues besides the theological virtues are infused in us by God. Because God does not do by Himself, save perhaps sometimes miraculously, those things that can be done by second causes; for, as Dionysius says (Coel. Hier. iv), \"it is God's rule to bring about extremes through the mean.\" Now intellectual and moral virtues can be caused in us by our acts, as stated above (Article [2]). Therefore it is not reasonable that they should be caused in us by infusion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, much less superfluity is found in God's works than in the works of nature. Now the theological virtues suffice to direct us to supernatural good. Therefore there are no other supernatural virtues needing to be caused in us by God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, nature does not employ two means where one suffices: much less does God. But God sowed the seeds of virtue in our souls, according to a gloss on Heb. 1 [*Cf. Jerome on Gal. 1: 15,16]. Therefore it is unfitting for Him to cause in us other virtues by means of infusion."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 63,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Some moral and intellectual virtues can indeed be  caused in us by our actions: but such are not proportionate to the theological virtues. Therefore it was necessary for us to receive, from God immediately, others that are proportionate to these virtues."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 63,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The theological virtues direct us sufficiently to our supernatural end, inchoatively: i.e. to God Himself immediately. But the soul needs further to be perfected by infused virtues in regard to other things, yet in relation to God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 63,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The power of those naturally instilled principles does not extend beyond the capacity of nature. Consequently man needs in addition to be perfected by other principles in relation to his supernatural end."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -211,62 +228,69 @@
             "title": [
                 "Whether virtue by habituation belongs to the same species as infused virtue?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that infused virtue does not differ in species from acquired virtue. Because acquired and infused virtues, according to what has been said (Article [3]), do not differ seemingly, save in relation to the last end. Now human habits and acts are specified, not by their last, but by their proximate end. Therefore the infused moral or intellectual virtue does not differ from the acquired virtue."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, habits are known by their acts. But the act of infused and acquired temperance is the same, viz. to moderate desires of touch. Therefore they do not differ in species."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 63,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, acquired and infused virtue differ as that which is wrought by God immediately, from that which is wrought by a creature. But the man whom God made, is of the same species as a man begotten naturally; and the eye which He gave to the man born blind, as one produced by the power of generation. Therefore it seems that acquired and infused virtue belong to the same species."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 63,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Infused and acquired virtue differ not only in relation to the ultimate end, but also in relation to their proper objects, as stated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 63,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Both acquired and infused temperance moderate desires for pleasures of touch, but for different reasons, as stated: wherefore their respective acts are not identical."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 63,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: God gave the man born blind an eye for the same act as the act for which other eyes are formed naturally: consequently it was of the same species. It would be the same if God wished to give a man miraculously virtues, such as those that are acquired by acts. But the case is not so in the question before us, as stated."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

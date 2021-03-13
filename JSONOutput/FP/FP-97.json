@@ -24,71 +24,79 @@
             "title": [
                 "Whether in the state of innocence man would have been immortal?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that in the state of innocence man was not immortal. For the term \"mortal\" belongs to the definition of man. But if you take away the definition, you take away the thing defined. Therefore as long as man was man he could not be immortal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, corruptible and incorruptible are generically distinct, as the Philosopher says (Metaph. x, Did. ix, 10). But there can be no passing from one genus to another. Therefore if the first man was incorruptible, man could not be corruptible in the present state."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if man were immortal in the state of innocence, this would have been due either to nature or to grace. Not to nature, for since nature does not change within the same species, he would also have been immortal now. Likewise neither would this be owing to grace; for the first man recovered grace by repentance, according to Wis. 10:2: \"He brought him out of his sins.\" Hence he would have regained his immortality; which is clearly not the case. Therefore man was not immortal in the state of innocence."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, immortality is promised to man as a reward, according to Apoc. 21:4: \"Death shall be no more.\" But man was not created in the state of reward, but that he might deserve the reward. Therefore man was not immortal in the state of innocence."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1:and 2: These objections are founded on natural incorruptibility and immortality."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: This power of preserving the body was not natural to the soul, but was the gift of grace. And though man recovered grace as regards remission of guilt and the merit of glory; yet he did not recover immortality, the loss of which was an effect of sin; for this was reserved for Christ to accomplish, by Whom the defect of nature was to be restored into something better, as we shall explain further on (TP, Question [14], Article [4], ad 1)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: The promised reward of the immortality of glory differs from the immortality which was bestowed on man in the state of innocence."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -106,62 +114,69 @@
             "title": [
                 "Whether in the state of innocence man would have been passible?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that in the state of innocence man was passible. For \"sensation is a kind of passion.\" But in the state of innocence man would have been sensitive. Therefore he would have been passible."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, sleep is a kind of passion. Now, man slept in the state of innocence, according to Gn. 2:21, \"God cast a deep sleep upon Adam.\" Therefore he would have been passible."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the same passage goes on to say that \"He took a rib out of Adam.\" Therefore he was passible even to the degree of the cutting out of part of his body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, man's body was soft. But a soft body is naturally passible as regards a hard body; therefore if a hard body had come in contact with the soft body of the first man, the latter would have suffered from the impact. Therefore the first man was passible."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: As already explained (Question [92], Article [3], ad 2), the rib was in Adam as the principle of the human race, as the semen in man, who is a principle through generation. Hence as man does not suffer any natural deterioration by seminal issue; so neither did he through the separation of the rib."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Man's body in the state of innocence could be preserved from suffering injury from a hard body; partly by the use of his reason, whereby he could avoid what was harmful; and partly also by Divine Providence, so preserving him, that nothing of a harmful nature could come upon him unawares."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -180,80 +195,89 @@
             "title": [
                 "Whether in the state of innocence man had need of food?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that in the state of innocence man did not require food. For food is necessary for man to restore what he has lost. But Adam's body suffered no loss, as being incorruptible. Therefore he had no need of food."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, food is needed for nourishment. But nourishment involves passibility. Since, then, man's body was impassible; it does not appear how food could be needful to him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, we need food for the preservation of life. But  Adam could preserve his life otherwise; for had he not sinned, he would not have died. Therefore he did not require food."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, the consumption of food involves voiding of the surplus, which seems unsuitable to the state of innocence. Therefore it seems that man did not take food in the primitive state."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: As Augustine says (Questions. Vet. et Nov. Test. qu. 19 [*Works of an anonymous author, among the supposititious works of St. Augustine]): \"How could man have an immortal body, which was sustained by food? Since an immortal being needs neither food nor drink.\" For we have explained (Article [1]) that the immortality of the primitive state was based on a supernatural force in the soul, and not on any intrinsic disposition of the body: so that by the action of heat, the body might lose part of its humid qualities; and to prevent the entire consumption of the humor, man was obliged to take food."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: A certain passion and alteration attends nutriment, on the part of the food changed into the substance of the thing nourished. So we cannot thence conclude that man's body was passible, but that the food taken was passible; although this kind of passion conduced to the perfection of the nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: If man had not taken food he would have sinned; as he also sinned by taking the forbidden fruit. For he was told at the same time, to abstain from the tree of knowledge of good and evil, and to eat of every other tree of Paradise."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 97,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Some say that in the state of innocence man would not have taken more than necessary food, so that there would have been nothing superfluous; which, however, is unreasonable to suppose, as implying that there would have been no faecal matter. Wherefore there was need for voiding the surplus, yet so disposed by God as to be decorous and suitable to the state."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -272,33 +296,37 @@
             "title": [
                 "Whether in the state of innocence man would have acquired immortality by the tree of life?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the tree of life could not be the cause of immortality. For nothing can act beyond its own species; as an effect does not exceed its cause. But the tree of life was corruptible, otherwise it could not be taken as food; since food is changed into the substance of the thing nourished. Therefore the tree of life could not give incorruptibility or immortality."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, effects caused by the forces of plants and other natural agencies are natural. If therefore the tree of life caused immortality, this would have been natural immortality."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 97,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, this would seem to be reduced to the ancient fable, that the gods, by eating a certain food, became immortal; which the Philosopher ridicules (Metaph. iii, Did. ii, 4)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {},

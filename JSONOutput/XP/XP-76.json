@@ -22,80 +22,89 @@
             "title": [
                 "Whether the resurrection of Christ is the cause of our resurrection?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the resurrection of Christ is not the cause of our resurrection. For, given the cause, the effect follows. Yet given the resurrection of Christ the resurrection of the other dead did not follow at once. Therefore His resurrection is not the cause of ours."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, an effect cannot be unless the cause precede. But the resurrection of the dead would be even if Christ had not risen again: for God could have delivered man in some other way. Therefore Christ's resurrection is not the cause of ours."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the same thing produces the one effect throughout the one same species. Now the resurrection will be common to all men. Since then Christ's resurrection is not its own cause, it is not the cause of the resurrection of others."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, an effect retains some likeness to its cause. But the resurrection, at least of some, namely the wicked, bears no likeness to the resurrection of Christ. Therefore Christ's resurrection will not be the cause of theirs."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: A sufficient cause produces at once its effect to which it is immediately directed, but not the effect to which it is directed by means of something else, no matter how sufficient it may be: thus heat, however intense it be, does not cause heat at once in the first instant, but it begins at once to set up a movement towards heat, because heat is its effect by means of movement. Now Christ's resurrection is said to be the cause of ours, in that it works our resurrection, not immediately, but by means of its principle, namely the Divine power which will work our resurrection in likeness to the resurrection of Christ. Now God's power works by means of His will which is nearest to the effect; hence it is not necessary that our resurrection should follow straightway after He has wrought the resurrection of Christ, but that it should happen at the time which God's will has decreed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: God's power is not tied to any particular second causes, but that He can produce their effects either immediately or by means of other causes: thus He might work the generation of lower bodies even though there were no movement of the heaven: and yet according to the order which He has established in things, the  movement of the heaven is the cause of the generation of the lower bodies. In like manner according to the order appointed to human things by Divine providence, Christ's resurrection is the cause of ours: and yet He could have appointed another order, and then our resurrection would have had another cause ordained by God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: This argument holds when all the things of one species have the same order to the first cause of the effect to be produced in the whole of that species. But it is not so in the case in point, because Christ's humanity is nearer to His Godhead, Whose power is the first cause of the resurrection, than is the humanity of others. Hence Christ's Godhead caused His resurrection immediately, but it causes the resurrection of others by means of Christ-man rising again."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 76,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: The resurrection of all men will bear some resemblance to Christ's resurrection, as regards that which pertains to the life of nature, in respect of which all were conformed to Christ. Hence all will rise again to immortal life; but in the saints who were conformed to Christ by grace, there will be conformity as to things pertaining to glory."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -114,62 +123,69 @@
             "title": [
                 "Whether the sound of the trumpet will be the cause of our resurrection?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the sound of the trumpet will not be the cause of our resurrection. For the Damascene says (De Fide Orth. iv): \"Thou must believe that the resurrection will take place by God's will, power, and nod.\" Therefore since these are a sufficient cause of our resurrection, we ought not to assign the sound of the trumpet as a cause thereof."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is useless to make sounds to one who cannot hear. But the dead will not have hearing. Therefore it is unfitting to make a sound to arouse them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, if any sound is the cause of the resurrection, this will only be by a power given by God to the sound: wherefore a gloss on Ps. 67:34, \"He will give to His voice the voice of power,\" says: \"to arouse our bodies.\" Now from the moment that a power is given to a thing, though it be given miraculously, the act that ensues is natural, as instanced in the man born blind who, after being restored to sight, saw naturally. Therefore if a sound be the cause of resurrection, the resurrection would be natural: which is false."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: In those words the Damascene touches on three things respecting the material cause of the resurrection: to wit, the Divine will which commands, the power which executes, and the ease of execution, when he adds \"bidding,\" in resemblance to our own affairs: since it is very easy for us to do what is done at once at our word. But the ease is much more evident, if before we say a word, our servants execute our will at once at the first sign of our will, which sign is called a nod: and this nod is a kind of cause of that execution, in so far as others are led thereby to accomplish our will. And the Divine nod, at which the resurrection will take place, is nothing but the sign given by God, which all nature will obey by concurring in the resurrection of the dead. This sign is the same as the sound of the trumpet, as explained above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: As the forms of the Sacrament have the power to sanctify, not through being heard, but through being spoken: so this sound, whatever it be, will have an instrumental efficacy of resuscitation, not through being perceived, but through being uttered. Even so a sound by the pulsation of the air arouses the sleeper, by loosing the organ of perception, and not because it is known: since judgment about the sound that reaches the ears is  subsequent to the awakening and is not its cause."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: This argument would avail, if the power given to that sound were a complete being in nature: because then that which would proceed therefrom would have for principle a power already rendered natural. But this power is not of that kind but such as we have ascribed above to the forms of the Sacraments (Sent. iv, D, 1; FP, Question [62], Articles [1],4)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -188,35 +204,39 @@
             "title": [
                 "Whether the angels will do anything towards the resurrection?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the angels will do nothing at all towards the resurrection. For raising the dead shows a greater power than does begetting men. Now when men are begotten, the soul is not infused into the body by means of the angels. Therefore neither will the resurrection, which is reunion of soul and body, be wrought by the ministry of the angels."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, if this is to be ascribed to the instrumentality of any angels at all, it would seem especially referable to the virtues, to whom it belongs to work miracles. Yet it is referred, not to them, but to the archangels, according to the text (Sent. iv, D, 43). Therefore the resurrection will not be wrought by the ministry of the angels."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: This ministry will be exercised chiefly by one  Archangel, namely Michael, who is the prince of the Church as he was of the Synagogue (Dan. 10:13,21). Yet he will act under the influence of the Virtues and the other higher orders: so that what he shall do, the higher orders will, in a way, do also. In like manner the lower angels will co-operate with him as to the resurrection of each individual to whose guardianship they were appointed: so that this voice can be ascribed either to one or to many angels."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "counter": [

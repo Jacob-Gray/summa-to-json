@@ -21,62 +21,69 @@
             "title": [
                 "Whether in the state of innocence children would have been born with perfect knowledge?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 101,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that in the state of innocence children would have been born with perfect knowledge. For Adam would have begotten children like himself. But Adam was gifted with perfect knowledge (Question [94], Article [3]). Therefore children would have been born of him with perfect knowledge."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 101,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, ignorance is a result of sin, as Bede says (Cf. FS, Question [85], Article [3]). But ignorance is privation of knowledge. Therefore before sin children would have had perfect knowledge as soon as they were born."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 101,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, children would have been gifted with righteousness from birth. But knowledge is required for righteousness, since it directs our actions. Therefore they would also have been gifted with knowledge."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 101,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The perfection of knowledge was an individual accident of our first parent, so far as he was established as the father and instructor of the whole human race. Therefore he begot children like himself, not in that respect, but only in those accidents which were natural or conferred gratuitously on the whole nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 101,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Ignorance is privation of knowledge due at some particular time; and this would not have been in children from their birth, for they would have possessed the knowledge due to them at that time. Hence, no ignorance would have been in them, but only nescience in regard to certain matters. Such nescience was even in the holy angels, according to Dionysius (Coel. Hier. vii)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 101,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Children would have had sufficient knowledge to direct them to deeds of righteousness, in which men are guided by universal principles of right; and this knowledge of theirs would have been much more complete than what we have now by nature, as likewise their knowledge of other universal principles."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -94,44 +101,49 @@
             "title": [
                 "Whether children would have had perfect use of reason at birth?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 101,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that children would have had perfect use of reason at birth. For that children have not perfect use of reason in our present state, is due to the soul being weighed down by the body; which was not the case in paradise, because, as it is written, \"The corruptible body is a load upon the soul\" (Wis. 9:15). Therefore, before sin and the corruption which resulted therefrom, children would have had the perfect use of reason at birth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 101,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, some animals at birth have the use of their natural powers, as the lamb at once flees from the wolf. Much more, therefore, would men in the state of innocence have had perfect use of reason at birth."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 101,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The corruptible body is a load upon the soul, because it hinders the use of reason even in those matters which belong to man at all ages."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 101,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Even other animals have not at birth such a perfect use of their natural powers as they have later on. This is clear from the fact that birds teach their young to fly; and the like may be observed in other animals. Moreover a special impediment exists in man from the humidity of the brain, as we have said above (Question [99], Article [1])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [

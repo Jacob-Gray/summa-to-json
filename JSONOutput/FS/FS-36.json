@@ -23,62 +23,69 @@
             "title": [
                 "Whether sorrow is caused by the loss of good or by the presence of evil?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sorrow is caused by the loss of a good rather than by the presence of an evil. For Augustine says (De viii Questions. Dulcit. qu. 1) that sorrow is caused by the loss of temporal goods. Therefore, in like manner, every sorrow is caused by the loss of some good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, it was said above (Question [35], Article [4]) that the sorrow  which is contrary to a pleasure, has the same object as that pleasure. But the object of pleasure is good, as stated above (Question [23], Article [4]; Question [31], Article [1]; Question [35], Article [3]). Therefore sorrow is caused chiefly by the loss of good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, according to Augustine (De Civ. Dei xiv, 7,9), love is the cause of sorrow, as of the other emotions of the soul. But the object of love is good. Therefore pain or sorrow is felt for the loss of good rather than for an evil that is present."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The loss itself of good is apprehended as an evil, just as the loss of evil is apprehended as a good: and in this sense Augustine says that pain results from the loss of temporal goods."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Pleasure and its contrary pain have the same object, but under contrary aspects: because if the presence of a particular thin be the object of pleasure, the absence of that same thing is the object of sorrow. Now one contrary includes the privation of the other, as stated in Metaph. x, 4: and consequently sorrow in respect of one contrary is, in a way, directed to the same thing under a contrary aspect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: When many movements arise from one cause, it does not follow that they all regard chiefly that which the cause regards chiefly, but only the first of them. And each of the others regards chiefly that which is suitable to it according to its own nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,62 +105,69 @@
             "title": [
                 "Whether desire is a cause of sorrow?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that desire is not a cause of pain or sorrow. Because sorrow of itself regards evil, as stated above (Article [1]): whereas desire is a movement of the appetite towards good. Now movement towards one contrary is not a cause of movement towards the other contrary. Therefore desire is not a cause of pain."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, pain, according to Damascene (De Fide Orth. ii, 12), is caused by something present; whereas the object of desire is something future. Therefore desire is not a cause of pain."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, that which is pleasant in itself is not a cause of pain. But desire is pleasant in itself, as the Philosopher says (Rhet. i, 11). Therefore desire is not a cause of pain or sorrow."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The inclination of the appetite to the possession of good causes the inclination of the appetite to fly from evil, as stated above. And hence it is that the appetitive movements that regard good, are reckoned as causing the appetitive movements that regard evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: That which is desired, though really future, is, nevertheless, in a way, present, inasmuch as it is hoped for. Or we may say that although the desired good itself is future, yet the hindrance is reckoned as present, and so gives rise to sorrow."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Desire gives pleasure, so long as there is hope of obtaining that which is desired. But, when hope is removed through the presence of an obstacle, desire causes sorrow."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,62 +186,69 @@
             "title": [
                 "Whether the craving for unity is a cause of sorrow?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the craving for unity is not a cause of sorrow. For the Philosopher says (Ethic. x, 3) that \"this opinion,\" which held repletion to be the cause of pleasure, and division [*Aristotle wrote {endeian}, 'want'; St. Thomas, in the Latin version, read 'incisionem'; should he have read 'indigentiam'?], the cause of sorrow, \"seems to have originated in pains and pleasures connected with food.\" But not every pleasure or sorrow is of this kind. Therefore the craving for unity is not the universal cause of sorrow; since repletion pertains to unity, and division is the cause of multitude."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, every separation is opposed to unity. If therefore sorrow were caused by a craving for unity, no separation would be pleasant: and this is clearly untrue as regards the  separation of whatever is superfluous."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, for the same reason we desire the conjunction of good and the removal of evil. But as conjunction regards unity, since it is a kind of union; so separation is contrary to unity. Therefore the craving for unity should not be reckoned, rather than the craving for separation, as causing sorrow."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Not every kind of union causes perfect goodness, but only that on which the perfect being of a thing depends. Hence neither does the desire of any kind of unity cause pain or sorrow, as some have maintained: whose opinion is refuted by the Philosopher from the fact that repletion is not always pleasant; for instance, when a man has eaten to repletion, he takes no further pleasure in eating; because repletion or union of this kind, is repugnant rather than conducive to perfect being. Consequently sorrow is caused by the craving, not for any kind of unity, but for that unity in which the perfection of nature consists."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Separation can be pleasant, either because it removes something contrary to a thing's perfection, or because it has some union connected with it, such as union of the sense to its object."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Separation from things hurtful and corruptive is desired, in so far as they destroy the unity which is due. Wherefore the desire for such like separation is not the first cause of sorrow, whereas the craving for unity is."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -245,62 +266,69 @@
             "title": [
                 "Whether an irresistible power is a cause of sorrow?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that a greater power should not be reckoned a cause of sorrow. For that which is in the power of the agent is not present but future. But sorrow is for present evil. Therefore a greater power is not a cause of sorrow."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, hurt inflicted is the cause of sorrow. But hurt can be inflicted even by a lesser power. Therefore a greater power should not be reckoned as a cause of sorrow."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 36,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the interior inclinations of the soul are the causes of the movements of appetite. But a greater power is something external. Therefore it should not be reckoned as a cause of sorrow."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: A greater power causes sorrow, as acting not potentially but actually, i.e. by causing the actual presence of the corruptive evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Nothing hinders a power which is not simply greater, from being greater in some respect: and accordingly it is able to inflict some harm. But if it be nowise stronger, it can do no harm at all: wherefore it cannot bring about that which causes sorrow."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 36,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: External agents can be the causes of appetitive movements, in so far as they cause the presence of the object: and it is thus that a greater power is reckoned to be the cause of sorrow."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

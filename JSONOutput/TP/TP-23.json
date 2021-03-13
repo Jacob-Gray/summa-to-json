@@ -23,63 +23,70 @@
             "title": [
                 "Whether it is fitting that God should adopt sons?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it is not fitting that God should adopt sons. For, as jurists say, no one adopts anyone but a stranger as his son. But no one is a stranger in relation to God, Who is the Creator of all. Therefore it seems unfitting that God should adopt."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, adoption seems to have been introduced in default of natural sonship. But in God there is natural sonship, as set down in the FP, Question [27], Article [2]. Therefore it is unfitting that God should adopt."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the purpose of adopting anyone is that he may succeed, as heir, the person who adopts him. But it does not seem possible for anyone to succeed God as heir, for He can never die. Therefore it is unfitting that God should adopt."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Considered in his nature man is not a stranger in respect to God, as to the natural gifts bestowed on him: but he is as to the gifts of grace and glory; in regard to which he is adopted."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Man works in order to supply his wants: not so God, Who works in order to communicate to others the abundance of His perfection. Wherefore, as by the work of creation the Divine goodness is communicated to all creatures in a certain likeness, so by the work of adoption the likeness of natural sonship is communicated to men, according to Rm. 8:29: \"Whom He foreknew . . . to be made conformable to the image of His Son.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Spiritual goods can be possessed by many at the same time; not so material goods. Wherefore none can receive a material inheritance except the successor of a deceased person: whereas all receive the spiritual inheritance at the same time in its entirety without detriment to the ever-living Father.",
                         "Yet it might be said that God ceases to be, according as He is in us by faith, so as to begin to be in us by vision, as a gloss says on Rm. 8:17: \"If sons, heirs also.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,62 +104,69 @@
             "title": [
                 "Whether it is fitting that the whole Trinity should adopt?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem unfitting that the whole Trinity should adopt. For adoption is said of God in likeness to human custom. But  among men those only adopt who can beget: and in God this can be applied only to the Father. Therefore in God the Father alone can adopt."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, by adoption men become the brethren of Christ, according to Rm. 8:29: \"That He might be the first-born among many brethren.\" Now brethren are the sons of the same father; wherefore our Lord says (Jn. 20:17): \"I ascend to My Father and to your Father.\" Therefore Christ's Father alone has adopted sons."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it is written (Gal. 4:4,5,6): \"God sent His Son . . . that we might receive the adoption of sons. And because you are sons of God, God hath sent the Spirit of His Son into your hearts, crying: 'Abba' [Father].\" Therefore it belongs to Him to adopt, Who has the Son and the Holy Ghost. But this belongs to the Father alone. Therefore it befits the Father alone to adopt."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: All human individuals are not of one individual nature, so that there need be one operation and one effect of them all, as is the case in God. Consequently in this respect no comparison is possible."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: By adoption we are made the brethren of Christ, as having with Him the same Father: Who, nevertheless, is His Father in one way, and ours in another. Whence pointedly our Lord says, separately, \"My Father,\" and \"Your Father\" (Jn. 20:17). For He is Christ's Father by natural generation; and this is proper to Him: whereas He is our Father by a voluntary operation, which is common to Him and to the Son and Holy Ghost: so that Christ is not the Son of the whole Trinity, as we are."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As stated above (Article [1], ad 2), adoptive sonship is a certain likeness of the eternal Sonship: just as all that takes place in time is a certain likeness of what has been from eternity. Now man is likened to the splendor of the Eternal Son by reason of the light of grace which is attributed to the Holy Ghost. Therefore adoption, though common to the whole Trinity, is appropriated to the Father as its author; to the Son, as its exemplar; to the Holy Ghost, as imprinting on us the likeness of this exemplar."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -170,62 +184,69 @@
             "title": [
                 "Whether it is proper to the rational nature to be adopted?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it is not proper to the rational nature to be adopted. For God is not said to be the Father of the rational creature, save by adoption. But God is called the Father even of the irrational creature, according to Job 38:28: \"Who is father of the rain? Or who begot the drops of dew?\" Therefore it is not proper to the rational creature to be adopted."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, by reason of adoption some are called sons of God. But to be sons of God seems to be properly attributed by the Scriptures to the angels; according to Job 1:6: \"On a certain day when the sons of God came to stand before the Lord.\" Therefore it is not proper to the rational creature to be adopted."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, whatever is proper to a nature, belongs to all that have that nature: just as risibility belongs to all men. But to be adopted does not belong to every rational nature. Therefore it is not proper to human nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: God is called the Father of the irrational creature, not properly speaking, by reason of adoption, but by reason of creation; according to the first-mentioned participation of likeness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Angels are called sons of God by adoptive sonship, not that it belongs to them first; but because they were the first to receive the adoption of sons."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Adoption is a property resulting not from nature, but from grace, of which the rational nature is capable. Therefore it need not belong to every rational nature: but every rational creature must needs be capable of adoption."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -243,62 +264,69 @@
             "title": [
                 "Whether Christ as man is the adopted Son of God?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ as man is the adopted Son of God. For Hilary says (De Trin. ii) speaking of Christ: \"The dignity of power is not forfeited when carnal humanity [*Some editions read 'humilitas'---'the humility or lowliness of the flesh'] is adopted.\" Therefore Christ as man is the adopted Son of God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Augustine says (De Praedest. Sanct. xv) that \"by the same grace that Man is Christ, as from the birth of faith every man is a Christian.\" But other men are Christians by the grace of adoption. Therefore this Man is Christ by adoption: and consequently He would seem to be an adopted son."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Christ, as man, is a servant. But it is of greater dignity to be an adopted son than to be a servant. Therefore much more is Christ, as man, an adopted Son."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As sonship does not properly belong to the nature, so neither does adoption. Consequently, when it is said that \"carnal humanity is adopted,\" the expression is metaphorical: and adoption is used to signify the union of human nature to the Person of the Son."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: This comparison of Augustine is to be referred to the principle because, to wit, just as it is granted to any man without meriting it to be a Christian, so did it happen that this man without meriting it was Christ. But there is a difference on the part of the term: because by the grace of union Christ is the natural Son; whereas another man by habitual grace is an adopted son. Yet habitual grace in Christ does not make one who was not a son to be an adopted son, but is a certain effect of Filiation in the soul of Christ, according to Jn. 1:14: \"We saw His glory . . . as it were of the Only-begotten of the Father; full of grace and truth.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: To be a creature, as also to be subservient or subject to God, regards not only the person, but also the nature: but this cannot be said of sonship. Wherefore the comparison does not hold."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

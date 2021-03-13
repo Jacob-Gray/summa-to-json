@@ -21,62 +21,69 @@
             "title": [
                 "Whether there should be a precept of hope?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that no precept should be given relating to the virtue of hope. For when an effect is sufficiently procured by one cause, there is no need to induce it by another. Now man is sufficiently induced by his natural inclination to hope for good.  Therefore there is no need of a precept of the Law to induce him to do this."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, since precepts are given about acts of virtue, the chief precepts are about the acts of the chief virtues. Now the chief of all the virtues are the three theological virtues, viz. hope, faith and charity. Consequently, as the chief precepts of the Law are those of the decalogue, to which all others may be reduced, as stated above (FS, Question [100], Article [3]), it seems that if any precept of hope were given, it should be found among the precepts of the decalogue. But it is not to be found there. Therefore it seems that the Law should contain no precept of hope."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 22,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, to prescribe an act of virtue is equivalent to a prohibition of the act of the opposite vice. Now no precept is to be found forbidding despair which is contrary to hope. Therefore it seems that the Law should contain no precept of hope."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Nature inclines us to hope for the good which is proportionate to human nature; but for man to hope for a supernatural good he had to be induced by the authority of the Divine law, partly by promises, partly by admonitions and commands. Nevertheless there was need for precepts of the Divine law to be given even for those things to which natural reason inclines us, such as the acts of the moral virtues, for sake of insuring a greater stability, especially since the natural reason of man was clouded by the lusts of sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The precepts of the law of the decalogue belong to the first promulgation of the Law: hence there was no need for a precept of hope among the precepts of the decalogue, and it was enough to induce men to hope by the inclusion of certain promises, as in the case of the first and fourth commandments."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 22,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: In those observances to which man is bound as under a duty, it is enough that he receive an affirmative precept as to what he has to do, wherein is implied the prohibition of what he must avoid doing: thus he is given a precept concerning the honor due to parents, but not a prohibition against dishonoring them, except by the law inflicting punishment on those who dishonor their parents. And since in order to be saved it is man's duty to hope in God, he had to be induced to do so by one of the above ways, affirmatively, so to speak, wherein is implied the prohibition of the opposite."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether there should have been given a precept of fear?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that, in the Law, there should not have been given a precept of fear. For the fear of God is about things which are a preamble to the Law, since it is the \"beginning of wisdom.\" Now things which are a preamble to the Law do not come under a precept of the Law. Therefore no precept of fear should be given in the Law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, given the cause, the effect is also given. Now love is the cause of fear, since \"every fear proceeds from some kind of love,\" as Augustine states (Qq. lxxxiii, qu. 33). Therefore given the precept of love, it would have been superfluous to command fear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 22,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, presumption, in a way, is opposed to fear. But the Law contains no prohibition against presumption. Therefore it seems that neither should any precept of fear have been given."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 22,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Filial fear is a preamble to the Law, not as though it were extrinsic thereto, but as being the beginning of the Law, just as love is. Hence precepts are given of both, since they are like general principles of the whole Law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 22,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: From love proceeds filial fear as also other good works that are done from charity. Hence, just as after the precept of charity, precepts are given of the other acts of virtue, so at the same time precepts are given of fear and of the love of charity, just as, in demonstrative sciences, it is not enough to lay down the first principles, unless the conclusions also are given which follow from them proximately or remotely."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 22,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Inducement to fear suffices to exclude presumption, even as inducement to hope suffices to exclude despair, as stated above (Article [1], ad 3)."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

@@ -22,62 +22,69 @@
             "title": [
                 "Whether satisfaction must be made by means of penal works?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that satisfaction need not be made by means of penal works. For satisfaction should make compensation for the offense committed against God. Now, seemingly, no compensation is given to God by penal works, for God does not delight in our sufferings, as appears from Tobias 3:22. Therefore satisfaction need not be made by means of penal works."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the greater the charity from which a work proceeds, the less penal is that work, for \"charity hath no pain [*Vulg.: 'Perfect charity casteth out fear, because fear hath pain']\" according to 1 Jn. 4:18. If therefore works of satisfaction need to be penal, the more they proceed from charity, the less satisfactory will they be: which is false."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, \"Satisfaction,\" as Anselm states (Cur Deus homo i) \"consists in giving due honor to God.\" But this can be done by other means than penal works. Therefore satisfaction needs not to be made by means of penal works."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Though God does not delight in our punishments as such, yet He does, in so far as they are just, and thus they can be satisfactory."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Just as, in satisfaction, we have to note the penality of the work, so, in merit, we must observe its difficulty. Now if the difficulty of the work itself be diminished, other things being equal, the merit is also diminished; but if the difficulty be diminished on the part of the promptitude of the will, this does not diminish the merit, but increases it; and, in like manner, diminution of the penality of a work, on account of the will being made more prompt by charity, does not lessen the efficacy of satisfaction, but increases it."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: That which is due for sin is compensation for the offense, and this cannot be done without punishment of the sinner. It is of this debt that Anselm speaks."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,62 +104,69 @@
             "title": [
                 "Whether the scourges of the present life are satisfactory?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the scourges whereby we are punished by God in this life, cannot be satisfactory. For nothing but what is meritorious can be satisfactory, as is clear from what has been said (Question [14], Article [2]). But we do not merit except by what is in our own power. Since therefore the scourges with which God punishes us are not in our power, it seems that they cannot be satisfactory."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, only the good make satisfaction. But these scourges are inflicted on the wicked also, and are deserved by them  most of all. Therefore they cannot be satisfactory."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, satisfaction regards past sins. But these scourges are sometimes inflicted on those who have no sins, as in the case of Job. Therefore it seems that they are not satisfactory."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although these scourges are not altogether in our power, yet in some respect they are, in so far as we use them patiently. In this way man makes a virtue of necessity, so that such things can become both meritorious and satisfactory."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: As Augustine observes (De Civ. Dei i, 8), even as \"the same fire makes gold glisten and straw reek,\" so by the same scourges are the good cleansed and the wicked worsened on account of their impatience. Hence, though the scourges are common to both, satisfaction is only on the side of the good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: These scourges always regard past guilt, not always the guilt of the person, but sometimes the guilt of nature. For had there not been guilt in human nature, there would have been no punishment. But since guilt preceded in nature, punishment is inflicted by God on a person without the person's fault, that his virtue may be meritorious, and that he may avoid future sin. Moreover, these two things are necessary in satisfaction. For the work needs to be meritorious, that honor may be given to God, and it must be a safeguard of virtue, that we may be preserved from future sins."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -171,99 +185,110 @@
             "title": [
                 "Whether the works of satisfaction are suitably enumerated?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the works of satisfaction are unsuitably enumerated by saying that there are three, viz.  almsdeeds, fasting, and prayer. For a work of satisfaction should be penal. But prayer is not penal, since it is a remedy against penal sorrow, and is a source of pleasure, wherefore it is written (James 5:13): \"Is any of you sad? Let him pray. Is he cheerful in mind? Let him sing.\" Therefore prayer should not be reckoned among the works of satisfaction."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, every sin is either carnal or spiritual. Now, as Jerome says on Mk. 9:28, \"This kind\" of demons \"can go out by nothing, but by prayer and fasting: Diseases of the body are healed by fasting, diseases of the mind, by prayer.\" Therefore no other work of satisfaction is necessary."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, satisfaction is necessary in order for us to be cleansed from our sins. But almsgiving cleanses from all sins, according to Lk. 11:41: \"Give alms, and behold all things are clean unto you.\" Therefore the other two are in excess."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: On the other hand, it seems that there should be more. For contrary heals contrary. But there are many more than three kinds of sin. Therefore more works of satisfaction should be enumerated."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 15,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, pilgrimages and scourgings are also enjoined as works of satisfaction, and are not included among the above. Therefore they are not sufficiently enumerated."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: According to some, prayer is twofold. There is the prayer of contemplatives whose \"conversation is in heaven\": and  this, since it is altogether delightful, is not a work of satisfaction. The other is a prayer which pours forth sighs for sin; this is penal and a part of satisfaction.",
                         "It may also be replied, and better, that every prayer has the character of satisfaction, for though it be sweet to the soul it is painful to the body, since, as Gregory says (Super Ezech., Hom. xiv), \"doubtless, when our soul's love is strengthened, our body's strength is weakened\"; hence we read (Gn. 32:25) that the sinew of Jacob's thigh shrank through his wrestling with the angel."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Carnal sin is twofold; one which is completed in carnal delectation, as gluttony and lust. and, another which is completed in things relating to the flesh, though it be completed in the delectation of the soul rather than of the flesh, as covetousness. Hence such like sins are between spiritual and carnal sins, so that they need a satisfaction proper to them, viz. almsdeeds."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Although each of these three, by a kind of likeness, is appropriated to some particular kind of sin because it is reasonable that, whereby a man sins, in that he should be punished, and that satisfaction should cut out the very root of the sin committed, yet each of them can satisfy for any kind of sin. Hence if a man is unable to perform one of the above, another is imposed on him, chiefly almsdeeds, which can take the place of the others, in so far as in those to whom a man gives alms he purchases other works of satisfaction thereby. Consequently even if almsgiving washes all sins away, it does not follow that other works are in excess."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Though there are many kinds of sins, all are reduced to those three roots or to those three kinds of sin, to which, as we have said, the aforesaid works of satisfaction correspond."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 },
                 "5": {
-                    "id": 5,
                     "question": 15,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: Whatever relates to affliction of the body is all referred to fasting, and whatever is spent for the benefit of one's neighbor is a kind of alms, and whatever act of worship is given to God becomes a kind of prayer, so that even one work can be satisfactory in several ways."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 3
                 }
             },
             "counter": [],

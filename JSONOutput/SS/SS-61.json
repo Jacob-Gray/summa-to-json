@@ -24,98 +24,109 @@
             "title": [
                 "Whether two species of justice are suitably assigned, viz. commutative and distributive?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the two species of justice are unsuitably assigned, viz. distributive and commutative. That which is hurtful to the many cannot be a species of justice, since justice is directed to the common good. Now it is hurtful to the common good of the many, if the goods of the community are distributed among many, both because the goods of the community would be exhausted, and because the morals of men would be corrupted. For Tully says (De Offic. ii, 15): \"He who receives becomes worse, and the more ready to expect that he will receive again.\" Therefore distribution does not belong to any species of justice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the act of justice is to render to each one what is his own, as stated above (Question [58], Article [2]). But when things are distributed, a man does not receive what was his, but becomes possessed of something which belonged to the community. Therefore this does not pertain to justice."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, justice is not only in the sovereign, but also in the subject, as stated above (Question [58], Article [6]). But it belongs exclusively to the sovereign to distribute. Therefore distribution does not always belong to justice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, \"Distributive justice regards common goods\" (Ethic. v, 4). Now matters regarding the community pertain to legal justice. Therefore distributive justice is a part, not of particular, but of legal justice."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 5: Further, unity or multitude do not change the species of a virtue. Now commutative justice consists in rendering something to one person, while distributive justice consists in giving something to many. Therefore they are not different species of justice."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Just as a private individual is praised for moderation in his bounty, and blamed for excess therein, so too ought moderation to be observed in the distribution of common goods, wherein distributive justice directs."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Even as part and whole are somewhat the same, so too that which pertains to the whole, pertains somewhat to the part also: so that when the goods of the community are distributed among a number of individuals each one receives that which, in a way, is his own."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The act of distributing the goods of the community, belongs to none but those who exercise authority over those goods; and yet distributive justice is also in the subjects to whom those goods are distributed in so far as they are contented by a just distribution. Moreover distribution of common goods is sometimes made not to the state but to the members of a family, and such distribution can be made by authority of a private individual."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: Movement takes its species from the term \"whereunto.\" Hence it belongs to legal justice to direct to the common good those matters which concern private individuals: whereas on the contrary it belongs to particular justice to direct the common good to particular individuals by way of distribution."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 5: Distributive and commutative justice differ not only in respect of unity and multitude, but also in respect of different kinds of due: because common property is due to an individual in one way, and his personal property in another way."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "counter": [
@@ -133,62 +144,69 @@
             "title": [
                 "Whether the mean is to be observed in the same way in distributive as in commutative justice?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the mean in distributive justice is to be observed in the same way as in commutative justice. For each of these is a kind of particular justice, as stated above (Article [1]). Now the mean is taken in the same way in all the parts of temperance or fortitude. Therefore the mean should also be observed in the same way in both distributive and commutative justice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the form of a moral virtue consists in observing the mean which is determined in accordance with reason. Since, then, one virtue has one form, it seems that the mean for both should be the same."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, in order to observe the mean in distributive justice we have to consider the various deserts of persons. Now a person's deserts are considered also in commutative justice, for instance, in punishments; thus a man who strikes a prince is punished more than one who strikes a private individual. Therefore the mean is observed in the same way in both kinds of justice."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: In the other moral virtues the rational, not the real mean, is to be followed: but justice follows the real mean; wherefore the mean, in justice, depends on the diversity of things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Equality is the general form of justice, wherein distributive and commutative justice agree: but in one we find equality of geometrical proportion, whereas in the other we find equality of arithmetical proportion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: In actions and passions a person's station affects the quantity of a thing: for it is a greater injury to strike a prince than a private person. Hence in distributive justice a person's station is considered in itself, whereas in commutative justice it is considered in so far as it causes a diversity of things."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -207,33 +225,37 @@
             "title": [
                 "Whether there is a different matter for both kinds of justice?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there is not a different matter for both kinds of justice. Diversity of matter causes diversity of virtue, as in the case of fortitude and temperance. Therefore, if distributive and commutative justice have different matters, it would seem that they are not comprised under the same virtue, viz. justice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, the distribution that has to do with distributive justice is one of \"wealth or of honors, or of whatever can be distributed among the members of the community\" (Ethic. v, 2), which very things are the subject matter of commutations between one person and another, and this belongs to commutative justice. Therefore the matters of distributive and commutative justice are not distinct."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, if the matter of distributive justice differs from that of commutative justice, for the reason that they differ specifically, where there is no specific difference, there ought to be no diversity of matter. Now the Philosopher (Ethic. v, 2) reckons commutative justice as one species, and yet this has many kinds of matter. Therefore the matter of these species of justice  is, seemingly, not of many kinds."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {},
@@ -253,62 +275,69 @@
             "title": [
                 "Whether the just is absolutely the same as retaliation?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that the just is absolutely the same as retaliation. For the judgment of God is absolutely just. Now the judgment of God is such that a man has to suffer in proportion with his deeds, according to Mt. 7:2: \"With what measure you judge, you shall be judged: and with what measure you mete, it shall be measured to you again.\" Therefore the just is absolutely the same as retaliation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, in either kind of justice something is given to someone according to a kind of equality. In distributive justice this equality regards personal dignity, which would seem to depend chiefly on what a person has done for the good of the community; while in commutative justice it regards the thing in which a person has suffered loss. Now in respect of either equality there is retaliation in respect of the deed committed. Therefore it would seem that the just is absolutely the same as retaliation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 61,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the chief argument against retaliation is based on the difference between the voluntary and the involuntary; for he who does an injury involuntarily is less severely punished. Now voluntary and involuntary taken in relation to ourselves, do not diversify the mean of justice since this is the real mean and does not depend on us. Therefore it would seem that the just is absolutely the same as retaliation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: This form of the Divine judgment is in accordance with the conditions of commutative justice, in so far as rewards are apportioned to merits, and punishments to sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: When a man who has served the community is paid for his services, this is to be referred to commutative, not distributive, justice. Because distributive justice considers the equality, not between the thing received and the thing done, but between the thing received by one person and the thing received by another according to the respective conditions of those persons."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 61,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: When the injurious action is voluntary, the injury is aggravated and consequently is considered as a greater thing. Hence it requires a greater punishment in repayment, by reason of a difference, not on part, but on the part of the thing."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

@@ -23,62 +23,69 @@
             "title": [
                 "Whether an advocate is bound to defend the suits of the poor?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that an advocate is bound to defend the suits of the poor. For it is written (Ex. 23:5): \"If thou see the ass of him that hateth thee lie underneath his burden, thou shalt not pass by, but shall lift him up with him.\" Now no less a danger threatens the poor man whose suit is being unjustly prejudiced, than if his ass were to lie underneath its burden. Therefore an advocate is bound to defend the suits of the poor."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Gregory says in a homily (ix in Evang.): \"Let him that hath understanding beware lest he withhold his knowledge; let him that hath abundance of wealth watch lest he slacken his merciful bounty; let him who is a servant to art share his skill with his neighbor; let him who has an opportunity of speaking with the wealthy plead the cause of the poor: for the slightest gift you have received will be reputed a talent.\" Now every man is bound, not to hide but faithfully to dispense the talent committed to him; as evidenced by the punishment inflicted on the servant who hid his talent (Mt. 25:30). Therefore an advocate is bound to plead for the poor."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, the precept about performing works of mercy, being affirmative, is binding according to time and place, and this is chiefly in cases of need. Now it seems to be a case of need when  the suit of a poor man is being prejudiced. Therefore it seems that in such a case an advocate is bound to defend the poor man's suit."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: So long as the ass lies under the burden, there is no means of help in this case, unless those who are passing along come to the man's aid, and therefore they are bound to help. But they would not be so bound if help were possible from another quarter."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: A man is bound to make good use of the talent bestowed on him, according to the opportunities afforded by time,  place, and other circumstances, as stated above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Not every need is such that it is one's duty to remedy it, but only such as we have stated above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,62 +104,69 @@
             "title": [
                 "Whether it is fitting that the law should debar certain persons from the office of advocate?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem unfitting for the law to debar certain persons from the office of advocate. For no man should be debarred from doing works of mercy. Now it belongs to the works of mercy to defend a man's suit, as stated above (Article [1]). Therefore no man should be debarred from this office."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, contrary causes have not, seemingly, the same effect. Now to be busy with Divine things and to be busy about sin are contrary to one another. Therefore it is unfitting that some should be debarred from the office of advocate, on account of religion, as monks and clerics, while others are debarred on account of sin, as persons of ill-repute and heretics."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, a man should love his neighbor as himself. Now it is a duty of love for an advocate to plead a person's cause. Therefore it is unfitting that certain persons should be debarred from pleading the cause of others, while they are allowed to advocate their own cause."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Certain persons are sometimes debarred by unbecomingness, and others by inability from performing works of mercy: for not all the works of mercy are becoming to all persons: thus it ill becomes a fool to give counsel, or the ignorant to teach."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Just as virtue is destroyed by \"too much\" and \"too little,\" so does a person become incompetent by \"more\" and \"less.\" For this reason some, like religious and clerics, are debarred from pleading in causes, because they are above such an office; and others because they are less than competent to exercise it, such as persons of ill-repute and unbelievers."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The necessity of pleading the causes of others is not so pressing as the necessity of pleading one's own cause, because others are able to help themselves otherwise: hence the comparison fails."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -170,62 +184,69 @@
             "title": [
                 "Whether an advocate sins by defending an unjust cause?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that an advocate does not sin by defending an unjust cause. For just as a physician proves his skill by healing a desperate disease, so does an advocate prove his skill, if he can defend an unjust cause. Now a physician is praised if he heals a desperate malady. Therefore an advocate also commits no sin, but ought to be praised, if he defends an unjust cause."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, it is always lawful to desist from committing a sin. Yet an advocate is punished if he throws up his brief (Decret. II, qu. iii, can. Si quem poenit.). Therefore an advocate does not sin by defending an unjust cause, when once he has undertaken its defense."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it would seem to be a greater sin for an advocate to use unjust means in defense of a just cause (e.g. by producing false witnesses, or alleging false laws), than to defend an unjust cause, since the former is a sin against the form, the latter against the matter of justice. Yet it is seemingly lawful for an advocate to make use of such underhand means, even as it is lawful for a soldier to lay ambushes in a battle. Therefore it would seem that an advocate does not sin by defending an unjust cause."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The physician injures no man by undertaking to heal a desperate malady, whereas the advocate who accepts service in an unjust cause, unjustly injures the party against whom he pleads unjustly. Hence the comparison fails. For though he may seem to deserve praise for showing skill in his art, nevertheless he sins by reason of injustice in his will, since he abuses his art for an evil end."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: If an advocate believes from the outset that the cause is just, and discovers afterwards while the case is proceeding that it is unjust, he ought not to throw up his brief in such a way as to help the other side, or so as to reveal the secrets of his client to the other party. But he can and must give up the case, or induce his client to give way, or make some compromise without prejudice to the opposing party."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: As stated above (Question [40], Article [3]), it is lawful for a soldier, or a general to lay ambushes in a just war, by prudently concealing what he has a mind to do, but not by means of fraudulent falsehoods, since we should keep faith even with a foe, as Tully says (De offic. iii, 29). Hence it is lawful for an advocate, in defending his case, prudently to conceal whatever might hinder its happy issue, but it is unlawful for him to employ any kind of falsehood."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -243,62 +264,69 @@
             "title": [
                 "Whether it is lawful for an advocate to take a fee for pleading?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem unlawful for an advocate to take a fee for pleading. Works of mercy should not be done with a view to human remuneration, according to Lk. 14:12, \"When thou makest a dinner or a supper, call not thy friends . . . nor thy neighbors who are rich: lest perhaps they also invite thee again, and a recompense be made to thee.\" Now it is a work of mercy to plead another's cause, as stated above (Article [1]). Therefore it is not lawful  for an advocate to take payment in money for pleading."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, spiritual things are not to be bartered with temporal things. But pleading a person's cause seems to be a spiritual good since it consists in using one's knowledge of law. Therefore it is not lawful for an advocate to take a fee for pleading."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, just as the person of the advocate concurs towards the pronouncement of the verdict, so do the persons of the judge and of the witness. Now, according to Augustine (Ep. cliii ad Macedon.), \"the judge should not sell a just sentence, nor the witness true evidence.\" Therefore neither can an advocate sell a just pleading."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Man is not bound to do gratuitously whatever he can do from motives of mercy: else no man could lawfully sell anything, since anything may be given from motives of mercy. But when a man does give a thing out of mercy, he should seek, not a human, but a Divine reward. In like manner an advocate, when he mercifully pleads the cause of a poor man, should have in view not a human but a Divine meed; and yet he is not always bound to give his services gratuitously."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Though knowledge of law is something spiritual, the use of that knowledge is accomplished by the work of the body: hence it is lawful to take money in payment of that use, else no craftsman would be allowed to make profit by his art."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The judge and witnesses are common to either party, since the judge is bound to pronounce a just verdict, and the witness to give true evidence. Now justice and truth do not incline to one side rather than to the other: and consequently judges receive out of the public funds a fixed pay for their labor; and witnesses receive their expenses (not as payment for giving  evidence, but as a fee for their labor) either from both parties or from the party by whom they are adduced, because no man \"serveth as a soldier at any time at his own charge [*Vulg.: 'Who serveth as a soldier,']\" (1 Cor. 9:7). On the other hand an advocate defends one party only, and so he may lawfully accept fee from the party he assists."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

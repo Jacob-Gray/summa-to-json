@@ -23,45 +23,50 @@
             "title": [
                 "Whether all sorrow is evil?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that all sorrow is evil. For Gregory of Nyssa [*Nemesius, De Nat. Hom. xix.] says: \"All sorrow is evil, from its very nature.\" Now what is naturally evil, is evil always and everywhere. Therefore, all sorrow is evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, that which all, even the virtuous, avoid, is evil. But all avoid sorrow, even the virtuous, since as stated in Ethic. vii, 11, \"though the prudent man does not aim at pleasure, yet he aims at avoiding sorrow.\" Therefore sorrow is evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, just as bodily evil is the object and cause of bodily pain, so spiritual evil is the object and cause of sorrow in the soul. But every bodily pain is a bodily evil. Therefore every spiritual sorrow is an evil of the soul."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Gregory of Nyssa [*Nemesius] is speaking of sorrow on the part of the evil that causes it, but not on the part of the subject that feels and rejects the evil. And from this point of view, all shun sorrow, inasmuch as they shun evil: but they do not shun the perception and rejection of evil. The same also applies to bodily pain: because the perception and rejection of bodily evil is the proof of the goodness of nature.",
                         "This suffices for the Replies to the Second and Third Objections."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 }
             },
             "counter": [
@@ -79,62 +84,69 @@
             "title": [
                 "Whether sorrow can be a virtuous good?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sorrow is not a virtuous good. For that which leads to hell is not a virtuous good. But, as Augustine says (Gen. ad lit. xii, 33), \"Jacob seems to have feared lest he should be troubled overmuch by sorrow, and so, instead of entering into the rest of the blessed, be consigned to the hell of sinners.\" Therefore sorrow is not a virtuous good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the virtuous good is praiseworthy and meritorious. But sorrow lessens praise or merit: for the Apostle says (2 Cor. 9:7): \"Everyone, as he hath determined in his heart, not with sadness, or of necessity.\" Therefore sorrow is not a virtuous good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, as Augustine says (De Civ. Dei xiv, 15), \"sorrow is concerned about those things which happen against our will.\" But not to will those things which are actually taking place, is to have a will opposed to the decree of God, to Whose providence whatever is done is subject. Since, then, conformity of the human to the Divine will is a condition of the rectitude of the will, as stated above (Question [19], Article [9]), it seems that sorrow is incompatible with rectitude of the will, and that consequently it is not virtuous."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: All the passions of the soul should be regulated according to the rule of reason, which is the root of the virtuous good; but excessive sorrow, of which Augustine is speaking, oversteps this rule, and therefore it fails to be a virtuous good."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Just as sorrow for an evil arises from a right will and reason, which detest the evil, so sorrow for a good is due to a perverse reason and will, which detest the good. Consequently such sorrow is an obstacle to the praise and merit of the virtuous good; for instance, when a man gives an alms sorrowfully."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Some things do actually happen, not because God wills, but because He permits them to happen---such as sins. Consequently a will that is opposed to sin, whether in oneself or in another, is not discordant from the Divine will. Penal evils happen actually, even by God's will. But it is not necessary for the rectitude of his will, that man should will them in themselves: but only that he should not revolt against the order of Divine justice, as stated above (Question [19], Article [10])."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -152,62 +164,69 @@
             "title": [
                 "Whether sorrow can be a useful good?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that sorrow cannot be a useful good. For it is written (Ecclus. 30:25): \"Sadness hath killed many, and there is no profit in it.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, choice is of that which is useful to an end. But sorrow is not an object of choice; in fact, \"a thing without sorrow is to be chosen rather than the same thing with sorrow\" (Topic. iii, 2). Therefore sorrow is not a useful good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, \"Everything is for the sake of its own operation,\" as stated in De Coel. ii, 3. But \"sorrow hinders operation,\" as stated in Ethic. x, 5. Therefore sorrow is not a useful good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This passage is to be taken as referring to excessive sorrow, which consumes the soul: for such sorrow paralyzes the soul, and hinders it from shunning evil, as stated above (Question [37], Article [2])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Just as any object of choice becomes less eligible by reason of sorrow, so that which ought to be shunned is still more to be shunned by reason of sorrow: and, in this respect, sorrow is useful."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Sorrow caused by an action hinders that action: but sorrow for the cessation of an action, makes one do it more earnestly."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -226,62 +245,69 @@
             "title": [
                 "Whether bodily pain is the greatest evil?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that pain is the greatest evil. Because \"the worst is contrary to the best\" (Ethic. viii, 10). But a certain pleasure is the greatest good, viz. the pleasure of bliss. Therefore a certain pain is the greatest evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, happiness is man's greatest good, because it is his last end. But man's Happiness consists in his \"having whatever he will, and in willing naught amiss,\" as stated above (Question [3], Article [4], Objection [5]; Question [5], Article [8], Objection [3]). Therefore man's greatest good consists in the fulfilment of his will. Now pain consists in something happening contrary to the will, as Augustine declares (De Civ. Dei xiv, 6,15). Therefore pain is man's greatest evil."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Augustine argues thus (Soliloq. i, 12): \"We are composed of two parts, i.e. of a soul and a body, whereof the body is the inferior. Now the sovereign good is the greatest good of the better part: while the supreme evil is the greatest evil of the inferior part. But wisdom is the greatest good of the soul; while the worst thing in the body is pain. Therefore man's greatest good is to be wise: while his greatest evil is to suffer pain.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Pleasure and sorrow have two good points in common: namely, a true judgment concerning good and evil; and the right order of the will in approving of good and rejecting evil. Thus it is clear that in pain or sorrow there is a good, by the removal of which they become worse: and yet there is not an evil in every pleasure, by the removal of which the pleasure is better. Consequently, a pleasure can be man's highest good, in the way above stated (Question [34], Article [3]): whereas sorrow cannot be man's greatest evil."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The very fact of the will being opposed to evil is a good. And for this reason, sorrow or pain cannot be the greatest evil; because it has an admixture of good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: That which harms the better thing is worse than that which harms the worse. Now a thing is called evil \"because it harms,\" as Augustine says (Enchiridion xii). Therefore that which is an evil to the soul is a greater evil than that which is an evil to the body. Therefore this argument does not prove: nor does Augustine give it as his own, but as taken from another [*Cornelius Celsus]."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

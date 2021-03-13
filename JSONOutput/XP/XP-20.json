@@ -22,62 +22,69 @@
             "title": [
                 "Whether a priest can use the key which he has, on any man?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a priest can use the key which he has, on any man. For the power of the keys was bestowed on priests by Divine authority in the words: \"Receive ye the Holy Ghost; whose sins you shall forgive, they are forgiven them\" (Jn. 20:22,23). But this was said without any restriction. Therefore he that has the key, can use it on any without restriction."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, a material key that opens one lock, opens all locks of the same pattern. Now every sin of every man is the same kind of obstacle against entering into heaven. Therefore if a  priest can, by means of the key which he has, absolve one man, he can do the same for all others."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the priesthood of the New Testament is more perfect than that of the Old Testament. But the priest of the Old Testament could use the power which he had of discerning between different kinds of leprosy, with regard to all indiscriminately. Much more therefore can the priest of the Gospel use his power with regard to all."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: A twofold power is required in order to absolve from sins, namely, power of order and power of jurisdiction. The former power is equally in all priests, but not the latter. And therefore, when our Lord (Jn. 20:23) gave all the apostles in general, the power of forgiving sins, this is to be understood of the power which results from receiving orders, wherefore these words are addressed to priests when they are ordained. But to Peter in particular He gave the power of forgiving sins (Mt. 16:19), that we may understand that he has the power of jurisdiction before the others. But the power of orders, considered in itself, extends to  all who can be absolved: wherefore our Lord said indeterminately, \"Whose sins you shall forgive, they are forgiven them,\" on the understanding that this power should be used in dependence on the power given to Peter, according to His appointment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: A material key can open only its own lock. nor can any active force act save on its own matter. Now a man becomes the matter of the power of order by jurisdiction: and consequently no one can use the key in respect of another over whom he has not jurisdiction."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The people of Israel were one people, and had but one temple, so that there was no need for a distinction in priestly jurisdiction, as there is now in the Church which comprises various peoples and nations."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether a priest can always absolve his subject?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a priest cannot always absolve his subject. For, as Augustine says (De vera et false Poenitentia [*Work of an unknown author]), \"no man should exercise the priestly office, unless he be free from those things which he condemns in others.\" But a priest might happen to share in a sin committed by his subject, e.g. by knowledge of a woman who is his subject. Therefore it seems that he cannot always use the power of the keys on his subjects."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, by the power of the keys a man is healed of all his shortcomings. Now it happens sometimes that a sin has attached to it a defect of irregularity or a sentence of excommunication, from which a simple priest cannot absolve. Therefore it seems that he cannot use the power of the keys on such as are shackled by these things in the above manner."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the judgment and power of our priesthood was foreshadowed by the judgment of the ancient priesthood. Now according to the Law, the lesser judges were not competent to decide all cases, and had recourse to the higher judges, according to Ex. 24:14: \"If any question shall arise\" among you, \"you shall refer it to them.\" It seems, therefore, that a priest cannot absolve his subject from graver sins, but should refer him to his superior."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: In this case the priest should not hear the confession of his accomplice, with regard to that particular sin, but must refer her to another: nor should she confess to him but should ask permission to go to another, or should have recourse to his superior if he refused, both on account of the danger, and for the sake of less shame. If, however, he were to absolve her it would be valid*: because when Augustine says that they should not be guilty of the same sin, he is speaking of what is congruous, not of what is essential to the sacrament. [*Benedict XIV declared the absolution of an accomplice \"in materia turpi\" to be invalid.]"
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Penance delivers man from all defects of guilt, but not from all defects of punishment, since even after doing penance for murder, a man remains irregular. Hence a priest can absolve from a crime, but for the remission of the punishment he must refer the penitent to the superior, except in the case of excommunication, absolution from which should precede absolution from sin, for as long as a man is excommunicated, he cannot receive any sacrament of the Church."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: This objection considers those cases in which superiors reserve the power of jurisdiction to themselves."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -170,63 +184,70 @@
             "title": [
                 "Whether a man can use the keys with regard to his superior?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a man cannot use the keys in respect of a superior. For every sacramental act requires its proper matter. Now the proper matter for the use of the keys, is a person who is subject, as stated above (Question [19], Article [6]). Therefore a priest cannot use the keys in respect of one who is not his subject."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the Church Militant is an image of the Church Triumphant. Now in the heavenly Church an inferior angel never cleanses, enlightens or perfects a higher angel. Therefore neither can an inferior priest exercise on a superior a hierarchical action such as absolution."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the judgment of Penance should be better regulated than the judgment of an external court. Now in the external court an inferior cannot excommunicate or absolve his superior. Therefore, seemingly, neither can he do so in the penitential court."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although the bishop whom a simple priest absolves is his superior absolutely speaking, yet he is beneath him in so far as he submits himself as a sinner to him."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: In the angels there can be no defect by reason of which the higher angel can submit to the lower, such as there can happen to be among men; and so there is no comparison."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 20,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: External judgment is according to men, whereas the judgment of confession is according to God, in Whose sight a man is lessened by sinning, which is not the case in human prelacy. Therefore just as in external judgment no man can pass sentence of excommunication on himself, so neither can he empower another to excommunicate him. On the other hand, in the tribunal of conscience he can give another the power to absolve him, though he cannot use that power himself.",
                         "It may also be replied that absolution in the tribunal of the confessional belongs principally to the power of the keys and consequently to the power of jurisdiction, whereas excommunication regards jurisdiction exclusively. And, as to the power of orders,  all are equal, but not as to jurisdiction. Wherefore there is no comparison."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [

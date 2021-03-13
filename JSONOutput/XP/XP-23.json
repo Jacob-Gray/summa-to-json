@@ -22,44 +22,49 @@
             "title": [
                 "Whether it is lawful, in matters purely corporal, to communicate with an excommunicated person?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that it is lawful, in matters purely corporal, to communicate with an excommunicated person. For excommunication is an act of the keys. But the power of the keys extends only to spiritual matters. Therefore excommunication does not prevent one from communicating with another in matters corporal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, \"What is instituted for the sake of charity, does not militate against charity\" (Cf. Question [11], Article [1], Objection [1]). But we are bound by the precept of charity to succor our enemies, which is impossible without some sort of communication. Therefore it is lawful to communicate with an excommunicated person in corporal matters."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Corporal matters are subordinate to spiritual matters. Wherefore the power which extends to spiritual things, can also extend to matters touching the body: even as the art which considers the end commands in matters ordained to the end."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: In a case where one is bound by the precept of charity to hold communication, the prohibition ceases, as is clear from what has been said."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "counter": [
@@ -78,44 +83,49 @@
             "title": [
                 "Whether a person incurs excommunication for communicating with one who is excommunicated?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a person does not incur excommunication for communicating with one who is excommunicated. For a heathen or a Jew is more separated from the Church than a person who is excommunicated. But one does not incur excommunication for communicating with a heathen or a Jew. Neither, therefore, does one for communicating with an excommunicated Christian."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, if a man incurs excommunication for communicating with an excommunicated person, for the same reason a third would incur excommunication for communicating with him, and thus one might go on indefinitely, which would seem absurd. Therefore one does not incur excommunication for communicating with one who is excommunicated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The Church has no intention of correcting unbelievers as well as the faithful who are under her care: hence she does not sever those, whom she excommunicates, from the fellowship of unbelievers, as she does from the communion of the faithful over whom she exercises a certain power."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: It is lawful to hold communion with one who has incurred a minor excommunication, so that excommunication does not pass on to a third person."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -133,80 +143,89 @@
             "title": [
                 "Whether it is always a mortal sin to communicate with an excommunicated person in other cases than those in which it is allowed?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that it is always a mortal sin to hold communion with an excommunicated person in other cases than those in which it is allowed. Because a certain decretal (Cap. Sacris: De his quae vi, metuve, etc.) declares that \"not even through fear of death should anyone hold communion with an excommunicated person, since one ought to die rather than commit a mortal sin.\" But this would be no reason unless it were always a mortal sin to hold communion with an excommunicated person. Therefore, etc."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is a mortal sin to act against a commandment of the Church. But the Church forbids anyone to hold communion with an excommunicated person. Therefore it is a mortal sin to hold communion with one who is excommunicated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, no man is debarred from receiving the Eucharist on account of a venial sin. But a man who holds communion with an excommunicated person, outside those cases in which it is allowed, is debarred from receiving the Eucharist, since he incurs a minor excommunication. Therefore it is a mortal sin to hold communion with an excommunicated person, save in those cases in which it is allowed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 23,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, no one should incur a major excommunication save for a mortal sin. Now according to the law (Can. Praecipue, seqq., caus. xi) a man may incur a major excommunication for holding communion with an excommunicated person. Therefore it is a mortal sin to hold communion with one who is excommunicated."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 23,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This decretal is speaking of holding communion in Divine worship. It may also be replied that the same reason applies both to mortal and venial sin, since just as one cannot do well by committing a mortal sin, so neither can one by committing a venial sin: so that just as it is a man's duty to suffer death rather than commit a mortal sin, so is it his duty to do so sooner than commit a venial sin, inasmuch as it is his duty to avoid venial sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 23,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The commandment of the Church regards spiritual matters directly, and legitimate actions as a consequence: hence by holding communion in Divine worship one acts against the commandment, and commits a mortal sin; but by holding communion in other matters, one acts beside the commandment, and sins venially."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 23,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Sometimes a man is debarred from the Eucharist even without his own fault, as in the case of those who are suspended or under an interdict, because these penalties are sometimes inflicted on one person for the sin of another who is thus punished."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 23,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Although it is a venial sin to hold communion with one who is excommunicated, yet to do so obstinately is a mortal sin: and for this reason one may be excommunicated according to the law."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [

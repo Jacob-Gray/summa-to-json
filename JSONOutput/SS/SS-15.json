@@ -22,62 +22,69 @@
             "title": [
                 "Whether blindness of mind is a sin?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that blindness of mind is not a sin. Because, seemingly, that which excuses from sin is not itself a sin. Now blindness of mind excuses from sin; for it is written (Jn. 9:41): \"If you were blind, you should not have sin.\" Therefore blindness of mind is not a sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, punishment differs from guilt. But blindness of mind is a punishment as appears from Is. 6:10, \"Blind the heart of this people,\" for, since it is an evil, it could not be from God, were it not a punishment. Therefore blindness of mind is not a sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, every sin is voluntary, according to Augustine (De Vera Relig. xiv). Now blindness of mind is not voluntary, since, as Augustine says (Confess. x), \"all love to know the resplendent truth,\" and as we read in Eccles. 11:7, \"the light is sweet and it is delightful for the eyes to see the sun.\" Therefore blindness of mind is not a sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The blindness that excuses from sin is that which arises from the natural defect of one who cannot see."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: This argument considers the second kind of blindness which is a punishment."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: To understand the truth is, in itself, beloved by all; and yet, accidentally it may be hateful to someone, in so far as a man is hindered thereby from having what he loves yet more."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,33 +104,37 @@
             "title": [
                 "Whether dulness of sense is a sin distinct from blindness of mind?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that dulness of sense is not a distinct sin from blindness of mind. Because one thing has one contrary. Now dulness is opposed to the gift of understanding, according to Gregory (Moral. ii, 49); and so is blindness of mind, since understanding denotes a principle of sight. Therefore dulness of sense is the same as blindness of mind."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Gregory (Moral. xxxi, 45) in speaking of dulness describes it as \"dullness of sense in respect of understanding.\" Now dulness of sense in respect of understanding seems to be the same as a defect in understanding, which pertains to blindness of mind. Therefore dulness of sense is the same as blindness of mind."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, if they differ at all, it seems to be chiefly in the fact that blindness of mind is voluntary, as stated above (Article [1]), while dulness of sense is a natural defect. But a natural defect is not a sin: so that, accordingly, dulness of sense would not be a sin, which is contrary to what Gregory says (Moral. xxxi, 45), where he reckons it among the sins arising from gluttony."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {},
@@ -145,62 +156,69 @@
             "title": [
                 "Whether blindness of mind and dulness of sense arise from sins of the flesh?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that blindness of mind and dulness of sense do not arise from sins of the flesh. For Augustine (Retract. i, 4) retracts what he had said in his Soliloquies i, 1, \"God Who didst wish none but the clean to know the truth,\" and says that one might reply that \"many, even those who are unclean, know many truths.\" Now men become unclean chiefly by sins of the flesh. Therefore blindness of mind and dulness of sense are not caused by sins of the flesh."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, blindness of mind and dulness of sense are defects in connection with the intellective part of the soul: whereas carnal sins pertain to the corruption of the flesh. But the flesh does not act on the soul, but rather the reverse. Therefore the sins of the flesh do not cause blindness of mind and dulness of sense."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, all things are more passive to what is near them than to what is remote. Now spiritual vices are nearer the mind than carnal vices are. Therefore blindness of mind and dulness of sense are caused by spiritual rather than by carnal vices."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 15,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Although some who are the slaves of carnal vices are at times capable of subtle considerations about intelligible things, on account of the perfection of their natural genius, or of some habit superadded thereto, nevertheless, on account of the pleasures of the body, it must needs happen that their attention is frequently withdrawn from this subtle contemplation: wherefore the unclean can know some truths, but their uncleanness is a clog on their knowledge."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 15,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The flesh acts on the intellective faculties, not by altering them, but by impeding their operation in the aforesaid manner."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 15,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: It is owing to the fact that the carnal vices are further removed from the mind, that they distract the mind's attention to more remote things, so that they hinder the mind's contemplation all the more."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [

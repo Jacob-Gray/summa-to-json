@@ -24,62 +24,69 @@
             "title": [
                 "Whether grace is fittingly divided into sanctifying grace and gratuitous grace?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that grace is not fittingly divided into sanctifying grace and gratuitous grace. For grace is a gift of God, as is clear from what has been already stated (Question [110], Article [1]). But man is not therefore pleasing to God because something is given him by God, but rather on the contrary; since something is freely given by God, because man is pleasing to Him. Hence there is no sanctifying grace."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, whatever is not given on account of preceding merits is given gratis. Now even natural good is given to man without preceding merit, since nature is presupposed to merit. Therefore nature itself is given gratuitously by God. But nature is condivided with grace. Therefore to be gratuitously given is not fittingly set down as a difference of grace, since it is found outside the genus of grace."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, members of a division are mutually opposed. But even sanctifying grace, whereby we are justified, is given to us gratuitously, according to Rm. 3:24: \"Being justified freely [gratis] by His grace.\" Hence sanctifying grace ought not to be divided against gratuitous grace."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Grace is said to make pleasing, not efficiently but formally, i.e. because thereby a man is justified, and is made worthy to be called pleasing to God, according to Col. 1:21: \"He hath made us worthy to be made partakers of the lot of the saints in light.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Grace, inasmuch as it is gratuitously given, excludes the notion of debt. Now debt may be taken in two ways: first, as arising from merit; and this regards the person whose it is to do meritorious works, according to Rm. 4:4: \"Now to him that worketh, the reward is not reckoned according to grace, but according to debt.\" The second debt regards the condition of nature. Thus we say it is due to a man to have reason, and whatever else belongs to human nature. Yet in neither way is debt taken to mean that God is under an obligation to His creature, but rather that the creature ought to be subject to God, that the Divine ordination may be fulfilled in it, which is that a certain nature should have certain conditions or properties, and that by doing certain works it should attain to something further. And hence natural endowments are not a debt in the first sense but in the second. Hence they especially merit the name of grace."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Sanctifying grace adds to the notion of gratuitous grace something pertaining to the nature of grace, since it makes man pleasing to God. And hence gratuitous grace which does not do this keeps the common name, as happens in many other cases; and thus the two parts of the division are opposed as sanctifying and non-sanctifying grace."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -98,80 +105,89 @@
             "title": [
                 "Whether grace is fittingly divided into operating and cooperating grace?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that grace is not fittingly divided into operating and cooperating grace. For grace is an accident, as stated above (Question [110], Article [2]). Now no accident can act upon its subject. Therefore no grace can be called operating."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, if grace operates anything in us it assuredly brings about justification. But not only grace works this. For Augustine says, on Jn. 14:12, \"the works that I do he also shall do,\" says (Serm. clxix): \"He Who created thee without thyself, will not justify thee without thyself.\" Therefore no grace ought to be called simply operating."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, to cooperate seems to pertain to the inferior agent, and not to the principal agent. But grace works in us more than free-will, according to Rm. 9:16: \"It is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.\" Therefore no grace ought to be called cooperating."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, division ought to rest on opposition. But to operate and to cooperate are not opposed; for one and the same thing can both operate and cooperate. Therefore grace is not fittingly divided into operating and cooperating."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Inasmuch as grace is a certain accidental  quality, it does not act upon the soul efficiently, but formally, as whiteness makes a surface white."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: God does not justify us without ourselves, because whilst we are being justified we consent to God's justification [justitiae] by a movement of our free-will. Nevertheless this movement is not the cause of grace, but the effect; hence the whole operation pertains to grace."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: One thing is said to cooperate with another not merely when it is a secondary agent under a principal agent, but when it helps to the end intended. Now man is helped by God to will the good, through the means of operating grace. And hence, the end being already intended, grace cooperates with us."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 4: Operating and cooperating grace are the same grace; but are distinguished by their different effects, as is plain from what has been said."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -191,62 +207,69 @@
             "title": [
                 "Whether grace is fittingly divided into prevenient and subsequent grace?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that grace is not fittingly divided into prevenient and subsequent. For grace is an effect of the Divine love. But God's love is never subsequent, but always prevenient, according to 1 Jn. 4:10: \"Not as though we had loved God, but because He hath first loved us.\" Therefore grace ought not to be divided into prevenient and subsequent."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, there is but one sanctifying grace in man, since it is sufficient, according to 2 Cor. 12:9: \"My grace is sufficient for thee.\" But the same thing cannot be before and after. Therefore grace is not fittingly divided into prevenient and subsequent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, grace is known by its effects. Now there are an infinite number of effects---one preceding another. Hence it with regard to these, grace must be divided into prevenient and subsequent, it would seem that there are infinite species of grace. Now no art takes note of the infinite in number. Hence grace is not fittingly divided into prevenient and subsequent."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: God's love signifies something eternal; and hence can never be called anything but prevenient. But grace signifies a temporal effect, which can precede and follow another; and thus grace may be both prevenient and subsequent."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The division into prevenient and subsequent grace does not divide grace in its essence, but only in its effects, as was already said of operating and cooperating grace. For subsequent grace, inasmuch as it pertains to glory, is not numerically distinct from prevenient grace whereby we are at present justified. For even as the charity of the earth is not voided in heaven, so must the same be said of the light of grace, since the notion of neither implies imperfection."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Although the effects of grace may be infinite in number, even as human acts are infinite, nevertheless all reduced to some of a determinate species, and moreover all coincide in this---that one precedes another."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -264,80 +287,89 @@
             "title": [
                 "Whether gratuitous grace is rightly divided by the Apostle?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that gratuitous grace is not rightly divided by the Apostle. For every gift vouchsafed to us by God, may be called a gratuitous grace. Now there are an infinite number of gifts freely bestowed on us by God as regards both the good of the soul and the good of the body---and yet they do not make us pleasing to God. Hence gratuitous graces cannot be contained under any certain division."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, gratuitous grace is distinguished from sanctifying grace. But faith pertains to sanctifying grace, since we are justified by it, according to Rm. 5:1: \"Being justified therefore by faith.\" Hence it is not right to place faith amongst the gratuitous graces, especially since the other virtues are not so placed, as hope and charity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the operation of healing, and speaking divers tongues are miracles. Again, the interpretation of speeches pertains either to wisdom or to knowledge, according to Dan. 1:17: \"And to these children God gave knowledge and understanding in every book and wisdom.\" Hence it is not correct to divide the grace  of healing and kinds of tongues against the working of miracles; and the interpretation of speeches against the word of wisdom and knowledge."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, as wisdom and knowledge are gifts of the Holy Ghost, so also are understanding, counsel, piety, fortitude, and fear, as stated above (Question [68], Article [4]). Therefore these also ought to be placed amongst the gratuitous gifts."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: As stated above (Article [1]), not all the benefits divinely conferred upon us are called gratuitous graces, but only those that surpass the power of nature---e.g. that a fisherman should be replete with the word of wisdom and of knowledge and the like; and such as these are here set down as gratuitous graces."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Faith is enumerated here under the gratuitous graces, not as a virtue justifying man in himself, but as implying a super-eminent certitude of faith, whereby a man is fitted for instructing others concerning such things as belong to the faith. With regard to hope and charity, they belong to the appetitive power, according as man is ordained thereby to God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The grace of healing is distinguished from the general working of miracles because it has a special reason for inducing one to the faith, since a man is all the more ready to believe when he has received the gift of bodily health through the virtue of faith. So, too, to speak with divers tongues and to interpret speeches have special efficacy in bestowing faith. Hence they are set down as special gratuitous graces."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 4: Wisdom and knowledge are not numbered among the gratuitous graces in the same way as they are reckoned among the gifts of the Holy Ghost, i.e. inasmuch as man's mind is rendered easily movable by the Holy Ghost to the things of wisdom and knowledge; for thus they are gifts of the Holy Ghost, as stated above (Question [68], Articles [1],4). But they are numbered amongst the gratuitous graces, inasmuch as they imply such a fullness of knowledge and wisdom that a man may not merely think aright of Divine things, but may instruct others and overpower adversaries. Hence it is significant that it is the \"word\" of wisdom and the \"word\" of knowledge that are placed in the gratuitous graces, since, as Augustine says (De Trin. xiv, 1), \"It is one thing merely to know what a man must believe in order to reach everlasting life, and another thing to know how this may benefit the godly and may be defended against the ungodly.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "counter": [
@@ -358,62 +390,69 @@
             "title": [
                 "Whether gratuitous grace is nobler than sanctifying grace?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that gratuitous grace is nobler than sanctifying grace. For \"the people's good is better than the individual good,\" as the Philosopher says (Ethic. i, 2). Now sanctifying grace is ordained to the good of one man alone, whereas gratuitous grace is ordained to the common good of the whole Church, as stated above (Articles [1],4). Hence gratuitous grace is nobler than sanctifying grace."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, it is a greater power that is able to act upon another, than that which is confined to itself, even as greater is the brightness of the body that can illuminate other bodies, than of that which can only shine but cannot illuminate; and hence the Philosopher says (Ethic. v, 1) \"that justice is the most excellent of the virtues,\" since by it a man bears himself rightly towards others. But by sanctifying grace a man is perfected only in himself; whereas by gratuitous grace a man works for the perfection of others. Hence gratuitous grace is nobler than sanctifying grace."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, what is proper to the best is nobler than what is common to all; thus to reason, which is proper to man is nobler than to feel, which is common to all animals. Now sanctifying grace is common to all members of the Church, but gratuitous grace is the proper gift of the more exalted members of the Church. Hence gratuitous grace is nobler than sanctifying grace."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: As the Philosopher says (Metaph. xii, text. 52), a multitude, as an army, has a double good; the first is in the multitude itself, viz. the order of the army; the second is separate from the multitude, viz. the good of the leader---and this is better good, since the other is ordained to it. Now gratuitous grace is ordained to the common good of the Church, which is ecclesiastical order, whereas sanctifying grace is ordained to the separate common good, which is God. Hence sanctifying grace is the nobler."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: If gratuitous grace could cause a man to have sanctifying grace, it would follow that the gratuitous grace was the nobler; even as the brightness of the sun that enlightens is more excellent than that of an object that is lit up. But by gratuitous grace a man cannot cause another to have union with God, which he himself has by sanctifying grace; but he causes certain dispositions towards it. Hence gratuitous grace needs not to be the more excellent, even as in fire, the heat, which manifests its species whereby it produces heat in other things, is not more noble than its substantial form."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 111,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Feeling is ordained to reason, as to an end; and  thus, to reason is nobler. But here it is the contrary; for what is proper is ordained to what is common as to an end. Hence there is no comparison."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [

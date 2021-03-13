@@ -23,89 +23,99 @@
             "title": [
                 "Whether it is lawful to curse anyone?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem unlawful to curse anyone. For it is unlawful to disregard the command of the Apostle in whom Christ spoke, according to 2 Cor. 13:3. Now he commanded (Rm. 12:14), \"Bless and curse not.\" Therefore it is not lawful to curse anyone."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, all are bound to bless God, according to Dan. 3:82, \"O ye sons of men, bless the Lord.\" Now the same mouth cannot both bless God and curse man, as proved in the third chapter of James. Therefore no man may lawfully curse another man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, he that curses another would seem to wish him some evil either of fault or of punishment, since a curse appears to be a kind of imprecation. But it is not lawful to wish ill to anyone, indeed we are bound to pray that all may be delivered from  evil. Therefore it is unlawful for any man to curse."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 4: Further, the devil exceeds all in malice on account of his obstinacy. But it is not lawful to curse the devil, as neither is it lawful to curse oneself; for it is written (Ecclus. 21:30): \"While the ungodly curseth the devil, he curseth his own soul.\" Much less therefore is it lawful to curse a man."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 5: Further, a gloss on Num. 23:8, \"How shall I curse whom God hath not cursed?\" says: \"There cannot be a just cause for cursing a sinner if one be ignorant of his sentiments.\" Now one man cannot know another man's sentiments, nor whether he is cursed by God. Therefore no man may lawfully curse another."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The Apostle forbids cursing strictly so called with an evil intent: and the same answer applies to the Second Objection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: To wish another man evil under the aspect of good, is not opposed to the sentiment whereby one wishes him good simply, in fact rather is it in conformity therewith."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 76,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 4: In the devil both nature and guilt must be considered. His nature indeed is good and is from God nor is it lawful to curse it. On the other hand his guilt is deserving of being cursed, according to Job 3:8, \"Let them curse it who curse the day.\" Yet when a sinner curses the devil on account of his guilt, for the same reason he judges himself worthy of being cursed; and in this sense he is said to curse his own soul."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 },
                 "5": {
-                    "id": 5,
                     "question": 76,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 5: Although the sinner's sentiments cannot be perceived in themselves, they can be perceived through some manifest sin, which has to be punished. Likewise although it is not possible to know whom God curses in respect of final reprobation, it is possible to know who is accursed of God in respect of being guilty of present sin."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 1
                 }
             },
             "counter": [
@@ -125,33 +135,37 @@
             "title": [
                 "Whether it is lawful to curse an irrational creature?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that it is unlawful to curse an irrational creature. Cursing would seem to be lawful chiefly in its relation to punishment. Now irrational creatures are not competent subjects either of guilt or of punishment. Therefore it is unlawful to curse them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, in an irrational creature there is nothing but the nature which God made. But it is unlawful to curse this even in the devil, as stated above (Article [1]). Therefore it is nowise lawful to curse an irrational creature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, irrational creatures are either stable, as bodies, or transient, as the seasons. Now, according to Gregory (Moral. iv, 2), \"it is useless to curse what does not exist, and wicked to curse what exists.\" Therefore it is nowise lawful to curse an irrational creature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {},
@@ -172,33 +186,37 @@
             "title": [
                 "Whether cursing is a mortal sin?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that cursing is not a mortal sin. For Augustine in a homily On the Fire of Purgatory [*Serm. civ in the appendix of St. Augustine's works] reckons cursing among slight sins. But such sins are venial. Therefore cursing is not a mortal but a venial Sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, that which proceeds from a slight movement of the mind does not seem to be generically a mortal sin. But cursing sometimes arises from a slight movement. Therefore cursing is not a mortal sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, evil deeds are worse than evil words. But evil deeds are not always mortal sins. Much less therefore is cursing a mortal sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {},
@@ -219,62 +237,69 @@
             "title": [
                 "Whether cursing is a graver sin than backbiting?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that cursing is a graver sin than backbiting. Cursing would seem to be a kind of blasphemy, as implied in the canonical epistle of Jude (verse 9) where it is said that \"when Michael the archangel, disputing with the devil, contended about the body of Moses, he durst not bring against him the judgment of blasphemy [Douay: 'railing speech'],\" where blasphemy stands for cursing, according to a gloss. Now blasphemy is a graver sin than backbiting. Therefore cursing is a graver sin than backbiting."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, murder is more grievous than backbiting, as stated above (Question [73], Article [3]). But cursing is on a par with the sin of murder; for Chrysostom says (Hom. xix, super Matth.): \"When thou sayest: 'Curse him down with his house, away with everything,' you are no better than a murderer.\" Therefore cursing is graver than backbiting."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, to cause a thing is more than to signify it. But the curser causes evil by commanding it, whereas the backbiter merely signifies an evil already existing. Therefore the curser sins more grievously than the backbiter."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 76,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: To curse a creature, as such, reflects on God, and thus accidentally it has the character of blasphemy; not so if one curse a creature on account of its fault: and the same applies to backbiting."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 76,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: As stated above (Article [3]), cursing, in one way, includes the desire for evil, where if the curser desire the evil of another's violent death, he does not differ, in desire, from a murderer, but he differs from him in so far as the external act adds something to the act of the will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 76,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: This argument considers cursing by way of command."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

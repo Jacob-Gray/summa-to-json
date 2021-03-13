@@ -22,62 +22,69 @@
             "title": [
                 "Whether penance can be in the innocent?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that penance cannot be in the innocent.  For penance consists in bewailing one's evil deeds: whereas the innocent have done no evil. Therefore penance cannot be in them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the very name of penance [poenitentia] implies punishment [poena]. But the innocent do not deserve punishment. Therefore penance is not in them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, penance coincides with vindictive justice. But if all were innocent, there would be no room for vindictive justice. Therefore there would be no penance, so that there is none in the innocent."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although the innocent have committed no sin, nevertheless they can, so that they are competent to have the habit of penance. Yet this habit can never proceed to its act, except perhaps with regard to their venial sins, because mortal sins destroy the habit. Nevertheless it is not without its purpose, because it is a perfection of the natural power."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Although they deserve no punishment actually, yet it is possible for something to be in them for which they would deserve to be punished."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: So long as the power to sin remains, there would be room for vindictive justice as to the habit, though not as to the act, if there were no actual sins."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,89 +103,99 @@
             "title": [
                 "Whether the saints in glory have penance?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the saints in glory have not penance. For, as Gregory says (Moral. iv), \"the blessed remember their sins, even as we, without grief, remember our griefs after we have been healed.\" But penance is grief of the heart. Therefore the saints in heaven have not penance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the saints in heaven are conformed to Christ. But there was no penance in Christ, since there was no faith which is the principle of penance. Therefore there will be no penance in the saints in heaven."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, a habit is useless if it is not reduced to its act. But the saints in heaven will not repent actually, because, if they did, there would be something in them against their wish. Therefore the habit of penance will not be in them."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: On the other hand, penance is a part of justice. But justice is \"perpetual and immortal\" (Wis. 1:15), and will remain in heaven. Therefore penance will also."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, we read in the Lives of the Fathers, that one of them said that even Abraham will repent of not having done more good. But one ought to repent of evil done more than of good left undone, and which one was not bound to do, for such is the good in question. Therefore repentance will be there of evil done."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This argument proves that they do not have the same act as penance has now; and we grant this."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Christ could not sin, wherefore the matter of this virtue was lacking in His respect both actually and potentially: so that there is no comparison between Him and others."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Repentance, properly speaking, considered as that act of penance which is in this life, will not be in heaven: and yet the habit will not be without its use, for it will have another act."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4:5: We grant the Fourth argument. But since the Fifth Objection proves that there will be the same act of penance in heaven as now, we answer the latter by saying that in heaven one will be altogether conformed to the will of God. Wherefore, as God, by His antecedent will, but not by His consequent will, wishes that all things should be good, and therefore that there should be no evil, so is it with the blessed. It is this will that this holy father improperly calls penance."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [],
@@ -194,72 +211,80 @@
             "title": [
                 "Whether an angel can be the subject of penance?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that even a good or bad angel can be a subject of penance. For fear is the beginning of penance. But fear is in the angels, according to James 2:19: \"The devils . . . believe and tremble.\" Therefore there can be penance in them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the Philosopher says (Ethic. ix, 4) that \"evil men are full of repentance, and this is a great punishment for them.\" Now the devils are exceeding evil, nor is there any punishment that they lack. Therefore they can repent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, a thing is more easily moved to that which is according to its nature than to that which is against its nature: thus water which has by violence been heated, of itself returns to its natural property. Now angels can be moved to sin which is contrary to their common nature. Much more therefore can they return to that which is in accord with their nature. But this is done by penance. Therefore they are susceptible to penance."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 16,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, what applies to angels, applies equally to separated souls, as Damascene says (De Fide Orth. ii, 4). But there can be penance in separated souls, as some say, as in the souls of the blessed in heaven. Therefore there can be penance in the angels."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: A certain movement of penance is engendered in them from fear, but not such as is a virtue.",
                         "This suffices for the Reply to the Second Objection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Whatever is natural in them is entirely good, and inclines to good: but their free-will is fixed on evil. And since the movement of virtue and vice follows the inclination, not of nature, but of the free-will, there is no need that there should be movements of virtue in them either actually or possibly, although they are inclined to good by nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 16,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: There is no parity between the holy angels and the beatified souls, because in the latter there has been or could have been a sin that could be pardoned, but not in the former: so that though they are like as to their present state, they differ as to their previous states, which penance regards directly."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [

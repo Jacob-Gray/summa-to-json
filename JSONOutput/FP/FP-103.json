@@ -27,62 +27,69 @@
             "title": [
                 "Whether the world is governed by anyone?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the world is not governed by anyone. For it belongs to those things to be governed, which move or work for an end. But natural things which make up the greater part of the world do not move, or work for an end; for they have no knowledge of their end. Therefore the world is not governed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, those things are governed which are moved towards an object. But the world does not appear to be so directed, but has stability in itself. Therefore it is not governed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, what is necessarily determined by its own nature to one particular thing, does not require any external principle of government. But the principal parts of the world are by a certain necessity determined to something particular in their actions and movements. Therefore the world does not require to be governed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: A thing moves or operates for an end in two ways.  First, in moving itself to the end, as man and other rational creatures; and such things have knowledge of their end, and of the means to the end. Secondly, a thing is said to move or operate for an end, as though moved or directed by another thereto, as an arrow directed to the target by the archer, who knows the end unknown to the arrow. Wherefore, as the movement of the arrow towards a definite end shows clearly that it is directed by someone with knowledge, so the unvarying course of natural things which are without knowledge, shows clearly that the world is governed by some reason."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: In all created things there is a stable element, at least primary matter; and something belonging to movement, if under movement we include operation. And things need governing as to both: because even that which is stable, since it is created from nothing, would return to nothingness were it not sustained by a governing hand, as will be explained later (Question [104], Article [1])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The natural necessity inherent in those beings which are determined to a particular thing, is a kind of impression from God, directing them to their end; as the necessity whereby an arrow is moved so as to fly towards a certain point is an impression from the archer, and not from the arrow. But there is a difference, inasmuch as that which creatures receive from God is their nature, while that which natural things receive from man in addition to their nature is somewhat violent. Wherefore, as the violent necessity in the movement of the arrow shows the action of the archer, so the natural necessity of things shows the government of Divine Providence."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -99,62 +106,69 @@
             "title": [
                 "Whether the end of the government of the world is something outside the world?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the end of the government of the world is not something existing outside the world. For the end of the government of a thing is that whereto the thing governed is brought. But that whereto a thing is brought is some good in the thing itself; thus a sick man is brought back to health, which is something good in him. Therefore the end of government of things is some good not outside, but within the things themselves."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the Philosopher says (Ethic. i, 1): \"Some ends are an operation; some are a work\"---i.e. produced by an operation. But nothing can be produced by the whole universe outside itself; and operation exists in the agent. Therefore nothing extrinsic can be the end of the government of things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the good of the multitude seems to consist in order, and peace which is the \"tranquillity of order,\" as Augustine says (De Civ. Dei xix, 13). But the world is composed of a multitude of things. Therefore the end of the government of the world is the peaceful order in things themselves. Therefore the end of the government of the world is not an extrinsic good."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: We may acquire some good in many ways: first, as a form existing in us, such as health or knowledge; secondly, as something done by us, as a builder attains his end by building a house; thirdly, as something good possessed or acquired by us, as the buyer of a field attains his end when he enters into possession. Wherefore nothing prevents something outside the universe being the good to which it is directed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The Philosopher is speaking of the ends of various arts; for the end of some arts consists in the operation itself, as the end of a harpist is to play the harp; whereas the end of other arts consists in something produced, as the end of a builder is not the act of building, but the house he builds. Now it may happen that something extrinsic is the end not only as made, but also as possessed or acquired or even as represented, as if we were to say that Hercules is the end of the statue made to represent him. Therefore we may say that some good outside the whole universe is the end of the government of the universe, as something possessed and represented; for each thing tends to a participation thereof, and to an assimilation thereto, as far as is possible."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: A good existing in the universe, namely, the order of the universe, is an end thereof; this. however, is not its ultimate end, but is ordered to the extrinsic good as to the end: thus the order in an army is ordered to the general, as stated in Metaph. xii, Did. xi, 10."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,62 +186,69 @@
             "title": [
                 "Whether the world is governed by one?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the world is not governed by one.  For we judge the cause by the effect. Now, we see in the government of the universe that things are not moved and do not operate uniformly, but some contingently and some of necessity in variously different ways. Therefore the world is not governed by one."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, things which are governed by one do not act against each other, except by the incapacity or unskillfulness of the ruler; which cannot apply to God. But created things agree not together, and act against each other; as is evident in the case of contraries. Therefore the world is not governed by one."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, in nature we always find what is the better. But it \"is better that two should be together than one\" (Eccles. 4:9). Therefore the world is not governed by one, but by many."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Movement is \"the act of a thing moved, caused by the mover.\" Wherefore dissimilarity of movements is caused by diversity of things moved, which diversity is essential to the perfection of the universe (Question [47], Articles [1],2; Question [48], Article [2]), and not by a diversity of governors."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Although contraries do not agree with each other in their proximate ends, nevertheless they agree in the ultimate  end, so far as they are included in the one order of the universe."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: If we consider individual goods, then two are better than one. But if we consider the essential good, then no addition is possible."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -245,45 +266,50 @@
             "title": [
                 "Whether the effect of government is one or many?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that there is but one effect of the government of the world and not many. For the effect of government is that which is caused in the things governed. This is one, namely, the good which consists in order; as may be seen in the example of an army. Therefore the government of the world has but one effect."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, from one there naturally proceeds but one. But the world is governed by one as we have proved (Article [3]). Therefore also the effect of this government is but one."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, if the effect of government is not one by reason of the unity of the Governor, it must be many by reason of the many things governed. But these are too numerous to be counted. Therefore we cannot assign any definite number to the effects of government."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: The order of the universe includes both the preservation of things created by God and their movement. As regards these two things we find order among them, inasmuch as one  is better than another; and one is moved by another.",
                         "From what has been said above, we can gather the replies to the other two objections."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 }
             },
             "counter": [
@@ -301,62 +327,69 @@
             "title": [
                 "Whether all things are subject to the Divine government?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that not all things are subject to the Divine government. For it is written (Eccles. 9:11): \"I saw that under the sun the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the learned, nor favor to the skillful, but time and chance in all.\" But things subject to the Divine government are not ruled by chance. Therefore those things which are under the sun are not subject to the Divine government."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the Apostle says (1 Cor. 9:9): \"God hath no care for oxen.\" But he that governs has care for the things he governs. Therefore all things are not subject to the Divine government."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, what can govern itself needs not to be governed by another. But the rational creature can govern itself; since it is master of its own act, and acts of itself; and is not made to act by another, which seems proper to things which are governed. Therefore all things are not subject to the Divine government."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: These things are said to be under the sun which are generated and corrupted according to the sun's movement. In all such things we find chance: not that everything is casual which occurs in such things; but that in each one there is an element of chance. And the very fact that an element of chance is found in those things proves that they are subject to government of some kind. For unless corruptible things were governed by a higher being, they would tend to nothing definite, especially those which possess no kind of knowledge. So nothing would happen unintentionally; which constitutes the nature of chance. Wherefore to show how things happen by chance and yet according to the ordering of a higher cause, he does not say absolutely that he observes chance in all things, but \"time and chance,\" that is to say, that defects may be found in these things according to some order of time."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Government implies a certain change effected by the governor in the things governed. Now every movement is the act of a movable thing, caused by the moving principle, as is laid down Phys. iii, 3. And every act is proportionate to that of which it is an act. Consequently, various movable things must be moved variously, even as regards movement by one and the same mover. Thus by the one art of the Divine governor, various things are variously governed according to their variety. Some, according to their nature, act of themselves, having dominion over their actions; and these are governed by God, not only in this, that they are moved by God Himself, Who works in them interiorly; but also in this, that they are induced by Him to do good and to fly from evil, by precepts and prohibitions, rewards and punishments. But irrational creatures which do not act but are acted upon, are not thus governed by God. Hence, when the Apostle says that \"God hath no care for oxen,\" he does not wholly withdraw them from the Divine government, but only as regards the way in which rational creatures are governed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The rational creature governs itself by its intellect and will, both of which require to be governed and perfected by the Divine intellect and will. Therefore above the government whereby the rational creature governs itself as master of its own act, it requires to be governed by God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -375,62 +408,69 @@
             "title": [
                 "Whether all things are immediately governed by God?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that all things are governed by God immediately. For Gregory of Nyssa (Nemesius, De Nat. Hom.) reproves the opinion of Plato who divides providence into three parts. The first he ascribes to the supreme god, who watches over heavenly things and all universals; the second providence he attributes to the secondary deities, who go the round of the heavens to watch over generation and corruption; while he ascribes a third providence to certain spirits who are guardians on earth of human actions. Therefore it seems that all things are immediately governed by God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, it is better that a thing be done by one, if possible, than by many, as the Philosopher says (Phys. viii, 6). But God can by Himself govern all things without any intermediary cause. Therefore it seems that He governs all things immediately."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, in God nothing is defective or imperfect. But it seems to be imperfect in a ruler to govern by means of others; thus an earthly king, by reason of his not being able to do everything himself, and because he cannot be everywhere at the same time, requires to govern by means of ministers. Therefore God governs all things immediately."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Plato's opinion is to be rejected, because he held that God did not govern all things immediately, even in the design of government; this is clear from the fact that he divided providence, which is the design of government, into three parts."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: If God governed alone, things would be deprived of the perfection of causality. Wherefore all that is effected by  many would not be accomplished by one."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: That an earthly king should have ministers to execute his laws is a sign not only of his being imperfect, but also of his dignity; because by the ordering of ministers the kingly power is brought into greater evidence."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -450,62 +490,69 @@
             "title": [
                 "Whether anything can happen outside the order of the Divine government?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem possible that something may occur outside the order of the Divine government. For Boethius says (De Consol. iii) that \"God disposes all for good.\" Therefore, if nothing happens outside the order of the Divine government, it would follow that no evil exists."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, nothing that is in accordance with the pre-ordination of a ruler occurs by chance. Therefore, if nothing occurs outside the order of the Divine government, it follows that there is nothing fortuitous and casual."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the order of Divine Providence is certain and unchangeable; because it is in accordance with the eternal design. Therefore, if nothing happens outside the order of the Divine government, it follows that all things happen by necessity, and nothing is contingent; which is false. Therefore it is possible for something to occur outside the order of the Divine government."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: There is nothing wholly evil in the world, for evil is ever founded on good, as shown above (Question [48], Article [3]). Therefore something is said to be evil through its escaping from the order of some particular good. If it wholly escaped from the order of the Divine government, it would wholly cease to exist."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Things are said to be fortuitous as regards some particular cause from the order of which they escape. But as to the order of Divine providence, \"nothing in the world happens by chance,\" as Augustine declares (Questions. 83, qu. 24)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Certain effects are said to be contingent as compared to their proximate causes, which may fail in their effects; and not as though anything could happen entirely outside the order of Divine government. The very fact that something occurs outside the order of some proximate cause, is owing to some other cause, itself subject to the Divine government."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -523,62 +570,69 @@
             "title": [
                 "Whether anything can resist the order of the Divine government?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem possible that some resistance can be made to the order of the Divine government. For it is written (Is. 3:8): \"Their tongue and their devices are against the Lord.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, a king does not justly punish those who do not rebel against his commands. Therefore if no one rebelled against God's commands, no one would be justly punished by God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, everything is subject to the order of the Divine government. But some things oppose others. Therefore some things rebel against the order of the Divine government."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Some are said to think or speak, or act against God: not that they entirely resist the order of the Divine  government; for even the sinner intends the attainment of a certain good: but because they resist some particular good, which belongs to their nature or state. Therefore they are justly punished by God."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2:is clear from the above."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 103,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: From the fact that one thing opposes another, it follows that some one thing can resist the order of a particular cause; but not that order which depends on the universal cause of all things."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [

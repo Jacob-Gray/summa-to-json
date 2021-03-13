@@ -25,33 +25,37 @@
             "title": [
                 "Whether the object of fear is good or evil?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that good is the object of fear. For Augustine says (Questions. 83, qu. 83) that \"we fear nothing save to lose what we love and possess, or not to obtain that which we hope for.\" But that which we love is good. Therefore fear regards good as its proper object."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the Philosopher says (Rhet. ii, 5) that \"power and to be above another is a thing to be feared.\" But this is a good thing. Therefore good is the object of fear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, there can be no evil in God. But we are commanded to fear God, according to Ps. 33:10: \"Fear the Lord, all ye saints.\" Therefore even the good is an object of fear."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {},
@@ -74,62 +78,69 @@
             "title": [
                 "Whether evil of nature is an object of fear?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that evil of nature is not an object of fear. For the Philosopher says (Rhet. ii, 5) that \"fear makes us take counsel.\" But we do not take counsel about things which happen naturally, as stated in Ethic. iii, 3. Therefore evil of nature is not an object of fear."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, natural defects such as death and the like are always threatening man. If therefore such like evils were an object of fear, man would needs be always in fear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, nature does not move to contraries. But evil of nature is an effect of nature. Therefore if a man shrinks from such like evils through fear thereof, this is not an effect of nature. Therefore natural fear is not of the evil of nature; and yet it seems that it should be."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The evil of nature sometimes is not an effect of nature, as stated above. But in so far as it is an effect of nature, although it may be impossible to avoid it entirely, yet it may be possible to delay it. And with this hope one may take counsel about avoiding it."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Although evil of nature ever threatens, yet it does not always threaten from near at hand: and consequently it is not always feared."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Death and other defects of nature are the effects of the common nature; and yet the individual nature rebels against them as far as it can. Accordingly, from the inclination of the individual nature arise pain and sorrow for such like evils, when present; fear when threatening in the future."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -149,80 +160,89 @@
             "title": [
                 "Whether the evil of sin is an object of fear?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the evil of sin can be an object of fear. For Augustine says on the canonical Epistle of John (Tract. ix), that \"by chaste fear man fears to be severed from God.\" Now nothing but sin severs us from God; according to Is. 59:2: \"Your  iniquities have divided between you and your God.\" Therefore the evil of sin can be an object of fear."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Cicero says (Quaest. Tusc. iv, 4,6) that \"we fear when they are yet to come, those things which give us pain when they are present.\" But it is possible for one to be pained or sorrowful on account of the evil of sin. Therefore one can also fear the evil of sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, hope is contrary to fear. But the good of virtue can be the object of hope, as the Philosopher declares (Ethic. ix, 4): and the Apostle says (Gal. 5:10): \"I have confidence in you in the Lord, that you will not be of another mind.\" Therefore fear can regard evil of sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, shame is a kind of fear, as stated above (Question [41], Article [4]). But shame regards a disgraceful deed, which is an evil of sin. Therefore fear does so likewise."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Separation from God is a punishment resulting from sin: and every punishment is, in some way, due to an extrinsic cause."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Sorrow and fear agree in one point, since each regards evil: they differ, however, in two points. First, because sorrow is about present evil, whereas fear is future evil. Secondly, because sorrow, being in the concupiscible faculty, regards evil absolutely; wherefore it can be about any evil, great or small; whereas fear, being in the irascible part, regards evil with the addition of a certain arduousness or difficulty; which difficulty ceases in so far as a thing is subject to the will.  Consequently not all things that give us pain when they are present, make us fear when they are yet to come, but only some things, namely, those that are difficult."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Hope is of good that is obtainable. Now one may obtain a good either of oneself, or through another: and so, hope may be of an act of virtue, which lies within our own power. On the other hand, fear is of an evil that does not lie in our own power: and consequently the evil which is feared is always from an extrinsic cause; while the good that is hoped for may be both from an intrinsic and from an extrinsic cause."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 4: As stated above (Question [41], Article [4], ad 2,3), shame is not fear of the very act of sin, but of the disgrace or ignominy which arises therefrom, and which is due to an extrinsic cause."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -241,62 +261,69 @@
             "title": [
                 "Whether fear itself can be feared?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that fear cannot be feared. For whatever is feared, is prevented from being lost, through fear thereof: thus a man who fears to lose his health, keeps it, through fearing its loss. If therefore a man be afraid of fear, he will keep himself from fear by being afraid: which seems absurd."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, fear is a kind of flight. But nothing flies from itself. Therefore fear cannot be the object of fear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, fear is about the future. But fear is present to him that fears. Therefore it cannot be the object of his fear."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Not every fear is identically the same; there are various fears according to the various objects of fear. Nothing, then, prevents a man from keeping himself from fearing one thing, by fearing another, so that the fear which he has preserves him  from the fear which he has not."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Since fear of an imminent evil is not identical with the fear of the fear of imminent evil; it does not follow that a thing flies from itself, or that it is the same flight in both cases."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: On account of the various kinds of fear already alluded to (ad 2) a man's present fear may have a future fear for its object."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -314,62 +341,69 @@
             "title": [
                 "Whether sudden things are especially feared?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that unwonted and sudden things are not especially feared. Because, as hope is about good things, so fear is about evil things. But experience conduces to the increase of hope in good things. Therefore it also adds to fear in evil things."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the Philosopher says (Rhet. ii, 5) that \"those are feared most, not who are quick-tempered, but who are gentle and cunning.\" Now it is clear that those who are quick-tempered are more subject to sudden emotions. Therefore sudden things are less to be feared."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, we think less about things that happen suddenly. But the more we think about a thing, the more we fear it; hence the Philosopher says (Ethic. iii, 8) that \"some appear to be courageous through ignorance, but as soon as they discover that the case is different from what they expected, they run away.\" Therefore sudden things are feared less."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The object of hope is a good that is possible to obtain. Consequently whatever increases a man's power, is of a  nature to increase hope, and, for the same reason, to diminish fear, since fear is about an evil which cannot be easily repelled. Since, therefore, experience increases a man's power of action, therefore, as it increases hope, so does it diminish fear."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Those who are quick-tempered do not hide their anger; wherefore the harm they do others is not so sudden, as not to be foreseen. On the other hand, those who are gentle or cunning hide their anger; wherefore the harm which may be impending from them, cannot be foreseen, but takes one by surprise. For this reason the Philosopher says that such men are feared more than others."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Bodily good or evil, considered in itself, seems greater at first. The reason for this is that a thing is more obvious when seen in juxtaposition with its contrary. Hence, when a man passes unexpectedly from penury to wealth, he thinks more of his wealth on account of his previous poverty: while, on the other hand, the rich man who suddenly becomes poor, finds poverty all the more disagreeable. For this reason sudden evil is feared more, because it seems more to be evil. However, it may happen through some accident that the greatness of some evil is hidden; for instance if the foe hides himself in ambush: and then it is true that evil inspires greater fear through being much thought about."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -387,62 +421,69 @@
             "title": [
                 "Whether those things are more feared, for which there is no remedy?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that those things are not more to be feared, for which there is no remedy. Because it is a condition of fear, that there be some hope of safety, as stated above (Article [2]). But an evil that cannot be remedied leaves no hope of escape. Therefore such things are not feared at all."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, there is no remedy for the evil of death: since, in the natural course of things, there is no return from death to life. And yet death is not the most feared of all things, as the Philosopher says (Rhet. ii, 5). Therefore those things are not feared most, for which there is no remedy."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the Philosopher says (Ethic. i, 6) that \"a thing which lasts long is no better than that which lasts but one day: nor is that which lasts for ever any better than that which is not everlasting\": and the same applies to evil. But things that cannot be remedied seem to differ from other things, merely in the point of their lasting long or for ever. Consequently they are not therefore any worse or more to be feared."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Remedy for an evil is twofold. One, by which a future evil is warded off from coming. If such a remedy be removed, there is an end to hope and consequently to fear; wherefore we do not speak now of remedies of that kind. The other remedy is one by which an already present evil is removed: and of such a remedy we speak now."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Although death be an evil without remedy, yet, since it threatens not from near, it is not feared, as stated above (Article [2])."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The Philosopher is speaking there of things that are good in themselves, i.e. good specifically. And such like good is no better for lasting long or for ever: its goodness depends on its very nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

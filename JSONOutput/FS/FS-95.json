@@ -23,63 +23,70 @@
             "title": [
                 "Whether it was useful for laws to be framed by men?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that it was not useful for laws to be framed by men. Because the purpose of every law is that man be made good thereby, as stated above (Question [92], Article [1]). But men are more to be induced to be good willingly by means of admonitions, than against their will, by means of laws. Therefore there was no need to frame laws."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, As the Philosopher says (Ethic. v, 4), \"men have recourse to a judge as to animate justice.\" But animate justice is better than inanimate justice, which contained in laws. Therefore it would have been better for the execution of justice to be entrusted to the decision of judges, than to frame laws in addition."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, every law is framed for the direction of human actions, as is evident from what has been stated above (Question [90], Articles [1],2). But since human actions are about singulars, which are infinite in number, matter pertaining to the direction of human actions cannot be taken into sufficient consideration except by a wise man, who looks into each one of them. Therefore it would have been better for human acts to be directed by the judgment of wise men, than by the framing of laws. Therefore there was no need of human laws."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Men who are well disposed are led willingly to virtue by being admonished better than by coercion: but men who are evilly disposed are not led to virtue unless they are compelled."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: As the Philosopher says (Rhet. i, 1), \"it is better that all things be regulated by law, than left to be decided by judges\": and this for three reasons. First, because it is easier to find a few wise men competent to frame right laws, than to find the many who would be necessary to judge aright of each single case. Secondly, because those who make laws consider long beforehand what laws to make; whereas judgment on each single case has to be pronounced as soon as it arises: and it is easier for man to see what is right, by taking many instances into consideration, than by considering one solitary fact. Thirdly, because lawgivers judge in the abstract and of future events; whereas those who sit in judgment of things present, towards which they are affected by love, hatred, or some kind of cupidity; wherefore their judgment is  perverted.",
                         "Since then the animated justice of the judge is not found in every man, and since it can be deflected, therefore it was necessary, whenever possible, for the law to determine how to judge, and for very few matters to be left to the decision of men."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Certain individual facts which cannot be covered by the law \"have necessarily to be committed to judges,\" as the Philosopher says in the same passage: for instance, \"concerning something that has happened or not happened,\" and the like."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -97,81 +104,90 @@
             "title": [
                 "Whether every human law is derived from the natural law?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that not every human law is derived from the natural law. For the Philosopher says (Ethic. v, 7) that \"the legal just is that which originally was a matter of indifference.\" But those things which arise from the natural law are not matters of indifference. Therefore the enactments of human laws are not derived from the natural law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, positive law is contrasted with natural law, as stated by Isidore (Etym. v, 4) and the Philosopher (Ethic. v, 7). But those things which flow as conclusions from the general principles of the natural law belong to the natural law, as stated above (Question [94], Article [4]). Therefore that which is established by human law does not belong to the natural law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the law of nature is the same for all; since the Philosopher says (Ethic. v, 7) that \"the natural just is that which is equally valid everywhere.\" If therefore human laws were derived from the natural law, it would follow that they too are the same for all: which is clearly false."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, it is possible to give a reason for things which are derived from the natural law. But \"it is not possible to give the reason for all the legal enactments of the lawgivers,\" as the jurist says [*Pandect. Justin. lib. i, ff, tit. iii, v; De Leg. et Senat.]. Therefore not all human laws are derived from the natural law."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The Philosopher is speaking of those enactments which are by way of determination or specification of the precepts of the natural law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: This argument avails for those things that are derived from the natural law, by way of conclusions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The general principles of the natural law cannot be applied to all men in the same way on account of the great variety of human affairs: and hence arises the diversity of positive laws among various people."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 4: These words of the Jurist are to be understood as referring to decisions of rulers in determining particular points of the natural law: on which determinations the judgment of expert and prudent men is based as on its principles; in so far, to wit, as they see at once what is the best thing to decide.",
                         "Hence the Philosopher says (Ethic. vi, 11) that in such matters, \"we ought to pay as much attention to the undemonstrated sayings and opinions of persons who surpass us in experience, age and prudence, as to their demonstrations.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -191,42 +207,47 @@
             "title": [
                 "Whether Isidore's description of the quality of positive law is appropriate?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that Isidore's description of the quality  of positive law is not appropriate, when he says (Etym. v, 21): \"Law shall be virtuous, just, possible to nature, according to the custom of the country, suitable to place and time, necessary, useful; clearly expressed, lest by its obscurity it lead to misunderstanding; framed for no private benefit, but for the common good.\" Because he had previously expressed the quality of law in three conditions, saying that \"law is anything founded on reason, provided that it foster religion, be helpful to discipline, and further the common weal.\" Therefore it was needless to add any further conditions to these."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Justice is included in honesty, as Tully says (De Offic. vii). Therefore after saying \"honest\" it was superfluous to add \"just.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, written law is condivided with custom, according to Isidore (Etym. ii, 10). Therefore it should not be stated in the definition of law that it is \"according to the custom of the country.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, a thing may be necessary in two ways. It may be necessary simply, because it cannot be otherwise: and that which is necessary in this way, is not subject to human judgment, wherefore human law is not concerned with necessity of this kind. Again a thing may be necessary for an end: and this necessity is the same as usefulness. Therefore it is superfluous to say both \"necessary\" and \"useful.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {},
@@ -247,42 +268,47 @@
             "title": [
                 "Whether Isidore's division of human laws is appropriate?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that Isidore wrongly divided human statutes or human law (Etym. v, 4, seqq.). For under this law he includes the \"law of nations,\" so called, because, as he says, \"nearly all nations use it.\" But as he says, \"natural law is that which is common to all nations.\" Therefore the law of nations is not contained under positive human law, but rather under natural law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, those laws which have the same force, seem to differ not formally but only materially. But \"statutes, decrees of the commonalty, senatorial decrees,\" and the like which he mentions (Etym. v, 9), all have the same force. Therefore they do not differ, except materially. But art takes no notice of such a distinction: since it may go on to infinity. Therefore this division of human laws is not appropriate."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, just as, in the state, there are princes, priests and soldiers, so are there other human offices. Therefore it seems that, as this division includes \"military law,\" and \"public law,\" referring to priests and magistrates; so also it should include other laws pertaining to other offices of the state."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 95,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, those things that are accidental should be passed over. But it is accidental to law that it be framed by this or that man. Therefore it is unreasonable to divide laws according to the names of lawgivers, so that one be called the \"Cornelian\" law, another the \"Falcidian\" law, etc."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "replies": {},

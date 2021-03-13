@@ -26,62 +26,69 @@
             "title": [
                 "Whether the eternal law is a sovereign type [*Ratio] existing in God?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the eternal law is not a sovereign type existing in God. For there is only one eternal law. But there are many types of things in the Divine mind; for Augustine says (Qq. lxxxiii, qu. 46) that God \"made each thing according to its type.\" Therefore the eternal law does not seem to be a type existing in the Divine mind."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, it is essential to a law that it be promulgated by word, as stated above (Question [90], Article [4]). But Word is a Personal name in God, as stated in the FP, Question [34], Article [1]: whereas type refers to the Essence. Therefore the eternal law is not the same as a Divine type."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Augustine says (De Vera Relig. xxx): \"We see a law above our minds, which is called truth.\" But the law which is above our minds is the eternal law. Therefore truth is the eternal law. But the idea of truth is not the same as the idea of a type. Therefore the eternal law is not the same as the sovereign type."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Augustine is speaking in that passage of the ideal types which regard the proper nature of each single thing; and consequently in them there is a certain distinction and plurality, according to their different relations to things, as stated in the FP, Question [15], Article [2]. But law is said to direct human acts by ordaining them to the common good, as stated above (Question [90], Article [2]). And things, which are in themselves different, may be considered as one, according as they are ordained to one common thing. Wherefore the eternal law is one since it is the type of this order."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: With regard to any sort of word, two points may be considered: viz. the word itself, and that which is expressed by the word. For the spoken word is something uttered by the mouth of man, and expresses that which is signified by the human word. The same applies to the human mental word, which is nothing else that something conceived by the mind, by which man expresses his thoughts mentally. So then in God the Word conceived by the intellect of the Father is the name of a Person: but all things that are in the Father's knowledge, whether they refer to the Essence or to the Persons, or to the works of God, are expressed by this Word, as Augustine declares (De Trin. xv, 14). And among other things expressed by this Word, the eternal law itself is expressed thereby. Nor does it follow that the eternal law is a Personal name in God: yet it is appropriated to the Son, on account of the kinship between type and word."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The types of the Divine intellect do not stand in the same relation to things, as the types of the human intellect. For the human intellect is measured by things, so that a human concept is not true by reason of itself, but by reason of its being  consonant with things, since \"an opinion is true or false according as it answers to the reality.\" But the Divine intellect is the measure of things: since each thing has so far truth in it, as it represents the Divine intellect, as was stated in the FP, Question [16], Article [1]. Consequently the Divine intellect is true in itself; and its type is truth itself."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -99,62 +106,69 @@
             "title": [
                 "Whether the eternal law is known to all?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the eternal law is not known to all. Because, as the Apostle says (1 Cor. 2:11), \"the things that are of God no man knoweth, but the Spirit of God.\" But the eternal law is a type existing in the Divine mind. Therefore it is unknown to all save God alone."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, as Augustine says (De Lib. Arb. i, 6) \"the eternal law is that by which it is right that all things should be most orderly.\" But all do not know how all things are most orderly. Therefore all do not know the eternal law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Augustine says (De Vera Relig. xxxi) that \"the eternal law is not subject to the judgment of man.\" But according to Ethic. i, \"any man can judge well of what he knows.\" Therefore the eternal law is not known to us."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: We cannot know the things that are of God, as they are in themselves; but they are made known to us in their effects, according to Rm. 1:20: \"The invisible things of God . . . are clearly seen, being understood by the things that are made.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Although each one knows the eternal law according to his own capacity, in the way explained above, yet none can comprehend it: for it cannot be made perfectly known by its effects. Therefore it does not follow that anyone who knows the eternal law in the way aforesaid, knows also the whole order of things, whereby they are most orderly."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: To judge a thing may be understood in two ways. First, as when a cognitive power judges of its proper object, according to Job 12:11: \"Doth not the ear discern words, and the palate of him that eateth, the taste?\" It is to this kind of judgment that the Philosopher alludes when he says that \"anyone can judge well of what he knows,\" by judging, namely, whether what is put forward is true. In another way we speak of a superior judging of a subordinate by a kind of practical judgment, as to whether he should be such and such or not. And thus none can judge of the eternal law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -172,62 +186,69 @@
             "title": [
                 "Whether every law is derived from the eternal law?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that not every law is derived from the eternal law. For there is a law of the \"fomes,\" as stated above (Question [91], Article [6]), which is not derived from that Divine law which is the eternal law, since thereunto pertains the \"prudence of the flesh,\" of which the Apostle says (Rm. 8:7), that \"it cannot be subject to the law of God.\" Therefore not every law is derived from the eternal law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, nothing unjust can be derived from the eternal law, because, as stated above (Article [2], Objection [2]), \"the eternal law is that, according to which it is right that all things should be most orderly.\" But some laws are unjust, according to Is. 10:1: \"Woe to them that make wicked laws.\" Therefore not every law is derived from the eternal law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Augustine says (De Lib. Arb. i, 5) that \"the law which is framed for ruling the people, rightly permits many things which are punished by Divine providence.\" But the type of Divine providence is the eternal law, as stated above (Article [1]). Therefore not even every good law is derived from the eternal law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The \"fomes\" has the nature of law in man, in so far as it is a punishment resulting from Divine justice; and in this respect it is evident that it is derived from the eternal law. But in so far as it denotes a proneness to sin, it is contrary to the Divine law, and has not the nature of law, as stated above (Question [91], Article [6])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Human law has the nature of law in so far as it partakes of right reason; and it is clear that, in this respect, it is derived from the eternal law. But in so far as it deviates from reason, it is called an unjust law, and has the nature, not of law but of violence. Nevertheless even an unjust law, in so far as it retains some appearance of law, though being framed by one who is in power, is derived from the eternal law; since all power is from the Lord God, according to Rm. 13:1."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Human law is said to permit certain things, not as approving them, but as being unable to direct them. And many things are directed by the Divine law, which human law is unable to direct, because more things are subject to a higher than to a lower cause. Hence the very fact that human law does not meddle with matters it cannot direct, comes under the ordination of the eternal law. It would be different, were human law to sanction what the eternal law condemns. Consequently it does not follow that human law is not derived from the eternal law, but that it is not on a perfect equality with it."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -245,63 +266,70 @@
             "title": [
                 "Whether necessary and eternal things are subject to the eternal law?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that necessary and eternal things are subject to the eternal law. For whatever is reasonable is subject to reason. But the Divine will is reasonable, for it is just. Therefore it is subject to (the Divine) reason. But the eternal law is the Divine reason. Therefore God's will is subject to the eternal law. But God's will is eternal. Therefore eternal and necessary things are subject to the eternal law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, whatever is subject to the King, is subject to the King's law. Now the Son, according to 1 Cor. 15:28,24, \"shall be subject . . . to God and the Father . . . when He shall have delivered up the Kingdom to Him.\" Therefore the Son, Who is eternal, is subject to the eternal law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the eternal law is Divine providence as a type. But many necessary things are subject to Divine providence:  for instance, the stability of incorporeal substances and of the heavenly bodies. Therefore even necessary things are subject to the eternal law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: We may speak of God's will in two ways. First, as to the will itself: and thus, since God's will is His very Essence, it is subject neither to the Divine government, nor to the eternal law, but is the same thing as the eternal law. Secondly, we may speak of God's will, as to the things themselves that God wills about creatures; which things are subject to the eternal law, in so far as they are planned by Divine Wisdom. In reference to these things God's will is said to be reasonable [rationalis]: though regarded in itself it should rather be called their type [ratio]."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: God the Son was not made by God, but was naturally born of God. Consequently He is not subject to Divine providence or to the eternal law: but rather is Himself the eternal law by a kind of appropriation, as Augustine explains (De Vera Relig. xxxi). But He is said to be subject to the Father by reason of His human nature, in respect of which also the Father is said to be greater than He.",
                         "The third objection we grant, because it deals with those necessary things that are created."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 4: As the Philosopher says (Metaph. v, text. 6), some necessary things have a cause of their necessity: and thus they derive from something else the fact that they cannot be otherwise. And this is in itself a most effective restraint; for whatever is restrained, is said to be restrained in so far as it cannot do otherwise than it is allowed to."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "counter": [
@@ -319,62 +347,69 @@
             "title": [
                 "Whether natural contingents are subject to the eternal law?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that natural contingents are not subject to the eternal law. Because promulgation is essential to law, as stated above (Question [90], Article [4]). But a law cannot be promulgated except to rational creatures, to whom it is possible to make an announcement. Therefore none but rational creatures are subject to the eternal law; and consequently natural contingents are not."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, \"Whatever obeys reason partakes somewhat of reason,\" as stated in Ethic. i. But the eternal law, is the supreme type, as stated above (Article [1]). Since then natural contingents do not partake of reason in any way, but are altogether void of reason, it seems that they are not subject to the eternal law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the eternal law is most efficient. But in natural contingents defects occur. Therefore they are not subject to the eternal law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The impression of an inward active principle is to natural things, what the promulgation of law is to men: because law, by being promulgated, imprints on man a directive principle of human actions, as stated above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Irrational creatures neither partake of nor are  obedient to human reason: whereas they do partake of the Divine Reason by obeying it; because the power of Divine Reason extends over more things than human reason does. And as the members of the human body are moved at the command of reason, and yet do not partake of reason, since they have no apprehension subordinate to reason; so too irrational creatures are moved by God, without, on that account, being rational."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Although the defects which occur in natural things are outside the order of particular causes, they are not outside the order of universal causes, especially of the First Cause, i.e. God, from Whose providence nothing can escape, as stated in the FP, Question [22], Article [2]. And since the eternal law is the type of Divine providence, as stated above (Article [1]), hence the defects of natural things are subject to the eternal law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -393,62 +428,69 @@
             "title": [
                 "Whether all human affairs are subject to the eternal law?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that not all human affairs are subject to the eternal law. For the Apostle says (Gal. 5:18): \"If you are led by the spirit you are not under the law.\" But the righteous who are the sons of God by adoption, are led by the spirit of God, according to Rm. 8:14: \"Whosoever are led by the spirit of God, they are the sons of God.\" Therefore not all men are under the eternal law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the Apostle says (Rm. 8:7): \"The prudence [Vulg.: 'wisdom'] of the flesh is an enemy to God: for it is not subject to the law of God.\" But many are those in whom the prudence of the flesh dominates. Therefore all men are not subject to the eternal law which is the law of God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, Augustine says (De Lib. Arb. i, 6) that \"the eternal law is that by which the wicked deserve misery, the good, a life of blessedness.\" But those who are already blessed, and those who are already lost, are not in the state of merit. Therefore they are not under the eternal law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This saying of the Apostle may be understood in two ways. First, so that a man is said to be under the law, through being pinned down thereby, against his will, as by a load. Hence, on the same passage a gloss says that \"he is under the law, who refrains from evil deeds, through fear of punishment threatened by the law, and not from love of virtue.\" In this way the spiritual man is not under the law, because he fulfils the law willingly, through charity which is poured into his heart by the Holy Ghost. Secondly, it can be understood as meaning that the works of a man, who is led by the Holy Ghost, are the works of the Holy Ghost rather than his own. Therefore, since the Holy Ghost is not under the law, as neither is the Son, as stated above (Article [4], ad 2); it follows that such works, in so far as they are of the Holy Ghost, are not under the law. The Apostle witnesses to this when he says (2 Cor. 3:17): \"Where the Spirit of the Lord is, there is liberty.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The prudence of the flesh cannot be subject to the law of God as regards action; since it inclines to actions contrary to the Divine law: yet it is subject to the law of God, as regards passion; since it deserves to suffer punishment according to the law of Divine justice. Nevertheless in no man does the prudence of the flesh dominate so far as to destroy the whole good of his nature: and consequently there remains in man the inclination to act in accordance with the eternal law. For we have seen above (Question [85], Article [2]) that sin does not destroy entirely the good of nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 93,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: A thing is maintained in the end and moved  towards the end by one and the same cause: thus gravity which makes a heavy body rest in the lower place is also the cause of its being moved thither. We therefore reply that as it is according to the eternal law that some deserve happiness, others unhappiness, so is it by the eternal law that some are maintained in a happy state, others in an unhappy state. Accordingly both the blessed and the damned are under the eternal law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

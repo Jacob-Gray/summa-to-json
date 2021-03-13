@@ -26,80 +26,89 @@
             "title": [
                 "Whether confession is necessary for salvation?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that confession is not necessary for salvation. For the sacrament of Penance is ordained for the sake of the remission of sin. But sin is sufficiently remitted by the infusion of grace. Therefore confession is not necessary in order to do penance for one's sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, we read of some being forgiven their sins without confession, e.g. Peter, Magdalen and Paul. But the grace that remits sins is not less efficacious now than it was then. Therefore neither is it necessary for salvation now that man should confess."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, a sin which is contracted from another, should receive its remedy from another. Therefore actual sin, which a man has committed through his own act, must take its remedy from the man himself. Now Penance is ordained against such sins. Therefore confession is not necessary for salvation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, confession is necessary for a judicial sentence, in order that punishment may be inflicted in proportion to the offense. Now a man is able to inflict on himself a greater punishment than even that which might be inflicted on him by another. Therefore it seems that confession is not necessary for salvation."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The infusion of grace suffices for the remission of sin; but after the sin has been forgiven, the sinner still owes a debt of temporal punishment. Moreover, the sacraments of grace are ordained in order that man may receive the infusion of grace, and before he receives them, either actually or in his intention, he does not receive grace. This is evident in the case of Baptism, and applies to Penance likewise. Again, the penitent expiates his temporal punishment by undergoing the shame of confession, by the power of the keys to which he submits, and by the enjoined satisfaction which the priest moderates according to the kind of sins made known to him in confession. Nevertheless the fact that confession is necessary for salvation is not due to its conducing to the satisfaction for sins, because this punishment to which one remains bound after the remission of sin, is temporal, wherefore the way of salvation remains open, without such punishment being expiated in this life: but it is due to its conducing to the remission of sin, as explained above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Although we do not read that they confessed, it may be that they did; for many things were done which were not recorded in writing. Moreover Christ has the power of excellence in the sacraments; so that He could bestow the reality of the sacrament without using the things which belong to the sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The sin that is contracted from another, viz. original sin, can be remedied by an entirely extrinsic cause, as in the case of infants: whereas actual sin, which a man commits of himself, cannot be expiated, without some operation on the part of the sinner. Nevertheless man is not sufficient to expiate his sin by himself, though he was sufficient to sin by himself, because sin is finite on the part of the thing to which it turns, in which respect the sinner returns to self; while, on the part of the aversion, sin derives infinity, in which respect the remission of sin must needs begin from someone else, because \"that which is last in order of generation is first in the order of intention\" (Ethic. iii). Consequently actual sin also must needs take its remedy from another."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Satisfaction would not suffice for the expiation of sin's punishment, by reason of the severity of the punishment which is enjoined in satisfaction, but it does suffice as being a part of the sacrament having the sacramental power; wherefore it ought to be imposed by the dispensers of the sacraments, and consequently confession is necessary."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -118,62 +127,69 @@
             "title": [
                 "Whether confession is according to the natural law?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that confession is according to the natural law. For Adam and Cain were bound to none but the precepts  of the natural law, and yet they are reproached for not confessing their sin. Therefore confession of sin is according to the natural law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, those precepts which are common to the Old and New Law are according to the natural law. But confession was prescribed in the Old Law, as may be gathered from Is. 43:26: \"Tell, if thou hast anything to justify thyself.\" Therefore it is according to the natural law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, Job was subject only to the natural law. But he confessed his sins, as appears from his words (Job 31:33) \"If, as a man, I have hid my sin.\" Therefore confession is according to the natural law."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Adam is reproached for not confessing his sin before God: because the confession which is made to God by the acknowledgment of one's sin, is according to the natural law. whereas here we are speaking of confession made to a man. We may also reply that in such a case confession of one's sin is according to the natural law, namely when one is called upon by the judge to confess in a court of law, for then the sinner should not lie by excusing or denying his sin, as Adam and Cain are blamed for doing. But confession made voluntarily to a man in order to receive from God the forgiveness of one's sins, is not according to the natural law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The precepts of the natural law avail in the same way in the law of Moses and in the New Law. But although there was  a kind of confession in the law of Moses, yet it was not after the same manner as in the New Law, nor as in the law of nature; for in the law of nature it was sufficient to acknowledge one's sin inwardly before God; while in the law of Moses it was necessary for a man to declare his sin by some external sign, as by making a sin-offering, whereby the fact of his having sinned became known to another man; but it was not necessary for him to make known what particular sin he had committed, or what were its circumstances, as in the New Law."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Job is speaking of the man who hides his sin by denying it or excusing himself when he is accused thereof, as we may gather from a gloss [*Cf. Gregory, Moral. xxii, 9] on the passage."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -191,62 +207,69 @@
             "title": [
                 "Whether all are bound to confession?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that not all are bound to confession, for Jerome says on Is. 3:9 (\"They have proclaimed abroad\"), \"their sin,\" etc.: \"Penance is the second plank after shipwreck.\" But some have not suffered shipwreck after Baptism. Therefore Penance is not befitting them, and consequently neither is confession which is a part of Penance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it is to the judge that confession should be made in any court. But some have no judge over them. Therefore they are not bound to confession."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, some have none but venial sins. Now a man is not bound to confess such sins. Therefore not everyone is bound to confession."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although it is possible for a man, in this mortal life, to avoid shipwreck, i.e. mortal sin, after Baptism, yet he cannot avoid venial sins, which dispose him to shipwreck, and against which also Penance is ordained; wherefore there is still room for Penance, and consequently for confession, even in those who do not commit mortal sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: All must acknowledge Christ as their judge, to Whom they must confess in the person of His vicar; and although the latter may be the inferior if the penitent be a prelate, yet he is the superior, in so far as the penitent is a sinner, while the confessor is the minister of Christ."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: A man is bound to confess his venial sins, not in virtue of the sacrament, but by the institution of the Church, and that, when he has no other sins to confess. We may also, with others, answer that the Decretal quoted above does not bind others than those who have mortal sins to confess. This is evident from the fact that it orders all sins to be confessed, which cannot apply to venial sins, because no one can confess all his venial sins. Accordingly, a man who has no mortal sins to confess, is not bound to confess his venial sins, but it suffices for the fulfillment of the commandment of the Church that he present himself before the priest, and declare himself to be unconscious of any mortal sin: and this will count for his confession."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -265,72 +288,80 @@
             "title": [
                 "Whether it is lawful for a man to confess a sin which he has not committed?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that it is lawful for a man to confess a sin which he has not committed. For, as Gregory says (Regist. xii), \"it is the mark of a good conscience to acknowledge a fault where there is none.\" Therefore it is the mark of a good conscience to accuse oneself of those sins which one has not committed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, by humility a man deems himself worse than another, who is known to be a sinner, and in this he is to be praised. But it is lawful for a man to confess himself to be what he thinks he is. Therefore it is lawful to confess having committed a more grievous sin than one has."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, sometimes one doubts about a sin, whether it be mortal or venial, in which case, seemingly, one ought to confess it as mortal. Therefore a person must sometimes confess a sin which he has not committed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, satisfaction originates from confession. But a man can do satisfaction for a sin which he has not committed. Therefore he can also confess a sin which he has not done."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: To acknowledge a fault where there is none, may be understood in two ways: first, as referring to the substance of the act, and then it is untrue; for it is a mark, not of a good, but of an erroneous conscience, to acknowledge having done what one has not done. Secondly, as referring to the circumstances of the act, and thus the saying of Gregory is true, because a just man fears lest, in any act which is good in itself, there should be any defect on his part. thus it is written (Job 9:28): \"I feared all my works.\" Wherefore it is also the mark of a good conscience that a man should accuse himself in words of this fear which he holds in his thoughts.",
                         "From this may be gathered the Reply to the Second Objection, since a just man, who is truly humble, deems himself worse not as though he had committed an act generically worse, but because he fears lest in those things which he seems to do well, he may by pride sin more grievously."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: When a man doubts whether a certain sin be mortal, he is bound to confess it, so long as he remains in doubt, because he sins mortally by committing or omitting anything, while doubting of its being a mortal sin, and thus leaving the matter to chance; and, moreover, he courts danger, if he neglect to confess that which he doubts may be a mortal sin. He should not, however, affirm that it was a mortal sin, but speak doubtfully, leaving the verdict to the priest, whose business it is to discern between what is leprosy and what is not."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: A man does not commit a falsehood by making satisfaction for a sin which he did not commit, as when anyone confesses a sin which he thinks he has not committed. And if he mentions a sin that he has not committed, believing that he has, he does not lie; wherefore he does not sin, provided his confession thereof tally with his conscience."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "counter": [
@@ -349,62 +380,69 @@
             "title": [
                 "Whether one is bound to confess at once?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that one is bound to confess at once. For Hugh of St. Victor says (De Sacram. ii): \"The contempt of confession is inexcusable, unless there be an urgent reason for delay.\" But everyone is bound to avoid contempt. Therefore everyone is bound to confess as soon as possible."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, everyone is bound to do more to avoid spiritual disease than to avoid bodily disease. Now if a man who is sick in body were to delay sending for the physician, it would be detrimental to his health. Therefore it seems that it must needs be detrimental to a man's health if he omits to confess immediately to a priest if there be one at hand."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, that which is due always, is due at once. But man owes confession to God always. Therefore he is bound to confess at once."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Hugh is speaking of those who die without this sacrament."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: It is not necessary for bodily health that the  physician be sent for at once, except when there is necessity for being healed: and the same applies to spiritual disease."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The retaining of another's property against the owner's will is contrary to a negative precept, which binds always and for always, and therefore one is always bound to make immediate restitution. It is not the same with the fulfillment of an affirmative precept, which binds always, but not for always, wherefore one is not bound to fulfill it at once."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -427,44 +465,49 @@
             "title": [
                 "Whether one can be dispensed from confession?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that one can be dispensed from confessing his sins to a man. For precepts of positive law are subject to dispensation by the prelates of the Church. Now such is confession, as appears from what was said above (Article [3]). Therefore one may be dispensed from confession."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, a man can grant a dispensation in that which was instituted by a man. But we read of confession being instituted, not by God, but by a man (James 5:16): \"Confess your sins, one to another.\" Now the Pope has the power of dispensation in things instituted by the apostles, as appears in the matter of bigamists. Therefore he can also dispense a man from confessing."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The precepts of the Divine law do not bind less than those of the natural law: wherefore, just as no dispensation is possible from the natural law, so neither can there be from positive Divine law."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 6,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The precept about confession was not instituted  by a man first of all, though it was promulgated by James: it was instituted by God, and although we do not read it explicitly, yet it was somewhat foreshadowed in the fact that those who were being prepared by John's Baptism for the grace of Christ, confessed their sins to him, and that the Lord sent the lepers to the priests, and though they were not priests of the New Testament, yet the priesthood of the New Testament was foreshadowed in them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 }
             },
             "counter": [

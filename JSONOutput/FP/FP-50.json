@@ -27,62 +27,69 @@
             "title": [
                 "Whether an angel is altogether incorporeal?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that an angel is not entirely incorporeal. For what is incorporeal only as regards ourselves, and not in relation to God, is not absolutely incorporeal. But Damascene says (De Fide Orth. ii) that \"an angel is said to be incorporeal and immaterial as regards us; but compared to God it is corporeal and material. Therefore he is not simply incorporeal.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, nothing is moved except a body, as the Philosopher says (Phys. vi, text 32). But Damascene says (De Fide Orth. ii) that \"an angel is an ever movable intellectual substance.\" Therefore an angel is a corporeal substance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, Ambrose says (De Spir. Sanct. i, 7): \"Every creature is limited within its own nature.\" But to be limited belongs to bodies. Therefore, every creature is corporeal. Now angels are God's creatures, as appears from Ps. 148:2: \"Praise ye\" the Lord, \"all His angels\"; and, farther on (verse 4), \"For He spoke, and they were made; He commanded, and they were created.\" Therefore angels are corporeal."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Incorporeal substances rank between God and corporeal creatures. Now the medium compared to one extreme appears to be the other extreme, as what is tepid compared to heat seems to be cold; and thus it is said that angels, compared to God, are material and corporeal, not, however, as if anything corporeal existed in them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Movement is there taken in the sense in which it is applied to intelligence and will. Therefore an angel is called an ever mobile substance, because he is ever actually intelligent, and not as if he were sometimes actually and sometimes potentially, as we are. Hence it is clear that the objection rests on an equivocation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: To be circumscribed by local limits belongs to bodies only; whereas to be circumscribed by essential limits  belongs to all creatures, both corporeal and spiritual. Hence Ambrose says (De Spir. Sanct. i, 7) that \"although some things are not contained in corporeal place, still they are none the less circumscribed by their substance.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -102,81 +109,90 @@
             "title": [
                 "Whether an angel is composed of matter and form?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that an angel is composed of matter and form. For everything which is contained under any genus is composed of the genus, and of the difference which added to the genus makes the species. But the genus comes from the matter, and the difference from the form (Metaph. xiii, text 6). Therefore everything which is in a genus is composed of matter and form. But an angel is in the genus of substance. Therefore he is composed of matter and form."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, wherever the properties of matter exist, there is matter. Now the properties of matter are to receive and to substand; whence Boethius says (De Trin.) that \"a simple form cannot be a subject\": and the above properties are found in the angel. Therefore an angel is composed of matter and form."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, form is act. So what is form only is pure act. But an angel is not pure act, for this belongs to God alone. Therefore an angel is not form only, but has a form in matter."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, form is properly limited and perfected by matter. So the form which is not in matter is an infinite form. But the form of an angel is not infinite, for every creature is finite. Therefore the form of an angel is in matter."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: It is difference which constitutes the species. Now everything is constituted in a species according as it is determined to some special grade of being because \"the species of things are like numbers,\" which differ by addition and subtraction of unity, as the Philosopher says (Metaph. viii, text 10). But in material things there is one thing which determines to a special grade, and that is the form; and another thing which is determined, and this is the matter; and hence from the latter the \"genus\" is derived, and from the former the \"difference.\" Whereas in immaterial things there is no separate determinator and thing determined; each thing by its own self holds a determinate grade in being; and therefore in them \"genus\" and \"difference\" are not derived from different things, but from one and the same. Nevertheless, this differs in our mode of conception; for, inasmuch as our intellect considers it as indeterminate, it derives the idea of their \"genus\"; and inasmuch as it considers it determinately, it derives the idea of their \"difference.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: This reason is given in the book on the Fount of Life, and it would be cogent, supposing that the receptive mode of the intellect and of matter were the same. But this is clearly false. For matter receives the form, that thereby it may be constituted in some species, either of air, or of fire, or of  something else. But the intellect does not receive the form in the same way; otherwise the opinion of Empedocles (De Anima i, 5, text 26) would be true, to the effect that we know earth by earth, and fire by fire. But the intelligible form is in the intellect according to the very nature of a form; for as such is it so known by the intellect. Hence such a way of receiving is not that of matter, but of an immaterial substance."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Although there is no composition of matter and form in an angel, yet there is act and potentiality. And this can be made evident if we consider the nature of material things which contain a twofold composition. The first is that of form and matter, whereby the nature is constituted. Such a composite nature is not its own existence but existence is its act. Hence the nature itself is related to its own existence as potentiality to act. Therefore if there be no matter, and supposing that the form itself subsists without matter, there nevertheless still remains the relation of the form to its very existence, as of potentiality to act. And such a kind of composition is understood to be in the angels; and this is what some say, that an angel is composed of, \"whereby he is,\" and \"what is,\" or \"existence,\" and \"what is,\" as Boethius says. For \"what is,\" is the form itself subsisting; and the existence itself is whereby the substance is; as the running is whereby the runner runs. But in God \"existence\" and \"what is\" are not different as was explained above (Question [3], Article [4]). Hence God alone is pure act."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Every creature is simply finite, inasmuch as its existence is not absolutely subsisting, but is limited to some nature to which it belongs. But there is nothing against a creature being considered relatively infinite. Material creatures are infinite on the part of matter, but finite in their form, which is limited by the matter which receives it. But immaterial created substances are finite in their being; whereas they are infinite in the sense that their forms are not received in anything else; as if we were to say, for example, that whiteness existing separate is infinite as regards the nature of whiteness, forasmuch as it is not contracted to any one subject; while its \"being\" is finite as determined to some one special nature.",
                         "Whence it is said (De Causis, prop. 16) that \"intelligence is finite from above,\" as receiving its being from above itself, and is \"infinite from below,\" as not received in any matter."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -197,80 +213,89 @@
             "title": [
                 "Whether the angels exist in any great number?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the angels are not in great numbers. For number is a species of quantity, and follows the division of a continuous body. But this cannot be in the angels, since they are incorporeal, as was shown above (Article [1]). Therefore the angels cannot exist in any great number."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the more a thing approaches to unity, so much  the less is it multiplied, as is evident in numbers. But among other created natures the angelic nature approaches nearest to God. Therefore since God is supremely one, it seems that there is the least possible number in the angelic nature."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the proper effect of the separate substances seems to be the movements of the heavenly bodies. But the movements of the heavenly bodies fall within some small determined number, which we can apprehend. Therefore the angels are not in greater number than the movements of the heavenly bodies."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Dionysius says (Div. Nom. iv) that \"all intelligible and intellectual substances subsist because of the rays of the divine goodness.\" But a ray is only multiplied according to the different things that receive it. Now it cannot be said that their matter is receptive of an intelligible ray, since intellectual substances are immaterial, as was shown above (Article [2]). Therefore it seems that the multiplication of intellectual substances can only be according to the requirements of the first bodies---that is, of the heavenly ones, so that in some way the shedding form of the aforesaid rays may be terminated in them; and hence the same conclusion is to be drawn as before."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: In the angels number is not that of discrete quantity, brought about by division of what is continuous, but that which is caused by distinction of forms; according as multitude is reckoned among the transcendentals, as was said above (Question [30], Article [3]; Question [11])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: From the angelic nature being the nighest unto God, it must needs have least of multitude in its composition, but not so as to be found in few subjects."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: This is Aristotle's argument (Metaph. xii, text 44), and it would conclude necessarily if the separate substances were made for corporeal substances. For thus the immaterial substances would exist to no purpose, unless some movement from them were to appear in corporeal things. But it is not true that the immaterial substances exist on account of the corporeal, because the end is nobler than the means to the end. Hence Aristotle says (Metaph. xii, text 44) that this is not a necessary argument, but a probable one. He was forced to make use of this argument, since only through sensible things can we come to know intelligible ones."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: This argument comes from the opinion of such as hold that matter is the cause of the distinction of things; but this was refuted above (Question [47], Article [1]). Accordingly, the multiplication of the angels is not to be taken according to matter, nor according to bodies, but according to the divine wisdom devising the various orders of immaterial substances."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -290,80 +315,89 @@
             "title": [
                 "Whether the angels differ in species?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the angels do not differ in species. For since the \"difference\" is nobler than the 'genus,' all things which agree in what is noblest in them, agree likewise in their  ultimate constitutive difference; and so they are the same according to species. But all angels agree in what is noblest in them---that is to say, in intellectuality. Therefore all the angels are of one species."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, more and less do not change a species. But the angels seem to differ only from one another according to more and less---namely, as one is simpler than another, and of keener intellect. Therefore the angels do not differ specifically."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, soul and angel are contra-distinguished mutually from each other. But all souls are of the one species. So therefore are the angels."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, the more perfect a thing is in nature, the more ought it to be multiplied. But this would not be so if there were but one individual under one species. Therefore there are many angels of one species."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: \"Difference\" is nobler than \"genus,\" as the determined is more noble than the undetermined, and the proper than the common, but not as one nature is nobler than another; otherwise it would be necessary that all irrational animals be of the same species; or that there should be in them some form which is higher than the sensible soul. Therefore irrational animals differ in species according to the various determined degrees of sensitive nature; and in like manner all the angels differ in species  according to the diverse degrees of intellectual nature."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: More and less change the species, not according as they are caused by the intensity or remissness of one form, but according as they are caused by forms of diverse degrees; for instance, if we say that fire is more perfect than air: and in this way the angels are diversified according to more or less."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: The good of the species preponderates over the good of the individual. Hence it is much better for the species to be multiplied in the angels than for individuals to be multiplied in the one species."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Numerical multiplication, since it can be drawn out infinitely, is not intended by the agent, but only specific multiplication, as was said above (Question [47], Article [3]). Hence the perfection of the angelic nature calls for the multiplying of species, but not for the multiplying of individuals in one species."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "counter": [
@@ -382,62 +416,69 @@
             "title": [
                 "Whether the angels are incorruptible?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It would seem that the angels are not incorruptible; for Damascene, speaking of the angel, says (De Fide Orth. ii, 3) that he is \"an intellectual substance, partaking of immortality by favor, and not by nature.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, Plato says in the Timaeus: \"O gods of gods, whose maker and father am I: You are indeed my works, dissoluble by nature, yet indissoluble because I so will it.\" But gods such as these can only be understood to be the angels. Therefore the angels are corruptible by their nature"
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, according to Gregory (Moral. xvi), \"all things would tend towards nothing, unless the hand of the Almighty preserved them.\" But what can be brought to nothing is corruptible. Therefore, since the angels were made by God, it would appear that they are corruptible of their own nature."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Damascene is dealing with perfect immortality, which includes complete immutability; since \"every change is a kind of death,\" as Augustine says (Contra Maxim. iii). The angels obtain perfect immutability only by favor, as will appear later (Question [62])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: By the expression 'gods' Plato understands the heavenly bodies, which he supposed to be made up of elements, and therefore dissoluble of their own nature; yet they are for ever preserved in existence by the Divine will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 50,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: As was observed above (Question [44], Article [1]) there is a kind of necessary thing which has a cause of its necessity. Hence it is not repugnant to a necessary or incorruptible being to depend for its existence on another as its cause. Therefore, when it is said that all things, even the angels, would lapse into nothing, unless preserved by God, it is not to be gathered therefrom that there is any principle of corruption in the angels; but that the nature of the angels is dependent upon God as its cause. For a thing is said to be corruptible not merely because God can reduce it to non-existence, by withdrawing His act of preservation; but also because it has some principle of corruption within itself, or some contrariety, or at least the potentiality of matter."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [

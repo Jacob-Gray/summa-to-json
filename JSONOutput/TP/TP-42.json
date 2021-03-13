@@ -24,63 +24,70 @@
             "title": [
                 "Whether Christ should have preached not only to the Jews, but also to the Gentiles?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ should have preached not only to the Jews, but also to the Gentiles. For it is written (Is. 49:6): \"It is a small thing that thou shouldst be My servant to raise up the tribes of Israel [Vulg.: 'Jacob'] and to convert the dregs of Jacob [Vulg.: 'Israel']: behold, I have given thee to be the light of the Gentiles, that thou mayest be my salvation even to the farthest part of the earth.\" But Christ gave light and salvation through His doctrine. Therefore it seems that it was \"a small thing\" that He preached to Jews alone, and not to the Gentiles."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, as it is written (Mt. 7:29): \"He was teaching them as one having power.\" Now the power of doctrine is made more manifest in the instruction of those who, like the Gentiles, have received no tidings whatever; hence the Apostle says (Rm. 15:20): \"I have so preached the [Vulg.: 'this'] gospel, not where Christ was named, lest I should build upon another man's foundation.\" Therefore much rather should Christ have preached to the Gentiles than to the Jews."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it is more useful to instruct many than one. But Christ instructed some individual Gentiles, such as the Samaritan woman (Jn. 4) and the Chananaean woman (Mt. 15). Much more reason, therefore, was there for Christ to preach to the Gentiles in general."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Christ was given to be the light and salvation of the Gentiles through His disciples, whom He sent to preach to them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: It is a sign, not of lesser, but of greater power to do something by means of others rather than by oneself. And thus the Divine power of Christ was specially shown in this, that He bestowed on the teaching of His disciples such a power that they converted the Gentiles to Christ, although these had heard nothing of Him.",
                         "Now the power of Christ's teaching is to be considered in the miracles by which He confirmed His doctrine, in the efficacy of His persuasion, and in the authority of His words, for He spoke as being Himself above the Law when He said: \"But I say to you\" (Mt. 5:22,28,32,34,39,44); and, again, in the force of His righteousness shown in His sinless manner of life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Just as it was unfitting that Christ should at the outset make His doctrine known to the Gentiles equally with the Jews, in order that He might appear as being sent to the Jews, as to the first-born people; so neither was it fitting for Him to neglect the Gentiles altogether, lest they should be deprived of the hope of salvation. For this reason certain individual Gentiles  were admitted, on account of the excellence of their faith and devotedness."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -101,62 +108,69 @@
             "title": [
                 "Whether Christ should have preached to the Jews without offending them?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ should have preached to the Jews without offending them. For, as Augustine says (De Agone Christ. xi): \"In the Man Jesus Christ, a model of life is given us by the Son of God.\" But we should avoid offending not only the faithful, but even unbelievers, according to 1 Cor. 10:32: \"Be without offense to the Jews, and to the Gentiles, and to the Church of God.\" Therefore it seems that, in His teaching, Christ should also have avoided giving offense to the Jews."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, no wise man should do anything that will hinder the result of his labor. Now through the disturbance which His teaching occasioned among the Jews, it was deprived of its results; for it is written (Lk. 11:53,54) that when our Lord reproved the Pharisees and Scribes, they \"began vehemently to urge Him, end to oppress His mouth about many things; lying in wait for Him, and seeking to catch something from His mouth, that they might accuse Him.\" It seems therefore unfitting that He should have given them offense by His teaching."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the Apostle says (1 Tim. 5:1): \"An ancient man rebuke not; but entreat him as a father.\" But the priests and princes of the Jews were the elders of that people. Therefore it seems that they should not have been rebuked with severity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: A man ought so to avoid giving offense, as neither by wrong deed or word to be the occasion of anyone's  downfall. \"But if scandal arise from truth, the scandal should be borne rather than the truth be set aside,\" as Gregory says (Hom. vii in Ezech.)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: By publicly reproving the Scribes and Pharisees, Christ promoted rather than hindered the effect of His teaching. Because when the people came to know the vices of those men, they were less inclined to be prejudiced against Christ by hearing what was said of Him by the Scribes and Pharisees, who were ever withstanding His doctrine."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: This saying of the Apostle is to be understood of those elders whose years are reckoned not only in age and authority, but also in probity; according to Num. 11:16: \"Gather unto Me seventy men of the ancients of Israel, whom thou knowest to be ancients . . . of the people.\" But if by sinning openly they turn the authority of their years into an instrument of wickedness, they should be rebuked openly and severely, as also Daniel says (Dan. 13:52): \"O thou that art grown old in evil days,\" etc."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -174,64 +188,71 @@
             "title": [
                 "Whether Christ should have taught all things openly?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ should not have taught all things openly. For we read that He taught many things to His disciples apart: as is seen clearly in the sermon at the Supper. Wherefore He said: \"That which you heard in the ear in the chambers shall be preached on the housetops\" [*St. Thomas, probably quoting from memory, combines Mt. 10:27 with Lk. 12:3]. Therefore He did not teach all things openly."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the depths of wisdom should not be expounded save to the perfect, according to 1 Cor. 2:6: \"We speak wisdom among the perfect.\" Now Christ's doctrine contained the most profound wisdom. Therefore it should not have been made known to the imperfect crowd."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, it comes to the same, to hide the truth, whether by saying nothing or by making use of a language that is difficult to understand. Now Christ, by speaking to the multitudes a language they would not understand, hid from them the truth that He preached; since \"without parables He did not speak to them\" (Mt. 13:34). In the same way, therefore, He could have hidden it from them by saying nothing at all."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As Hilary says, commenting on the passage quoted, \"we do not read that our Lord was wont to preach at night, and expound His doctrine in the dark: but He says this because His speech is darkness to the carnal-minded, and His words are night to the unbeliever. His meaning, therefore, is that whatever He said we also should say in the midst of unbelievers, by openly believing and professing it.\"",
                         "Or, according to Jerome, He speaks comparatively---that is to say, because He was instructing them in Judea, which was a small place compared with the whole world, where Christ's doctrine was to be published by the preaching of the apostles."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: By His doctrine our Lord did not make known all the depths of His wisdom, neither to the multitudes, nor, indeed, to His disciples, to whom He said (Jn. 16:12): \"I have yet many things to say to you, but you cannot bear them now.\" Yet whatever things out of His wisdom He judged it right to make known to others, He expounded, not in secret, but openly; although He was not understood by all. Hence Augustine says on Jn. 18:20: \"We must understand this, 'I have spoken openly to the world,' as though our  Lord had said, 'Many have heard Me' . . . and, again, it was not 'openly,' because they did not understand.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As stated above, our Lord spoke to the multitudes in parables, because they were neither able nor worthy to receive the naked truth, which He revealed to His disciples.",
                         "And when it is said that \"without parables He did not speak to them,\" according to Chrysostom (Hom. xlvii in Matth.), we are to understand this of that particular sermon, since on other occasions He said many things to the multitude without parables. Or, as Augustine says (De Qq. Evang., qu. xvii), this means, \"not that He spoke nothing literally, but that He scarcely ever spoke without introducing a parable, although He also spoke some things in the literal sense.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -251,62 +272,69 @@
             "title": [
                 "Whether Christ should have committed His doctrine to writing?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ should have committed His doctrine to writing. For the purpose of writing is to hand down doctrine to posterity. Now Christ's doctrine was destined to endure for ever, according to Lk. 21:33: \"Heaven and earth shall pass away, but My words shall not pass away.\" Therefore it seems that Christ should have committed His doctrine to writing."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the Old Law was a foreshadowing of Christ, according to Heb. 10:1: \"The Law has [Vulg.: 'having'] a shadow of the good things to come.\" Now the Old Law was put into writing by God, according to Ex. 24:12: \"I will give thee\" two \"tables of stone and the law, and the commandments which I have written.\" Therefore it seems that Christ also should have put His doctrine into writing."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, to Christ, who came to enlighten them that sit in darkness (Lk. 1:79), it belonged to remove occasions of error, and to open out the road to faith. Now He would have done this by putting His teaching into writing: for Augustine says (De Consensu Evang. i) that \"some there are who wonder why our Lord wrote nothing, so that we have to believe what others have written about Him. Especially do those pagans ask this question who dare not blame or blaspheme Christ, and who ascribe to Him most excellent, but merely human, wisdom. These say that the disciples made out the Master to be more than He really was when they said that He was the Son of God and the Word of God, by whom all things were made.\" And farther on he adds: \"It seems as though they were prepared to believe whatever He might have written of Himself, but not what others at their discretion published about Him.\" Therefore it seems that Christ should have Himself committed His doctrine to writing."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As Augustine says in the same book: \"Christ is the head of all His disciples who are members of His body. Consequently, when they put into writing what He showed forth and said to them, by no means must we say that He wrote nothing: since His members put forth that which they knew under His dictation. For at His command they, being His hands, as it were, wrote whatever He wished us to read concerning His deeds and words.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Since the old Law was given under the form of sensible signs, therefore also was it fittingly written with  sensible signs. But Christ's doctrine, which is \"the law of the spirit of life\" (Rm. 8:2), had to be \"written not with ink, but with the Spirit of the living God; not in tables of stone, but in the fleshly tables of the heart,\" as the Apostle says (2 Cor. 3:3)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Those who were unwilling to believe what the apostles wrote of Christ would have refused to believe the writings of Christ, whom they deemed to work miracles by the magic art."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

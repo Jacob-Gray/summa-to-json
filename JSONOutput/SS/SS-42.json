@@ -21,62 +21,69 @@
             "title": [
                 "Whether sedition is a special sin distinct from other sins?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that sedition is not a special sin distinct from other sins. For, according to Isidore (Etym. x), \"a seditious man is one who sows dissent among minds, and begets discord.\" Now, by provoking the commission of a sin, a man sins by no other kind of sin than that which he provoked. Therefore it seems that sedition is not a special sin distinct from discord."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, sedition denotes a kind of division. Now schism takes its name from scission, as stated above (Question [39], Article [1]). Therefore, seemingly, the sin of sedition is not distinct from that of schism."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, every special sin that is distinct from other sins, is either a capital vice, or arises from some capital vice. Now sedition is reckoned neither among the capital vices, nor among those vices which arise from them, as appears from Moral. xxxi, 45, where both kinds of vice are enumerated. Therefore sedition is not a special sin, distinct from other sins."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: A seditious man is one who incites others to sedition, and since sedition denotes a kind of discord, it follows that a seditious man is one who creates discord, not of any kind, but between the parts of a multitude. And the sin of sedition is not only in him who sows discord, but also in those who dissent from one another inordinately."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Sedition differs from schism in two respects. First, because schism is opposed to the spiritual unity of the multitude, viz. ecclesiastical unity, whereas sedition is contrary to the temporal or secular unity of the multitude, for instance of a city or kingdom. Secondly, schism does not imply any preparation for a material fight as sedition does, but only for a spiritual dissent."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Sedition, like schism, is contained under discord, since each is a kind of discord, not between individuals, but between the parts of a multitude."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -94,62 +101,69 @@
             "title": [
                 "Whether sedition is always a mortal sin?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that sedition is not always a mortal sin. For sedition denotes \"a tumult tending to fight,\" according to the gloss quoted above (Article [1]). But fighting is not always a mortal sin, indeed it is sometimes just and lawful, as stated above (Question [40], Article [1]). Much more, therefore, can sedition be without a mortal sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, sedition is a kind of discord, as stated above (Article [1], ad 3). Now discord can be without mortal sin, and sometimes without any sin at all. Therefore sedition can be also."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, it is praiseworthy to deliver a multitude from a tyrannical rule. Yet this cannot easily be done without some dissension in the multitude, if one part of the multitude seeks to retain the tyrant, while the rest strive to dethrone him. Therefore there can be sedition without mortal sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 42,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: It is lawful to fight, provided it be for the common good, as stated above (Question [40], Article [1]). But sedition runs counter to the common good of the multitude, so that it is always a mortal sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 42,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Discord from what is not evidently good, may be without sin, but discord from what is evidently good, cannot be without sin: and sedition is discord of this kind, for it is contrary to the unity of the multitude, which is a manifest good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 42,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: A tyrannical government is not just, because it is directed, not to the common good, but to the private good of the ruler, as the Philosopher states (Polit. iii, 5; Ethic. viii, 10). Consequently there is no sedition in disturbing a government of this kind, unless indeed the tyrant's rule be disturbed so inordinately, that his subjects suffer greater harm from the consequent disturbance than from the tyrant's government. Indeed it is the tyrant rather that is guilty of sedition, since he encourages discord and sedition among his subjects, that he may lord over them more securely; for this is tyranny, being conducive to the private good of the ruler, and to the injury of the multitude."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

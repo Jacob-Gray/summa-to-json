@@ -22,62 +22,69 @@
             "title": [
                 "Whether superstition is a vice contrary to religion?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 92,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that superstition is not a vice contrary to religion. One contrary is not included in the definition of the other. But religion is included in the definition of superstition:  for the latter is defined as being \"immoderate observance of religion,\" according to a gloss on Col. 2:23, \"Which things have indeed a show of wisdom in superstition.\" Therefore superstition is not a vice contrary to religion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 92,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, Isidore says (Etym. x): \"Cicero [*De Natura Deorum ii, 28] states that the superstitious were so called because they spent the day in praying and offering sacrifices that their children might survive [superstites] them.\" But this may be done even in accordance with true religious worship. Therefore superstition is not a vice opposed to religion."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 92,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, superstition seems to denote an excess. But religion admits of no excess, since, as stated above (Question [81], Article [5], ad 3), there is no possibility of rendering to God, by religion, the equal of what we owe Him. Therefore superstition is not a vice contrary to religion."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 92,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Just as we speak metaphorically of good among evil things---thus we speak of a good thief---so too sometimes the names of the virtues are employed by transposition in an evil sense. Thus prudence is sometimes used instead of cunning, according to Lk. 16:8, \"The children of this world are more prudent [Douay: 'wiser'] in their generation than the children of light.\" It is in this way that superstition is described as religion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 92,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: The etymology of a word differs from its meaning. For its etymology depends on what it is taken from for the purpose of signification: whereas its meaning depends on the thing to which  it is applied for the purpose of signifying it. Now these things differ sometimes: for \"lapis\" [a stone] takes its name from hurting the foot [laedere pedem], but this is not its meaning, else iron, since it hurts the foot, would be a stone. In like manner it does not follow that \"superstition\" means that from which the word is derived."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 92,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Religion does not admit of excess, in respect of absolute quantity, but it does admit of excess in respect of proportionate quantity, in so far, to wit, as something may be done in divine worship that ought not to be done."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether there are various species of superstition?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 92,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It would seem that there are not various species of superstition. According to the Philosopher (Topic. i, 13), \"if one contrary includes many kinds, so does the other.\" Now religion, to which superstition is contrary, does not include various species; but all its acts belong to the one species. Therefore neither has superstition various species."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 92,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, opposites relate to one same thing. But religion, to which superstition is opposed, relates to those things whereby we are directed to God, as stated above (Question [81], Article [1]). Therefore superstition, which is opposed to religion, is not specified according to divinations of human occurrences, or by the observances of certain human actions."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 92,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, a gloss on Col. 2:23, \"Which things have . . . a show of wisdom in superstition,\" adds: \"that is to say in a hypocritical religion.\" Therefore hypocrisy should be reckoned a species of superstition."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 92,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: As Dionysius says (Div. Nom. iv), \"good results from a cause that is one and entire, whereas evil arises from each single defect.\" Wherefore several vices are opposed to one virtue, as stated above (Article [1]; Question [10], Article [5]). The saying of the Philosopher is true of opposites wherein there is the same reason of multiplicity."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 92,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Divinations and certain observances come under the head of superstition, in so far as they depend on certain actions of the demons: and thus they pertain to compacts made with them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 92,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Hypocritical religion is taken here for \"religion as applied to human observances,\" as the gloss goes on to explain. Wherefore this hypocritical religion is nothing else than worship given to God in an undue mode: as, for instance, if a man were, in the time of grace, to wish to worship God according to the rite of the Old Law. It is of religion taken in this sense that the gloss speaks literally."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

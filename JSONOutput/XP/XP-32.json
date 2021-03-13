@@ -26,44 +26,49 @@
             "title": [
                 "Whether this sacrament ought to be conferred on those who are in good health?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that this sacrament should be conferred even on those who are in good health. For the healing of the mind is a more important effect of this sacrament than the healing of the body, as stated above (Question [30], Article [2]). Now even those who are healthy in body need to be healed in mind. Therefore this sacrament should be conferred on them also."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, this is the sacrament of those who are departing this life, just as Baptism is the sacrament of those who are entering this life. Now Baptism is given to all who enter. Therefore this sacrament should be given to all who are departing. But sometimes those who are near departure are in good health, for instance those who are to be beheaded. Therefore this sacrament should be conferred on them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although spiritual health is the principal effect of this sacrament, yet this same spiritual healing needs to be signified by a healing of the body, although bodily health may not actually ensue. Consequently spiritual health can be conferred by this sacrament on those alone who are competent to receive bodily healing, viz. the sick; even as he alone can receive Baptism who is capable of a bodily washing, and not a child yet in its mother's womb."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Even those who are entering into life cannot receive Baptism unless they are capable of a bodily washing. And so those who are departing this life cannot receive this sacrament, unless they be subjects for a bodily healing."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 }
             },
             "counter": [
@@ -81,44 +86,49 @@
             "title": [
                 "Whether this sacrament ought to be given in any kind of sickness?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that this sacrament should be given in any kind of sickness. For no kind of sickness is determined in the fifth chapter of James where this sacrament is delivered to us. Therefore this sacrament should be given in all kinds of sickness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the more excellent a remedy is, the more generally should it be available. Now this sacrament is more excellent than bodily medicine. Since then bodily medicine is given to all manner of sick persons, it seems that this sacrament should be given in like manner to all."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Any sickness can cause death, if it be aggravated. Hence if we consider the different kinds of disease, there is none in which this sacrament cannot be given; and for this reason the apostle does not determine any particular one. But if we consider the degree and the stage of the complaint, this sacrament should not be given to every sick person."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The principal effect of bodily medicine is bodily health, which all sick people lack, whatever be the stage of their sickness. But the principal effect of this sacrament is that immunity from disorder which is needed by those who are taking their departure from this life and setting out for the life of glory. Hence the comparison fails."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -136,44 +146,49 @@
             "title": [
                 "Whether this sacrament ought to be given to madmen and imbeciles?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that this sacrament should be given to madmen and imbeciles. For these diseases are full of danger and cause death quickly. Now when there is danger it is the time to apply the remedy. Therefore this sacrament, which was intended as a remedy to human weakness, should be given to such people."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, Baptism is a greater sacrament than this. Now Baptism is conferred on mad people as stated above (TP, Question [68], Article [12]). Therefore this sacrament also should be given to them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although such people are sometimes in danger of death; yet the remedy cannot be applied to them, on account of their lack of devotion. Hence it should not be given to them."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Baptism does not require a movement of the free-will, because it is given chiefly as a remedy for original sin, which, in us, is not taken away by a movement of the free-will. On the other hand this sacrament requires a movement of the free-will; wherefore the comparison fails. Moreover Baptism is a necessary sacrament, while Extreme Unction is not."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "counter": [
@@ -191,44 +206,49 @@
             "title": [
                 "Whether this sacrament should be given to children?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that this sacrament ought to be given to children. Because children suffer from the same ailments sometimes as adults. Now the same disease requires the same remedy. Therefore this sacrament should be given to children the same as to adults."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, this sacrament is given in order to remove the remnants of sin, whether original or actual, as stated above (Question [30], Article [1]). Now the remnants of original sin are in children. Therefore this sacrament should be given to them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Children's infirmities are not caused by actual sin, as in adults, and this sacrament is given chiefly as a remedy for infirmities that result from sins, being the remnants of sin, as it were."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: This sacrament is not given as a remedy for the remnants of original sin, except in so far as they gather strength, so to speak, from actual sins. Hence from the very form it appears that it is given chiefly as a remedy for actual sins, which are not in children."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 }
             },
             "counter": [
@@ -246,62 +266,69 @@
             "title": [
                 "Whether the whole body should be anointed in this sacrament?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the whole body should be anointed in this sacrament. For, according to Augustine (De Trin. vi, 6), \"the whole soul is in every part of the body.\" Now this sacrament is given chiefly in order to heal the soul. Therefore the whole body ought to be anointed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the remedy should be applied to the part affected by the disease. But sometimes the disease is general, and affects the whole body, as a fever does. Therefore the whole body should be anointed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, in Baptism the whole body is dipped under the water. Therefore in this sacrament the whole body should be anointed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Although the whole soul is, as to its essence, in each part of the body, it is not as to its powers which are the roots of sinful acts. Hence certain fixed parts have to be anointed, those, namely, in which powers have their being."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The remedy is not always applied to the part affected by the disease, but, with greater reason, to the part where the root of the disease is seated."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Baptism is given under the form of washing: and a bodily washing cleanses only the part to which it is applied; for this reason Baptism is applied to the whole body. It is different with Extreme Unction for the reason given above."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -319,80 +346,89 @@
             "title": [
                 "Whether the parts to be anointed are suitably assigned?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that these parts are unsuitably assigned, namely, that the eyes, nose, ears, lips, hands, and feet should be anointed. For a wise physician heals the disease in its root. Now \"from the heart come forth thoughts . . . that defile a man\" (Mt. 15:19,20). Therefore the breast ought to be anointed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, purity of mind is not less necessary to those who are departing this life than to those who are entering therein.  Now those who are entering are anointed with chrism on the head by the priest, to signify purity of mind. Therefore in this sacrament those who are departing should be anointed on the head."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the remedy should be applied where the disease is most virulent. Now spiritual sickness is most virulent in the loins in men, and in the navel in women, according to Job 40:11: \"His strength is in his loins, and his force in the navel of his belly,\" as Gregory expounds the passage (Moral. xxxii, 11). Therefore these parts should be anointed."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, sins are committed with other parts of the body, no less than with the feet. Therefore, as the feet are anointed, so ought other members of the body to be anointed."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: No thought arises in the heart without an act of the imagination which is a movement proceeding from sensation (De Anima ii). Hence the primary root of thought is not the heart, but the sensory organs, except in so far as the heart is a principle of the whole body, albeit a remote principle."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Those who enter have to receive purity of the mind, whereas those who are departing have to cleanse the mind. Hence the latter need to be anointed in those parts in respect of which the mind's purity may be sullied."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Some are wont to anoint the loins, because they are the chief seat of the concupiscible appetite: however, as stated above, the appetitive power is not the primary root."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 },
                 "4": {
-                    "id": 4,
                     "question": 32,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: The bodily organs which are the instruments of sin, are the feet, hands, and tongue, all of which are anointed,  and the organs of generation which it would be unbecoming to anoint, on account of their uncleanliness, and out of respect for the sacrament."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 6
                 }
             },
             "counter": [],
@@ -409,24 +445,27 @@
             "title": [
                 "Whether those who are deformed in those parts should be anointed?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that those who are deformed should not be anointed in those parts. For just as this sacrament demands a certain disposition on the part of the recipient, viz. that he should be sick, so it demands that he should be anointed in a certain part of the body. Now he that is not sick cannot be anointed. Therefore neither can he be anointed who lacks the part to be anointed."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 32,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, a man born blind does not sin by his sight. Yet in the anointing of the eyes mention is made of sins by sight. Therefore this anointing ought not to be applied to one born blind, and in like manner as regards the other senses."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 }
             },
             "replies": {},

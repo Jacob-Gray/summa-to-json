@@ -23,62 +23,69 @@
             "title": [
                 "Whether catechism should precede Baptism?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that catechism should not precede Baptism. For by Baptism men are regenerated unto the spiritual life. But man begins to live before being taught. Therefore man should not be catechized, i.e. taught, before being baptized."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Baptism is given not only to adults, but also to children, who are not capable of being taught, since they have not the use of reason. Therefore it is absurd to catechize them."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, a man, when catechized, confesses his faith. Now a child cannot confess its faith by itself, nor can anyone else in its stead; both because no one can bind another to do anything; and because one cannot know whether the child, having come to the right age, will give its assent to faith. Therefore catechism should not precede Baptism."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The life of grace unto which a man is regenerated, presupposes the life of the rational nature, in which man is capable of receiving instruction."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: Just as Mother Church, as stated above (Question [69], Article [6], ad 3), lends children another's feet that they may come, and another's heart that they may believe, so, too, she lends them another's ears, that they may hear, and another's mind, that through others they may be taught. And therefore, as they are to be baptized, on the same grounds they are to be instructed."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: He who answers in the child's stead: \"I do believe,\" does not foretell that the child will believe when it comes to the right age, else he would say: \"He will believe\"; but in the child's stead he professes the Church's faith which is communicated to that child, the sacrament of which faith is bestowed on it, and to which faith he is bound by another. For there is nothing unfitting in a person being bound by another in things necessary for salvation. In like manner the sponsor, in answering for the child, promises to use his endeavors that the child may believe. This, however, would not be sufficient in the case of adults having the use of reason."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,63 +103,70 @@
             "title": [
                 "Whether exorcism should precede Baptism?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that exorcism should not precede Baptism. For exorcism is ordained against energumens or those who are possessed. But not all are such like. Therefore exorcism should not precede Baptism."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, so long as man is a subject of sin, the devil  has power over him, according to Jn. 8:34: \"Whosoever committeth sin is the servant of sin.\" But sin is taken away by Baptism. Therefore men should not be exorcized before Baptism."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, Holy water was introduced in order to ward off the power of the demons. Therefore exorcism was not needed as a further remedy."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The energumens are so-called from \"laboring inwardly\" under the outward operation of the devil. And though not all that approach Baptism are troubled by him in their bodies, yet all who are not baptized are subject to the power of the demons, at least on account of the guilt of original sin."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The power of the devil in so far as he hinders man from obtaining glory, is expelled from man by the baptismal ablution; but in so far as he hinders man from receiving the sacrament, his power is cast out by the exorcisms."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Holy water is used against the assaults of demons from without. But exorcisms are directed against those assaults of the demons which are from within. hence those who are exorcized are called energumens, as it were \"laboring inwardly.\"",
                         "Or we may say that just as Penance is given as a further remedy against sin, because Baptism is not repeated; so Holy Water is given as a further remedy against the assaults of demons, because the baptismal exorcisms are not given a second time."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -170,82 +184,91 @@
             "title": [
                 "Whether what is done in the exorcism effects anything, or is a mere  sign?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that what is done in the exorcism does not effect anything, but is a mere sign. For if a child die after the exorcisms, before being baptized, it is not saved. But the effects of what is done in the sacraments are ordained to the salvation of man; hence it is written (Mk. 16:16): \"He that believeth and is baptized shall be saved.\" Therefore what is done in the exorcism effects nothing, but is a mere sign."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, nothing is required for a sacrament of the New Law, but that it should be a sign and a cause, as stated above (Question [62], Article [1]). If, therefore, the things done in the exorcism effect anything, it seems that each of them is a sacrament."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, just as the exorcism is ordained to Baptism, so if anything be effected in the exorcism, it is ordained to the effect of Baptism. But disposition must needs precede the perfect form: because form is not received save into matter already disposed. It would follow, therefore, that none could obtain the effect of Baptism unless he were previously exorcized; which is clearly false. Therefore what is done in the exorcisms has no effect."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, just as some things are done in the exorcism before Baptism, so are some things done after Baptism; for instance, the priest anoints the baptized on the top of the head. But what is done after Baptism seems to have no effect; for, if it had, the effect of Baptism would be imperfect. Therefore neither have those things an effect, which are done in exorcism before Baptism."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: What is done in the exorcism does not take away the sin for which man is punished after death; but only the impediments against his receiving the remission of sin through the sacrament. Wherefore exorcism avails a man nothing after death if he has not been baptized.",
                         "Praepositivus, however, says that children who die after being exorcized but before being baptized are subjected to lesser darkness. But this does not seem to be true: because that darkness consists in privation of the vision of God, which cannot be greater or lesser."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: It is essential to a sacrament to produce its principal effect, which is grace that remits sin, or supplies some defect in man. But those things that are done in the exorcism do not effect this; they merely remove these impediments. Consequently, they are not sacraments but sacramentals."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The disposition that suffices for receiving the baptismal grace is the faith and intention, either of the one baptized, if it be an adult, or of the Church, if it be a child. But these things that are done in the exorcism, are directed to the removal of the impediments. And therefore one may receive the effect of Baptism without them.",
                         "Yet they are not to be omitted save in a case of necessity. And then, if the danger pass, they should be supplied, that uniformity in Baptism may be observed. Nor are they supplied to no purpose after Baptism: because, just as the effect of Baptism may be hindered before it is received, so can it be hindered after it has been received."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: Of those things that are done after Baptism in respect of the person baptized, something is done which is not a mere sign, but produces an effect, for instance, the anointing on the top of the head, the effect of which is the preservation of baptismal grace. And there is something which has no effect, but is a mere sign, for instance, the baptized are given a white garment to signify the newness of life."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -265,62 +288,69 @@
             "title": [
                 "Whether it belongs to a priest to catechize and exorcize the person to be baptized?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It seems that it does not belong to a priest to catechize and exorcize the person to be baptized. For it belongs to the office of ministers to operate on the unclean, as Dionysius says (Eccl. Hier. v). But catechumens who are instructed by catechism, and \"energumens\" who are cleansed by exorcism, are counted among the unclean, as Dionysius says in the same place. Therefore to catechize and to exorcize do not belong to the office of the priests, but rather to that of the ministers."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, catechumens are instructed in the Faith by the Holy Scripture which is read in the church by ministers: for just as the Old Testament is recited by the Readers, so the New Testament is read by the Deacons and Subdeacons. And thus it belongs to the ministers to catechize. In like manner it belongs, seemingly, to the ministers to exorcize. For Isidore says (Epist. ad Ludifred.): \"The exorcist should know the exorcisms by heart, and impose his hands on the energumens and catechumens during the exorcism.\" Therefore it belongs not to the priestly office to catechize and exorcize."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, \"to catechize\" is the same as \"to teach,\" and this is the same as \"to perfect.\" Now this belongs to the office of a bishop, as Dionysius says (Eccl. Hier. v). Therefore it does not belong to the priestly office."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The minister's operation in regard to the unclean is ministerial and, as it were, instrumental, but the priest's is principal."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: To readers and exorcists belongs the duty of catechizing and exorcizing, not, indeed, principally, but as ministers of the priest in these things."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 71,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Instruction is manifold. one leads to the embracing of the Faith; and is ascribed by Dionysius to bishops (Eccl. Hier. ii) and can be undertaken by any preacher, or even by any believer. Another is that by which a man is taught the rudiments of faith, and how to comport himself in receiving the sacraments: this belongs secondarily to the ministers, primarily to the priests. A third is instruction in the mode of Christian life: and this belongs to the sponsors. A fourth is the instruction in the profound mysteries of faith, and on the perfection of Christian life: this belongs to bishops \"ex officio,\" in virtue of their office."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [

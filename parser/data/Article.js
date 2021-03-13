@@ -1,11 +1,19 @@
+const Context = require("../Context");
 const ContextType = require("./ContextType");
 const Display = require("./Display");
 const Titled = require("./Titled");
 
 class Article extends Titled {
+    /**
+     * @param {Context} context 
+     */
     constructor(context) {
         super(context, ContextType.Article);
 
+        /**
+         * Id of article
+         */
+        this.id = context.article;
         /**
          * @type {Object.<number, Display>}
          */

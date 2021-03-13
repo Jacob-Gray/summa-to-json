@@ -25,54 +25,60 @@
             "title": [
                 "Whether the moral virtues remain after this life?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the moral virtues doe not remain after this life. For in the future state of glory men will be like angels, according to Mt. 22:30. But it is absurd to put moral virtues in the angels [*\"Whatever relates to moral action is petty, and unworthy of the gods\" (Ethic. x, 8)], as stated in Ethic. x, 8. Therefore neither in man will there be moral virtues after this life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, moral virtues perfect man in the active life. But the active life does not remain after this life: for Gregory says (Moral. iv, 18): \"The works of the active life pass away from the body.\" Therefore moral virtues do not remain after this life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, temperance and fortitude, which are moral virtues, are in the irrational parts of the soul, as the Philosopher states (Ethic. iii, 10). Now the irrational parts of the soul are corrupted, when the body is corrupted: since they are acts of bodily organs. Therefore it seems that the moral virtues do not remain after this life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The Philosopher is speaking there of these moral virtues, as to their material element; thus he speaks of justice, as regards \"commutations and distributions\"; of fortitude, as to \"matters of terror and danger\"; of temperance, in respect of \"lewd desires.\"",
                         "The same applies to the Second Objection. For those things that concern the active life, belong to the material element of the virtues."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: There is a twofold state after this life; one before the resurrection, during which the soul will be separate from the body; the other, after the resurrection, when the souls will be reunited to their bodies. In this state of resurrection, the irrational powers will be in the bodily organs, just as they now are. Hence it will be possible for fortitude to be in the irascible, and temperance in the concupiscible part, in so far as each power will be perfectly disposed to obey the reason. But in the state preceding the resurrection, the irrational parts will not be in the soul actually, but only radically in its essence, as stated in the FP, Question [77], Article [8]. Wherefore neither will these virtues be actually, but only in their root, i.e. in the reason and will, wherein are certain nurseries of these virtues, as stated above (Question [63], Article [1]). Justice, however, will remain because it is in the will. Hence of justice it is specially said that it is \"perpetual and immortal\"; both by reason of its subject, since the will is incorruptible; and because its act will not change, as stated."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -92,62 +98,69 @@
             "title": [
                 "Whether the intellectual virtues remain after this life?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that the intellectual virtues do not remain after this life. For the Apostle says (1 Cor. 13:8,9) that \"knowledge shall be destroyed,\" and he states the reason to be because \"we know in part.\" Now just as the knowledge of science is in part, i.e. imperfect; so also is the knowledge of the other intellectual virtues, as long as this life lasts. Therefore all the intellectual virtues will cease after this life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the Philosopher says (Categor. vi) that since science is a habit, it is a quality difficult to remove: for it is not easily lost, except by reason of some great change or sickness. But no bodily change is so great as that of death. Therefore science and the other intellectual virtues do not remain after death."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the intellectual virtues perfect the intellect so that it may perform its proper act well. Now there seems to be no act of the intellect after this life, since \"the soul understands nothing without a phantasm\" (De Anima iii, text. 30); and, after this life, the phantasms do not remain, since their only subject is an organ of the body. Therefore the intellectual virtues do not remain after this life."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The saying of the Apostle is to be understood as referring to the material element in science, and to the mode of understanding; because, to it, neither do the phantasms remain, when the body is destroyed; nor will science be applied by turning to the phantasms."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Sickness destroys the habit of science as to its material element, viz. the phantasms, but not as to the intelligible species, which are in the \"possible\" intellect."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: As stated in the FP, Question [89], Article [1] the separated soul has a mode of understanding, other than by turning to the phantasms. Consequently science remains, yet not as to the same mode of operation; as we have stated concerning the moral virtues (Article [1])."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -167,54 +180,60 @@
             "title": [
                 "Whether faith remains after this life?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that faith remains after this life. Because faith is more excellent than science. Now science remains after this life, as stated above (Article [2]). Therefore faith remains also."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, it is written (1 Cor. 3:11): \"Other foundation no man can lay, but that which is laid; which is Christ Jesus,\" i.e. faith in Jesus Christ. Now if the foundation is removed, that which is built upon it remains no more. Therefore, if faith remains not after this life, no other virtue remains."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the knowledge of faith and the knowledge of glory differ as perfect from imperfect. Now imperfect knowledge is compatible with perfect knowledge: thus in an angel there can be \"evening\" and \"morning\" knowledge [*Cf. FP, Question [58], Article [6]]; and a man can have science through a demonstrative syllogism, together with opinion through a probable syllogism, about one same conclusion. Therefore after this life faith also is compatible with the knowledge of glory."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Faith is more excellent than science, on the part of the object, because its object is the First Truth. Yet science has a more perfect mode of knowing its object, which is not incompatible with vision which is the perfection of happiness, as the mode of faith is incompatible."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Faith is the foundation in as much as it is knowledge: consequently when this knowledge is perfected, the foundation will be perfected also.",
                         "The Reply to the Third Objection is clear from what has been said."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "counter": [
@@ -236,62 +255,69 @@
             "title": [
                 "Whether hope remains after death, in the state of glory?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that hope remains after death, in the state of glory. Because hope perfects the human appetite in a more excellent manner than the moral virtues. But the moral virtues remain after this life, as Augustine clearly states (De Trin. xiv, 9). Much more then does hope remain."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, fear is opposed to hope. But fear remains after this life: in the Blessed, filial fear, which abides for ever---in the lost, the fear of punishment. Therefore, in a like manner, hope can remain."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, just as hope is of future good, so is desire.  Now in the Blessed there is desire for future good; both for the glory of the body, which the souls of the Blessed desire, as Augustine declares (Gen. ad lit. xii, 35); and for the glory of the soul, according to Ecclus. 24:29: \"They that eat me, shall yet hunger, and they that drink me, shall yet thirst,\" and 1 Pt. 1:12: \"On Whom the angels desire to look.\" Therefore it seems that there can be hope in the Blessed after this life is past."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Hope surpasses the moral virtues as to its object, which is God. But the acts of the moral virtues are not incompatible with the perfection of happiness, as the act of hope is; except perhaps, as regards their matter, in respect of which they do not remain. For moral virtue perfects the appetite, not only in respect of what is not yet possessed, but also as regards something which is in our actual possession."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Fear is twofold, servile and filial, as we shall state further on (SS, Question [19], Article [2]). Servile fear regards punishment, and will be impossible in the life of glory, since there will no longer be possibility of being punished. Filial fear has two acts: one is an act of reverence to God, and with regard to this act, it remains: the other is an act of fear lest we be separated from God, and as regards this act, it does not remain. Because separation from God is in the nature of an evil: and no evil will be feared there, according to Prov. 1:33: \"He . . . shall enjoy abundance without fear of evils.\" Now fear is opposed to hope by opposition of good and evil, as stated above (Question [23], Article [2]; Question [40], Article [1]), and therefore the fear which will remain in glory is not opposed to hope. In the lost there can be fear of punishment, rather than hope of glory in the Blessed. Because in the lost there will be a succession of punishments, so that the notion of something future remains there, which is the object of fear: but the glory of the saints has no succession, by reason of its being a kind of participation of eternity, wherein there is neither past nor future, but only the present. And yet, properly speaking, neither in the lost is there fear. For, as stated above (Question [42], Article [2]), fear is never without some hope of escape: and the lost have no such hope. Consequently  neither will there be fear in them; except speaking in a general way, in so far as any expectation of future evil is called fear."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: As to the glory of the soul, there can be no desire in the Blessed, in so far as desire looks for something future, for the reason already given (ad 2). Yet hunger and thirst are said to be in them because they never weary, and for the same reason desire is said to be in the angels. With regard to the glory of the body, there can be desire in the souls of the saints, but not hope, properly speaking; neither as a theological virtue, for thus its object is God, and not a created good; nor in its general signification. Because the object of hope is something difficult, as stated above (Question [40], Article [1]): while a good whose unerring cause we already possess, is not compared to us as something difficult. Hence he that has money is not, properly speaking, said to hope for what he can buy at once. In like manner those who have the glory of the soul are not, properly speaking, said to hope for the glory of the body, but only to desire it."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -309,62 +335,69 @@
             "title": [
                 "Whether anything of faith or hope remains in glory?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that something of faith and hope remains in glory. For when that which is proper to a thing is removed, there remains what is common; thus it is stated in De Causis that \"if you take away rational, there remains living, and when you remove living, there remains being.\" Now in faith there is something that it has in common with beatitude, viz. knowledge: and there is something proper to it, viz. darkness, for faith is knowledge in a dark manner. Therefore, the darkness of faith removed, the knowledge of faith still remains."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, faith is a spiritual light of the soul, according to Eph. 1:17,18: \"The eyes of your heart enlightened . . . in the knowledge of God\"; yet this light is imperfect in comparison with the light of glory, of which it is written (Ps. 35:10): \"In Thy light we shall see light.\" Now an imperfect light remains when a perfect light supervenes: for a candle is not extinguished when the sun's rays appear. Therefore it seems that the light of faith itself remains with the light of glory."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the substance of a habit does not cease through the withdrawal of its matter: for a man may retain the habit of liberality, though he have lost his money: yet he cannot exercise the act. Now the object of faith is the First Truth as unseen. Therefore when this ceases through being seen, the habit of faith can still remain."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: If \"rational\" be withdrawn, the remaining \"living\" thing is the same, not identically, but generically, as stated."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The imperfection of candlelight is not opposed to the perfection of sunlight, since they do not regard the same subject: whereas the imperfection of faith and the perfection of glory are opposed to one another and regard the same subject. Consequently they are incompatible with one another, just as light and darkness in the air."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: He that loses his money does not therefore lose the possibility of having money, and therefore it is reasonable for  the habit of liberality to remain. But in the state of glory not only is the object of faith, which is the unseen, removed actually, but even its possibility, by reason of the unchangeableness of heavenly bliss: and so such a habit would remain to no purpose."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -384,62 +417,69 @@
             "title": [
                 "Whether charity remains after this life, in glory?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that charity does not remain after this life, in glory. Because according to 1 Cor. 13:10, \"when that which is perfect is come, that which is in part,\" i.e. that which is imperfect, \"shall be done away.\" Now the charity of the wayfarer is imperfect. Therefore it will be done away when the perfection of glory is attained."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, habits and acts are differentiated by their objects. But the object of love is good apprehended. Since therefore the apprehension of the present life differs from the apprehension of the life to come, it seems that charity is not the same in both cases."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, things of the same kind can advance from imperfection to perfection by continuous increase. But the charity of the wayfarer can never attain to equality with the charity of heaven, however much it be increased. Therefore it seems that the charity of the wayfarer does not remain in heaven."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The imperfection of charity is accidental to it; because imperfection is not included in the nature of love. Now although that which is accidental to a thing be withdrawn, the substance remains. Hence the imperfection of charity being done away, charity itself is not done away."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The object of charity is not knowledge itself; if it were, the charity of the wayfarer would not be the same as the charity of heaven: its object is the thing known, which remains the same, viz. God Himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 67,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The reason why charity of the wayfarer cannot attain to the perfection of the charity of heaven, is a difference on the part of the cause: for vision is a cause of love, as stated in Ethic. ix, 5: and the more perfectly we know God, the more  perfectly we love Him."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

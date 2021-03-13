@@ -22,62 +22,69 @@
             "title": [
                 "Whether the forgiveness of sin is the effect of contrition?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the forgiveness of sin is not the effect of contrition. For God alone forgives sins. But we are somewhat the cause of contrition, since it is an act of our own. Therefore contrition is not the cause of forgiveness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, contrition is an act of virtue. Now virtue follows the forgiveness of sin: because virtue and sin are not together in the soul. Therefore contrition is not the cause of the forgiveness of sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, nothing but sin is an obstacle to receiving the Eucharist. But the contrite should not go to Communion before going to confession. Therefore they have not yet received the forgiveness of their sins."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: God alone is the principal efficient cause of the forgiveness of sin: but the dispositive cause can be from us also, and likewise the sacramental cause, since the sacramental forms are words uttered by us, having an instrumental power of conferring grace whereby sins are forgiven."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The forgiveness of sin precedes virtue and the infusion of grace, in one way, and, in another, follows: and in so far as it follows, the act elicited by the virtue can be a cause of the forgiveness of sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The dispensation of the Eucharist belongs to the ministers of the Church: wherefore a man should not go to Communion until his sin has been forgiven through the ministers of the Church, although his sin may be forgiven him before God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -96,62 +103,69 @@
             "title": [
                 "Whether contrition can take away the debt of punishment entirely?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that contrition cannot take away the debt of punishment entirely. For satisfaction and confession are ordained for man's deliverance from the debt of punishment. Now no man is so perfectly contrite as not to be bound to confession and satisfaction. Therefore contrition is never so great as to blot out the entire debt of punishment."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, in Penance the punishment should in some way compensate for the sin. Now some sins are accomplished by members of the body. Therefore, since it is for the due compensation for sin that \"by what things a man sinneth, by the same also he is tormented\" (Wis. 11:17), it seems that the punishment for suchlike sins can never be remitted by contrition."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the sorrow of contrition is finite. Now an infinite punishment is due for some, viz. mortal, sins. Therefore contrition can never be so great as to remit the whole punishment."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: A man cannot be sure that his contrition suffices for the remission of both punishment and guilt: wherefore he is bound to confess and to make satisfaction, especially since his contrition would not be true contrition, unless he had the purpose of confessing united thereto: which purpose must also be carried into effect, on account of the precept given concerning confession."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Just as inward joy redounds into the outward parts of the body, so does interior sorrow show itself in the exterior members: wherefore it is written (Prov. 17:22): \"A sorrowful spirit drieth up the bones.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 5,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Although the sorrow of contrition is finite in its intensity, even as the punishment due for mortal sin is finite; yet it derives infinite power from charity, whereby it is quickened, and so it avails for the remission of both guilt and punishment."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -171,44 +185,49 @@
             "title": [
                 "Whether slight contrition suffices to blot out great sins?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that slight contrition does not suffice to blot out great sins. For contrition is the remedy for sin. Now a bodily remedy, that heals a lesser bodily infirmity, does not suffice to heal a greater. Therefore the least contrition does not suffice to blot out very great sins."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, it was stated above (Question [3], Article [3]) that for greater sins one ought to have greater contrition. Now contrition does not  blot out sin, unless it fulfills the requisite conditions. Therefore the least contrition does not blot out all sins."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 5,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Spiritual remedies derive infinite efficacy from the infinite power which operates in them: wherefore the remedy which suffices for healing a slight sin, suffices also to heal a great sin. This is seen in Baptism which looses great and small: and the same applies to contrition provided it fulfill the necessary conditions."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 5,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: It follows of necessity that a man grieves more for a greater sin than for a lesser, according as it is more repugnant to the love which causes his sorrow. But if one has the same degree of sorrow for a greater sin, as another has for a lesser, this would suffice for the remission of the sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "counter": [

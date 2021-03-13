@@ -23,80 +23,89 @@
             "title": [
                 "Whether in the resurrection the soul will be reunited to the same identical body?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the soul will not be reunited to the same identical body at the resurrection, for \"thou sowest not the body that shall be, but bare grain\" (1 Cor. 15:37). Now the Apostle is there comparing death to sowing and resurrection to fructifying. Therefore the same body that is laid aside in death is not resumed at the resurrection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, to every form some matter is adapted according to its condition, and likewise to every agent some instrument. Now the body is compared to the soul as matter to form, and as instrument to agent. Since then at the resurrection the soul will not be of the same condition as now (for it will be either entirely  borne away to the heavenly life to which it adhered while living in the world, or will be cast down into the life of the brutes if it lived as a brute in this world) it would seem that it will not resume the same body, but either a heavenly or a brutish body."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, after death, as stated above (Question [78], Article [3]), the human body is dissolved into the elements. Now these elemental parts into which the human body has been dissolved do not agree with the human body dissolved into them, except in primary matter, even as any other elemental parts agree with that same body. But if the body were to be formed from those other elemental parts, it would not be described as identically the same. Therefore neither will it be the self-same body if it be restored from these parts."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, there cannot be numerical identity where there is numerical distinction of essential parts. Now the form of the mixed body, which form is an essential part of the human body, as being its form, cannot be resumed in numerical identity. Therefore the body will not be identically the same. The minor is proved thus: That which passes away into complete nonentity cannot be resumed in identity. This is clear from the fact that there cannot be identity where there is distinction of existence: and existence, which is the act of a being, is differentiated by being interrupted, as is any interrupted act. Now the form of a mixed body passes away into complete nonentity by death, since it is a bodily form, and so also do the contrary qualities from which the mixture results. Therefore the form of a mixed body does not return in identity."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: A comparison does not apply to every particular, but to some. For in the sowing of grain, the grain sown and the grain that is born thereof are neither identical, nor of the same condition, since it was first sown without a husk, yet is born with one: and the body will rise again identically the same, but of a different condition, since it was mortal and will rise in immortality."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The soul rising again and the soul living in this world differ, not in essence but in respect of glory and misery, which is an accidental difference. Hence it follows that the body in rising again differs, not in identity, but in condition, so that a difference of bodies corresponds proportionally to the difference of souls."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: That which is understood as though it were in  matter before its form remains in matter after corruption, because when that which comes afterwards is removed that which came before may yet remain. Now, as the Commentator observes on the First Book of Physics and in De Substantia Orbis, in the matter of things subject to generation and corruption, we must presuppose undeterminate dimensions, by reason of which matter is divisible, so as to be able to receive various forms in its various parts. Wherefore after the separation of the substantial form from matter, these dimensions still remain the same: and consequently the matter existing under those dimensions, whatever form it receive, is more identified with that which was generated from it, than any other part of matter existing under any form whatever. Thus the matter that will be brought back to restore the human body will be the same as that body's previous matter."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: Even as a simple quality is not the substantial form of an element, but its proper accident, and the disposition whereby its matter is rendered proper to such a form; so the form of a mixed body, which form is a quality resulting from simple qualities reduced to a mean, is not the substantial form of the mixed body, but its proper accident, and the disposition whereby the matter is in need of the form. Now the human body has no substantial form besides this form of the mixed body, except the rational soul, for if it had any previous substantial form, this would give it substantial being, and would establish it in the genus of substance: so that the soul would be united to a body already established in the genus of substance, and thus the soul would be compared to the body as artificial forms are to their matter, in respect of their being established in the genus of substance by their matter. Hence the union of the soul to the body would be accidental, which is the error of the ancient philosophers refuted by the Philosopher (De Anima ii, 2 [*Cf. FP, Question [76], Article [1]]). It would also follow that the human body and each of its parts would not retain their former names in the same sense, which is contrary to the teaching of the Philosopher (De Anima ii, 1). Therefore since the rational soul remains, no substantial form of the human body falls away into complete nonentity. And the variation of accidental forms does not make a difference of identity. Therefore the selfsame body will rise again, since the selfsame matter is resumed as stated in a previous reply (ad 2)."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -117,47 +126,51 @@
             "title": [
                 "Whether it will be identically the same man that shall rise again?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that it will not be identically the same man that shall rise again. For according to the Philosopher (De Gener. ii): \"Whatsoever things are changed in their corruptible substance are not repeated identically.\" Now such is man's substance in his present state. Therefore after the change wrought by death the self-same man cannot be repeated ."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, where there is a distinction of human nature there is not the same identical man: wherefore Socrates and Plato are two men and not one man, since each has his own distinct human  nature. Now the human nature of one who rises again is distinct from that which he has now. Therefore he is not the same identical man. The minor can be proved in two ways. First, because human nature which is the form of the whole is not both form and substance as the soul is, but is a form only. Now such like forms pass away into complete nonentity, and consequently they cannot be restored. Secondly, because human nature results from union of parts. Now the same identical union as that which was heretofore cannot be resumed, because repetition is opposed to identity, since repetition implies number, whereas identity implies unity, and these are incompatible with one another. But resurrection is a repeated union: therefore the union is not the same, and consequently there is not the same human nature nor the same man."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, one same man is not several animals: wherefore if it is not the same animal it is not the same identical man. Now where sense is not the same, there is not the same animal, since animal is defined from the primary sense, namely touch. But sense, as it does not remain in the separated soul (as some maintain), cannot be resumed in identity. Therefore the man who rises again will not be the same identical animal, and consequently he will not be the same man."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, the matter of a statue ranks higher in the statue than the matter of a man does in man: because artificial things belong to the genus of substance by reason of their matter, but natural things by reason of their form, as appears from the Philosopher (Phys. ii, 1), and again from the Commentator (De Anima ii). But if a statue is remade from the same brass, it will not be the same identically. Therefore much less will it be identically the same man if he be reformed from the same ashes."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
@@ -165,10 +178,11 @@
                         "Reply to Objection 1: The Philosopher is speaking of repetition by movement or natural change. For he shows the difference between the recurrence that occurs in generation and corruption and that which is observed in the movement of the heavens. Because the selfsame heaven by local movement returns to the beginning of its movement, since it has a moved incorruptible substance. On the other hand, things subject to generation and corruption return by generation to specific but not numerical identity, because from man blood is engendered, from blood seed, and so on until a man is begotten, not the selfsame man, but the man specifically. In like manner from fire comes air, from air water, from water earth, whence fire is produced, not the selfsame fire, but the same in species. Hence it is clear that the argument, so far as the meaning of the Philosopher is concerned, is not to the point.",
                         "We may also reply that the form of other things subject to generation and corruption is not subsistent of itself, so as to be able to remain after the corruption of the composite, as it is with the rational soul. For the soul, even after separation from the body, retains the being which accrues to it when in the body, and the body is made to share that being by the resurrection, since the being of the body and the being of the soul in the body are not distinct from one another, otherwise the union of soul and body would be accidental. Consequently there has been no interruption in the substantial being of man, as would make it impossible for the self-same man to return on account of an interruption in his being, as is the case with other things that are corrupted, the being of which is interrupted altogether, since their form remains not, and their matter remains under another being.",
                         "Nevertheless neither does the self-same man recur by natural generation, because the body of the man begotten is not composed of the whole body of his begetter: hence his body is numerically distinct, and consequently his soul and the whole man."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
@@ -177,26 +191,30 @@
                         "The other opinion, which seems nearer the truth, is Avicenna's, according to whom the form of the whole is not the form of a part only, nor some other form besides the form of the part, but is the whole resulting from the composition of form and matter,  embracing both within itself. This form of the whole is called the essence or quiddity. Since then at the resurrection there will be the selfsame body, and the selfsame rational soul, there will be, of necessity, the same humanity.",
                         "The first argument proving that there will be a distinction of humanity was based on the supposition that humanity is some distinct form supervening form and matter; which is false.",
                         "The second reason does not disprove the identity of humanity, because union implies action or passion, and though there be a different union, this cannot prevent the identity of humanity, because the action and passion from which humanity resulted are not of the essence of humanity, wherefore a distinction on their part does not involve a distinction of humanity: for it is clear that generation and resurrection are not the self-same movement. Yet the identity of the rising man with the begotten man is not hindered for this reason: and in like manner neither is the identity of humanity prevented if we take union for the relation itself: because this relation is not essential to but concomitant with humanity, since humanity is not one of those forms that are composition or order (Phys. ii, 1), as are the forms of things produced by art, so that if there be another distinct composition there is another distinct form of a house."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: This argument affords a very good proof against those who held a distinction between the sensitive and rational souls in man: because in that case the sensitive soul in man would not be incorruptible, as neither is it in other animals; and consequently in the resurrection there would not be the same sensitive soul, and consequently neither the same animal nor the same man.",
                         "But if we assert that in man the same soul is by its substance both rational and sensitive, we shall encounter no difficulty in this question, because animal is defined from sense, i.e. the sensitive soul as from its essential form: whereas from sense, i.e. the sensitive power, we know its definition as from an accidental form \"that contributes more than another to our knowledge of the quiddity\" (De Anima i, 1). Accordingly after death there remains the sensitive soul, even as the rational soul, according to its substance: whereas the sensitive powers, according to some, do not remain. And since these powers are accidental properties, diversity on their part cannot prevent the identity of the whole animal, not even of the animal's parts: nor are powers to be called perfections or acts of organs unless as principles of action, as heat in fire."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: A statue may be considered in two ways, either as a particular substance, or as something artificial. And since it is placed in the genus of substance by reason of its matter, it follows that if we consider it as a particular substance, it is the selfsame statue that is remade from the same matter. On the other hand, it is placed in the genus of artificial things inasmuch as it has an accidental form which, if the statue be destroyed, passes  away also. Consequently it does not return identically the same, nor can the statue be identically the same. But man's form, namely the soul, remains after the body has perished: wherefore the comparison fails."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -215,62 +233,69 @@
             "title": [
                 "Whether the ashes of the human body must needs, by the resurrection, return to the same parts of the body that were dissolved into them?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem necessary for the ashes of the human body to return, by the resurrection, to the same parts that were dissolved into them. For, according to the Philosopher, \"as the whole soul is to the whole body, so is a part of the soul to a part of the body, as sight to the pupil\" (De Anima ii, 1). Now it is necessary that after the resurrection the body be resumed by the same soul. Therefore it is also necessary for the same parts of the body to return to the same limbs, in which they were perfected by the same parts of the soul."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, difference of matter causes difference of identity. But if the ashes return not to the same parts, each part will not be remade from the same matter of which it consisted before. Therefore they will not be the same identically. Now if the parts are different the whole will also be different, since parts are to the whole as matter is to form (Phys. ii, 3). Therefore it will not be the self-same man; which is contrary to the truth of the resurrection."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 79,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the resurrection is directed to the end that man may receive the meed of his works. Now different parts of the body are employed in different works, whether of merit or of demerit. Therefore at the resurrection each part must needs return to its former state that it may be rewarded in due measure."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This argument considers organic or heterogeneous parts, but no homogeneous or like parts."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: A change in the position of the parts of matter does not cause a change of identity, although difference of matter does."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 79,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: Operation, properly speaking, is not ascribed to the part but to the whole, wherefore the reward is due, not to the part but to the whole."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [

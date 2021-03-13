@@ -28,62 +28,69 @@
             "title": [
                 "Whether happiness is something uncreated?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that happiness is something uncreated. For Boethius says (De Consol. iii): \"We must needs confess that God is happiness itself.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, happiness is the supreme good. But it belongs to God to be the supreme good. Since, then, there are not several supreme goods, it seems that happiness is the same as God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, happiness is the last end, to which man's will tends naturally. But man's will should tend to nothing else as an end, but to God, Who alone is to be enjoyed, as Augustine says (De Doctr. Christ. i, 5,22). Therefore happiness is the same as God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: God is happiness by His Essence: for He is happy not by acquisition or participation of something else, but by His Essence. On the other hand, men are happy, as Boethius says (De Consol. iii), by participation; just as they are called \"gods,\" by participation. And this participation of happiness, in respect of which man is said to be happy, is something created."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Happiness is called man's supreme good, because it is the attainment or enjoyment of the supreme good."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Happiness is said to be the last end, in the same way as the attainment of the end is called the end."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -101,99 +108,110 @@
             "title": [
                 "Whether happiness is an operation?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that happiness is not an operation. For the Apostle says (Rm. 6:22): \"You have your fruit unto sanctification, and the end, life everlasting.\" But life is not an operation, but the very being of living things. Therefore the last end, which is happiness, is not an operation."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Boethius says (De Consol. iii) that happiness is \"a state made perfect by the aggregate of all good things.\" But state does not indicate operation. Therefore happiness is not an operation."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, happiness signifies something existing in the happy one: since it is man's final perfection. But the meaning of operation does not imply anything existing in the operator, but rather something proceeding therefrom. Therefore happiness is not an operation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, happiness remains in the happy one. Now operation does not remain, but passes. Therefore happiness is not an operation."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 5: Further, to one man there is one happiness. But operations are many. Therefore happiness is not an operation."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 },
                 "6": {
-                    "id": 6,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 6: Further, happiness is in the happy one uninterruptedly. But human operation is often interrupted; for instance, by sleep, or some other occupation, or by cessation. Therefore happiness is not an operation."
-                    ]
+                    ],
+                    "id": 6,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Life is taken in two senses. First for the very being of the living. And thus happiness is not life: since it has been shown (Question [2], Article [5]) that the being of a man, no matter in what it may consist, is not that man's happiness; for of God alone is it true that His Being is His Happiness. Secondly, life means the operation of the living, by which operation the principle of life is made actual: thus we speak of active and contemplative life, or of a life of pleasure. And in this sense eternal life is said to be the last end, as is clear from Jn. 17:3: \"This is eternal life, that they may know Thee, the only true God.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Boethius, in defining happiness, considered happiness in general: for considered thus it is the perfect common good; and he signified this by saying that happiness is \"a state made perfect by the aggregate of all good things,\" thus implying that the state of a happy man consists in possessing the perfect good. But Aristotle expressed the very essence of happiness, showing by what man is established in this state, and that it is by some kind of operation. And so it is that he proves happiness to be \"the perfect good\" (Ethic. i, 7)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: As stated in Metaph. ix, 7 action is twofold. One proceeds from the agent into outward matter, such as \"to burn\" and \"to cut.\" And such an operation cannot be happiness: for such an operation is an action and a perfection, not of the agent, but rather of the patient, as is stated in the same passage. The other is an action that remains in the agent, such as to feel, to understand, and to will: and such an action is a perfection and an act of the agent. And such an operation can be happiness."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 4: Since happiness signifies some final perfection; according as various things capable of happiness can attain to various degrees of perfection, so must there be various meanings applied to happiness. For in God there is happiness essentially; since His very Being is His operation, whereby He enjoys no other than Himself. In the happy angels, the final perfection is in respect of some operation, by which they are united to the Uncreated Good: and this operation of theirs is one only and everlasting. But in men, according to their present state of life, the final perfection is in respect of an operation whereby man is united to God: but this operation neither can be continual, nor, consequently, is it one only, because operation is multiplied by being discontinued. And for this reason in the present state of life, perfect happiness cannot be attained by man. Wherefore the Philosopher, in placing man's happiness in this life (Ethic. i, 10), says that it is imperfect, and after a long discussion, concludes: \"We call men happy, but only as men.\" But God has promised us perfect happiness, when we shall be \"as the angels . . . in heaven\" (Mt. 22:30).",
                         "Consequently in regard to this perfect happiness, the objection fails: because in that state of happiness, man's mind will be united to God by one, continual, everlasting operation. But in the present life, in as far as we fall short of the unity and continuity of that operation so do we fall short of perfect happiness. Nevertheless it is a participation of happiness: and so much the greater, as the operation can be more continuous and more one. Consequently the active life, which is busy with many things, has less of happiness than the contemplative life, which is busied with one thing, i.e. the contemplation of truth. And if at any time man is not actually engaged in this operation, yet since he can always easily turn to it, and since he ordains the very cessation, by sleeping or occupying himself otherwise, to the aforesaid occupation, the latter seems, as it were, continuous. From these remarks the replies to Objections 5 and 6 are evident."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 }
             },
             "counter": [
@@ -211,62 +229,69 @@
             "title": [
                 "Whether happiness is an operation of the sensitive part, or of the intellective part only?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that happiness consists in an operation of the senses also. For there is no more excellent operation in man than that of the senses, except the intellective operation. But in us the intellective operation depends on the sensitive: since \"we cannot understand without a phantasm\" (De Anima iii, 7). Therefore happiness consists in an operation of the senses also."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, Boethius says (De Consol. iii) that happiness is \"a state made perfect by the aggregate of all good things.\" But some goods are sensible, which we attain by the operation of the senses. Therefore it seems that the operation of the senses is needed for happiness."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, happiness is the perfect good, as we find  proved in Ethic. i, 7: which would not be true, were not man perfected thereby in all his parts. But some parts of the soul are perfected by sensitive operations. Therefore sensitive operation is required for happiness."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: This objection proves that the operation of the senses is required antecedently for imperfect happiness, such as can be had in this life."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Perfect happiness, such as the angels have, includes the aggregate of all good things, by being united to the universal source of all good; not that it requires each individual good. But in this imperfect happiness, we need the aggregate of those goods that suffice for the most perfect operation of this life."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: In perfect happiness the entire man is perfected, in the lower part of his nature, by an overflow from the higher. But in the imperfect happiness of this life, it is otherwise; we advance from the perfection of the lower part to the perfection of the higher part."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 }
             },
             "counter": [
@@ -285,98 +310,109 @@
             "title": [
                 "Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that happiness consists in an act of the will. For Augustine says (De Civ. Dei xix, 10,11), that man's happiness consists in peace; wherefore it is written (Ps. 147:3): \"Who hath placed peace in thy end [Douay: 'borders']\". But peace pertains to the will. Therefore man's happiness is in the will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, happiness is the supreme good. But good is the object of the will. Therefore happiness consists in an operation of the will."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, the last end corresponds to the first mover: thus the last end of the whole army is victory, which is the end of the general, who moves all the men. But the first mover in regard to operations is the will: because it moves the other powers, as we shall state further on (Question [9], Articles [1],3). Therefore happiness regards the will."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 4: Further, if happiness be an operation, it must needs be man's most excellent operation. But the love of God, which is an act of the will, is a more excellent operation than knowledge, which is an operation of the intellect, as the Apostle declares (1 Cor. 13). Therefore it seems that happiness consists in an act of the will."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 },
                 "5": {
-                    "id": 5,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 5: Further, Augustine says (De Trin. xiii, 5) that \"happy is he who has whatever he desires, and desires nothing amiss.\" And a little further on (6) he adds: \"He is most happy who desires well, whatever he desires: for good things make a man happy, and such a man already possesses some good---i.e. a good will.\" Therefore happiness consists in an act of the will."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Peace pertains to man's last end, not as though it were the very essence of happiness; but because it is antecedent and consequent thereto: antecedent, in so far as all those things are removed which disturb and hinder man in attaining the last end: consequent inasmuch as when man has attained his last end, he remains at peace, his desire being at rest."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The will's first object is not its act: just as neither is the first object of the sight, vision, but a visible thing. Wherefore, from the very fact that happiness belongs to the will, as the will's first object, it follows that it does not belong to it as its act."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The intellect apprehends the end before the will does: yet motion towards the end begins in the will. And therefore to the will belongs that which last of all follows the attainment of the end, viz. delight or enjoyment."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 4: Love ranks above knowledge in moving, but knowledge precedes love in attaining: for \"naught is loved save what is known,\" as Augustine says (De Trin. x, 1). Consequently we first attain an intelligible end by an act of the intellect; just as we first attain a sensible end by an act of sense."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 },
                 "5": {
-                    "id": 5,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 5: He who has whatever he desires, is happy, because he has what he desires: and this indeed is by something other than the act of his will. But to desire nothing amiss is needed for happiness, as a necessary disposition thereto. And a good will is reckoned among the good things which make a man happy, forasmuch as it is an inclination of the will: just as a movement is reduced to the genus of its terminus, for instance, \"alteration\" to the genus \"quality.\""
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 4
                 }
             },
             "counter": [
@@ -396,62 +432,69 @@
             "title": [
                 "Whether happiness is an operation of the speculative, or of the practical intellect?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that happiness is an operation of the  practical intellect. For the end of every creature consists in becoming like God. But man is like God, by his practical intellect, which is the cause of things understood, rather than by his speculative intellect, which derives its knowledge from things. Therefore man's happiness consists in an operation of the practical intellect rather than of the speculative."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, happiness is man's perfect good. But the practical intellect is ordained to the good rather than the speculative intellect, which is ordained to the true. Hence we are said to be good, in reference to the perfection of the practical intellect, but not in reference to the perfection of the speculative intellect, according to which we are said to be knowing or understanding. Therefore man's happiness consists in an act of the practical intellect rather than of the speculative."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, happiness is a good of man himself. But the speculative intellect is more concerned with things outside man; whereas the practical intellect is concerned with things belonging to man himself, viz. his operations and passions. Therefore man's happiness consists in an operation of the practical intellect rather than of the speculative."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: The asserted likeness of the practical intellect to God is one of proportion; that is to say, by reason of its standing in relation to what it knows, as God does to what He knows. But the likeness of the speculative intellect to God is one of union and \"information\"; which is a much greater likeness. And yet it may be answered that, in regard to the principal thing known, which is His Essence, God has not practical but merely speculative knowledge."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: The practical intellect is ordained to good which is outside of it: but the speculative intellect has good within it, viz. the contemplation of truth. And if this good be perfect, the whole man is perfected and made good thereby: such a good the practical intellect has not; but it directs man thereto."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: This argument would hold, if man himself were his own last end; for then the consideration and direction of his actions and passions would be his happiness. But since man's last end is something outside of him, to wit, God, to Whom we reach out by an operation of the speculative intellect; therefore, man's happiness consists in an operation of the speculative intellect rather than of the practical intellect."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -472,62 +515,69 @@
             "title": [
                 "Whether happiness consists in the consideration of speculative sciences?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that man's happiness consists in the consideration of speculative sciences. For the Philosopher says (Ethic. i, 13) that \"happiness is an operation according to perfect virtue.\" And in distinguishing the virtues, he gives no more than three speculative virtues---\"knowledge,\" \"wisdom\" and \"understanding,\" which all belong to the consideration of speculative sciences. Therefore man's final happiness consists in the consideration of speculative sciences."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, that which all desire for its own sake, seems to be man's final happiness. Now such is the consideration of speculative sciences; because, as stated in Metaph. i, 1, \"all men naturally desire to know\"; and, a little farther on (2), it is stated that speculative sciences are sought for their own sakes. Therefore happiness consists in the consideration of speculative sciences."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, happiness is man's final perfection. Now everything is perfected, according as it is reduced from potentiality to act. But the human intellect is reduced to act by  the consideration of speculative sciences. Therefore it seems that in the consideration of these sciences, man's final happiness consists."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: In his book on Ethics the Philosopher treats of imperfect happiness, such as can be had in this life, as stated above (Article [2], ad 4)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: Not only is perfect happiness naturally desired,  but also any likeness or participation thereof."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: Our intellect is reduced to act, in a fashion, by the consideration of speculative sciences, but not to its final and perfect act."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [
@@ -546,62 +596,69 @@
             "title": [
                 "Whether happiness consists in the knowledge of separate substances, namely, angels?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that man's happiness consists in the knowledge of separate substances, namely, angels. For Gregory says in a homily (xxvi in Evang.): \"It avails nothing to take part in the feasts of men, if we fail to take part in the feasts of angels\"; by which he means final happiness. But we can take part in the feasts of the angels by contemplating them. Therefore it seems that man's final happiness consists in contemplating the angels."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the final perfection of each thing is for it to be united to its principle: wherefore a circle is said to be a perfect figure, because its beginning and end coincide. But the beginning of human knowledge is from the angels, by whom men are enlightened, as Dionysius says (Coel. Hier. iv). Therefore the perfection of the human intellect consists in contemplating the angels."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 3: Further, each nature is perfect, when united to a higher nature; just as the final perfection of a body is to be united to the spiritual nature. But above the human intellect, in the natural order, are the angels. Therefore the final perfection of the human intellect is to be united to the angels by contemplation."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: We shall take part in the feasts of the angels, by contemplating not only the angels, but, together with them, also God Himself."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: According to those that hold human souls to be created by the angels, it seems fitting enough, that man's happiness should consist in the contemplation of the angels, in the union, as it were, of man with his beginning. But this is erroneous, as stated in FP, Question [90], Article [3]. Wherefore the final perfection of the human intellect is by union with God, Who is the first principle both of the creation of the soul and of its enlightenment. Whereas the angel enlightens as a minister, as stated in the FP, Question [111], Article [2], ad 2. Consequently, by his ministration he helps man to attain to happiness; but he is not the object of man's happiness."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 3: The lower nature may reach the higher in two ways. First, according to a degree of the participating power: and thus man's final perfection will consist in his attaining to a contemplation such as that of the angels. Secondly, as the object is attained by the power: and thus the final perfection of each power is to attain that in which is found the fulness of its formal object."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -619,44 +676,49 @@
             "title": [
                 "Whether man's happiness consists in the vision of the divine essence?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 1: It would seem that man's happiness does not consist in the vision of the Divine Essence. For Dionysius says (Myst. Theol. i) that by that which is highest in his intellect, man is united to God as to something altogether unknown. But that which is seen in its essence is not altogether unknown. Therefore the final perfection of the intellect, namely, happiness, does not consist in God being seen in His Essence."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "objection",
                     "part": "FS",
                     "text": [
                         "Objection 2: Further, the higher the perfection belongs to the higher nature. But to see His own Essence is the perfection proper to the Divine intellect. Therefore the final perfection of the human intellect does not reach to this, but consists in something less."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 1: Dionysius speaks of the knowledge of wayfarers journeying towards happiness."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 3,
                     "type": "reply",
                     "part": "FS",
                     "text": [
                         "Reply to Objection 2: As stated above (Question [1], Article [8]), the end has a twofold acceptation. First, as to the thing itself which is desired: and in this way, the same thing is the end of the higher and of the lower nature, and indeed of all things, as stated above (Question [1], Article [8]). Secondly, as to the attainment of this thing; and thus the end of the higher nature is different from that of the lower, according to their respective habitudes to that thing. So then in the happiness of God, Who, in understanding his Essence, comprehends It, is higher than that of a man or angel who sees It indeed, but comprehends It not."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 }
             },
             "counter": [

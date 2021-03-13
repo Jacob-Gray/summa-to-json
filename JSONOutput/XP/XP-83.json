@@ -25,33 +25,37 @@
             "title": [
                 "Whether subtlety is a property of the glorified body?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that subtlety is not a property of the glorified body. For the properties of glory surpass the properties of nature, even as the clarity of glory surpasses the clarity of the sun, which is the greatest in nature. Accordingly if subtlety be a property of the glorified body, it would seem that the glorified body will be more subtle than anything which is subtle in nature, and thus it will be \"more subtle than the wind and the air,\" which was condemned by Gregory in the city of Constantinople, as he relates (Moral. xiv, 56)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, as heat and cold are simple qualities of bodies, i.e. of the elements, so is subtlety. But heat and other qualities of the elements will not be intensified in the glorified bodies any more than they are now, in fact, they will be more reduced to the mean. Neither, therefore, will subtlety be in them more than it is now."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, subtlety is in bodies as a result of scarcity of matter, wherefore bodies that have less matter within equal dimensions are said to be more subtle; as fire in comparison with air, and air as compared with water, and water as compared with earth. But there will be as much matter in the glorified bodies as there is now, nor will their dimensions be greater. Therefore they will not be more subtle then than now."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {},
@@ -76,98 +80,109 @@
             "title": [
                 "Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that by reason of this subtlety a body is able to be in the same place with another body not glorified. For according to Phil. 3:21, \"He will reform the body of our lowness made like to the body of His glory.\" Now the body of Christ was able to be in the same place with another body, as appears from the fact that after His Resurrection He went in to His disciples, the  doors being shut (Jn. 20:19,26). Therefore also the glorified bodies by reason of their subtlety will be able to be in the same place with other bodies not glorified."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, glorified bodies will be superior to all other bodies. Yet by reason of their superiority certain bodies, to wit the solar rays, are able now to occupy the same place together with other bodies. Much more therefore is this befitting glorified bodies."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, a heavenly body cannot be severed, at least as regards the substance of the spheres: hence it is written (Job 37:18) that \"the heavens . . . are most strong, as if they were of molten brass.\" If then the subtlety of a glorified body will not enable it to be in the same place together with another body, it will never be able to ascend to the empyrean,* and this is erroneous. [*The empyrean was the highest of the concentric spheres or heavens, and was identified by Christian writers with the abode of God. Cf. FP, Question [56], Article [3]]."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, a body which is unable to be in the same place with another body can be hindered in its movement or even surrounded by others standing in its way. But this cannot happen to glorified bodies. Therefore they will be able to be together in the same place with other bodies."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 5: Further, as point is to point, so is line to line, surface to surface, and body to body. Now two points can be coincident, as in the case of two lines touching one another, and two lines when two surfaces are in contact with one another, and two surfaces when two bodies touch one another, because \"contiguous things are those whose boundaries coincide\" (Phys. vi, 6). Therefore it is not against the nature of a body to be in the same place together with another body. Now whatever excellence is competent to the nature of a body will all be bestowed on the glorified body. Therefore a glorified body, by reason of its subtlety, will be able to be in the same place together with another body."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: That Christ's body was able to be together with another body in the same place was not due to its subtlety, but resulted from the power of His Godhead after His resurrection, even as in His birth [*Cf. TP, Question [28], Article [2], ad 3]. Hence Gregory says (Hom. xxvi in Evang.): \"The same body went into His disciples the doors being shut, which to human eyes came from the closed womb of the Virgin at His birth.\" Therefore there is no reason why this should be befitting to glorified bodies on account of their subtlety."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Light is not a body as we have said above (Sent. ii, Question [13], Article [3]; FP, Question [67], Article [2]): hence the objection proceeds on a false supposition."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The glorified body will pass through the heavenly spheres without severing them, not by virtue of its subtlety, but by the Divine power, which will assist them in all things at will."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 },
                 "4": {
-                    "id": 4,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: From the fact that God will come to the aid of the blessed at will in whatever they desire, it follows that they cannot be surrounded or imprisoned."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 2
                 },
                 "5": {
-                    "id": 5,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 5: As stated in Phys. iv, 5, \"a point is not in a place\": hence if it be said to be in a place, this is only  accidental, because the body of which it is a term is in a place. And just as the whole place corresponds to the whole body, so the term of the place corresponds to the term of the body. But it happens that two places have one term, even as two lines terminate in one point. And consequently though two bodies must needs be in distinct places, yet the same term of two places corresponds to the two terms of the two bodies. It is in this sense that the bounds of contiguous bodies are said to coincide."
-                    ]
+                    ],
+                    "id": 5,
+                    "article": 2
                 }
             },
             "counter": [
@@ -186,80 +201,89 @@
             "title": [
                 "Whether it is possible, by a miracle, for two bodies to be in the same place?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that not even by a miracle is it possible for two bodies to be in the same place. For it is not possible that, by a miracle, two bodies be at once two and one, since this would imply that contradictions are true at the same time. But if we suppose two bodies to be in the same place, it would follow that those two bodies are one. Therefore this cannot be done by a miracle. The minor is proved thus. Suppose two bodies A and B to be in the same place. The dimensions of A will either be the same as the dimensions of the place, or they will differ from them. If they differ, then some of the dimensions will be separate: which is impossible, since the dimensions that are within the bounds of a place are not in a subject unless they be in a placed body. If they be the same, then for the same reason the dimensions of B will be the same as the dimensions of the place. \"Now things that are the same with one and the same thing are the same with one another.\" Therefore the dimensions of A and B are the same. But two bodies cannot have identical dimensions just as they cannot have the same whiteness. Therefore A and B are one body and yet they were two. Therefore they are at the same time one and two."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, a thing cannot be done miraculously either against the common principles---for instance that the part be not less than the whole; since what is contrary to common principles implies a direct contradiction---or contrary to the conclusions of geometry which are infallible deductions from common principles---for instance that the three angles of a triangle should not be equal to two right angles. In like manner nothing can be done to a line that is contrary to the definition of a line, because to sever the definition from the defined is to make two contradictories true at the same time. Now it is contrary to common principles, both to the conclusions of geometry and to the definition of a line, for two bodies to be in the same place. Therefore this cannot be done by a miracle. The minor is proved as follows: It is a conclusion of geometry that two circles touch one another only at a point. Now if two circular bodies were in the same place, the two circles described in them would touch one another as a whole. Again it is contrary to the definition of a line that there be more than one straight line between two points: yet this would be the case were two bodies in the same place, since between two given points in the various surfaces of the place, there would be two straight lines corresponding to the two bodies  in that place."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, it would seem impossible that by a miracle a body which is enclosed within another should not be in a place, for then it would have a common and not a proper place, and this is impossible. Yet this would follow if two bodies were in the same place. Therefore this cannot be done by a miracle. The minor is proved thus. Supposing two bodies to be in the same place, the one being greater than the other as to every dimension, the lesser body will be enclosed in the greater, and the place occupied by the greater body will be its common place; while it will have no proper place, because no given surface of the body will contain it, and this is essential to place. Therefore it will not have a proper place."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 4: Further, place corresponds in proportion to the thing placed. Now it can never happen by a miracle that the same body is at the same time in different places, except by some kind of transformation, as in the Sacrament of the Altar. Therefore it can nowise happen by a miracle that two bodies be together in the same place."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This argument is sophistical because it is based  on a false supposition, or begs the question. For it supposes the existence, between two opposite superficies of a place, of a dimension proper to the place, with which dimension a dimension of the body put in occupation of the place would have to be identified: because it would then follow that the dimensions of two bodies occupying a place would become one dimension, if each of them were identified with the dimension of the place. But this supposition is false, because if it were true whenever a body acquires a new place, it would follow that a change takes place in the dimensions of the place or of thing placed: since it is impossible for two things to become one anew, except one of them be changed. Whereas if, as is the case in truth, no other dimensions belong to a place than those of the thing occupying the place, it is clear that the argument proves nothing, but begs the question, because according to this nothing else has been said, but that the dimensions of a thing placed are the same as the dimensions of the place; excepting that the dimensions of the thing placed are contained within the bounds of the place, and that the distance between the bounds of a place is commensurate with the distance between the bounds of the thing placed, just as the former would be distant by their own dimensions if they had them. Thus that the dimensions of two bodies be the dimensions of one place is nothing else than that two bodies be in the same place, which is the chief question at issue."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Granted that by a miracle two bodies be together in the same place, nothing follows either against common principles, or against the definition of a line, or against any conclusions of geometry. For, as stated above (Article [2]), dimensive quantity differs from all other accidents in that it has a special reason of individuality and distinction, namely on account of the placing of the parts, besides the reason of individuality and distinction which is common to it and all other accidents, arising namely from the matter which is its subject. Thus then one line may be understood as being distinct from another, either because it is in another subject (in which case we are considering a material line), or because it is placed at a distance from another (in which case we are considering a mathematical line, which is understood apart from matter). Accordingly if we remove matter, there can be no distinction between lines save in respect of a different placing: and in like manner neither can there be a distinction of points, nor of superficies, nor of any dimensions whatever. Consequently geometry cannot suppose one line to be added to another, as being distinct therefrom unless it be distinct as to place. But supposing by a Divine miracle a distinction of subject without a distinction of place, we can understand a distinction of lines; and these are not distant from one another in place, on account of the distinction of subjects. Again we can understand a difference of points, and thus different lines described on two bodies that are in the same place are drawn from different points to different points; for the point that we take is not a point fixed in the place, but in the placed body, because a line is not said to be drawn otherwise than from a point which is its term. In like manner the two circles described in two spherical bodies that  occupy the same place are two, not on account of the difference of place, else they could not touch one another as a whole, but on account of the distinction of subjects, and thus while wholly touching one another they still remain two. Even so a circle described by a placed spherical body touches, as a whole, the other circle described by the locating body."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: God could make a body not to be in a place; and yet supposing this, it would not follow that a certain body is not in a place, because the greater body is the place of the lesser body, by reason of its superficies which is described by contact with the terms of the lesser body."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 4: It is impossible for one body to be miraculously in two places locally (for Christ's body is not locally on the altar), although it is possible by a miracle for two bodies to be in the same place. Because to be in several places at once is incompatible with the individual, by reason of its having being undivided in itself, for it would follow that it is divided as to place. on the other hand, to be in the same place with another body is incompatible with the individual as distinct from aught else. Now the nature of unity is perfected in indivision (Metaph. v), whereas distinction from others is a result of the nature of unity. Wherefore that one same body be locally in several places at once implies a contradiction, even as for a man to lack reason, while for two bodies to be in the same place does not imply a contradiction, as explained above. Hence the comparison fails."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -278,54 +302,60 @@
             "title": [
                 "Whether one glorified body can be in the same place together with another glorified body?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that a glorified body can be in the same place together with another glorified body. Because where there is greater subtlety there is less resistance. If then a glorified body is more subtle than a non-glorified body, it will offer less resistance to a glorified body: and so if a glorified body can be in the same place with a non-glorified body, much more can it with a glorified body."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, even as a glorified body will be more subtle than a non-glorified body, so will one glorified body be more subtle than another. Therefore if a glorified body can be in the same place with a non-glorified body, a more subtle glorified body can be in the same place with a less subtle glorified body."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, the body of heaven is subtle, and will then be glorified. Now the glorified body of a saint will be able to be in the same place with the body of heaven, since the saints will be able at will to travel to and from earth. Therefore two glorified bodies will be able to occupy the same place."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: This argument supposes that a glorified body is able by reason of its subtlety to be in the same place with another body: and this is not true.",
                         "The same answer applies to the Second Objection."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: The body of heaven and the other bodies will be said equivocally to be glorified, in so far as they will have a certain share in glory, and not as though it were becoming for them to have the gifts of glorified human bodies."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -344,62 +374,69 @@
             "title": [
                 "Whether by virtue of its subtlety a glorified body will no longer need to be in an equal place?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that by virtue of its subtlety, a glorified body will no longer need to be in an equal place. For the glorified bodies will be made like to the body of Christ according to Phil. 3:21. Now Christ's body is not bound by this necessity of being in an equal place: wherefore it is contained whole under the small or great dimensions of a consecrated host. Therefore the same will be true of the glorified bodies."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, the Philosopher proves (Phys. iv, 6), that two bodies are not in the same place, because it would follow that the greatest body would occupy the smallest place, since its various parts could be in the same part of the place: for it makes no difference whether two bodies or however many be in the same place. Now a glorified body will be in the same place with another body, as is commonly admitted. Therefore it will be possible for it to be in any place however small."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, even as a body is seen by reason of its color, so is it measured by reason of its quantity. Now the glorified body will be so subject to the spirit that it will be able at will to be seen, and not seen, especially by a non-glorified eye, as evidenced in the case of Christ. Therefore its quantity will be so subject to the spirit's will that it will be able to be in a little or great place, and to have a little or great quantity at will."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: Christ's body is not locally in the Sacrament of the Altar, as stated above (Sent. iv, D, 10, Question [1], Article [1], ad 5; TP, Question [77], Article [5])."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: The Philosopher's argument is that for the same reason one part might permeate another. But this permeation of the parts of a glorified body into one another is impossible, as stated above. Therefore the objection does not prove."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: A body is seen because it acts on the sight: but that it does or does not act on the sight causes no change in the body. Hence it is not unfitting, if it can be seen when it will, and not seen when it will [*Cf. TP, Question [55], Article [4]]. On the other hand, being in a place is not an action proceeding from a body by reason of its quantity, as being seen is by reason of its color. Consequently the comparison fails."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -418,62 +455,69 @@
             "title": [
                 "Whether the glorified body, by reason of its subtlety, will be impalpable?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 1: It would seem that the glorified body, by reason of its subtlety, is impalpable. For Gregory says (Hom. xxv in Evang.): \"What is palpable must needs be corruptible.\" But the glorified body is incorruptible. Therefore it is impalpable."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 2: Further, whatever is palpable resists one who handles it. But that which can be in the same place with another does not resist it. Since then a glorified body can be in the same place with another body, it will not be palpable."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "objection",
                     "part": "XP",
                     "text": [
                         "Objection 3: Further, every palpable body is tangible. Now every tangible body has tangible qualities in excess of the qualities of the one touching it. Since then in the glorified bodies the tangible qualities are not in excess but are reduced to a supreme degree of equality, it would seem that they are impalpable."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 1: The incorruptibility of a glorified body does not result from the nature of its component parts; and it is on account of that nature that whatever is palpable is corruptible, as stated above. Hence the argument does not prove."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 2: Although in a way it is possible for a glorified body to be in the same place with another body: nevertheless the glorified body has it in its power to resist at will any one touching it, and thus it is palpable."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 83,
                     "type": "reply",
                     "part": "XP",
                     "text": [
                         "Reply to Objection 3: In the glorified bodies the tangible qualities are not reduced to the real mean that is measured according to equal distance from the extremes, but to the proportionate mean, according as is most becoming to the human complexion in each part. Wherefore the touch of those bodies will be most delightful, because a power always delights in a becoming object, and is grieved by excess."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 }
             },
             "counter": [

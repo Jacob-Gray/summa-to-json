@@ -21,62 +21,69 @@
             "title": [
                 "Whether ambition is a sin?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 131,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that ambition is not a sin. For ambition denotes the desire of honor. Now honor is in itself a good thing, and the greatest of external goods: wherefore those who care not for honor are reproved. Therefore ambition is not a sin; rather is it something deserving of praise, in so far as a good is laudably desired."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 131,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, anyone may, without sin, desire what is due to him as a reward. Now honor is the reward of virtue, as the Philosopher states (Ethic. i, 12; iv, 3; viii, 14). Therefore ambition of honor is not a sin."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 131,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, that which heartens a man to do good and disheartens him from doing evil, is not a sin. Now honor heartens men to do good and to avoid evil; thus the Philosopher says (Ethic. iii, 8) that \"with the bravest men, cowards are held in dishonor, and the brave in honor\": and Tully says (De Tusc. Quaest. i) that \"honor fosters the arts.\" Therefore ambition is not a sin."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 131,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: The desire for good should be regulated according to reason, and if it exceed this rule it will be sinful. In this way it is sinful to desire honor in disaccord with the order of reason. Now those are reproved who care not for honor in accordance with reason's dictate that they should avoid what is contrary to honor."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 131,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Honor is not the reward of virtue, as regards the virtuous man, in this sense that he should seek for it as his reward: since the reward he seeks is happiness, which is the end of virtue. But it is said to be the reward of virtue as regards others, who have nothing greater than honor whereby to reward the virtuous; which honor derives greatness from the very fact that it bears witness to virtue. Hence it is evident that it is not an adequate reward, as stated in Ethic. iv, 3."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 131,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: Just as some are heartened to do good and disheartened from doing evil, by the desire of honor, if this be desired in due measure; so, if it be desired inordinately, it may become to man an occasion of doing many evil things, as when a man cares not by what means he obtains honor. Wherefore Sallust says (Catilin.) that \"the good as well as the wicked covet honors for themselves, but the one,\" i.e. the good, \"go about it in the right way,\" whereas \"the other,\" i.e. the wicked, \"through lack of the good arts, make use of deceit and falsehood.\" Yet they who, merely for the sake of honor, either do good or avoid evil, are not virtuous, according to the Philosopher (Ethic. iii, 8), where he says that they who do brave things for the sake of honor are not truly brave."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -95,62 +102,69 @@
             "title": [
                 "Whether ambition is opposed to magnanimity by excess?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 131,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 1: It seems that ambition is not opposed to magnanimity by excess. For one mean has only one extreme opposed to it on the one side. Now presumption is opposed to magnanimity by excess as stated above (Question [130], Article [2]). Therefore ambition is not opposed to it by excess."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 131,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 2: Further, magnanimity is about honors; whereas ambition seems to regard positions of dignity: for it is written (2 Macc. 4:7) that \"Jason ambitiously sought the high priesthood.\" Therefore ambition is not opposed to magnanimity."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 131,
                     "type": "objection",
                     "part": "SS",
                     "text": [
                         "Objection 3: Further, ambition seems to regard outward show: for it is written (Acts 25:27) that \"Agrippa and Berenice . . . with great pomp [ambitione]. . . had entered into the hall of audience\"  [*'Praetorium.' The Vulgate has 'auditorium,' but the meaning is the same], and (2 Para. 16:14) that when Asa died they \"burned spices and . . . ointments over his body\" with very great pomp [ambitione]. But magnanimity is not about outward show. Therefore ambition is not opposed to magnanimity."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 131,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 1: Magnanimity regards two things. It regards one as its end, in so far as it is some great deed that the magnanimous man attempts in proportion to his ability. In this way presumption is opposed to magnanimity by excess: because the presumptuous man attempts great deeds beyond his ability. The other thing that magnanimity regards is its matter, viz. honor, of which it makes right use: and in this way ambition is opposed to magnanimity by excess. Nor is it impossible for one mean to be exceeded in various respects."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 131,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 2: Honor is due to those who are in a position of dignity, on account of a certain excellence of their estate: and accordingly inordinate desire for positions of dignity pertains to ambition. For if a man were to have an inordinate desire for a position of dignity, not for the sake of honor, but for the sake of a right use of a dignity exceeding his ability, he would not be ambitious but presumptuous."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 131,
                     "type": "reply",
                     "part": "SS",
                     "text": [
                         "Reply to Objection 3: The very solemnity of outward worship is a kind of honor, wherefore in such cases honor is wont to be shown. This is signified by the words of James 2:2,3: \"If there shall come into your assembly a man having a golden ring, in fine apparel . . . and you . . . shall say to him: Sit thou here well,\" etc. Wherefore ambition does not regard outward worship, except in so far as this is a kind of honor."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [

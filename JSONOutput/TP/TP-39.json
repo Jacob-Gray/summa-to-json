@@ -27,62 +27,69 @@
             "title": [
                 "Whether it was fitting that Christ should be baptized?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it was not fitting for Christ to be baptized. For to be baptized is to be washed. But it was not  fitting for Christ to be washed, since there was no uncleanness in Him. Therefore it seems unfitting for Christ to be baptized."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ was circumcised in order to fulfil the law. But baptism was not prescribed by the law. Therefore He should not have been baptized."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the first mover in every genus is unmoved in regard to that movement; thus the heaven, which is the first cause of alteration, is unalterable. But Christ is the first principle of baptism, according to Jn. 1:33: \"He upon whom thou shalt see the Spirit descending and remaining upon Him, He it is that baptizeth.\" Therefore it was unfitting for Christ to be baptized."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: Christ was baptized, not that He might be cleansed, but that He might cleanse, as stated above."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: It was fitting that Christ should not only fulfil what was prescribed by the Old Law, but also begin what appertained to the New Law. Therefore He wished not only to be circumcised, but also to be baptized."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Christ is the first principle of baptism's spiritual effect. Unto this He was not baptized, but only in water."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 }
             },
             "counter": [
@@ -100,62 +107,69 @@
             "title": [
                 "Whether it was fitting for Christ to be baptized with John's baptism?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it was unfitting for Christ to be baptized with John's baptism. For John's baptism was the \"baptism  of penance.\" But penance is unbecoming to Christ, since He had no sin. Therefore it seems that He should not have been baptized with John's baptism."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, John's baptism, as Chrysostom says (Hom. de Bapt. Christi), \"was a mean between the baptism of the Jews and that of Christ.\" But \"the mean savors of the nature of the extremes\" (Aristotle, De Partib. Animal.). Since, therefore, Christ was not baptized with the Jewish baptism, nor yet with His own, on the same grounds He should not have been baptized with the baptism of John."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, whatever is best in human things should be ascribed to Christ. But John's baptism does not hold the first place among baptisms. Therefore it was not fitting for Christ to be baptized with John's baptism."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As stated above (Article [1]), Christ wished to be baptized in order by His example to lead us to baptism. And so, in order that He might lead us thereto more efficaciously, He wished to be baptized with a baptism which He clearly needed not, that men who needed it might approach unto it. Wherefore Ambrose says on Lk. 3:21: \"Let none decline the laver of grace, since Christ did not refuse the laver of penance.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The Jewish baptism prescribed by the law was merely figurative, whereas John's baptism, in a measure, was real, inasmuch as it induced men to refrain from sin; but Christ's baptism is efficacious unto the remission of sin and the conferring of grace. Now Christ needed neither the remission of sin, which was not in Him, nor the bestowal of grace, with which He was filled. Moreover, since He is \"the Truth,\" it was not fitting that He should receive that which was no more than a figure. Consequently it was more fitting that He should receive the intermediate baptism than one of the extremes."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Baptism is a spiritual remedy. Now, the more perfect a thing is, the less remedy does it need. Consequently, from the very fact that Christ is most perfect, it follows that it was fitting that He should not receive the most perfect baptism: just as one who is healthy does not need a strong medicine."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 2
                 }
             },
             "counter": [
@@ -173,80 +187,89 @@
             "title": [
                 "Whether Christ was baptized at a fitting time?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ was baptized at an unfitting time. For Christ was baptized in order that He might lead others to baptism by His example. But it is commendable that the faithful of Christ should be baptized, not merely before their thirtieth year, but even in infancy. Therefore it seems that Christ should not have been baptized at the age of thirty."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, we do not read that Christ taught or worked miracles before being baptized. But it would have been more profitable to the world if He had taught for a longer time, beginning at the age of twenty, or even before. Therefore it seems that Christ, who came for man's profit, should have been baptized before His thirtieth year."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the sign of wisdom infused by God should have been especially manifest in Christ. But in the case of Daniel this was manifested at the time of his boyhood; according to Dan. 13:45: \"The Lord raised up the holy spirit of a young boy, whose name was Daniel.\" Much more, therefore, should Christ have been baptized or have taught in His boyhood."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, John's baptism was ordered to that of Christ as to its end. But \"the end is first in intention and last in execution.\" Therefore He should have been baptized by John either before all the others, or after them."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As Gregory Nazianzen says (Orat. xl), Christ was baptized, not \"as though He needed to be cleansed, or as though some peril threatened Him if He delayed to be baptized. But no small danger besets any other man who departs from this life without being clothed with the garment of incorruptibility\"---namely, grace. And though it be a good thing to remain clean after baptism, \"yet is it still better,\" as he says, \"to be slightly sullied now and then than to be altogether deprived of grace.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The profit which accrues to men from Christ is chiefly through faith and humility: to both of which He conduced by beginning to teach not in His boyhood or youth, but at the perfect age. To faith, because in this manner His human nature is shown to be real, by its making bodily progress with the advance of time; and lest this progress should be deemed imaginary, He did not wish to show His wisdom and power before His body had reached the perfect age: to humility, lest anyone should presume to govern or teach others before attaining to perfect age."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Christ was set before men as an example to all. Wherefore it behooved that to be shown forth in Him, which is becoming to all according to the common law---namely, that He should teach after reaching the perfect age. But, as Gregory Nazianzen says (Orat. xxxix), that which seldom occurs is not the law of the Church; as \"neither does one swallow make the spring.\" For by special dispensation, in accordance with the ruling of Divine wisdom, it has been granted to some, contrary to the common law, to exercise the functions of governing or teaching. such as Solomon, Daniel, and Jeremias."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 3
                 },
                 "4": {
-                    "id": 4,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 4: It was not fitting that Christ should be baptized by John either before or after all others. Because, as Chrysostom says (Hom. iv in Matth. [*From the supposititious Opus Imperfectum]), for this was Christ baptized, \"that He might confirm the preaching and the baptism of John, and that John might bear witness to Him.\" Now, men would not have had faith in John's testimony except after many had been baptized by him. Consequently it was not fitting that John should baptize Him before baptizing anyone else. In like manner, neither was it fitting that he should  baptize Him last. For as he (Chrysostom) says in the same passage: \"As the light of the sun does not wait for the setting of the morning star, but comes forth while the latter is still above the horizon, and by its brilliance dims its shining: so Christ did not wait till John had run his course, but appeared while he was yet teaching and baptizing.\""
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 3
                 }
             },
             "counter": [
@@ -266,62 +289,69 @@
             "title": [
                 "Whether Christ should have been baptized in the Jordan?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that Christ should not have been baptized in the Jordan. For the reality should correspond to the figure. But baptism was prefigured in the crossing of the Red Sea, where the Egyptians were drowned, just as our sins are blotted out in baptism. Therefore it seems that Christ should rather have been baptized in the sea than in the river Jordan."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, \"Jordan\" is interpreted a \"going down.\" But by baptism a man goes up rather than down: wherefore it is written (Mt. 3:16) that \"Jesus being baptized, forthwith came up [Douay: 'out'] from the water.\" Therefore it seems unfitting that Christ should be baptized in the Jordan."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, while the children of Israel were crossing, the waters of the Jordan \"were turned back,\" as it is related Jos. 4, and as it is written Ps. 113:3,5. But those who are baptized go forward, not back. Therefore it was not fitting that Christ should be baptized in the Jordan."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The crossing of the Red Sea foreshadowed baptism in this---that baptism washes away sin: whereas the crossing of the Jordan foreshadows it in this---that it opens the gate to the heavenly kingdom: and this is the principal effect of baptism, and accomplished through Christ alone. And therefore it was fitting that Christ should be baptized in the Jordan rather than in the sea."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: In baptism we \"go up\" by advancing in grace: for  which we need to \"go down\" by humility, according to James 4:6: \"He giveth grace to the humble.\" And to this \"going down\" must the name of the Jordan be referred."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Augustine says in a sermon for the Epiphany (x): \"As of yore the waters of the Jordan were held back, so now, when Christ was baptized, the torrent of sin was held back.\" Or else this may signify that against the downward flow of the waters the river of blessings flowed upwards."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 }
             },
             "counter": [
@@ -339,63 +369,70 @@
             "title": [
                 "Whether the heavens should have been opened unto Christ at His baptism?"
             ],
+            "id": 5,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the heavens should not have been opened unto Christ at His baptism. For the heavens should be opened unto one who needs to enter heaven, by reason of his being out of heaven. But Christ was always in heaven, according to Jn. 3:13: \"The Son of Man who is in heaven.\" Therefore it seems that the heavens should not have been opened unto Him."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the opening of the heavens is understood either in a corporal or in a spiritual sense. But it cannot be understood in a corporal sense: because the heavenly bodies are impassible and indissoluble, according to Job 37:18: \"Thou perhaps hast made the heavens with Him, which are most strong, as if they were of molten brass.\" In like manner neither can it be understood in a spiritual sense, because the heavens were not previously closed to the eyes of the Son of God. Therefore it seems unbecoming to say that when Christ was baptized \"the heavens were opened.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, heaven was opened to the faithful through Christ's Passion, according to Heb. 10:19: \"We have [Vulg.: 'Having'] a confidence in the entering into the holies by the blood of Christ.\" Wherefore not even those who were baptized with Christ's baptism, and died before His Passion, could enter heaven. Therefore the heavens should have been opened when Christ was suffering rather than when He was baptized."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: According to Chrysostom (Hom. iv in Matth.; from the supposititious Opus Imperfectum), as Christ was baptized for man's sake, though He needed no baptism for His own sake, so the heavens were opened unto Him as man, whereas in respect of His Divine Nature He was ever in heaven."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 5
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: As Jerome says on Mt. 3:16,17, the heavens were opened to Christ when He was baptized, not by an unfolding of the elements, but by a spiritual vision: thus does Ezechiel relate the opening of the heavens at the beginning of his book. And Chrysostom proves this (Hom. iv in Matth.; from the supposititious Opus Imperfectum) by saying that \"if the creature\"---namely, heaven---\"had been sundered he would not have said, 'were opened to Him,' since what is opened in a corporeal sense is open to all.\" Hence it is said expressly (Mk. 1:10) that Jesus \"forthwith coming up out of the water, saw the heavens opened\"; as though the opening of the heavens were to be considered as seen by Christ. Some, indeed, refer this to the corporeal vision, and say that such a brilliant light shone round about Christ when He was baptized, that the heavens seemed to be opened. It can also be referred to the imaginary vision, in which manner Ezechiel saw the heavens opened: since such a vision was formed in Christ's imagination by the Divine power and by His rational will, so as to signify that the entrance to heaven is opened to men through baptism. Lastly, it can be referred to intellectual vision: forasmuch as Christ, when He had sanctified baptism, saw that heaven was opened to men: nevertheless He had seen before that this would be accomplished."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 5
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: Christ's Passion is the common cause of the opening of heaven to men. But it behooves this cause to be applied to each one, in order that he enter heaven. And this is effected by baptism, according to Rm. 6:3: \"All we who are baptized in Christ Jesus are baptized in His death.\" Wherefore mention is made of the opening of the heavens at His baptism rather than at His Passion.",
                         "Or, as Chrysostom says (Hom. iv in Matth.; from the supposititious Opus Imperfectum): \"When Christ was baptized, the heavens were merely opened: but after He had vanquished the tyrant by the cross; since gates were no longer needed for a heaven which thenceforth would be never closed, the angels said, not 'open the gates,' but 'Take them away.'\" Thus Chrysostom gives us to understand that the obstacles which had hitherto hindered the souls of the departed from entering into heaven were entirely removed by the Passion: but at Christ's baptism they were opened, as though the way had been shown by which men were to enter into heaven."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 5
                 }
             },
             "counter": [
@@ -416,75 +453,82 @@
             "title": [
                 "Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?"
             ],
+            "id": 6,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it is not fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove. For the Holy Ghost dwells in man by grace. But the fulness of grace was in the Man-Christ from the beginning of His conception, because He was the \"Only-begotten of the Father,\" as is clear from what has been said above (Question [7], Article [12]; Question [34], Article [1]). Therefore the Holy Ghost should not have been sent to Him at His baptism."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, Christ is said to have \"descended\" into the world in the mystery of the Incarnation, when \"He emptied Himself, taking the form of a servant\" (Phil. 2:7). But the Holy Ghost did not become incarnate. Therefore it is unbecoming to say that the Holy Ghost \"descended upon Him.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, that which is accomplished in our baptism should have been shown in Christ's baptism, as in an exemplar. But in our baptism no visible mission of the Holy Ghost takes place. Therefore neither should a visible mission of the Holy Ghost have taken place in Christ's baptism."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 },
                 "4": {
-                    "id": 4,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 4: Further, the Holy Ghost is poured forth on others through Christ, according to Jn. 1:16: \"Of His fulness we all have received.\" But the Holy Ghost came down on the apostles in the form, not of a dove, but of fire. Therefore neither should He have come down on Christ in the form of a dove, but in the form of fire."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 6
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: As Augustine says (De Trin. xv): \"It is most absurd to say that Christ received the Holy Ghost, when He was already thirty years old: for when He came to be baptized, since He was without sin, therefore was He not without the Holy Ghost. For if it is written of John that 'he shall be filled with the Holy Ghost from his mother's womb,' what must we say of the Man-Christ, whose conception in the flesh was not carnal, but spiritual? Therefore now,\" i.e. at His baptism, \"He deigned to foreshadow His body,\" i.e. the Church, \"in which those who are baptized receive the Holy Ghost in a special manner.\""
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 6
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: As Augustine says (De Trin. ii), the Holy Ghost is said to have descended on Christ in a bodily shape, as a dove, not because the very substance of the Holy Ghost was seen, for He is invisible: nor as though that visible creature were assumed into the unity of the Divine Person; since it is not said that the Holy Ghost was the dove, as it is said that the Son of God is man by reason of the union. Nor, again, was the Holy Ghost seen under the form of a dove, after the manner in which John saw the slain Lamb in the Apocalypse (5:6): \"For the latter vision took place in the spirit through spiritual images of bodies; whereas no one ever doubted that this dove was seen by the eyes of the body.\" Nor, again, did the Holy Ghost appear under the form of a dove in the sense in which it is said (1 Cor. 10:4): \"'Now, the rock was Christ': for the latter had already a created existence, and through the manner of its action was called by the name of Christ, whom it signified: whereas this dove came suddenly into existence, to fulfil the purpose of its signification, and afterwards ceased to exist, like the flame which appeared in the bush to Moses.\"",
                         "Hence the Holy Ghost is said to have descended upon Christ, not by reason of His being united to the dove: but either because the dove itself signified the Holy Ghost, inasmuch as it \"descended\" when it came upon Him; or, again, by reason of the spiritual grace, which is poured out by God, so as to descend, as it were, on the creature, according to James 1:17: \"Every best gift and every perfect gift is from above, coming down from the Father of lights.\""
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 6
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: As Chrysostom says (Hom. xii in Matth.): \"At the beginning of all spiritual transactions sensible visions appear, for the sake of them who cannot conceive at all an incorporeal nature . . . so that, though afterwards no such thing occur, they may shape their faith according to that which has occurred once for all.\" And therefore the Holy Ghost descended visibly, under a bodily shape, on Christ at His baptism, in order that we may believe Him to descend invisibly on all those who are baptized."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 6
                 },
                 "4": {
-                    "id": 4,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
@@ -495,7 +539,9 @@
                         "Fourthly, the Holy Ghost appeared over our Lord at His baptism in the form of a dove, in order to designate the common effect of baptism---namely, the building up of the unity of the Church. Hence it is written (Eph. 5:25-27): \"Christ delivered Himself up . . . that He might present . . . to Himself a glorious Church, not having spot or wrinkle, or any such thing . . . cleansing it by the laver of water in the word of life.\" Therefore it was fitting that the Holy Ghost should appear at the baptism under the form of a dove, which is a creature both loving and gregarious. Wherefore also it is said of the Church (Cant 6:8): \"One is my dove.\"",
                         "But on the apostles the Holy Ghost descended under the form of fire, for two reasons. First, to show with what fervor their hearts were to be moved, so as to preach Christ everywhere, though  surrounded by opposition. And therefore He appeared as a fiery tongue. Hence Augustine says (Super Joan., Tract. vi): Our Lord \"manifests\" the Holy Ghost \"visibly in two ways\"---namely, \"by the dove corning upon the Lord when He was baptized; by fire, coming upon the disciples when they were met together . . . In the former case simplicity is shown, in the latter fervor . . . We learn, then, from the dove, that those who are sanctified by the Spirit should be without guile: and from the fire, that their simplicity should not be left to wax cold. Nor let it disturb anyone that the tongues were cloven . . . in the dove recognize unity.\"",
                         "Secondly, because, as Chrysostom says (Gregory, Hom. xxx in Ev.): \"Since sins had to be forgiven,\" which is effected in baptism, \"meekness was required\"; this is shown by the dove: \"but when we have obtained grace we must look forward to be judged\"; and this is signified by the fire."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 6
                 }
             },
             "counter": [
@@ -513,62 +559,69 @@
             "title": [
                 "Whether the dove in which the Holy Ghost appeared was real?"
             ],
+            "id": 7,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that the dove in which the Holy Ghost appeared was not real. For that seems to be a mere apparition which appears in its semblance. But it is stated (Lk. 3:22) that the \"Holy Ghost descended in a bodily shape as a dove upon Him.\" Therefore it was not a real dove, but a semblance of a dove."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, just as \"Nature does nothing useless, so neither does God\" (De Coelo i). Now since this dove came merely \"in order to signify something and pass away,\" as Augustine says (De Trin. ii), a real dove would have been useless: because the semblance of a dove was sufficient for that purpose. Therefore it was not a real dove."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the properties of a thing lead us to a knowledge of that thing. If, therefore, this were a real dove, its properties would have signified the nature of the real animal, and not the effect of the Holy Ghost. Therefore it seems that it was not a real dove."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The Holy Ghost is said to have descended in the shape or semblance of a dove, not in the sense that the dove was not real, but in order to show that He did not appear in the form of His substance."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 7
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: It was not superfluous to form a real dove, in which the Holy Ghost might appear, because by the very reality of the dove the reality of the Holy Ghost and of His effects is signified."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 7
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: The properties of the dove lead us to understand the dove's nature and the effects of the Holy Ghost in the same way. Because from the very fact that the dove has such properties, it results that it signifies the Holy Ghost."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 7
                 }
             },
             "counter": [
@@ -586,62 +639,69 @@
             "title": [
                 "Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?"
             ],
+            "id": 8,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 1: It would seem that it was unbecoming when Christ was baptized for the Father's voice to be heard bearing witness to the Son. For the Son and the Holy Ghost, according as they have appeared visibly, are said to have been visibly sent. But it does not become the Father to be sent, as Augustine makes it clear (De Trin. ii). Neither, therefore, (does it become Him) to appear."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 2: Further, the voice gives expression to the word conceived in the heart. But the Father is not the Word. Therefore He is unfittingly manifested by a voice."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "objection",
                     "part": "TP",
                     "text": [
                         "Objection 3: Further, the Man-Christ did not begin to be Son of God at His baptism, as some heretics have stated: but He was the Son of God from the beginning of His conception. Therefore the Father's voice should have proclaimed Christ's Godhead at His nativity rather than at His baptism."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 1: The visible mission adds something to the apparition, to wit, the authority of the sender. Therefore the Son and the Holy Ghost who are from another, are said not only to appear, but also to be sent visibly. But the Father, who is not from another, can appear indeed, but cannot be sent visibly."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 8
                 },
                 "2": {
-                    "id": 2,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 2: The Father is manifested by the voice, only as producing the voice or speaking by it. And since it is proper to the Father to produce the Word---that is, to utter or to speak---therefore was it most becoming that the Father should be manifested by a voice, because the voice designates the word. Wherefore the very voice to which the Father gave utterance bore witness to the Sonship of the Word. And just as the form of the dove, in which the Holy Ghost was made manifest, is not the Nature of the Holy Ghost, nor is the form of man in which the Son Himself was manifested, the very Nature of the Son of God, so neither does the voice belong to the Nature of the Word or of the Father who spoke. Hence (Jn. 5:37) our Lord says: \"Neither have you heard His,\" i.e. the Father's, \"voice at any time, nor seen His shape.\" By which words, as Chrysostom says (Hom. xl in Joan.), \"He gradually leads them to the knowledge of the philosophical truth, and shows them that God has neither voice nor shape, but is above all such forms and utterances.\" And just as the whole Trinity made both the dove and the human nature assumed by Christ, so also they formed the voice: yet the Father alone as speaking is manifested by the voice, just as the Son alone assumed human nature, and the Holy Ghost alone is manifested in the dove, as Augustine [*Fulgentius, De Fide ad Petrum] makes evident."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 8
                 },
                 "3": {
-                    "id": 3,
                     "question": 39,
                     "type": "reply",
                     "part": "TP",
                     "text": [
                         "Reply to Objection 3: It was becoming that Christ's Godhead should not be proclaimed to all in His nativity, but rather that It should be hidden while He was subject to the defects of infancy. But when He attained to the perfect age, when the time came for Him to teach, to work miracles, and to draw men to Himself then did it behoove His Godhead to be attested from on high by the Father's testimony, so that His teaching might become the more credible. Hence He says (Jn. 5:37): \"The Father Himself who sent Me, hath given testimony of Me.\" And specially at the time of baptism, by which men are born again into adopted sons of God; since God's sons by adoption are made to be like unto His natural Son, according to Rm. 8:29: \"Whom He foreknew, He also predestinated to be made conformable to the image of His Son.\" Hence Hilary says (Super Matth. ii) that when Jesus was baptized, the Holy Ghost descended on Him, and the Father's voice was heard saying: \"'This is My beloved Son,' that we might know, from what was accomplished in Christ, that after being washed in the waters of baptism the Holy Ghost comes down upon us from on high, and that the Father's voice declares us to have become the adopted sons of God.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 8
                 }
             },
             "counter": [

@@ -23,80 +23,89 @@
             "title": [
                 "Whether there is justice in God?"
             ],
+            "id": 1,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that there is not justice in God. For justice is divided against temperance. But temperance does not exist in God: neither therefore does justice."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, he who does whatsoever he wills and pleases does not work according to justice. But, as the Apostle says: \"God worketh all things according to the counsel of His will\" (Eph. 1:11). Therefore justice cannot be attributed to Him."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, the act of justice is to pay what is due. But God is no man's debtor. Therefore justice does not belong to God."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, whatever is in God, is His essence. But justice cannot belong to this. For Boethius says (De Hebdom.): \"Good regards the essence; justice the act.\" Therefore justice does not belong to God."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Certain of the moral virtues are concerned with the passions, as temperance with concupiscence, fortitude with fear and daring, meekness with anger. Such virtues as these can only metaphorically be attributed to God; since, as stated above (Question [20], Article [1]), in God there are no passions; nor a sensitive appetite, which is, as the Philosopher says (Ethic. iii, 10), the subject of those  virtues. On the other hand, certain moral virtues are concerned with works of giving and expending; such as justice, liberality, and magnificence; and these reside not in the sensitive faculty, but in the will. Hence, there is nothing to prevent our attributing these virtues to God; although not in civil matters, but in such acts as are not unbecoming to Him. For, as the Philosopher says (Ethic. x, 8), it would be absurd to praise God for His political virtues."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 1
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: Since good as perceived by intellect is the object of the will, it is impossible for God to will anything but what His wisdom approves. This is, as it were, His law of justice, in accordance with which His will is right and just. Hence, what He does according to His will He does justly: as we do justly what we do according to law. But whereas law comes to us from some higher power, God is a law unto Himself."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 1
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: To each one is due what is his own. Now that which is directed to a man is said to be his own. Thus the master owns the servant, and not conversely, for that is free which is its own cause. In the word debt, therefore, is implied a certain exigence or necessity of the thing to which it is directed. Now a twofold order has to be considered in things: the one, whereby one created thing is directed to another, as the parts of the whole, accident to substance, and all things whatsoever to their end; the other, whereby all created things are ordered to God. Thus in the divine operations debt may be regarded in two ways, as due either to God, or to creatures, and in either way God pays what is due. It is due to God that there should be fulfilled in creatures what His will and wisdom require, and what manifests His goodness. In this respect, God's justice regards what befits Him; inasmuch as He renders to Himself what is due to Himself. It is also due to a created thing that it should possess what is ordered to it; thus it is due to man to have hands, and that other animals should serve him. Thus also God exercises justice, when He gives to each thing what is due to it by its nature and condition. This debt however is derived from the former; since what is due to each thing is due to it as ordered to it according to the divine wisdom. And although God in this way pays each thing its due, yet He Himself is not the debtor, since He is not directed to other things, but rather other things to Him. Justice, therefore, in God is sometimes spoken of as the fitting accompaniment of His goodness; sometimes as the reward of merit. Anselm touches on either view where he says (Prosolog. 10): \"When Thou dost punish the wicked, it is just, since it agrees with their deserts; and when Thou dost spare the wicked, it is also just; since it befits Thy goodness.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 1
                 },
                 "4": {
-                    "id": 4,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Although justice regards act, this does not prevent its being the essence of God; since even that which is of the essence of a thing may be the principle of action. But good does not always regard act; since a thing is called good not merely with respect to act, but also as regards perfection in its essence. For this reason it is said (De Hebdom.) that the good is related to the just, as the general to the special."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 1
                 }
             },
             "counter": [
@@ -114,44 +123,49 @@
             "title": [
                 "Whether the justice of God is truth?"
             ],
+            "id": 2,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that the justice of God is not truth. For justice resides in the will; since, as Anselm says (Dial. Verit. 13), it is a rectitude of the will, whereas truth resides in the intellect, as the Philosopher says (Metaph. vi; Ethic. vi, 2,6). Therefore justice does not appertain to truth."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, according to the Philosopher (Ethic. iv, 7), truth is a virtue distinct from justice. Truth therefore does not appertain to the idea of justice."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Justice, as to the law that governs, resides in the reason or intellect; but as to the command whereby our actions are governed according to the law, it resides in the will."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 2
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: The truth of which the Philosopher is speaking in this passage, is that virtue whereby a man shows himself in word and deed such as he really is. Thus it consists in the conformity of the sign with the thing signified; and not in that of the effect with its cause and rule: as has been said regarding the truth of justice."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 2
                 }
             },
             "counter": [
@@ -170,44 +184,49 @@
             "title": [
                 "Whether mercy can be attributed to God?"
             ],
+            "id": 3,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that mercy cannot be attributed to God. For mercy is a kind of sorrow, as Damascene says (De Fide Orth. ii, 14). But there is no sorrow in God; and therefore there is no mercy in Him."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, mercy is a relaxation of justice. But God cannot remit what appertains to His justice. For it is said (2 Tim. 2:13): \"If we believe not, He continueth faithful: He cannot deny Himself.\" But He would deny Himself, as a gloss says, if He should deny His words. Therefore mercy is not becoming to God."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: This argument is based on mercy, regarded as an affection of passion."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 3
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: God acts mercifully, not indeed by going against His justice, but by doing something more than justice; thus a man who pays another two hundred pieces of money, though owing him only one hundred, does nothing against justice, but acts liberally or mercifully. The case is the same with one who pardons an offence committed against him, for in remitting it he may be said to bestow a gift. Hence the Apostle calls remission a forgiving: \"Forgive one another, as Christ has forgiven you\" (Eph. 4:32). Hence it is clear that mercy does not destroy justice, but in a sense is the fulness thereof. And thus it is said: \"Mercy exalteth itself above judgement\" (James 2:13)."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 3
                 }
             },
             "counter": [
@@ -225,81 +244,90 @@
             "title": [
                 "Whether in every work of God there are mercy and justice?"
             ],
+            "id": 4,
             "objections": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 1: It seems that not in every work of God are mercy and justice. For some works of God are attributed to mercy, as the justification of the ungodly; and others to justice, as the damnation of the wicked. Hence it is said: \"Judgment without mercy  to him that hath not done mercy\" (James 2:13). Therefore not in every work of God do mercy and justice appear."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 2: Further, the Apostle attributes the conversion of the Jews to justice and truth, but that of the Gentiles to mercy (Rm. 15). Therefore not in every work of God are justice and mercy."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 3: Further, many just persons are afflicted in this world; which is unjust. Therefore not in every work of God are justice and mercy."
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 21,
                     "type": "objection",
                     "part": "FP",
                     "text": [
                         "Objection 4: Further, it is the part of justice to pay what is due, but of mercy to relieve misery. Thus both justice and mercy presuppose something in their works: whereas creation presupposes nothing. Therefore in creation neither mercy nor justice is found."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "replies": {
                 "1": {
-                    "id": 1,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 1: Certain works are attributed to justice, and certain others to mercy, because in some justice appears more  forcibly and in others mercy. Even in the damnation of the reprobate mercy is seen, which, though it does not totally remit, yet somewhat alleviates, in punishing short of what is deserved.",
                         "In the justification of the ungodly, justice is seen, when God remits sins on account of love, though He Himself has mercifully infused that love. So we read of Magdalen: \"Many sins are forgiven her, because she hath loved much\" (Lk. 7:47)."
-                    ]
+                    ],
+                    "id": 1,
+                    "article": 4
                 },
                 "2": {
-                    "id": 2,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 2: God's justice and mercy appear both in the conversion of the Jews and of the Gentiles. But an aspect of justice appears in the conversion of the Jews which is not seen in the conversion of the Gentiles; inasmuch as the Jews were saved on account of the promises made to the fathers."
-                    ]
+                    ],
+                    "id": 2,
+                    "article": 4
                 },
                 "3": {
-                    "id": 3,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 3: Justice and mercy appear in the punishment of the just in this world, since by afflictions lesser faults are cleansed in them, and they are the more raised up from earthly affections to God. As to this Gregory says (Moral. xxvi, 9): \"The evils that press on us in this world force us to go to God.\""
-                    ]
+                    ],
+                    "id": 3,
+                    "article": 4
                 },
                 "4": {
-                    "id": 4,
                     "question": 21,
                     "type": "reply",
                     "part": "FP",
                     "text": [
                         "Reply to Objection 4: Although creation presupposes nothing in the universe; yet it does presuppose something in the knowledge of God. In this way too the idea of justice is preserved in creation; by the production of beings in a manner that accords with the divine wisdom and goodness. And the idea of mercy, also, is preserved in the change of creatures from non-existence to existence."
-                    ]
+                    ],
+                    "id": 4,
+                    "article": 4
                 }
             },
             "counter": [
