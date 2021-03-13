@@ -14,6 +14,7 @@ The JSON format itself is rather straightforward, a cursory glance over any of t
 - `outer` is simply the "question wrapper" content, such as the page title and brief intro if it has one.
 - `editor` is when the editor of the version inserted content. To my knowledge, this happens in a single file.
 - `prologue` is a prologue to a part. To my knowledge there are two of these.
+
 All three of these share very similar structure, and simply bear a naming difference for context to the data. It's also possible for multiple of them to appear in a single file/question.
 
 ## Running the parser
