@@ -1,6 +1,7 @@
 const fs = require('fs');
+const path = require('path');
 const readline = require('readline');
-const Question = require('./src/Question');
+const FileHandler = require('./parser/FileHandler');
 
 const parts = ['FP', 'FS', 'SS', 'TP', 'X1', 'X2', 'XP'];
 
@@ -8,10 +9,13 @@ const outputLocation = "./JSONOutput";
 const inputLocation = "./HTMLSource";
 const fullFileName = "ALL.json";
 
+/**
+ * @type {Object<string, {questions: Object<number, object>, other: Object<string, object>}>}
+ */
 const full = {};
 
-function write(file, data) {
-    return new Promise((resolve, reject) => {
+function write(queue, file, data) {
+    queue.push(new Promise((resolve, reject) => {
         fs.writeFile(`${outputLocation}/${file}`, JSON.stringify(data, null, 4), err => {
             if (err) {
                 reject(err);
@@ -19,33 +23,45 @@ function write(file, data) {
 
             resolve();
         });
-    });
+    }));
 }
 
-
-function parse(filePath, fileName, part) {
+/**
+ * @param {string} filePath 
+ * @param {string} part 
+ * @returns 
+ */
+function parse(filePath, part) {
     return new Promise((resolve, reject) => {
         const stream = readline.createInterface({
             input: fs.createReadStream(filePath),
         });
-        const question = new Question();
+        const file = new FileHandler();
 
         stream.on('line', line => {
-            question.processLine(line);
+            file.processLine(line);
         });
 
         stream.on('close', () => {
-            full[part][fileName] = question.source;
+            if (file.context.hasQuestion) {
+                full[part].questions[file.context.question] = file.source;
+            } else {
+                full[part].other[path.basename(filePath, '.html')] = file.source;
+            }
+
             resolve();
         });
     });
 }
 
 (async () => {
-    const queue = [];
+    const parsingQueue = [];
 
     for (let part of parts) {
-        full[part] = {};
+        full[part] = {
+            questions: {},
+            other: {},
+        };
 
         const dirName = `${inputLocation}/${part}/`,
             dir = fs.readdirSync(dirName);
@@ -53,26 +69,32 @@ function parse(filePath, fileName, part) {
         fs.mkdirSync(`${outputLocation}/${part}/`, { recursive: true });
 
         for (let fileName of dir) {
-            queue.push(
+            parsingQueue.push(
                 parse(
                     `${dirName}${fileName}`,
-                    fileName.replace('.html', ''),
                     part,
                 )
             );
         }
-
     }
 
-    await Promise.all(queue);
+    await Promise.all(parsingQueue);
+
+    const writingQueue = []
 
     for (let part of parts) {
-        await write(`${part}/${part}-${fullFileName}`, full[part]);
+        write(writingQueue, `${part}/${part}-${fullFileName}`, full[part]);
 
-        for (let fileName in full[part]) {
-            await write(`${part}/${fileName}.json`, full[part][fileName]);
+        for (let id in full[part].questions) {
+            write(writingQueue, `${part}/${part}-${id}.json`, full[part].questions[id]);
+        }
+
+        for (let fileName in full[part].other) {
+            write(writingQueue, `${part}/${fileName}.json`, full[part].other[fileName]);
         }
     }
 
-    await write(fullFileName, full);
+    write(writingQueue, fullFileName, full);
+
+    await Promise.all(writingQueue);
 })();
