@@ -2,10 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
 const FileHandler = require('./parser/FileHandler');
+const NavigationHandler = require('./parser/NavigationHandler');
 
 const parts = ['FP', 'FS', 'SS', 'TP', 'X1', 'X2', 'XP'];
 
-const outputLocation = "./JSONOutput";
+const outputLocation = "./json";
 const inputLocation = "./HTMLSource";
 const fullFileName = "ALL.json";
 
@@ -26,42 +27,61 @@ function write(queue, file, data) {
     }));
 }
 
+async function processLines(filePath, handler) {
+    const stream = readline.createInterface({
+        input: fs.createReadStream(filePath),
+    });
+
+    for await (const line of stream) {
+        handler.processLine(line);
+    }
+}
+
 /**
  * @param {string} filePath 
  * @param {string} part 
+ * @param {NavigationHandler} nav 
  * @returns 
  */
-function parse(filePath, part) {
-    return new Promise((resolve, reject) => {
-        const stream = readline.createInterface({
-            input: fs.createReadStream(filePath),
-        });
-        const file = new FileHandler();
+async function parse(filePath, part, nav) {
+    const file = new FileHandler();
 
-        stream.on('line', line => {
-            file.processLine(line);
-        });
+    await processLines(filePath, file);
 
-        stream.on('close', () => {
-            if (file.context.hasQuestion) {
-                full[part].questions[file.context.question] = file.source;
-            } else {
-                full[part].other[path.basename(filePath, '.html')] = file.source;
+    if (file.context.hasQuestion) {
+        const question = nav.getQuestion(file.context.question);
+
+        if (question.section) {
+            full[part].sections[question.section].questions[file.context.question] = {
+                ...question,
+                ...file.source,
             }
+        } else {
+            full[part].questions[file.context.question] = {
+                ...question,
+                ...file.source,
+            }
+        }
 
-            resolve();
-        });
-    });
+    } else {
+        full[part].other[path.basename(filePath, '.html')] = file.source;
+    }
 }
 
 (async () => {
     const parsingQueue = [];
 
     for (let part of parts) {
+        const nav = new NavigationHandler(part);
+
+        await processLines(`${inputLocation}/${part}.html`, nav);
+
+
         full[part] = {
-            questions: {},
+            ...nav.source,
             other: {},
         };
+
 
         const dirName = `${inputLocation}/${part}/`,
             dir = fs.readdirSync(dirName);
@@ -73,6 +93,7 @@ function parse(filePath, part) {
                 parse(
                     `${dirName}${fileName}`,
                     part,
+                    nav
                 )
             );
         }
@@ -85,8 +106,16 @@ function parse(filePath, part) {
     for (let part of parts) {
         write(writingQueue, `${part}/${part}-${fullFileName}`, full[part]);
 
+        for (let id in full[part].sections) {
+            write(writingQueue, `${part}/${part}-Section-${id}.json`, full[part].sections[id]);
+
+            for (let questionId in full[part].sections[id].questions) {
+                write(writingQueue, `${part}/${part}-Question-${questionId}.json`, full[part].sections[id].questions[questionId]);
+            }
+        }
+
         for (let id in full[part].questions) {
-            write(writingQueue, `${part}/${part}-${id}.json`, full[part].questions[id]);
+            write(writingQueue, `${part}/${part}-Question-${id}.json`, full[part].questions[id]);
         }
 
         for (let fileName in full[part].other) {
