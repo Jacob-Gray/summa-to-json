@@ -1,6 +1,6 @@
 # summa-theologica-parsed
 
-A parse of the Summa Theologica by St Thomas Aquinas, in JSON format. Both the HTML source and JSON outputs can be found in this repo, along with the JS script that was used to generate the JSON files.
+This is the HTML source and JS parser for summa.json.
 
 The source version used is the Benziger Bros. edition, 1947. Note that the parsing did not change any content, all data is straight from the HTML source. Some files might be missing content as I fix the edge cases with the compiler.
 
