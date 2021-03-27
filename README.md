@@ -1,4 +1,4 @@
-# summa-theologica-parsed
+# summa-to-json
 
 This is the HTML source and JS parser for summa.json.
 
