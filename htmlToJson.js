@@ -6,7 +6,7 @@ const NavigationHandler = require('./parser/NavigationHandler');
 
 const parts = ['FP', 'FS', 'SS', 'TP', 'X1', 'X2', 'XP'];
 
-const outputLocation = "./json";
+const outputLocation = "../json";
 const inputLocation = "./HTMLSource";
 const fullFileName = "ALL.json";
 
