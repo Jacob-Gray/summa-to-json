@@ -1,10 +1,11 @@
 # summa-to-json
 
-This is the HTML source and JS parser for summa.json.
+This is the HTML source and JS parser for [summa.json](https://github.com/Jacob-Gray/summa.json). This repo does not contain the outputted JSON, that can be found at the summa.json repo.
 
 The source version used is the Benziger Bros. edition, 1947. Note that the parsing did not change any content, all data is straight from the HTML source. Some files might be missing content as I fix the edge cases with the compiler.
 
 ## The JSON format
+_This is a bit outdated, but it hasn't changed that much._
 The parser generates 3 different levels of JSON:
 - File by file, with each file containing a "Question" as defined by the HTML source.
 - Part by part, stored as `${partName}-ALL.json`.
